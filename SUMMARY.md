@@ -5,7 +5,7 @@
 ### Part I
 
 * [Skills](skills/readme.md)
-    * [Testcategory](testcategory/)
+    * [Testcategory]()
         - [testskill](test-skill.andlo.md)
 * [Part II](part2/README.md)
     * [We love feedback](part2/README.md#feedback)
