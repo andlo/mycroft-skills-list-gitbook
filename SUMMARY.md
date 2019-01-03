@@ -2,11 +2,12 @@
 
 # Summary
 
-### Part I
+### Skills
+
+* [Mycroft Market](skills/market.md)
+    * Testcategory
+        - [testskill](skills/test-skill.andlo.md)
 
 * [Skills](skills/readme.md)
     * Testcategory
         - [testskill](skills/test-skill.andlo.md)
-* [Part II](part2/README.md)
-    * [We love feedback](part2/README.md#feedback)
-    * [Better tools for authors](part2/README.md#tools)
