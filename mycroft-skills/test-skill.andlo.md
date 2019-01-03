@@ -1,5 +1,5 @@
 ---
-titel: Testskill for gitbook
+title: Testskill for gitbook
 description: Thisi a test on an skill in my gitbook
 market_status: In Market
 ---
