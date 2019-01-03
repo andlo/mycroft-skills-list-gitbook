@@ -2,12 +2,14 @@
 
 # Summary
 
-### Skills
+### Mycroft Skills
 
-* [Mycroft Market](skills/market.md)
+* [In Market](skills/market.md)
     * Testcategory
         - [testskill](skills/test-skill.andlo.md)
 
-* [Skills](skills/readme.md)
+* [All Skills](skills/readme.md)
     * Testcategory
         - [testskill](skills/test-skill.andlo.md)
+
+### Skills writers
