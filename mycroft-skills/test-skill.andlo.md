@@ -13,4 +13,6 @@ test test
 Moretesting
 {{ page.title }}
 ...
+{% block test %}
 {{ page.market_status }}
+{% endblock %}
