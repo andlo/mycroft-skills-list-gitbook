@@ -1,6 +1,5 @@
 # Table of contents
 
-# Summary
 
 ### Mycroft Skills
 
