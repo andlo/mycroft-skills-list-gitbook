@@ -4,11 +4,11 @@
 
 ### Mycroft Skills
 
-* [In Market](skills/market.md)
+* In Market
     * Testcategory
         - [testskill](skills/test-skill.andlo.md)
 
-* [All Skills](skills/readme.md)
+* All Skills
     * Testcategory
         - [testskill](skills/test-skill.andlo.md)
 
