@@ -11,5 +11,5 @@ test test
 ## Description
 
 Moretesting
-{{ page.market_status }}
-
+{% page.market_status %}
+...
