@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
-
 ## Mycroft Skills
 
 * In Market
