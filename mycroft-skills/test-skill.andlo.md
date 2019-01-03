@@ -11,4 +11,5 @@ test test
 ## Description
 
 Moretesting
+{{ market_status }}
 
