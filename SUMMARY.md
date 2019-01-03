@@ -1,4 +1,11 @@
 # Table of contents
 
-* [Initial page](README.md)
+# Summary
 
+### Part I
+
+* [Skills](skills/readme.md)
+
+* [Part II](part2/README.md)
+    * [We love feedback](part2/README.md#feedback)
+    * [Better tools for authors](part2/README.md#tools)
