@@ -11,4 +11,7 @@
 
 * [Untitled](skill-writers/untitled.md)
 
+## Skills
+
+* [Untitled](skills/untitled.md)
 
