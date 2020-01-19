@@ -5,7 +5,7 @@
 ## Skills A
 * [Categories](skill-categories/README.md)
   * [Information](skill-categories/information.md)
-  * [IoT](skill-categories/iot/README.md)
+  * [IoT](skill-categories/iot)
 
 ## Skill writers
 
