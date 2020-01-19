@@ -1,10 +1,11 @@
+### FAQ
 #### Who made this list?
 This list is made by Andreas Lorensen (@andlo).
 
-## How often does this list get updated?
+#### How often does this list get updated?
 For the time beeing it is only manual updated. In time it will be updatet at least once every 24 hour
 
-### How does a skill get to this list?
+#### How does a skill get to this list?
 This list is made from searching Github for skills repositories. It is done by searching every repo that mention
 Mycroft somewhere in tittle, reponame, or in README.md.
 <p>Then each repo is analyzed to see if it is a skill. That is done by looking into __init__.py. If it is a skills
