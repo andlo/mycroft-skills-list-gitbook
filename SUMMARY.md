@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Skills](page.md)
 
-## test group
+## Skill Categories
 
-* [Test AAA](skills/test-skill.md)
+* [IoT](categories/IoT.md)
+* [Information](categories/Information.md)
