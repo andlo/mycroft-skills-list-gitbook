@@ -4,8 +4,8 @@
 
 ## Skill Categories
 * [Overview](skill-categories/README.md)
-* [Information](skill-categories/information.md)
-* [IoT](skill-categories/iot.md)
+  * [Information](skill-categories/information.md)
+  * [IoT](skill-categories/iot.md)
 
 ## Skill writers
 
@@ -14,6 +14,6 @@
 ## Skills
 
 * [Untitled](skills/untitled.md)
-* [Skill 1](skills/skill-1.md)
-* [Skill 2](skills/skill-2.md)
+  * [Skill 1](skills/skill-1.md)
+  * [Skill 2](skills/skill-2.md)
 
