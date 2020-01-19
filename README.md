@@ -46,3 +46,5 @@ The list is made to get overview over what exists and make a way to search for s
 
 The list does not include forks. If you did fork a skill, and did make it better, please make a pull request to the original github repo. If you made a fork, and changed it into a new skill, do use github copy to make a new reposotry that arent a fork.
 
+{% page-ref page="./" %}
+
