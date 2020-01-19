@@ -5,6 +5,6 @@
 
 ## Skill Categories
 
-* [IoT](categories/IoT.md)
-* [Information](categories/Information.md)
+* [IoT](category_IoT.md)
+* [Information](category_Information.md)
 
