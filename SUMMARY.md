@@ -1,16 +1,59 @@
 # Table of contents
-
 * [Introduction](README.md)
 * [FAQ](FAQ.md)
-
 ## Skills
-
-* [In Market](skills/in_market/README.md)
-  * [Daily](skills/in_market/daily/README.md)
-    * [Spotify](skills/in_market/daily/skill-1.md)
-    * [Skill 2](skills/in_market/daily/skill-2.md)
-  * [IoT](skills/in_market/iot/README.md)
-    * [Skill 2](skills/in_market/iot/skill-2.md)
-* [Pending Market](skills/pending-market.md)
-* [Not in Market](skills/not-in-market.md)
-
+  * Daily
+    * [Hello World](skills/skill-hello-world.MycroftAI.md)
+    * [Weather](skills/skill-weather.MycroftAI.md)
+    * [Set alarms](skills/skill-alarm.MycroftAI.md)
+    * [Naptime](skills/skill-naptime.MycroftAI.md)
+    * [Timer](skills/mycroft-timer.MycroftAI.md)
+    * [Speak](skills/skill-speak.MycroftAI.md)
+    * [Set reminders](skills/skill-reminder.MycroftAI.md)
+    * [Date and Time](skills/skill-date-time.MycroftAI.md)
+    * [Stop](skills/skill-stop.MycroftAI.md)
+    * [Email](skills/email-skill.LinusS1.md)
+    * [Remember](skills/remember-skill.luke5sky.md)
+  * IoT
+    * [openHAB](skills/openhab-mycroft.openhab.md)
+    * [Google AIY voicekit](skills/picroft-google-aiy-voicekit-skill.andlo.md)
+    * [lifx-mycroft](skills/lifx-mycroft.samclane.md)
+  * Entertainment
+    * [Mycroft's Personal Background](skills/skill-personal.MycroftAI.md)
+    * [Singing](skills/skill-singing.MycroftAI.md)
+    * [Jokes](skills/skill-joke.MycroftAI.md)
+    * [Number Guess](skills/Number-Guess-Mycroft-Skill.Arc676.md)
+    * [Crystal Ball](skills/Crystal-Ball-Mycroft-Skill.Arc676.md)
+  * Configuration
+    * [Pairing](skills/skill-pairing.MycroftAI.md)
+    * [Installer](skills/skill-installer.MycroftAI.md)
+    * [Naptime](skills/skill-naptime.MycroftAI.md)
+    * [Device Configuration](skills/skill-configuration.MycroftAI.md)
+    * [Release Test](skills/skill-release-test.MycroftAI.md)
+    * [Mycroft Mark 1](skills/mycroft-mark-1.MycroftAI.md)
+    * [Support](skills/skill-support.MycroftAI.md)
+    * [Version Checker](skills/skill-version-checker.MycroftAI.md)
+    * [Audio Recorder](skills/skill-audio-record.MycroftAI.md)
+    * [Device IP Address](skills/skill-ip.MycroftAI.md)
+    * [Finished Booting Skill](skills/skill-finished-booting.zelmon64.md)
+    * [Mark 1 Demo](skills/skill-mark1-demo.MycroftAI.md)
+  * Music
+    * [Volume Control](skills/skill-volume.MycroftAI.md)
+    * [Playback Control](skills/skill-playback-control.MycroftAI.md)
+    * [Emby](skills/emby-skill.rickyphewitt.md)
+  * Information
+    * [Wikipedia](skills/skill-wiki.MycroftAI.md)
+    * [Spelling](skills/skill-spelling.MycroftAI.md)
+    * [Stock Prices](skills/skill-stock.MycroftAI.md)
+    * [Cocktails](skills/skill-cocktail.forslund.md)
+    * [Skill Wrapper Aircrack](skills/skill-aircrack.JonStratton.md)
+    * [National Parks](skills/national-parks-skill.richhowley.md)
+  * uncategorized
+    * [Skill The Cows Lists](skills/skill-the-cows-lists.CarstenAgerskov.md)
+    * [National Parks](skills/national-parks-skill.richhowley.md)
+  * Productivity
+    * [Krunner Search](skills/krunner-search-skill.AIIX.md)
+    * [Email](skills/email-skill.LinusS1.md)
+    * [THEIA IDE](skills/theia-ide-skill.andlo.md)
+    * [Plasma Activites](skills/plasma-activities-skill.AIIX.md)
+    * [Remember](skills/remember-skill.luke5sky.md)
