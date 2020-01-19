@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [FAQ](FAQ.md)
 
 ## Skills
 
@@ -13,7 +14,4 @@
 * Pending Market
 * Not in Market
 
-## Skill writers
-
-* [Untitled](skill-writers/README.md)
 
