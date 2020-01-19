@@ -5,6 +5,8 @@
 ## Skills
 * [In Market](in_market/README.md)
   * [Daily](skill-categories/daily/README.md)
+    * [Skill 1](skills/skill-1.md)
+    * [Skill 2](skills/skill-2.md)
   * [IoT](skill-categories/iot/)
 * [Pending Market](pending_market/README.md)
   * [Daily](skill-categories/daily/README.md)
