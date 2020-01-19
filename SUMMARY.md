@@ -7,6 +7,9 @@
 * [Information](skill-categories/information.md)
 * [IoT](skill-categories/iot.md)
 
+## Skills in Market
+
+
 ## Skill writers
 
 * [Untitled](skill-writers/untitled.md)
@@ -14,4 +17,6 @@
 ## Skills
 
 * [Untitled](skills/untitled.md)
+* [Skill 1](skills/skill-1.md)
+* [Skill 2](skills/skill-2.md)
 
