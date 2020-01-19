@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 
 ## Skill Categories
-* [Overview](skill-categories/skill-types/README.md)
+* [Overview](skill-categories/README.md)
 * [Information](skill-categories/information.md)
 * [IoT](skill-categories/iot.md)
 
