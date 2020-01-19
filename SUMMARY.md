@@ -6,8 +6,7 @@
 
 * [In Market](skills/in-market/README.md)
   * [Daily](skills/in-market/daily)
-    * [Audio Recorder](skills/skill-1.md)
-    * [Skill 2](skills/skill-2.md)
+    {% include "./test.md" %}
   * [IoT](skills/in-market/iot.md)
 * [Pending Market](skills/pending-market.md)
 * [Not in Market](skills/not-in-market.md)
