@@ -2,7 +2,7 @@
 * [Introduction](README.md)
 * [FAQ](FAQ.md)
 ## Skills
-In Market
+* In Market
   * Daily
     * [Hello World](skills/skill-hello-world.MycroftAI.md)
     * [Weather](skills/skill-weather.MycroftAI.md)
@@ -58,7 +58,7 @@ In Market
     * [THEIA IDE](skills/theia-ide-skill.andlo.md)
     * [Plasma Activites](skills/plasma-activities-skill.AIIX.md)
     * [Remember](skills/remember-skill.luke5sky.md)
-Pending Market
+* Pending Market
   * uncategorized
     * [Mycroft Routine Skill](skills/mycroft_routine_skill.ChristopherRogers1991.md)
     * [Podcast Player](skills/podcast-skill.JamesPoole.md)
@@ -108,7 +108,7 @@ Pending Market
   * IoT
     * [Telegram](skills/telegram-skill.luke5sky.md)
     * [Airplay](skills/airplay-skill.LinusS1.md)
-Not in Market
+* Not in Market
   * uncategorized
     * [Pandora](skills/pianobar-skill.ethanaward.md)
     * [MQTT for MycroftAI](skills/mycroft-mymqtt.jamiehoward430.md)
