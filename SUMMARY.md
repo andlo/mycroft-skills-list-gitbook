@@ -4,7 +4,7 @@
 
 ## Skills
 
-* [In Market](skill-categories/in-market.md)
+* [In Market](skill-categories/in_market.md)
   * [Daily](skills/skil-categories/daily/README.md)
     * [Skill 1](skills/skill-1.md)
     * [Skill 2](skills/skill-2.md)
