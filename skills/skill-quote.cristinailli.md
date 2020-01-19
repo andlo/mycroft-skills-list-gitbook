@@ -1,0 +1,5 @@
+---
+titel: Quote Skill
+description: 
+---
+
