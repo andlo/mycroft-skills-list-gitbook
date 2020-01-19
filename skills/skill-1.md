@@ -1,8 +1,8 @@
 ---
-description: <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/microphone.svg' card_color='#22a7f0' width='50' height='50' style='vertical-align:bottom'/>test skill 
+description: Audio Recorder AAA 
 ---
 # <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/microphone.svg' card_color='#22a7f0' width='500' height='500' style='vertical-align:bottom'/> Audio Recorder
-
+![test](https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/microphone.svg=100x100)
 Record and playback audio
 
 ## About
