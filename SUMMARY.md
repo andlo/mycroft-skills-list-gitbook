@@ -10,7 +10,7 @@
   * [IoT](skill-categories/iot/)
 * [Pending Market](pending_market/README.md)
 [include](File:aaa.md)
-* [Mot in Market](not_in_market/README.md)
+* [Not in Market](not_in_market/README.md)
   * [Categories](skill-categories/README.md)
   * [Daily](skill-categories/daily/README.md)
   * [IoT](skill-categories/iot/)
