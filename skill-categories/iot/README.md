@@ -1,1 +1,1 @@
-# IoT
+# Skill categories
