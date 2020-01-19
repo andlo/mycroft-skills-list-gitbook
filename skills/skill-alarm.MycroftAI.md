@@ -1,5 +1,4 @@
 ---
-titel: Set alarms
 description: Set alarms with Mycroft
 ---
 Set a single use alarm, daily alarms, or weekly recurring alarms.

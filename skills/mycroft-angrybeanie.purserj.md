@@ -1,5 +1,4 @@
 ---
-titel: Angry Beanie
 description: 
 ---
 ### Installing

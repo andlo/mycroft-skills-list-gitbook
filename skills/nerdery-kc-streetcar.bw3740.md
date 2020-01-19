@@ -1,5 +1,4 @@
 ---
-titel: KC Streetcar
 description: 
 ---
 Based on a configurable static stop, this skill retrieves the number of minutes until the next streetcars arrive in either the North or South directions.

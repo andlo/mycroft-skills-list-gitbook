@@ -1,5 +1,4 @@
 ---
-titel: Mosquito Broadcast
 description: 
 ---
 This skill has three purposes:

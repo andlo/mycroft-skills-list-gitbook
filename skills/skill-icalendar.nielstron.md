@@ -1,5 +1,4 @@
 ---
-titel: YOUR SKILL NAME
 description: 
 ---
 A more verbose description, including any extra instructions or

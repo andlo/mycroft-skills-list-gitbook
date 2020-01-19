@@ -1,5 +1,4 @@
 ---
-titel: skill-klima
 description: 
 ---
 

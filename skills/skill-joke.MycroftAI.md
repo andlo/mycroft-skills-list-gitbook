@@ -1,5 +1,4 @@
 ---
-titel: Jokes
 description: Let Mycroft brighten your day with a little humor
 ---
 Brighten your day with a little humor.  This draws on the jokes collected by the [PyJokes project](https://github.com/pyjokes/pyjokes) to give you a chuckle.

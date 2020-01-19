@@ -1,5 +1,4 @@
 ---
-titel: Skill Listener
 description: 
 ---
 This skill is made to work with the full Habits Automation project https://github.com/PFE1718/mycroft-skills-automation.

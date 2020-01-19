@@ -1,5 +1,4 @@
 ---
-titel: Pomodoro Skill
 description: 
 ---
 This skill is used to try to make Mycroft as your work companion.

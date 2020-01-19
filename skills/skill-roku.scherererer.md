@@ -1,5 +1,4 @@
 ---
-titel: Roku
 description: 
 ---
 This is a mycroft skill for controlling your roku. It uses the Roku External Control API found here: https://sdkdocs.roku.com/display/sdkdoc/External+Control+API

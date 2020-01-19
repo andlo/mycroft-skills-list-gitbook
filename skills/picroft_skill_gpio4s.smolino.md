@@ -1,5 +1,4 @@
 ---
-titel: picroft 4 Switch Relay skill gpio Readme
 description: 
 ---
 ```make test.pi```

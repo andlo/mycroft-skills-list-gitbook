@@ -1,5 +1,4 @@
 ---
-titel: KDE-Konversation-Control
 description: 
 ---
 #### Installation of skill:

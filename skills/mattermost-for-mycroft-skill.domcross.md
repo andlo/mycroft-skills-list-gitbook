@@ -1,5 +1,4 @@
 ---
-titel: Mattermost For Mycroft
 description: Monitor Mattermost for mycroft and find out if you have been mentioned or if there are unread messages. Messages can be read by Mycroft as well
 ---
 In your skill settings at home.mycroft.ai you must enter your username (as given in MAttermost account settings) and your personal access token. In case you do not have a token you can specify your login-id (usually that is your email) and your password. NOTE: your password will be stored in clear text in your settings.json!)

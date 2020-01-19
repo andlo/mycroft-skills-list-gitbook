@@ -1,5 +1,4 @@
 ---
-titel: Date and Time
 description: 
 ---
 Get the local time or time for major cities around the world.  Times

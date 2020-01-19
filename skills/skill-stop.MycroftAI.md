@@ -1,5 +1,4 @@
 ---
-titel: Stop
 description: Stop the actions of any Skill that is in progress
 ---
 This Skill is used by other Skills to stop any active Intent Handlers.

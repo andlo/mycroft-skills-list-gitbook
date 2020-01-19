@@ -1,5 +1,4 @@
 ---
-titel: National Parks
 description: Information on US National Parks
 ---
 Get listings of US National Parks by state, have Mycroft read descriptions of  national parks and even test your knowledge of where National Parks are located.

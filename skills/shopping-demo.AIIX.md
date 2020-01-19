@@ -1,5 +1,4 @@
 ---
-titel: shopping-demo
 description: 
 ---
 

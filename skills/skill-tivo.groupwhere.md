@@ -1,5 +1,4 @@
 ---
-titel: skill-tivo
 description: 
 ---
 Based on ideas from the following sites:

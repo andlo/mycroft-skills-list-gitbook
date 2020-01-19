@@ -1,5 +1,4 @@
 ---
-titel: Alfred
 description: 
 ---
 Trigger Jeedom scenarios and actions using plain old English. If you are able to send a request to:

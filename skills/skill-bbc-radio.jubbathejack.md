@@ -1,5 +1,4 @@
 ---
-titel: BBC Radio Skill
 description: 
 ---
 A Mycroft skill to play BBC radio stations. I intend to implement a feature to allow for dynamic

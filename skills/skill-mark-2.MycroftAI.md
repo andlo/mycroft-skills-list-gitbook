@@ -1,5 +1,4 @@
 ---
-titel: Mycroft Mark 2
 description: Customize your Mark 2
 ---
 The Mycroft Mark 2 has several unique capabilities which this Skill lets you

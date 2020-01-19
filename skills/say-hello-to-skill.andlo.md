@@ -1,5 +1,4 @@
 ---
-titel: Say hello to
 description: Simple skill to let mycroft say hi to someone
 ---
 Simple skill to let mycroft say hi to someone

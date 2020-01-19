@@ -1,5 +1,4 @@
 ---
-titel: Platform Patch
 description: Updates original Mark 1 devices so they can upgrade to the latest version of Mycroft
 ---
 Some of the earliest shipping Mark 1 devices require this platform patch in order to begin automatically updating.

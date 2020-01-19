@@ -1,5 +1,4 @@
 ---
-titel: HomeSeer-Mycroft
 description: Connect to your HomeSeer hub and control your smart-home devices using Mycroft
 ---
 A port of the HomeSeer functionality from Alexa to Mycroft. Allows the user to interact with smart-objects using voice

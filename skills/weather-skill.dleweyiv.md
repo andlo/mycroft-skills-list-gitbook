@@ -1,5 +1,4 @@
 ---
-titel: Weather
 description: 
 ---
 Get weather conditions, forecasts, expected precipitation and more!  By default it will tell

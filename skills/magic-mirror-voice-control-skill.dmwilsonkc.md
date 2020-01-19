@@ -1,5 +1,4 @@
 ---
-titel: Magic Mirror Voice Control skill
 description: 
 ---
 This mycroft skill passes commands to a MagicMirror installed on a Raspberry Pi. It requires a working install of [MagicMirror](https://github.com/MichMich/MagicMirror) and the [MMM-Remote-Control module](https://github.com/Jopyth/MMM-Remote-Control) must be installed AND ACCESSIBLE ON YOUR LOCAL NETWORK.

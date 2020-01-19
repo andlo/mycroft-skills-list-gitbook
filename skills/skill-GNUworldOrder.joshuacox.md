@@ -1,5 +1,4 @@
 ---
-titel: [GNU World Order](http://gnuworldorder.info/)
 description: 
 ---
 Teaches Mycroft AI about the the GNU World Order ["GNU World Order".](http://gnuworldorder.info/)

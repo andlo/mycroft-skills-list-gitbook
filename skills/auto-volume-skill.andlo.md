@@ -1,5 +1,4 @@
 ---
-titel: Auto volume
 description: Sets the volume after surounding noice level
 ---
 This skill lets Mycroft deside when to use high, normal or low volume. Mycrofts keeps monitoring the mic level, and from that deside what volume level is right to use.

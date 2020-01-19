@@ -1,5 +1,4 @@
 ---
-titel: Remote Computer
 description: 
 ---
 Turn OFF/ON your computer via SSH and WOL from mycroft. You must enable SSH Server on your remote computer

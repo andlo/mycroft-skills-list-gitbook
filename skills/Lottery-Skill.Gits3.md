@@ -1,5 +1,4 @@
 ---
-titel: Lottery-Skill
 description: 
 ---
 

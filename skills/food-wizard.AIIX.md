@@ -1,5 +1,4 @@
 ---
-titel: Food-Wizard
 description: 
 ---
 Get popular recipes and how to cook directions based on combination of Ingredient keywords such as "Hey Mycroft, search for recipes with cheese, eggs and chicken"

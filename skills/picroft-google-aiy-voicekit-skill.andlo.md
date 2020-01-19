@@ -1,5 +1,4 @@
 ---
-titel: Google AIY voicekit
 description: Enables Google AIY voicekit
 ---
 This enables the led and button on the Google AIY voicekit.

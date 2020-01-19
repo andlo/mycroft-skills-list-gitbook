@@ -1,5 +1,4 @@
 ---
-titel: Open-Library-skill
 description: 
 ---
 #### Installation of skill:

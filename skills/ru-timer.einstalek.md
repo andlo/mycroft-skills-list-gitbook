@@ -1,5 +1,4 @@
 ---
-titel: Timer
 description: Set named timers for cooking, watering plants, brewing tea and more
 ---
 Use Mycroft when your hands are messy or you need more that the one timer in your kitchen.  Multiple timers are easy to set and track with conversational interactions.

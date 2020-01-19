@@ -1,5 +1,4 @@
 ---
-titel: Fallback Chatbot
 description: Fallback using any offline AIML2.0 chatbot
 ---
 **WARNING**: Do NOT install this skill if you aren't at least somewhat familiar with linux as it WILL break your Picroft installation!!!

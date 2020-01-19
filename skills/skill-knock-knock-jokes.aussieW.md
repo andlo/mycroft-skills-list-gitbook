@@ -1,5 +1,4 @@
 ---
-titel: Description
 description: 
 ---
 In this skill a user interacts with Mycroft to tell a Knock Knock joke.

@@ -1,5 +1,4 @@
 ---
-titel: Playback Control
 description: Common playback control system
 ---
 This Skill doesn't do anything by itself, but it provides an important common

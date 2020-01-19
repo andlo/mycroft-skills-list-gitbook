@@ -1,5 +1,4 @@
 ---
-titel: youtube-skill
 description: 
 ---
 

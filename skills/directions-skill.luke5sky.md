@@ -1,5 +1,4 @@
 ---
-titel: Directions Skill
 description: 
 ---
 A skill to get simple directions (time and distance) via MyCroft.

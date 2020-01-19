@@ -1,5 +1,4 @@
 ---
-titel: Naptime
 description: Put Mycroft to sleep when you don't want to be disturbed
 ---
 Tell Mycroft to sleep when you don't want to be disturbed in any way.

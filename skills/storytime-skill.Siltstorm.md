@@ -1,5 +1,4 @@
 ---
-titel: story timeThis skill tells story that changes what happens next each time
 description: 
 ---
 Start a story by saying "Mycroft, tell me a story."

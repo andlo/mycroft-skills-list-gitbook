@@ -1,5 +1,4 @@
 ---
-titel: Messaging Skill
 description: 
 ---
 

@@ -1,5 +1,4 @@
 ---
-titel: Pushetta skill
 description: 
 ---
 

@@ -1,5 +1,4 @@
 ---
-titel: Parrot
 description: Turn Mycroft into a echoing parrot!
 ---
 "Hey Mycroft, start parrot"

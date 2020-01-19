@@ -1,5 +1,4 @@
 ---
-titel: mycroft-skill-lets-talk
 description: 
 ---
 This Mycroft skill is based on the "helloworld" skill

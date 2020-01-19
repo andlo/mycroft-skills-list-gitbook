@@ -1,5 +1,4 @@
 ---
-titel: automation handler
 description: 
 ---
 The automation-handler skill is part of the [**habits automation system**](https://github.com/PFE1718/mycroft-habits-automation) that aims to detect the **user habits** when using [Mycroft](https://mycroft.ai/), and to offer automation of these identified habits. You can find a detailed definition of a **habit** on the [project page](https://github.com/PFE1718/mycroft-habits-automation).

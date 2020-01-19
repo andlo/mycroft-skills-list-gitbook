@@ -1,5 +1,4 @@
 ---
-titel: Mosquito Message
 description: 
 ---
 This skill has two purposes:

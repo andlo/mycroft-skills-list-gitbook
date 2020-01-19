@@ -1,5 +1,4 @@
 ---
-titel: Amarok-Player-Skill
 description: 
 ---
 #### Installation of skill:

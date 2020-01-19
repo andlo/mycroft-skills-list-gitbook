@@ -1,5 +1,4 @@
 ---
-titel: KDE-Kate-Control
 description: 
 ---
 #### Installation of skill:

@@ -1,5 +1,4 @@
 ---
-titel: mycroft-skill_email
 description: 
 ---
 "EmailSkill": {

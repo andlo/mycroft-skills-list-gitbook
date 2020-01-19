@@ -1,5 +1,4 @@
 ---
-titel: Make fart sounds
 description: 
 ---
 This is just a fun skill that should generate a laugh or two and then never be used again.

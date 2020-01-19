@@ -1,5 +1,4 @@
 ---
-titel: Digikam-Control
 description: 
 ---
 #### Installation of skill:

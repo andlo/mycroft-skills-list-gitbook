@@ -1,5 +1,4 @@
 ---
-titel: Fairytalez
 description: Mycroft tells fairytales
 ---
 This skill enables Mycroft to tell lots of fairytales. So make a cup of coco, and sit back and enjoy listning to the good tales.

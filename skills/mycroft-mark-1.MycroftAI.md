@@ -1,5 +1,4 @@
 ---
-titel: Mycroft Mark 1
 description: Customize your Mark 1
 ---
 The Mycroft Mark 1 has several unique capabilities which this Skill lets you control.

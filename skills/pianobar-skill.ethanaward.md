@@ -1,5 +1,4 @@
 ---
-titel: Pandora
 description: 
 ---
 Pandora provides dynamically generated internet radio streams.  Streams are

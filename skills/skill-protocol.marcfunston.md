@@ -1,5 +1,4 @@
 ---
-titel: Algorithm
 description: 
 ---
 Currently undefined functions

@@ -1,5 +1,4 @@
 ---
-titel: LOCATION-ASSISTED VOICE AUTHENTICATION
 description: 
 ---
 

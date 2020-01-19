@@ -1,5 +1,4 @@
 ---
-titel: AVmusic
 description: 
 ---
 The skill provides the functionality to playback the video of any music band/album/playlist

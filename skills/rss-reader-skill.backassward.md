@@ -1,5 +1,4 @@
 ---
-titel: Rss Reader
 description: 
 ---
 This skill is a simple tool to get updates from your favorite news sources.

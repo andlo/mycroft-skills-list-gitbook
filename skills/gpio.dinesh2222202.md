@@ -1,5 +1,4 @@
 ---
-titel: picroft example skill gpio Readme
 description: 
 ---
 ```make test.pi```

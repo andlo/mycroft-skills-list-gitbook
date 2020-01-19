@@ -1,5 +1,4 @@
 ---
-titel: Trivia skill with local stt
 description: 
 ---
 This skill uses mycrofts pocketsphinx STT with a small dict.

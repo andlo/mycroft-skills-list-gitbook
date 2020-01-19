@@ -1,5 +1,4 @@
 ---
-titel: Kodi Remote Control Skill for Mycroft
 description: 
 ---
 Mycroft skill to provide integration to Kodi (XBMC). Enables

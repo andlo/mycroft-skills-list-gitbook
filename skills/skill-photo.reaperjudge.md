@@ -1,5 +1,4 @@
 ---
-titel: Skill-Photo
 description: 
 ---
 

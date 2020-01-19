@@ -1,5 +1,4 @@
 ---
-titel: openHAB
 description: This skill adds openHAB support to Mycroft
 ---
 This skill adds [openHAB](http://www.openhab.org/) support to [Mycroft](https://mycroft.ai).

@@ -1,5 +1,4 @@
 ---
-titel: 
 description: Dice Generates random numbers for you
 ---
 This skill enables mycroft to generate random numbers for you.

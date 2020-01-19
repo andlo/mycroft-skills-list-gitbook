@@ -1,5 +1,4 @@
 ---
-titel: Knock Knock Jokes
 description: 
 ---
 A skill for telling Knock Knock jokes.

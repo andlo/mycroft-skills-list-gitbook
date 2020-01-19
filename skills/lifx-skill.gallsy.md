@@ -1,5 +1,4 @@
 ---
-titel: LIFX-Skill
 description: 
 ---
 

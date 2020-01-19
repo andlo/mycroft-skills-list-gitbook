@@ -1,5 +1,4 @@
 ---
-titel: Skill The Cows Lists
 description: 
 ---
 This skill adds [Remember The Milk](https://www.rememberthemilk.com/) support to [Mycroft](https://mycroft.ai/).

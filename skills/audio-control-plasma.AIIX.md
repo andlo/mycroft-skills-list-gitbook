@@ -1,5 +1,4 @@
 ---
-titel: Audio-control-plasma
 description: 
 ---
 #### Installation of skill:

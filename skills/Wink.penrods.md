@@ -1,5 +1,4 @@
 ---
-titel: Wink
 description: 
 ---
 

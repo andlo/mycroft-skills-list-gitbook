@@ -1,5 +1,4 @@
 ---
-titel: Release Test
 description: 
 ---
 When a new release is being tested, this skill is installed to verify the

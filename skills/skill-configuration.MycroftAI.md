@@ -1,5 +1,4 @@
 ---
-titel: Device Configuration
 description: Synchronize your Device Settings with [Home](https://home.mycroft.ai)
 ---
 User and device settings from [home.mycroft.ai](https://home.mycroft.ai) are

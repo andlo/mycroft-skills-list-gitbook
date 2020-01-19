@@ -1,5 +1,4 @@
 ---
-titel: node-light-controller
 description: 
 ---
 This skills allows to turn on/off, the Red/Green LEDs attached with NodeMCU microcontroller.

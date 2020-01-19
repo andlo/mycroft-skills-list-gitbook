@@ -1,5 +1,4 @@
 ---
-titel: Home Assistant Skill for Mycroft
 description: 
 ---
 Add a block to your `~/.mycroft/mycroft.conf` file like this:

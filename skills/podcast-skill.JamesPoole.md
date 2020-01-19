@@ -1,5 +1,4 @@
 ---
-titel: Podcast Player
 description: 
 ---
 Select your favourite podcasts in the home.mycroft.ai settings and listen to episodes from those podcasts.

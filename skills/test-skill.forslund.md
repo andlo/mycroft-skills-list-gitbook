@@ -1,5 +1,4 @@
 ---
-titel: Latest news
 description: Listen to the latest news report from your favorite broadcast
 ---
 Play the latest news from an RSS audio feed.  The National Public Radio (NPR)

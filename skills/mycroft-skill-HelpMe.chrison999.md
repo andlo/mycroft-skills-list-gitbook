@@ -1,5 +1,4 @@
 ---
-titel: mycroft-skill-HelpMe
 description: 
 ---
 Input: help me with jokeskill

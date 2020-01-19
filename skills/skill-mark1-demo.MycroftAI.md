@@ -1,5 +1,4 @@
 ---
-titel: Mark 1 Demo
 description: Showcase the capabilities of the Mark 1
 ---
 The Mycroft Mark 1 menu which appears when you press and hold the top button

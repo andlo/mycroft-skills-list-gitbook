@@ -1,5 +1,4 @@
 ---
-titel: Installer
 description: Add and remove Mycroft Skills
 ---
 Add and remove Skills using your voice or from the [Marketplace](https://market.mycroft.ai).

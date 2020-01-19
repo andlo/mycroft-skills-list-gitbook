@@ -1,5 +1,4 @@
 ---
-titel: kodi-skill
 description: 
 ---
 Add the following section to your mycroft-core/mycroft/configuration/mycroft.ini file

@@ -1,5 +1,4 @@
 ---
-titel: Pairing
 description: Connect your device to the Mycroft server - [Home](https://home.mycroft.ai/)
 ---
 The default backend to provide services for Mycroft users is

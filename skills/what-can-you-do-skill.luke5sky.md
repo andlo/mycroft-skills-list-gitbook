@@ -1,5 +1,4 @@
 ---
-titel: What Can You Do
 description: 
 ---
 It tells you what you can do with Mycroft (some examples)

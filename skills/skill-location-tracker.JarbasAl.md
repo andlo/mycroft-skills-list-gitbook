@@ -1,5 +1,4 @@
 ---
-titel: Location Tracker Skill
 description: 
 ---
 Updates device location, the mycroft home location configuration remains

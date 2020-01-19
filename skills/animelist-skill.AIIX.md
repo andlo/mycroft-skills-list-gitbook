@@ -1,5 +1,4 @@
 ---
-titel: Animelist-skill
 description: 
 ---
 #### Installation of skill:

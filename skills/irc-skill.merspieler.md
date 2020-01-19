@@ -1,5 +1,4 @@
 ---
-titel: irc-skill
 description: 
 ---
 Mycroft skill that lets you use IRC via voice commands.

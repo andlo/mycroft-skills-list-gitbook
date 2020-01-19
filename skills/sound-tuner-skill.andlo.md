@@ -1,5 +1,4 @@
 ---
-titel: Sound tuner
 description: This skill plays a sound in the given note or an sound in the given guitar string
 ---
 This skill plays a sound in the given note or an sound in the given guitar string.

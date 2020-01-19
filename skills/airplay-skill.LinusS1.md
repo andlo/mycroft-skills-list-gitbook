@@ -1,5 +1,4 @@
 ---
-titel: Airplay
 description: Play music through Mycroft with Airplay
 ---
 Once you install the skill, you can connect to it using any iOS or macOS device and play music through it!
