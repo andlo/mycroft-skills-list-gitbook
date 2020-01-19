@@ -1,5 +1,5 @@
 ---
-description: IoT - Internet of things
+description: IoT Internet of things
 ---
 
 # IoT
