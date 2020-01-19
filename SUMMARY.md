@@ -5,9 +5,9 @@
 
 ## Skills
 
-* [](skills/in_market/README.md)
+* [In Market](skills/in_market/README.md)
   * [Daily](skills/in_market/daily/README.md)
-    * [](skills/in_market/daily/skill-1.md)
+    * [Spotify](skills/in_market/daily/skill-1.md)
     * [Skill 2](skills/in_market/daily/skill-2.md)
   * [IoT](skills/in_market/iot/README.md)
     * [Skill 2](skills/in_market/iot/skill-2.md)
