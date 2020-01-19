@@ -5,7 +5,7 @@
 
 ## Skills
 
-* In Market
+* [In Market](skills/in_market/README.md)
   * Daily
     * [Audio Recorder](skills/skill-1.md)
     * [Skill 2](skills/skill-2.md)
