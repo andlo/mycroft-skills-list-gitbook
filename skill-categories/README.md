@@ -1,4 +1,0 @@
----
-description: categories
----
-# Skill categories

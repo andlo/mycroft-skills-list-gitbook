@@ -1,4 +1,0 @@
----
-description: Daily BBBBB
----
-# Daily
