@@ -1,2 +1,2 @@
 # page
-[Test Skill](test-skill.md)
+[Test Skill](skills/test-skill.md)
