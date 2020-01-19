@@ -4,13 +4,13 @@
 
 ## Skills
 
-* [In Market](skill-categories/in_market.md)
-  * [Daily](skills/skill-categories/daily/README.md)
-    * [Audio Recorder](skills/skill-1.md)
+* [In Market](skills/in-market/README.md)
+  * [Daily](skills/in-market/daily/README.md)
+    * [Audio Recorder](skills/in-market/daily/skill-1.md)
     * [Skill 2](skills/skill-2.md)
-  * [IoT](skill-categories/iot/)
-* [Pending Market](skill-categories/pending-market.md)
-* [Not in Market](skill-categories/not-in-market.md)
+  * [IoT](skills/in-market/iot.md)
+* [Pending Market](skills/pending-market.md)
+* [Not in Market](skills/not-in-market.md)
 
 ## Skill writers
 
