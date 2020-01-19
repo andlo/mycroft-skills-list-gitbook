@@ -58,7 +58,7 @@ summary.write('## Skills\n')
 make_skillsfiles(skillsdata)
 
 skillslist = []
-summary.write('[In Market]\n')
+summary.write('In Market\n')
 for skill in skillsdata:
     if skill["skill_info"].get("market_status") == 'In Market':
         skillslist.append(skill)
@@ -66,7 +66,7 @@ categorylist = make_categorylist(skillslist)
 for category in categorylist:
     summary.write('  * ' + category + '\n')
     summary.writelines(categorylist[category])
-summary.write('[Pending Market]\n')
+summary.write('Pending Market\n')
 skillslist = []
 for skill in skillsdata:
     if skill["skill_info"].get("market_status") == 'Pending Market':
@@ -75,7 +75,7 @@ categorylist = make_categorylist(skillslist)
 for category in categorylist:
     summary.write('  * ' + category + '\n')
     summary.writelines(categorylist[category])
-summary.write('[Not in Market]\n')
+summary.write('Not in Market\n')
 skillslist = []
 for skill in skillsdata:
     if skill["skill_info"].get("market_status") == 'Not in Market':
