@@ -5,8 +5,8 @@
 ## Skills
 
 * [In Market](skills/in-market/README.md)
-  * [Daily](skills/in-market/daily/README.md)
-    * [Audio Recorder](skills/in-market/daily/skill-1.md)
+  * [Daily](skills/in-market/daily)
+    * [Audio Recorder](skill-1.md)
     * [Skill 2](skills/skill-2.md)
   * [IoT](skills/in-market/iot.md)
 * [Pending Market](skills/pending-market.md)
@@ -14,5 +14,5 @@
 
 ## Skill writers
 
-* [Untitled](skill-writers/untitled.md)
+* [Untitled](skill-writers/README.md)
 
