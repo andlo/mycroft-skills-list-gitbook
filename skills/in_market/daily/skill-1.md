@@ -1,9 +1,7 @@
 ---
-title: Spotify
-description: Listen to music from your Spotify Premium music account
+title: ![](https://rawcdn.githack.com/forslund/spotify-skill/05c19c0fba8a4af150c6eb8cf2e955d59ac83d15/Spotify_Icon.png) Spotify
+description: ![](https://rawcdn.githack.com/forslund/spotify-skill/05c19c0fba8a4af150c6eb8cf2e955d59ac83d15/Spotify_Icon.png) Listen to music from your Spotify Premium music account
 ---
-
-# Audio Recorder
 
 ## ![](https://rawcdn.githack.com/forslund/spotify-skill/05c19c0fba8a4af150c6eb8cf2e955d59ac83d15/Spotify_Icon.png) Spotify
 
