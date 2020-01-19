@@ -5,4 +5,4 @@
 
 ## test group
 
-* [Skills](page.md)
+* [Test AAA](skills/test-skill.md)
