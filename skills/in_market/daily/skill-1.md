@@ -1,5 +1,4 @@
 ---
-title: Spotify
 description: Listen to music from your Spotify Premium music account
 ---
 
