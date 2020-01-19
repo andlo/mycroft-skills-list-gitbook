@@ -4,14 +4,14 @@
 
 ## Skills
 
-* [In Market]
-  * [Daily]
+* In Market
+  * Daily
     * [Audio Recorder](skills/skill-1.md)
     * [Skill 2](skills/skill-2.md)
-  * [IoT]
+  * IoT
     * [Skill 2](skills/skill-2.md)
-* [Pending Market]
-* [Not in Market]
+* Pending Market
+* Not in Market
 
 ## Skill writers
 
