@@ -20,3 +20,8 @@ User: "says who" <<< must have the word 'who' somewhere in the response
 Mycroft: "says me, that's who"
 
 User: rotfl.
+
+**Github:** (https://github.com/aussieW/knock-knock-jokes-skill)
+
+**Owner:** [@aussieW](https://github.com/aussieW) ![https://avatars1.githubusercontent.com/u/1840035?v=4]
+

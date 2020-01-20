@@ -15,3 +15,8 @@ Hey Mycroft, what version are you running?
 "I'm runing mycroft-core version 0.8.19"
 ```
 If your version is less than 0.9.0, you should install this platform patch.
+
+**Github:** (https://github.com/MycroftAI/skill-platform-patch)
+
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+

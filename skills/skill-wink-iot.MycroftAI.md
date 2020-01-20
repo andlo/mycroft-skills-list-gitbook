@@ -12,3 +12,8 @@ can be used to find lights and/or groups with begin with that same name. For exa
 It will NOT turn on a light called "Porch off the kitchen".
 
 You can also include the light/group name in your request, along with intensity words, such as: `bright`, `dim`, `full`, `half`, `completely`, `partially`
+
+**Github:** (https://github.com/MycroftAI/skill-wink-iot)
+
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+

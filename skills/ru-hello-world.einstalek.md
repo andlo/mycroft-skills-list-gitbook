@@ -12,3 +12,8 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Skill Acceptance Process](https://mycroft.ai/documentation/skills/skills-acceptance-process/)
 * [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
+
+**Github:** (https://github.com/einstalek/ru-hello-world)
+
+**Owner:** [@einstalek](https://github.com/einstalek) ![https://avatars1.githubusercontent.com/u/20370264?v=4]
+

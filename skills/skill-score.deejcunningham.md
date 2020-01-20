@@ -17,3 +17,8 @@ If a game is not in progress, Mycroft will respond:
 The next goals for skill-score are the ability to:
 * give the time of the next MLB game; and
 * support more leagues (e.g., National Football League, National Basketball League), depending on available APIs.
+
+**Github:** (https://github.com/deejcunningham/skill-score)
+
+**Owner:** [@deejcunningham](https://github.com/deejcunningham) ![https://avatars0.githubusercontent.com/u/30193983?v=4]
+

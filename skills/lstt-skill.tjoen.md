@@ -17,3 +17,8 @@ And it actually does seem to work pretty good.
 Translations might be a problem with this method, but this skill uses questions in english.
 [JarbasAI](https://github.com/JarbasAl) just made a very nice local listener that will be implemented in the near future.
 [More info on that here](https://github.com/JarbasAl/local_listener)
+
+**Github:** (https://github.com/tjoen/lstt-skill)
+
+**Owner:** [@tjoen](https://github.com/tjoen) ![https://avatars3.githubusercontent.com/u/974847?v=4]
+

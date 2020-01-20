@@ -9,3 +9,8 @@ You can choose from five different alarm sounds:
 * Escalating beeps
 * Alarm bell
 * Gentle chimes.
+
+**Github:** (https://github.com/MycroftAI/skill-alarm)
+
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+

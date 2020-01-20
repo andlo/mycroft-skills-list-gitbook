@@ -24,3 +24,8 @@ or -
 - Let me know if you change your mind.
 - Actually, go ahead
 - Say stop when you are done.
+
+**Github:** (https://github.com/reginaneon/AVmusic)
+
+**Owner:** [@reginaneon](https://github.com/reginaneon) ![https://avatars0.githubusercontent.com/u/30847268?v=4]
+

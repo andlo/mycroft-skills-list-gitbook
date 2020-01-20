@@ -7,3 +7,8 @@ I've written a couple of scripts to get you started.  Keep in mind these might n
 - [`samples/xdotool`](https://github.com/the7erm/mycroft-skill-simple-media-controls/tree/master/samples/xdotool) - [xdotool](https://www.semicomplete.com/projects/xdotool/xdotool.xhtml) - emulates `XF86AudioPlay`, `XF86AudioPrev`, and `XF86AudioNext` being pressed.
 
 If you write your owns scripts, please feel free to fork the project, add them to the `samples/` and create a pull request.
+
+**Github:** (https://github.com/the7erm/mycroft-skill-simple-media-controls)
+
+**Owner:** [@the7erm](https://github.com/the7erm) ![https://avatars0.githubusercontent.com/u/2530157?v=4]
+

@@ -13,3 +13,8 @@ Current localization sources:
 * wifi geo - [google geolocation service](https://developers.google.com/maps/documentation/geolocation/get-api-key)
 * ip api - https://ipapi.co/json/
 * local ip database - https://dev.maxmind.com/geoip/legacy/geolite/
+
+**Github:** (https://github.com/JarbasAl/skill-location-tracker)
+
+**Owner:** [@JarbasAl](https://github.com/JarbasAl) ![https://avatars0.githubusercontent.com/u/33701864?v=4]
+

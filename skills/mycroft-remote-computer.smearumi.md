@@ -11,3 +11,8 @@ For Power OFF (Supported Remote Computer OS with SSH Server):
 
 For Power ON (Wake on LAN):
 * Not Tested.
+
+**Github:** (https://github.com/smearumi/mycroft-remote-computer)
+
+**Owner:** [@smearumi](https://github.com/smearumi) ![https://avatars0.githubusercontent.com/u/24763062?v=4]
+

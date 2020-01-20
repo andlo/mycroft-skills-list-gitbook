@@ -6,3 +6,8 @@ description:
 * Create /opt/mycroft/skills folder if it does not exist
 * Extract Downloaded Skill into a folder. "Animelist-skill". (Clone does not require this step)
 * Copy the Animelist-skill folder to /opt/mycroft/skills/ folder.
+
+**Github:** (https://github.com/AIIX/animelist-skill)
+
+**Owner:** [@AIIX](https://github.com/AIIX) ![https://avatars3.githubusercontent.com/u/19663666?v=4]
+

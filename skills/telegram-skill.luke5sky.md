@@ -48,3 +48,8 @@ It should respond with: This is your ChatID: YOURCHATID
 - reboot your device to trigger the sync
 
 - Your bot should send you this welcome message: Telegram-Skill on Mycroft Unit YOURUNIT is loaded and ready to use.
+
+**Github:** (https://github.com/luke5sky/telegram-skill)
+
+**Owner:** [@luke5sky](https://github.com/luke5sky) ![https://avatars0.githubusercontent.com/u/27992191?v=4]
+

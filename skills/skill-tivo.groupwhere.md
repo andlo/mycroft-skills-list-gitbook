@@ -42,3 +42,8 @@ Mycroft will respond with, e.g.:
 * "Bob's Tivo is currently watching channel 231 Raiders of the Lost Ark" (with your zap2it account setup and with the correct lineup selected with their service)
 * "Bob's Tivo is off"
 * "Bob's Tivo is playing"
+
+**Github:** (https://github.com/groupwhere/skill-tivo)
+
+**Owner:** [@groupwhere](https://github.com/groupwhere) ![https://avatars0.githubusercontent.com/u/6051937?v=4]
+

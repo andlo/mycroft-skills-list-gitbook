@@ -12,3 +12,8 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Skill Acceptance Process](https://mycroft.ai/documentation/skills/skills-acceptance-process/)
 * [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
+
+**Github:** (https://github.com/colla69/VoiceControlMycroft)
+
+**Owner:** [@colla69](https://github.com/colla69) ![https://avatars3.githubusercontent.com/u/7196099?v=4]
+

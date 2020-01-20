@@ -8,3 +8,8 @@ This skill allows you to automate some of the habits that Mycroft has detected a
 The habit detection is done by two other complementary skills:
 1. The [**skill-listener**](https://github.com/PFE1718/mycroft-skill-listener), that logs the user activity. It is also  responsible for launching the 2 other skills when needed.
 2. The [**habit-miner**](https://github.com/PFE1718/mycroft-habit-miner-skill), that extracts the habits of the user from the logs.
+
+**Github:** (https://github.com/PFE1718/PFE1718-automation-handler)
+
+**Owner:** [@PFE1718](https://github.com/PFE1718) ![https://avatars0.githubusercontent.com/u/32484958?v=4]
+

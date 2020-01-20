@@ -9,3 +9,8 @@ It can detect two types of habits :
 
 *  Time based habits (i.e launching the same skill regularly at the same time of the day)
 * Group based habits (i.e launching a group of skills very frequently)
+
+**Github:** (https://github.com/PFE1718/PFE1718-habit-miner)
+
+**Owner:** [@PFE1718](https://github.com/PFE1718) ![https://avatars0.githubusercontent.com/u/32484958?v=4]
+

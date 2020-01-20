@@ -16,3 +16,8 @@ or -
 
 - How about caffeine content of *drink*?
 - The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_size}} ounces.
+
+**Github:** (https://github.com/reginaneon/CaffeineWiz)
+
+**Owner:** [@reginaneon](https://github.com/reginaneon) ![https://avatars0.githubusercontent.com/u/30847268?v=4]
+

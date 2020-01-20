@@ -7,3 +7,8 @@ To get this done, the following Python modules are used:
 
 * [newpaper](https://github.com/codelucas/newspaper/)
 * [nltk](https://github.com/nltk/nltk)
+
+**Github:** (https://github.com/rigved/skill-newspaper)
+
+**Owner:** [@rigved](https://github.com/rigved) ![https://avatars2.githubusercontent.com/u/6945308?v=4]
+

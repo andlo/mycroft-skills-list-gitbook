@@ -27,3 +27,8 @@ sudo pip3 install lxml
 ```
 Note that the installation of lxml can be _very_ slow on low RAM devices like the Raspberry Pi (I am talking in the order of 10min+!). If you
 ever doubt that it's even doing anything, open another terminal and run `htop` on it.
+
+**Github:** (https://github.com/Fantailed/fallback-chatbot)
+
+**Owner:** [@Fantailed](https://github.com/Fantailed) ![https://avatars0.githubusercontent.com/u/19165963?v=4]
+

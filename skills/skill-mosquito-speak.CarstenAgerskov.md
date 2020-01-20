@@ -43,3 +43,8 @@ Example underscore: Convert "Kitchen_window is open" to "Kitchen Window is open"
 
 What happens: The regex match "_" in "Kitchen_window is open".  We retain the characters until index 0 of "_", which is no characters.
 We retain the characters after index 1 of "_", which is no characters. And we put a space in the middle.
+
+**Github:** (https://github.com/CarstenAgerskov/skill-mosquito-speak)
+
+**Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov) ![https://avatars2.githubusercontent.com/u/7515935?v=4]
+

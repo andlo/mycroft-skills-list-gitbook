@@ -2,3 +2,8 @@
 description: 
 ---
 
+
+**Github:** (https://github.com/AIIX/clarifai-image-recognition-skill)
+
+**Owner:** [@AIIX](https://github.com/AIIX) ![https://avatars3.githubusercontent.com/u/19663666?v=4]
+

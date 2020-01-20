@@ -3,3 +3,8 @@ description:
 ---
 A more verbose description, including any extra instructions or
 information that didn't fit in the one line.
+
+**Github:** (https://github.com/lakst/WinidoTestSKill)
+
+**Owner:** [@lakst](https://github.com/lakst) ![https://avatars1.githubusercontent.com/u/30196971?v=4]
+

@@ -9,3 +9,8 @@ Current conditions and weather forecasts come from [Open Weather Map](https://op
 For **enclosures** with screen support, conditions are briefly shown using visemes.
 
 The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your [https://home.mycroft.ai](https://home.mycroft.ai) account.
+
+**Github:** (https://github.com/AIIX/skill-weather-2)
+
+**Owner:** [@AIIX](https://github.com/AIIX) ![https://avatars3.githubusercontent.com/u/19663666?v=4]
+

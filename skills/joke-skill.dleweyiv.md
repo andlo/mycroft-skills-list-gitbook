@@ -11,3 +11,8 @@ The joke categories are:
 By default it will give you clean and/or geeky jokes, but you can ask a little adult humor if you feel that way.
 
 _WARNING:  Laughter is not guaranteed, but eye rolls are likely._
+
+**Github:** (https://github.com/dleweyiv/joke-skill)
+
+**Owner:** [@dleweyiv](https://github.com/dleweyiv) ![https://avatars0.githubusercontent.com/u/32504470?v=4]
+

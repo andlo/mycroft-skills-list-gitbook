@@ -12,3 +12,8 @@ Skill's GitHub repository URL in the [Installer's web user interface](https://ho
 
 Skills are ultimately installed using the [Mycroft Skill Manager (msm)](https://mycroft.ai/documentation/msm).  If verbally installing, Mycroft will speak a list of possible matches for
 ambiguous names -- just pick the skill you want from the list read to you.
+
+**Github:** (https://github.com/MycroftAI/skill-installer)
+
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+

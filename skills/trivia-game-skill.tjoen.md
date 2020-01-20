@@ -14,3 +14,8 @@ This started out as an experiment, checking if a faster method could make the  g
 And it actually does seem to work pretty good.
 
 Translations might be a problem with this method, but this skill uses questions in english.
+
+**Github:** (https://github.com/tjoen/trivia-game-skill)
+
+**Owner:** [@tjoen](https://github.com/tjoen) ![https://avatars3.githubusercontent.com/u/974847?v=4]
+

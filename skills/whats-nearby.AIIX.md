@@ -6,3 +6,8 @@ description:
 #### This skill requires you to setup your own HERE API Keys on https://home.mycroft.ai | Register for free HERE API Keys at: https://developer.here.com/
 
 ##### To-Do: Improve Location Accuracy on Plasma-Mobile by utilizing nearby cell-tower information.
+
+**Github:** (https://github.com/AIIX/whats-nearby)
+
+**Owner:** [@AIIX](https://github.com/AIIX) ![https://avatars3.githubusercontent.com/u/19663666?v=4]
+

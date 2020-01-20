@@ -9,3 +9,8 @@ Different cases :
 - Frequency habit detected (calls the automation handler skill)
 - Habit completed for the first time (calls the automation handler skill)
 - Inactivity for more than 5 minutes after last command (calls the data mining skill)
+
+**Github:** (https://github.com/PFE1718/PFE1718-skill-listener)
+
+**Owner:** [@PFE1718](https://github.com/PFE1718) ![https://avatars0.githubusercontent.com/u/32484958?v=4]
+

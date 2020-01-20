@@ -37,3 +37,8 @@ The way this skill works is by requests.get(url,params) sending a get request to
 url for example 'http://localhost:8080/remote?action=someaction&param=someparameter'
 
 This skill includes intents for 90% of what the MMM-Remote-Control module is capable of doing. The other 10% is a work in progress.
+
+**Github:** (https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)
+
+**Owner:** [@dmwilsonkc](https://github.com/dmwilsonkc) ![https://avatars3.githubusercontent.com/u/38334225?v=4]
+

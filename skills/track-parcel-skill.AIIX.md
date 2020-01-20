@@ -9,3 +9,8 @@ description:
 
 #### Dependency requirements:
 * This skill requires the installation of aftership.
+
+**Github:** (https://github.com/AIIX/track-parcel-skill)
+
+**Owner:** [@AIIX](https://github.com/AIIX) ![https://avatars3.githubusercontent.com/u/19663666?v=4]
+

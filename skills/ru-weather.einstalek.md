@@ -9,3 +9,8 @@ Current conditions and weather forecasts come from [Open Weather Map](https://op
 For **enclosures** with screen support, conditions are briefly shown using visemes.
 
 The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your [https://home.mycroft.ai](https://home.mycroft.ai) account.
+
+**Github:** (https://github.com/einstalek/ru-weather)
+
+**Owner:** [@einstalek](https://github.com/einstalek) ![https://avatars1.githubusercontent.com/u/20370264?v=4]
+

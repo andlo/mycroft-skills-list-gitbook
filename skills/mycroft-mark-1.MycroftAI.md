@@ -12,3 +12,8 @@ list for more options
 ###  Faceplate Brightness
 Set the faceplate to a specific brightness, or allow it to automatically adjust
 its brightness level to dim at night.
+
+**Github:** (https://github.com/MycroftAI/mycroft-mark-1)
+
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+

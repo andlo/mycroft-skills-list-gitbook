@@ -16,3 +16,8 @@ Demo videos on YouTube:
 1. https://youtu.be/2W1dCUOKwTw    Demo to turn LEDs ON/OFF
 2. https://youtu.be/Tw6L6K-t1TA    Demo to query room temperature
 3. https://youtu.be/Zdkx1vZKKfw    Screencast walkthrough under the hood.
+
+**Github:** (https://github.com/neoscreenager/node-light-controller)
+
+**Owner:** [@neoscreenager](https://github.com/neoscreenager) ![https://avatars2.githubusercontent.com/u/5783434?v=4]
+

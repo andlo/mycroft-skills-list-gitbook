@@ -12,3 +12,8 @@ When asking for a park description the skill will do a search on the words given
 Since definite articles are dropped from speech, searches for descriptions of some properties will fail if they are included.  For example, trying to hear a description of Rosie the Riveter WWII Home Front National Historical Park by saying "describe Rosie the Riveter national park" will fail but "describe Rosie national park" and "describe Riveter national park" will succeed.
 
 After asking to be quizzed Mycroft will ask what state a particular National Park Service property is in.  The answer may be spoken after the beep without using the wake word but there will only be a few seconds to answer.  If Mycroft does not respond to the answer use the wake word with "Repeat national parks quiz" and answer after the beep.
+
+**Github:** (https://github.com/richhowley/national-parks-skill)
+
+**Owner:** [@richhowley](https://github.com/richhowley) ![https://avatars0.githubusercontent.com/u/318132?v=4]
+

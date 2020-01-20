@@ -15,3 +15,8 @@ __Wake word listener__
 > Opt In (thank you!)
 >
 > For now, Precise only handles the "Hey Mycroft" keyword.
+
+**Github:** (https://github.com/MycroftAI/skill-configuration)
+
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+
