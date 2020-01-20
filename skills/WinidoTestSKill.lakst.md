@@ -6,5 +6,5 @@ information that didn't fit in the one line.
 
 **Github:** (https://github.com/lakst/WinidoTestSKill)
 
-**Owner:** [@lakst](https://github.com/lakst) ![https://avatars1.githubusercontent.com/u/30196971?v=4]
+**Owner:** [@lakst](https://github.com/lakst) ![avatart](https://avatars1.githubusercontent.com/u/30196971?v=4)
 

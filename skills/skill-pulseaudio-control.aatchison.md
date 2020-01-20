@@ -5,5 +5,5 @@ This skill is intended to allow a Mycroft user to list and set the default input
 
 **Github:** (https://github.com/aatchison/skill-pulseaudio-control)
 
-**Owner:** [@aatchison](https://github.com/aatchison) ![https://avatars2.githubusercontent.com/u/8539707?v=4]
+**Owner:** [@aatchison](https://github.com/aatchison) ![avatart](https://avatars2.githubusercontent.com/u/8539707?v=4)
 

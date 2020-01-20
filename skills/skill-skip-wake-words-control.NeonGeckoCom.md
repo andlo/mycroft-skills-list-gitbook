@@ -7,5 +7,5 @@ Note: This skill would not proceed without the clear confirmation of the command
 
 **Github:** (https://github.com/NeonGeckoCom/skill-skip-wake-words-control)
 
-**Owner:** [@NeonGeckoCom](https://github.com/NeonGeckoCom) ![https://avatars1.githubusercontent.com/u/32377662?v=4]
+**Owner:** [@NeonGeckoCom](https://github.com/NeonGeckoCom) ![avatart](https://avatars1.githubusercontent.com/u/32377662?v=4)
 

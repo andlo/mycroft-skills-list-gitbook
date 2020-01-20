@@ -10,5 +10,5 @@ To get this done we need
 
 **Github:** (https://github.com/Siltstorm/storytime-skill)
 
-**Owner:** [@Siltstorm](https://github.com/Siltstorm) ![https://avatars2.githubusercontent.com/u/18223312?v=4]
+**Owner:** [@Siltstorm](https://github.com/Siltstorm) ![avatart](https://avatars2.githubusercontent.com/u/18223312?v=4)
 

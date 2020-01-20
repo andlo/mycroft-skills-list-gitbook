@@ -32,5 +32,5 @@ If you've forgotten what items have been identified, you can ask Mycroft:
 
 **Github:** (https://github.com/openhab/openhab-mycroft)
 
-**Owner:** [@openhab](https://github.com/openhab) ![https://avatars0.githubusercontent.com/u/1007353?v=4]
+**Owner:** [@openhab](https://github.com/openhab) ![avatart](https://avatars0.githubusercontent.com/u/1007353?v=4)
 

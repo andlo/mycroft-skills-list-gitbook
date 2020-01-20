@@ -14,5 +14,5 @@ For Power ON (Wake on LAN):
 
 **Github:** (https://github.com/smearumi/mycroft-remote-computer)
 
-**Owner:** [@smearumi](https://github.com/smearumi) ![https://avatars0.githubusercontent.com/u/24763062?v=4]
+**Owner:** [@smearumi](https://github.com/smearumi) ![avatart](https://avatars0.githubusercontent.com/u/24763062?v=4)
 

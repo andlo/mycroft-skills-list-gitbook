@@ -10,5 +10,5 @@ To get this done, the following Python modules are used:
 
 **Github:** (https://github.com/rigved/skill-newspaper)
 
-**Owner:** [@rigved](https://github.com/rigved) ![https://avatars2.githubusercontent.com/u/6945308?v=4]
+**Owner:** [@rigved](https://github.com/rigved) ![avatart](https://avatars2.githubusercontent.com/u/6945308?v=4)
 

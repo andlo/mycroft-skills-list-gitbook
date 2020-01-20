@@ -15,5 +15,5 @@ You can also include the light/group name in your request, along with intensity 
 
 **Github:** (https://github.com/MycroftAI/skill-wink-iot)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

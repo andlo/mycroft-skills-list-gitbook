@@ -17,8 +17,8 @@ def make_skillsfiles(skills):
         of.write('**Github:** (' + skill["html_url"] + ')\n\n') 
         of.write('**Owner:** [@' + skill["owner"]["login"] + 
                  '](' + skill["owner"]["html_url"] + 
-                 ') ![' + skill["owner"]["avatar_url"] + 
-                 ']\n\n')
+                 ') ![avatart](' + skill["owner"]["avatar_url"] + 
+                 ')\n\n')
         of.close()
 
 """

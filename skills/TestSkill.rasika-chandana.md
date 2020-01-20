@@ -6,5 +6,5 @@ information that didn't fit in the one line.
 
 **Github:** (https://github.com/rasika-chandana/TestSkill)
 
-**Owner:** [@rasika-chandana](https://github.com/rasika-chandana) ![https://avatars0.githubusercontent.com/u/39061306?v=4]
+**Owner:** [@rasika-chandana](https://github.com/rasika-chandana) ![avatart](https://avatars0.githubusercontent.com/u/39061306?v=4)
 

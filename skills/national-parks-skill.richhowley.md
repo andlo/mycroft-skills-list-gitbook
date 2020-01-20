@@ -15,5 +15,5 @@ After asking to be quizzed Mycroft will ask what state a particular National Par
 
 **Github:** (https://github.com/richhowley/national-parks-skill)
 
-**Owner:** [@richhowley](https://github.com/richhowley) ![https://avatars0.githubusercontent.com/u/318132?v=4]
+**Owner:** [@richhowley](https://github.com/richhowley) ![avatart](https://avatars0.githubusercontent.com/u/318132?v=4)
 

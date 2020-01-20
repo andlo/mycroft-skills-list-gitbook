@@ -5,5 +5,5 @@ Reprehenderit proident sunt ea non occaecat veniam. Ipsum sit cupidatat anim ea.
 
 **Github:** (https://github.com/ITISEnricoFermi/mycroft-ai-skill)
 
-**Owner:** [@ITISEnricoFermi](https://github.com/ITISEnricoFermi) ![https://avatars2.githubusercontent.com/u/33910670?v=4]
+**Owner:** [@ITISEnricoFermi](https://github.com/ITISEnricoFermi) ![avatart](https://avatars2.githubusercontent.com/u/33910670?v=4)
 

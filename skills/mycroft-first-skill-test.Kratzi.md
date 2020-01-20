@@ -9,5 +9,5 @@ Test line:  2018/03/01 - 05:14 CST.
 
 **Github:** (https://github.com/Kratzi/mycroft-first-skill-test)
 
-**Owner:** [@Kratzi](https://github.com/Kratzi) ![https://avatars0.githubusercontent.com/u/26336836?v=4]
+**Owner:** [@Kratzi](https://github.com/Kratzi) ![avatart](https://avatars0.githubusercontent.com/u/26336836?v=4)
 

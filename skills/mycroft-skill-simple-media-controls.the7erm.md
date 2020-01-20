@@ -10,5 +10,5 @@ If you write your owns scripts, please feel free to fork the project, add them t
 
 **Github:** (https://github.com/the7erm/mycroft-skill-simple-media-controls)
 
-**Owner:** [@the7erm](https://github.com/the7erm) ![https://avatars0.githubusercontent.com/u/2530157?v=4]
+**Owner:** [@the7erm](https://github.com/the7erm) ![avatart](https://avatars0.githubusercontent.com/u/2530157?v=4)
 

@@ -5,5 +5,5 @@ Home Assistant is a open source project that lets you control all your smart dev
 
 **Github:** (https://github.com/andlo/homeassistant-skill)
 
-**Owner:** [@andlo](https://github.com/andlo) ![https://avatars2.githubusercontent.com/u/3314671?v=4]
+**Owner:** [@andlo](https://github.com/andlo) ![avatart](https://avatars2.githubusercontent.com/u/3314671?v=4)
 

@@ -15,5 +15,5 @@ The configuration above will launch `/home/forslund/scripts/generate_report.sh` 
 
 **Github:** (https://github.com/forslund/cmd_skill)
 
-**Owner:** [@forslund](https://github.com/forslund) ![https://avatars0.githubusercontent.com/u/804543?v=4]
+**Owner:** [@forslund](https://github.com/forslund) ![avatart](https://avatars0.githubusercontent.com/u/804543?v=4)
 

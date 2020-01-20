@@ -5,5 +5,5 @@ A <a href='https://mycroft.ai/'>Mycroft</a> skill for controlling <a href='https
 
 **Github:** (https://github.com/GotTheNumbers/skill-lifx)
 
-**Owner:** [@GotTheNumbers](https://github.com/GotTheNumbers) ![https://avatars2.githubusercontent.com/u/7884077?v=4]
+**Owner:** [@GotTheNumbers](https://github.com/GotTheNumbers) ![avatart](https://avatars2.githubusercontent.com/u/7884077?v=4)
 

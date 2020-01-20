@@ -5,5 +5,5 @@ With this skill Mycroft will say when the boot up period has finished and is rea
 
 **Github:** (https://github.com/zelmon64/skill-finished-booting)
 
-**Owner:** [@zelmon64](https://github.com/zelmon64) ![https://avatars2.githubusercontent.com/u/15001389?v=4]
+**Owner:** [@zelmon64](https://github.com/zelmon64) ![avatart](https://avatars2.githubusercontent.com/u/15001389?v=4)
 

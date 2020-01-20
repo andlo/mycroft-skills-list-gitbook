@@ -5,5 +5,5 @@ Flexible reminder Skill, allowing you to set single and repeating reminders for 
 
 **Github:** (https://github.com/MycroftAI/skill-reminder)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

@@ -6,5 +6,5 @@ http://#IP_JEEDOM#/core/api/jeeApi.php?apikey=#APIKEY#&type=scenario&id=#ID#&act
 
 **Github:** (https://github.com/BugHunterPhilosopher/Alfred)
 
-**Owner:** [@BugHunterPhilosopher](https://github.com/BugHunterPhilosopher) ![https://avatars2.githubusercontent.com/u/979528?v=4]
+**Owner:** [@BugHunterPhilosopher](https://github.com/BugHunterPhilosopher) ![avatart](https://avatars2.githubusercontent.com/u/979528?v=4)
 

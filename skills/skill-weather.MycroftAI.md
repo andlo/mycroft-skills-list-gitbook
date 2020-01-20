@@ -12,5 +12,5 @@ The temperature is shown in Celsius or Fahrenheit depending on the preferences s
 
 **Github:** (https://github.com/MycroftAI/skill-weather)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

@@ -19,5 +19,5 @@ Demo videos on YouTube:
 
 **Github:** (https://github.com/neoscreenager/node-light-controller)
 
-**Owner:** [@neoscreenager](https://github.com/neoscreenager) ![https://avatars2.githubusercontent.com/u/5783434?v=4]
+**Owner:** [@neoscreenager](https://github.com/neoscreenager) ![avatart](https://avatars2.githubusercontent.com/u/5783434?v=4)
 

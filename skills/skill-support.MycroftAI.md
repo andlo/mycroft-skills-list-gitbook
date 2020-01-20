@@ -9,5 +9,5 @@ This uses the [termbin.com](http://termbin.com/) service for storing the debuggi
 
 **Github:** (https://github.com/MycroftAI/skill-support)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

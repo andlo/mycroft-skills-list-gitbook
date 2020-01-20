@@ -6,5 +6,5 @@ information that didn't fit in the one line.
 
 **Github:** (https://github.com/CarlKlein/mycroft-test-skill)
 
-**Owner:** [@CarlKlein](https://github.com/CarlKlein) ![https://avatars3.githubusercontent.com/u/12686941?v=4]
+**Owner:** [@CarlKlein](https://github.com/CarlKlein) ![avatart](https://avatars3.githubusercontent.com/u/12686941?v=4)
 

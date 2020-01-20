@@ -5,5 +5,5 @@ Mycroft can spell any word which is understood by speech-to-text.  The proper sp
 
 **Github:** (https://github.com/MycroftAI/skill-spelling)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

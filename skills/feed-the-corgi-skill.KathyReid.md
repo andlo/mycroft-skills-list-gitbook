@@ -5,5 +5,5 @@ Every 24 hours, mycroft will send you a reminder to feed your corgi, and tell yo
 
 **Github:** (https://github.com/KathyReid/feed-the-corgi-skill)
 
-**Owner:** [@KathyReid](https://github.com/KathyReid) ![https://avatars2.githubusercontent.com/u/114158?v=4]
+**Owner:** [@KathyReid](https://github.com/KathyReid) ![avatart](https://avatars2.githubusercontent.com/u/114158?v=4)
 

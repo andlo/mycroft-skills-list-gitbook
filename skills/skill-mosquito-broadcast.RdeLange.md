@@ -45,5 +45,5 @@ We retain the characters after index 1 of "_", which is no characters. And we pu
 
 **Github:** (https://github.com/RdeLange/skill-mosquito-broadcast)
 
-**Owner:** [@RdeLange](https://github.com/RdeLange) ![https://avatars3.githubusercontent.com/u/1215327?v=4]
+**Owner:** [@RdeLange](https://github.com/RdeLange) ![avatart](https://avatars3.githubusercontent.com/u/1215327?v=4)
 

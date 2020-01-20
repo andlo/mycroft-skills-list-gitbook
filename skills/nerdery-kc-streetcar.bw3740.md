@@ -9,5 +9,5 @@ This skill is still in it's early stages of development. With the planned expans
 
 **Github:** (https://github.com/bw3740/nerdery-kc-streetcar)
 
-**Owner:** [@bw3740](https://github.com/bw3740) ![https://avatars2.githubusercontent.com/u/8460730?v=4]
+**Owner:** [@bw3740](https://github.com/bw3740) ![avatart](https://avatars2.githubusercontent.com/u/8460730?v=4)
 

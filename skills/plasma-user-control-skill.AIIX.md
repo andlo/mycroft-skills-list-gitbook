@@ -5,5 +5,5 @@ This skill integrates Plasma 5 Desktop Internals with Mycroft which enables user
 
 **Github:** (https://github.com/AIIX/plasma-user-control-skill)
 
-**Owner:** [@AIIX](https://github.com/AIIX) ![https://avatars3.githubusercontent.com/u/19663666?v=4]
+**Owner:** [@AIIX](https://github.com/AIIX) ![avatart](https://avatars3.githubusercontent.com/u/19663666?v=4)
 

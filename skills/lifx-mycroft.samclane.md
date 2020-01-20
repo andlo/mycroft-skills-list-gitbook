@@ -5,5 +5,5 @@ Allows users to interact with the LIFX-brand smartbulbs on their home network th
 
 **Github:** (https://github.com/samclane/lifx-mycroft)
 
-**Owner:** [@samclane](https://github.com/samclane) ![https://avatars1.githubusercontent.com/u/5761099?v=4]
+**Owner:** [@samclane](https://github.com/samclane) ![avatart](https://avatars1.githubusercontent.com/u/5761099?v=4)
 

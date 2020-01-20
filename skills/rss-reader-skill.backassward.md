@@ -10,5 +10,5 @@ the main features are:
 
 **Github:** (https://github.com/backassward/rss-reader-skill)
 
-**Owner:** [@backassward](https://github.com/backassward) ![https://avatars2.githubusercontent.com/u/38608535?v=4]
+**Owner:** [@backassward](https://github.com/backassward) ![avatart](https://avatars2.githubusercontent.com/u/38608535?v=4)
 

@@ -25,5 +25,5 @@ Pomodoro is a very good work technique used to manage time, by giving persistent
 
 **Github:** (https://github.com/erabti/mycroft-pomodoro-skill)
 
-**Owner:** [@erabti](https://github.com/erabti) ![https://avatars0.githubusercontent.com/u/18039922?v=4]
+**Owner:** [@erabti](https://github.com/erabti) ![avatart](https://avatars0.githubusercontent.com/u/18039922?v=4)
 

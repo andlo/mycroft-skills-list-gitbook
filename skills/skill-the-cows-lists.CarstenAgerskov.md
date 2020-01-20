@@ -118,5 +118,5 @@ Other issues that are not caught as describe above, can be reported as well, on 
 
 **Github:** (https://github.com/CarstenAgerskov/skill-the-cows-lists)
 
-**Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov) ![https://avatars2.githubusercontent.com/u/7515935?v=4]
+**Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov) ![avatart](https://avatars2.githubusercontent.com/u/7515935?v=4)
 

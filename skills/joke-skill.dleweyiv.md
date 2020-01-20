@@ -14,5 +14,5 @@ _WARNING:  Laughter is not guaranteed, but eye rolls are likely._
 
 **Github:** (https://github.com/dleweyiv/joke-skill)
 
-**Owner:** [@dleweyiv](https://github.com/dleweyiv) ![https://avatars0.githubusercontent.com/u/32504470?v=4]
+**Owner:** [@dleweyiv](https://github.com/dleweyiv) ![avatart](https://avatars0.githubusercontent.com/u/32504470?v=4)
 

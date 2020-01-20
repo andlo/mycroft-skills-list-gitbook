@@ -8,5 +8,5 @@ _NOTE_: Developent has been currently stoped due to personal reasons. Merge Requ
 
 **Github:** (https://github.com/merspieler/irc-skill)
 
-**Owner:** [@merspieler](https://github.com/merspieler) ![https://avatars1.githubusercontent.com/u/29063255?v=4]
+**Owner:** [@merspieler](https://github.com/merspieler) ![avatart](https://avatars1.githubusercontent.com/u/29063255?v=4)
 

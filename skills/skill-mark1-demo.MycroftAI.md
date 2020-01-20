@@ -13,5 +13,5 @@ You can stop the demo by pressing the top button or saying "Stop".
 
 **Github:** (https://github.com/MycroftAI/skill-mark1-demo)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

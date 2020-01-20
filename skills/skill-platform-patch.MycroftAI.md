@@ -18,5 +18,5 @@ If your version is less than 0.9.0, you should install this platform patch.
 
 **Github:** (https://github.com/MycroftAI/skill-platform-patch)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

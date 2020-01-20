@@ -12,5 +12,5 @@ The temperature is shown in Celsius or Fahrenheit depending on the preferences s
 
 **Github:** (https://github.com/einstalek/ru-weather)
 
-**Owner:** [@einstalek](https://github.com/einstalek) ![https://avatars1.githubusercontent.com/u/20370264?v=4]
+**Owner:** [@einstalek](https://github.com/einstalek) ![avatart](https://avatars1.githubusercontent.com/u/20370264?v=4)
 

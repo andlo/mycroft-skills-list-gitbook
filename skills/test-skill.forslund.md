@@ -9,5 +9,5 @@ Fox.  Select your favorite at:
 
 **Github:** (https://github.com/forslund/test-skill)
 
-**Owner:** [@forslund](https://github.com/forslund) ![https://avatars0.githubusercontent.com/u/804543?v=4]
+**Owner:** [@forslund](https://github.com/forslund) ![avatart](https://avatars0.githubusercontent.com/u/804543?v=4)
 

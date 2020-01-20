@@ -46,5 +46,5 @@ We retain the characters after index 1 of "_", which is no characters. And we pu
 
 **Github:** (https://github.com/CarstenAgerskov/skill-mosquito-speak)
 
-**Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov) ![https://avatars2.githubusercontent.com/u/7515935?v=4]
+**Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov) ![avatart](https://avatars2.githubusercontent.com/u/7515935?v=4)
 

@@ -30,5 +30,5 @@ ever doubt that it's even doing anything, open another terminal and run `htop` o
 
 **Github:** (https://github.com/Fantailed/fallback-chatbot)
 
-**Owner:** [@Fantailed](https://github.com/Fantailed) ![https://avatars0.githubusercontent.com/u/19165963?v=4]
+**Owner:** [@Fantailed](https://github.com/Fantailed) ![avatart](https://avatars0.githubusercontent.com/u/19165963?v=4)
 

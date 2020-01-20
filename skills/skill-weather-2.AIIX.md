@@ -12,5 +12,5 @@ The temperature is shown in Celsius or Fahrenheit depending on the preferences s
 
 **Github:** (https://github.com/AIIX/skill-weather-2)
 
-**Owner:** [@AIIX](https://github.com/AIIX) ![https://avatars3.githubusercontent.com/u/19663666?v=4]
+**Owner:** [@AIIX](https://github.com/AIIX) ![avatart](https://avatars3.githubusercontent.com/u/19663666?v=4)
 

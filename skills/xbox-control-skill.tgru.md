@@ -5,5 +5,5 @@ This is a skill for the Mycroft AI voice assistant, which enables you to control
 
 **Github:** (https://github.com/tgru/xbox-control-skill)
 
-**Owner:** [@tgru](https://github.com/tgru) ![https://avatars0.githubusercontent.com/u/21686590?v=4]
+**Owner:** [@tgru](https://github.com/tgru) ![avatart](https://avatars0.githubusercontent.com/u/21686590?v=4)
 

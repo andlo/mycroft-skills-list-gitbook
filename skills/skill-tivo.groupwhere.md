@@ -45,5 +45,5 @@ Mycroft will respond with, e.g.:
 
 **Github:** (https://github.com/groupwhere/skill-tivo)
 
-**Owner:** [@groupwhere](https://github.com/groupwhere) ![https://avatars0.githubusercontent.com/u/6051937?v=4]
+**Owner:** [@groupwhere](https://github.com/groupwhere) ![avatart](https://avatars0.githubusercontent.com/u/6051937?v=4)
 

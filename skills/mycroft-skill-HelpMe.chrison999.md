@@ -17,5 +17,5 @@ Input: help me with skill
 
 **Github:** (https://github.com/chrison999/mycroft-skill-HelpMe)
 
-**Owner:** [@chrison999](https://github.com/chrison999) ![https://avatars3.githubusercontent.com/u/7979787?v=4]
+**Owner:** [@chrison999](https://github.com/chrison999) ![avatart](https://avatars3.githubusercontent.com/u/7979787?v=4)
 

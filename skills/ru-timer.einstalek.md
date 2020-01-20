@@ -8,5 +8,5 @@ the top button to stop the beeping once a timer expires.
 
 **Github:** (https://github.com/einstalek/ru-timer)
 
-**Owner:** [@einstalek](https://github.com/einstalek) ![https://avatars1.githubusercontent.com/u/20370264?v=4]
+**Owner:** [@einstalek](https://github.com/einstalek) ![avatart](https://avatars1.githubusercontent.com/u/20370264?v=4)
 

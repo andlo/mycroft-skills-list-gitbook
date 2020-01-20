@@ -6,5 +6,5 @@ information that didn't fit in the one line.
 
 **Github:** (https://github.com/tohigu/misnomia)
 
-**Owner:** [@tohigu](https://github.com/tohigu) ![https://avatars2.githubusercontent.com/u/3629668?v=4]
+**Owner:** [@tohigu](https://github.com/tohigu) ![avatart](https://avatars2.githubusercontent.com/u/3629668?v=4)
 

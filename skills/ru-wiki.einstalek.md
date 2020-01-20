@@ -7,5 +7,5 @@ This Skill uses the [Wikimedia API](https://en.wikipedia.org/w/api.php).
 
 **Github:** (https://github.com/einstalek/ru-wiki)
 
-**Owner:** [@einstalek](https://github.com/einstalek) ![https://avatars1.githubusercontent.com/u/20370264?v=4]
+**Owner:** [@einstalek](https://github.com/einstalek) ![avatart](https://avatars1.githubusercontent.com/u/20370264?v=4)
 

@@ -23,5 +23,5 @@ User: rotfl.
 
 **Github:** (https://github.com/aussieW/knock-knock-jokes-skill)
 
-**Owner:** [@aussieW](https://github.com/aussieW) ![https://avatars1.githubusercontent.com/u/1840035?v=4]
+**Owner:** [@aussieW](https://github.com/aussieW) ![avatart](https://avatars1.githubusercontent.com/u/1840035?v=4)
 

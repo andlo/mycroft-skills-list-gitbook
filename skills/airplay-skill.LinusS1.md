@@ -7,5 +7,5 @@ The install takes a little while because it needs to build Shairport-sync. Once 
 
 **Github:** (https://github.com/LinusS1/airplay-skill)
 
-**Owner:** [@LinusS1](https://github.com/LinusS1) ![https://avatars3.githubusercontent.com/u/19542092?v=4]
+**Owner:** [@LinusS1](https://github.com/LinusS1) ![avatart](https://avatars3.githubusercontent.com/u/19542092?v=4)
 

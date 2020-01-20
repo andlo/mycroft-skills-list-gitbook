@@ -5,5 +5,5 @@ A list of tech events happening in Birmingham UK over the next few days. Powered
 
 **Github:** (https://github.com/stuartlangridge/bio-calendar-mycroft)
 
-**Owner:** [@stuartlangridge](https://github.com/stuartlangridge) ![https://avatars0.githubusercontent.com/u/4356350?v=4]
+**Owner:** [@stuartlangridge](https://github.com/stuartlangridge) ![avatart](https://avatars0.githubusercontent.com/u/4356350?v=4)
 

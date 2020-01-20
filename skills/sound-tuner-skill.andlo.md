@@ -15,5 +15,5 @@ people call middle C for "C3" or even for "C5".
 
 **Github:** (https://github.com/andlo/sound-tuner-skill)
 
-**Owner:** [@andlo](https://github.com/andlo) ![https://avatars2.githubusercontent.com/u/3314671?v=4]
+**Owner:** [@andlo](https://github.com/andlo) ![avatart](https://avatars2.githubusercontent.com/u/3314671?v=4)
 

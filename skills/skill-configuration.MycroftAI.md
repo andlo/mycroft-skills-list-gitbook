@@ -18,5 +18,5 @@ __Wake word listener__
 
 **Github:** (https://github.com/MycroftAI/skill-configuration)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

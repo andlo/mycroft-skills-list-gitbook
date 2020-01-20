@@ -20,5 +20,5 @@ You will then need to restart mycroft.
 
 **Github:** (https://github.com/mschot/mycroft-smartthings)
 
-**Owner:** [@mschot](https://github.com/mschot) ![https://avatars1.githubusercontent.com/u/5399612?v=4]
+**Owner:** [@mschot](https://github.com/mschot) ![avatart](https://avatars1.githubusercontent.com/u/5399612?v=4)
 

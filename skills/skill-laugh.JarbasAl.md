@@ -5,5 +5,5 @@ Laugh randomly or when requested, gender configurable on home.mycroft.ai.
 
 **Github:** (https://github.com/JarbasAl/skill-laugh)
 
-**Owner:** [@JarbasAl](https://github.com/JarbasAl) ![https://avatars0.githubusercontent.com/u/33701864?v=4]
+**Owner:** [@JarbasAl](https://github.com/JarbasAl) ![avatart](https://avatars0.githubusercontent.com/u/33701864?v=4)
 

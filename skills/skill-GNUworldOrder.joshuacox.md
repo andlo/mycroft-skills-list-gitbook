@@ -7,5 +7,5 @@ Teaches Mycroft AI about the the GNU World Order ["GNU World Order".](http://gnu
 
 **Github:** (https://github.com/joshuacox/skill-GNUworldOrder)
 
-**Owner:** [@joshuacox](https://github.com/joshuacox) ![https://avatars1.githubusercontent.com/u/6137404?v=4]
+**Owner:** [@joshuacox](https://github.com/joshuacox) ![avatart](https://avatars1.githubusercontent.com/u/6137404?v=4)
 

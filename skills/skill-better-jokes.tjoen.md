@@ -6,5 +6,5 @@ This skill gives mycroft better jokes. It uses icanhazdadjoke.com to get the jok
 
 **Github:** (https://github.com/tjoen/skill-better-jokes)
 
-**Owner:** [@tjoen](https://github.com/tjoen) ![https://avatars3.githubusercontent.com/u/974847?v=4]
+**Owner:** [@tjoen](https://github.com/tjoen) ![avatart](https://avatars3.githubusercontent.com/u/974847?v=4)
 

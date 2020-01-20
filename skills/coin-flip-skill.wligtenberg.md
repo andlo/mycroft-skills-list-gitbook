@@ -11,5 +11,5 @@ To get this done we need
 
 **Github:** (https://github.com/wligtenberg/coin-flip-skill)
 
-**Owner:** [@wligtenberg](https://github.com/wligtenberg) ![https://avatars0.githubusercontent.com/u/1241175?v=4]
+**Owner:** [@wligtenberg](https://github.com/wligtenberg) ![avatart](https://avatars0.githubusercontent.com/u/1241175?v=4)
 

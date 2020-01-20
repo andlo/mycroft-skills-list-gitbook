@@ -12,5 +12,5 @@ On a Mark 1 this also dims the eyes.
 
 **Github:** (https://github.com/MycroftAI/skill-naptime)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

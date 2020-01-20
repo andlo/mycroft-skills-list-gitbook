@@ -7,5 +7,5 @@ The user will invoke this Skill, for example, when they have heard enough about 
 
 **Github:** (https://github.com/einstalek/ru-stop)
 
-**Owner:** [@einstalek](https://github.com/einstalek) ![https://avatars1.githubusercontent.com/u/20370264?v=4]
+**Owner:** [@einstalek](https://github.com/einstalek) ![avatart](https://avatars1.githubusercontent.com/u/20370264?v=4)
 

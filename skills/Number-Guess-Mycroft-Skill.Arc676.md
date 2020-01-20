@@ -5,5 +5,5 @@ In Number Guess, you provide a lower and upper bound, then try to guess the rand
 
 **Github:** (https://github.com/Arc676/Number-Guess-Mycroft-Skill)
 
-**Owner:** [@Arc676](https://github.com/Arc676) ![https://avatars3.githubusercontent.com/u/30745465?v=4]
+**Owner:** [@Arc676](https://github.com/Arc676) ![avatart](https://avatars3.githubusercontent.com/u/30745465?v=4)
 

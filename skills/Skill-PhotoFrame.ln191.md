@@ -15,5 +15,5 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 
 **Github:** (https://github.com/ln191/Skill-PhotoFrame)
 
-**Owner:** [@ln191](https://github.com/ln191) ![https://avatars3.githubusercontent.com/u/22520244?v=4]
+**Owner:** [@ln191](https://github.com/ln191) ![avatart](https://avatars3.githubusercontent.com/u/22520244?v=4)
 

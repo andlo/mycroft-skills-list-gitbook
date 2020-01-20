@@ -6,5 +6,5 @@ This skill dynamically provides Mycroft users with the "word of the day" and def
 
 **Github:** (https://github.com/adropofilm/word-of-the-day-skill)
 
-**Owner:** [@adropofilm](https://github.com/adropofilm) ![https://avatars1.githubusercontent.com/u/9134674?v=4]
+**Owner:** [@adropofilm](https://github.com/adropofilm) ![avatart](https://avatars1.githubusercontent.com/u/9134674?v=4)
 

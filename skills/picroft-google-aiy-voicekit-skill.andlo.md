@@ -7,5 +7,5 @@ The button led turns on when Mycroft is listning. If button is pressed he begins
 
 **Github:** (https://github.com/andlo/picroft-google-aiy-voicekit-skill)
 
-**Owner:** [@andlo](https://github.com/andlo) ![https://avatars2.githubusercontent.com/u/3314671?v=4]
+**Owner:** [@andlo](https://github.com/andlo) ![avatart](https://avatars2.githubusercontent.com/u/3314671?v=4)
 

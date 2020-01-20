@@ -7,5 +7,5 @@ This will run a test to be sure you have access to the gpio be sure to test on t
 
 **Github:** (https://github.com/dinesh2222202/gpio)
 
-**Owner:** [@dinesh2222202](https://github.com/dinesh2222202) ![https://avatars2.githubusercontent.com/u/29755464?v=4]
+**Owner:** [@dinesh2222202](https://github.com/dinesh2222202) ![avatart](https://avatars2.githubusercontent.com/u/29755464?v=4)
 

@@ -15,5 +15,5 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 
 **Github:** (https://github.com/einstalek/ru-hello-world)
 
-**Owner:** [@einstalek](https://github.com/einstalek) ![https://avatars1.githubusercontent.com/u/20370264?v=4]
+**Owner:** [@einstalek](https://github.com/einstalek) ![avatart](https://avatars1.githubusercontent.com/u/20370264?v=4)
 

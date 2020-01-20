@@ -8,5 +8,5 @@ feature for multiple stations.
 
 **Github:** (https://github.com/jubbathejack/skill-bbc-radio)
 
-**Owner:** [@jubbathejack](https://github.com/jubbathejack) ![https://avatars2.githubusercontent.com/u/11790594?v=4]
+**Owner:** [@jubbathejack](https://github.com/jubbathejack) ![avatart](https://avatars2.githubusercontent.com/u/11790594?v=4)
 

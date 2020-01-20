@@ -9,5 +9,5 @@ For devices with screen support, conditions are briefly shown.
 
 **Github:** (https://github.com/dleweyiv/weather-skill)
 
-**Owner:** [@dleweyiv](https://github.com/dleweyiv) ![https://avatars0.githubusercontent.com/u/32504470?v=4]
+**Owner:** [@dleweyiv](https://github.com/dleweyiv) ![avatart](https://avatars0.githubusercontent.com/u/32504470?v=4)
 

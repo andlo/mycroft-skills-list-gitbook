@@ -5,5 +5,5 @@ Retrieve the [IP address](https://en.wikipedia.org/wiki/IP_address), also known 
 
 **Github:** (https://github.com/nagamanikandank/naga-mycroft-test)
 
-**Owner:** [@nagamanikandank](https://github.com/nagamanikandank) ![https://avatars0.githubusercontent.com/u/12969624?v=4]
+**Owner:** [@nagamanikandank](https://github.com/nagamanikandank) ![avatart](https://avatars0.githubusercontent.com/u/12969624?v=4)
 

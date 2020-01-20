@@ -11,5 +11,5 @@ The habit detection is done by two other complementary skills:
 
 **Github:** (https://github.com/PFE1718/PFE1718-automation-handler)
 
-**Owner:** [@PFE1718](https://github.com/PFE1718) ![https://avatars0.githubusercontent.com/u/32484958?v=4]
+**Owner:** [@PFE1718](https://github.com/PFE1718) ![avatart](https://avatars0.githubusercontent.com/u/32484958?v=4)
 

@@ -11,5 +11,5 @@ mpd_port=YOUR_PORT
 
 **Github:** (https://github.com/forslund/mpd_skill)
 
-**Owner:** [@forslund](https://github.com/forslund) ![https://avatars0.githubusercontent.com/u/804543?v=4]
+**Owner:** [@forslund](https://github.com/forslund) ![avatart](https://avatars0.githubusercontent.com/u/804543?v=4)
 

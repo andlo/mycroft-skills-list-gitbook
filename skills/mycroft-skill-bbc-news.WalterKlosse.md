@@ -5,5 +5,5 @@ This Mycroft skill is a modification of the npr-skill by jdorleans. Basically, a
 
 **Github:** (https://github.com/WalterKlosse/mycroft-skill-bbc-news)
 
-**Owner:** [@WalterKlosse](https://github.com/WalterKlosse) ![https://avatars1.githubusercontent.com/u/27290800?v=4]
+**Owner:** [@WalterKlosse](https://github.com/WalterKlosse) ![avatart](https://avatars1.githubusercontent.com/u/27290800?v=4)
 

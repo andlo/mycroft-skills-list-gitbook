@@ -15,5 +15,5 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 
 **Github:** (https://github.com/MycroftAI/skill-hello-world)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

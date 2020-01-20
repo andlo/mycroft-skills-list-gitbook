@@ -5,5 +5,5 @@ This skill answers questions like Who sings Let it be? This is just a simple ski
 
 **Github:** (https://github.com/sumutcan/skill-musicbrainz)
 
-**Owner:** [@sumutcan](https://github.com/sumutcan) ![https://avatars0.githubusercontent.com/u/1269403?v=4]
+**Owner:** [@sumutcan](https://github.com/sumutcan) ![avatart](https://avatars0.githubusercontent.com/u/1269403?v=4)
 

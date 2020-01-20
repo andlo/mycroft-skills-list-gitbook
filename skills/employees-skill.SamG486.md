@@ -7,5 +7,5 @@ after specifying a name or phone number, mycroft connects him to the specific em
 
 **Github:** (https://github.com/SamG486/employees-skill)
 
-**Owner:** [@SamG486](https://github.com/SamG486) ![https://avatars2.githubusercontent.com/u/42028870?v=4]
+**Owner:** [@SamG486](https://github.com/SamG486) ![avatart](https://avatars2.githubusercontent.com/u/42028870?v=4)
 

@@ -5,5 +5,5 @@ Retrieve the [IP address](https://en.wikipedia.org/wiki/IP_address), also known 
 
 **Github:** (https://github.com/MycroftAI/skill-ip)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

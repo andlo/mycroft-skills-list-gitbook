@@ -15,5 +15,5 @@ ambiguous names -- just pick the skill you want from the list read to you.
 
 **Github:** (https://github.com/MycroftAI/skill-installer)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![https://avatars0.githubusercontent.com/u/14171097?v=4]
+**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

@@ -5,5 +5,5 @@ This skill will provide conversational help for the installed skills by scraping
 
 **Github:** (https://github.com/pcwii/help-skill)
 
-**Owner:** [@pcwii](https://github.com/pcwii) ![https://avatars0.githubusercontent.com/u/30759206?v=4]
+**Owner:** [@pcwii](https://github.com/pcwii) ![avatart](https://avatars0.githubusercontent.com/u/30759206?v=4)
 

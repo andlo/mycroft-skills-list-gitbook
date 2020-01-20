@@ -6,5 +6,5 @@ Manage your station URLs at home.mycroft.ai -> Skills.
 
 **Github:** (https://github.com/normandmickey/skill-internet-radio)
 
-**Owner:** [@normandmickey](https://github.com/normandmickey) ![https://avatars1.githubusercontent.com/u/2455566?v=4]
+**Owner:** [@normandmickey](https://github.com/normandmickey) ![avatart](https://avatars1.githubusercontent.com/u/2455566?v=4)
 

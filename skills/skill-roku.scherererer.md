@@ -7,5 +7,5 @@ When you ask your mycroft to play a show, this skill will do a search at the "ro
 
 **Github:** (https://github.com/scherererer/skill-roku)
 
-**Owner:** [@scherererer](https://github.com/scherererer) ![https://avatars3.githubusercontent.com/u/16313953?v=4]
+**Owner:** [@scherererer](https://github.com/scherererer) ![avatart](https://avatars3.githubusercontent.com/u/16313953?v=4)
 

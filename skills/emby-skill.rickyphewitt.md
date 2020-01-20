@@ -5,5 +5,5 @@ Stream music from your Emby server using Mycroft! Right now you can play an inst
 
 **Github:** (https://github.com/rickyphewitt/emby-skill)
 
-**Owner:** [@rickyphewitt](https://github.com/rickyphewitt) ![https://avatars2.githubusercontent.com/u/5995409?v=4]
+**Owner:** [@rickyphewitt](https://github.com/rickyphewitt) ![avatart](https://avatars2.githubusercontent.com/u/5995409?v=4)
 

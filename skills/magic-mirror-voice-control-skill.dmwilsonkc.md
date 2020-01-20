@@ -40,5 +40,5 @@ This skill includes intents for 90% of what the MMM-Remote-Control module is cap
 
 **Github:** (https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)
 
-**Owner:** [@dmwilsonkc](https://github.com/dmwilsonkc) ![https://avatars3.githubusercontent.com/u/38334225?v=4]
+**Owner:** [@dmwilsonkc](https://github.com/dmwilsonkc) ![avatart](https://avatars3.githubusercontent.com/u/38334225?v=4)
 

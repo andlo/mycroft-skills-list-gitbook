@@ -6,5 +6,5 @@ information that didn't fit in the one line.
 
 **Github:** (https://github.com/khalildh/skill-bot-commander)
 
-**Owner:** [@khalildh](https://github.com/khalildh) ![https://avatars3.githubusercontent.com/u/16530987?v=4]
+**Owner:** [@khalildh](https://github.com/khalildh) ![avatart](https://avatars3.githubusercontent.com/u/16530987?v=4)
 
