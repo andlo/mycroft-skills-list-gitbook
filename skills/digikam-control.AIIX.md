@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+Digikam-Control
+
 #### Installation of skill:
 * Download or Clone Git (run: git clone https://github.com/AIIX/DigiKam-control inside /opt/mycroft/skills)
 * Create /opt/mycroft/skills folder if it does not exist
@@ -21,7 +23,9 @@ description:
 * For other distributions:
 - Python Dbus package is required and copying the Python Dbus folder and lib from your system python install over to /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/.
 
-**Github:** | (https://github.com/AIIX/digikam-control)
-
-**Owner:** | [@AIIX](https://github.com/AIIX) ![avatart](https://avatars3.githubusercontent.com/u/19663666?v=4)
-
+**Github:** | (https://github.com/AIIX/digikam-control)  
+**Owner:** | [@AIIX](https://github.com/AIIX)  
+**Created:** | 2018-03-27T09:36:10Z  **Last updated:** 2018-05-29T11:52:44Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

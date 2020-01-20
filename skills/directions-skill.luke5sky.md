@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+Directions Skill
+
 A skill to get simple directions (time and distance) via MyCroft.
 
 You need to create an account at https://openrouteservice.org/ and create an API-KEY/API-TOKEN put this on home.mycroft.ai under skill settings.
@@ -14,7 +16,9 @@ HowToUse:
 
 "Hey mycroft, give me directions from Richmond Hill Road New York to 39th street kansas city"
 
-**Github:** | (https://github.com/luke5sky/directions-skill)
-
-**Owner:** | [@luke5sky](https://github.com/luke5sky) ![avatart](https://avatars0.githubusercontent.com/u/27992191?v=4)
-
+**Github:** | (https://github.com/luke5sky/directions-skill)  
+**Owner:** | [@luke5sky](https://github.com/luke5sky)  
+**Created:** | 2018-12-07T15:52:20Z  **Last updated:** 2018-12-10T08:01:15Z  
+**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

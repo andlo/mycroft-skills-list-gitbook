@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+Allergy Tracker Skill for Mycroft
+
 Add a block to your `~/.mycroft/mycroft.conf` file like this:
 
 ```
@@ -9,7 +11,9 @@ Add a block to your `~/.mycroft/mycroft.conf` file like this:
 }
 ```
 
-**Github:** | (https://github.com/eClarity/skill-pollen)
-
-**Owner:** | [@eClarity](https://github.com/eClarity) ![avatart](https://avatars3.githubusercontent.com/u/4976498?v=4)
-
+**Github:** | (https://github.com/eClarity/skill-pollen)  
+**Owner:** | [@eClarity](https://github.com/eClarity)  
+**Created:** | 2017-06-01T17:52:55Z  **Last updated:** 2017-06-02T05:21:31Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

@@ -1,6 +1,8 @@
 ---
 description: Customize your Mark 1
 ---
+Mycroft Mark 1
+
 The Mycroft Mark 1 has several unique capabilities which this Skill lets you control.
 
 ### Eye Color
@@ -13,7 +15,9 @@ list for more options
 Set the faceplate to a specific brightness, or allow it to automatically adjust
 its brightness level to dim at night.
 
-**Github:** | (https://github.com/MycroftAI/mycroft-mark-1)
-
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
-
+**Github:** | (https://github.com/MycroftAI/mycroft-mark-1)  
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** | 2017-12-04T17:41:52Z  **Last updated:** 2018-11-19T21:12:30Z  
+**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-mark-1)  
+ ![.gitbook/assets/mark-1-icon.png]   

@@ -1,6 +1,8 @@
 ---
 description: Control lights and switches conected to a Wink Hub
 ---
+Wink IoT
+
 Interact with your smart home using the [Wink system](https://www.wink.com/).  Wink hubs can work with virtually any brand of lights, including [Philips Hue](https://www2.meethue.com/en-us), [GE](https://www.gelighting.com/), [Sylvania](https://www.sylvania.com/en-us/Pages/default.aspx), [Cree](https://creebulb.com/connected), and many more.  Use Mycroft to easily interact with nearby lights and light groups you create within the Wink ecosystem.
 
 Your can easily find the right light or lights based on the names of lights and groups.  The Mycroft device's Name (set at [Home](https://home.mycroft.ai/ -- check by asking "what is your name?")
@@ -13,7 +15,9 @@ It will NOT turn on a light called "Porch off the kitchen".
 
 You can also include the light/group name in your request, along with intensity words, such as: `bright`, `dim`, `full`, `half`, `completely`, `partially`
 
-**Github:** | (https://github.com/MycroftAI/skill-wink-iot)
-
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
-
+**Github:** | (https://github.com/MycroftAI/skill-wink-iot)  
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** | 2017-12-10T10:04:12Z  **Last updated:** 2018-12-15T05:12:22Z  
+**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

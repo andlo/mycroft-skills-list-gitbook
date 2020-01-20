@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+AVmusic
+
 The skill provides the functionality to playback the video of any music band/album/playlist
 or specific song requested by the user. No need to specify the location of the files or register any accounts.
 Just say what you would like to listen to and enjoy.
@@ -25,7 +27,9 @@ or -
 - Actually, go ahead
 - Say stop when you are done.
 
-**Github:** | (https://github.com/reginaneon/AVmusic)
-
-**Owner:** | [@reginaneon](https://github.com/reginaneon) ![avatart](https://avatars0.githubusercontent.com/u/30847268?v=4)
-
+**Github:** | (https://github.com/reginaneon/AVmusic)  
+**Owner:** | [@reginaneon](https://github.com/reginaneon)  
+**Created:** | 2018-06-01T22:33:50Z  **Last updated:** 2018-11-16T19:15:08Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

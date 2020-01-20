@@ -1,6 +1,8 @@
 ---
 description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together
 ---
+Hello World
+
 This is a basic Hello Word Skill that takes an _Utterance_ from the user and provides a voice response - a _Dialog_. This Skill demonstrates the basic directory and file structure of a Mycroft Skill, and is a good first Skill to study if you are interested in developing Skills for the Mycroft ecosystem.
 
 If you want to write **Skills** for Mycroft, Documentation is available:
@@ -13,7 +15,9 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
 
-**Github:** | (https://github.com/Vianne92/skill-red)
-
-**Owner:** | [@Vianne92](https://github.com/Vianne92) ![avatart](https://avatars1.githubusercontent.com/u/36879731?v=4)
-
+**Github:** | (https://github.com/Vianne92/skill-red)  
+**Owner:** | [@Vianne92](https://github.com/Vianne92)  
+**Created:** | 2018-10-19T10:39:24Z  **Last updated:** 2018-10-19T14:18:24Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

@@ -1,6 +1,8 @@
 ---
 description: This skill adds openHAB support to Mycroft
 ---
+openHAB
+
 This skill adds [openHAB](http://www.openhab.org/) support to [Mycroft](https://mycroft.ai).
 The skill takes advantage of the openHAB REST API, so it works both with the v1.x and v2.x of openHAB.
 
@@ -30,7 +32,9 @@ If items are modified in openHAB, a refresh in Mycroft is needed by the command:
 If you've forgotten what items have been identified, you can ask Mycroft:
 - *"Hey Mycroft, list openhab items"*
 
-**Github:** | (https://github.com/openhab/openhab-mycroft)
-
-**Owner:** | [@openhab](https://github.com/openhab) ![avatart](https://avatars0.githubusercontent.com/u/1007353?v=4)
-
+**Github:** | (https://github.com/openhab/openhab-mycroft)  
+**Owner:** | [@openhab](https://github.com/openhab)  
+**Created:** | 2017-09-07T19:37:21Z  **Last updated:** 2018-12-12T16:16:14Z  
+**License:** | [Eclipse Public License 1.0](https://api.github.com/licenses/epl-1.0)  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/openhab-skill)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

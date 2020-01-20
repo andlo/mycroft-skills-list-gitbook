@@ -3,7 +3,11 @@ description:
 ---
 
 
-**Github:** | (https://github.com/jcasoft/GoogleCalendar-Skill)
 
-**Owner:** | [@jcasoft](https://github.com/jcasoft) ![avatart](https://avatars0.githubusercontent.com/u/2822015?v=4)
 
+**Github:** | (https://github.com/jcasoft/GoogleCalendar-Skill)  
+**Owner:** | [@jcasoft](https://github.com/jcasoft)  
+**Created:** | 2016-09-30T21:58:45Z  **Last updated:** 2017-01-02T21:37:06Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+skill-tivo
+
 Based on ideas from the following sites:
 ```
 https://community.home-assistant.io/t/control-tivo-box-over-telnet/12430/65
@@ -43,7 +45,9 @@ Mycroft will respond with, e.g.:
 * "Bob's Tivo is off"
 * "Bob's Tivo is playing"
 
-**Github:** | (https://github.com/groupwhere/skill-tivo)
-
-**Owner:** | [@groupwhere](https://github.com/groupwhere) ![avatart](https://avatars0.githubusercontent.com/u/6051937?v=4)
-
+**Github:** | (https://github.com/groupwhere/skill-tivo)  
+**Owner:** | [@groupwhere](https://github.com/groupwhere)  
+**Created:** | 2018-03-17T16:20:08Z  **Last updated:** 2018-08-09T16:55:23Z  
+**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

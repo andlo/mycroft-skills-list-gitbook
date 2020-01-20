@@ -1,6 +1,8 @@
 ---
 description: Fallback using any offline AIML2.0 chatbot
 ---
+Fallback Chatbot
+
 **WARNING**: Do NOT install this skill if you aren't at least somewhat familiar with linux as it WILL break your Picroft installation!!!
 Because of the mere size of Program-Y, there are a few incompatibilities and installation difficulties that have to be manually resolved.
 Please read the whole description before proceeding.
@@ -28,7 +30,9 @@ sudo pip3 install lxml
 Note that the installation of lxml can be _very_ slow on low RAM devices like the Raspberry Pi (I am talking in the order of 10min+!). If you
 ever doubt that it's even doing anything, open another terminal and run `htop` on it.
 
-**Github:** | (https://github.com/Fantailed/fallback-chatbot)
-
-**Owner:** | [@Fantailed](https://github.com/Fantailed) ![avatart](https://avatars0.githubusercontent.com/u/19165963?v=4)
-
+**Github:** | (https://github.com/Fantailed/fallback-chatbot)  
+**Owner:** | [@Fantailed](https://github.com/Fantailed)  
+**Created:** | 2018-11-26T21:57:05Z  **Last updated:** 2018-11-29T15:35:16Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  

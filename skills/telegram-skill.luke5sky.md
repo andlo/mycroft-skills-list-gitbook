@@ -1,6 +1,8 @@
 ---
 description: A skill to connect a telegram bot to MyCroft
 ---
+Telegram
+
 You need to create a telegram bot (via BotFather) and save the Bot Token, your ChatID and your MyCroft Device name on home.mycroft.ai under skill settings.
 After this restart your MyCroft Unit.
 You can now commmunicate with your MyCroft Unit via this bot.
@@ -49,7 +51,9 @@ It should respond with: This is your ChatID: YOURCHATID
 
 - Your bot should send you this welcome message: Telegram-Skill on Mycroft Unit YOURUNIT is loaded and ready to use.
 
-**Github:** | (https://github.com/luke5sky/telegram-skill)
-
-**Owner:** | [@luke5sky](https://github.com/luke5sky) ![avatart](https://avatars0.githubusercontent.com/u/27992191?v=4)
-
+**Github:** | (https://github.com/luke5sky/telegram-skill)  
+**Owner:** | [@luke5sky](https://github.com/luke5sky)  
+**Created:** | 2018-07-04T10:49:00Z  **Last updated:** 2018-12-18T09:22:50Z  
+**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-693 new waiting  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

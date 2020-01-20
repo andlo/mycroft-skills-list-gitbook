@@ -1,6 +1,8 @@
 ---
 description: This skill plays a sound in the given note or an sound in the given guitar string
 ---
+Sound tuner
+
 This skill plays a sound in the given note or an sound in the given guitar string.
 This can be used to tune a musical instruments.
 
@@ -13,7 +15,9 @@ size, see  en.wikipedia.org/wiki/Stretched_octave.
 Also Mycroft call middle C for "C4" : this is the commonest octave numbering but some
 people call middle C for "C3" or even for "C5".
 
-**Github:** | (https://github.com/andlo/sound-tuner-skill)
-
-**Owner:** | [@andlo](https://github.com/andlo) ![avatart](https://avatars2.githubusercontent.com/u/3314671?v=4)
-
+**Github:** | (https://github.com/andlo/sound-tuner-skill)  
+**Owner:** | [@andlo](https://github.com/andlo)  
+**Created:** | 2018-12-08T20:51:57Z  **Last updated:** 2018-12-11T19:29:30Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/kde.png]  

@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+Home Assistant Skill for Mycroft
+
 Add a block to your `~/.mycroft/mycroft.conf` file like this:
 
 ```
@@ -18,7 +20,9 @@ NOTE: SSL support is currently secure as it does verify the cert.
 
 You will then need to restart mycroft.
 
-**Github:** | (https://github.com/mschot/mycroft-smartthings)
-
-**Owner:** | [@mschot](https://github.com/mschot) ![avatart](https://avatars1.githubusercontent.com/u/5399612?v=4)
-
+**Github:** | (https://github.com/mschot/mycroft-smartthings)  
+**Owner:** | [@mschot](https://github.com/mschot)  
+**Created:** | 2018-02-01T20:26:25Z  **Last updated:** 2018-02-01T20:27:37Z  
+**License:** | [GNU Lesser General Public License v3.0](https://api.github.com/licenses/lgpl-3.0)  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

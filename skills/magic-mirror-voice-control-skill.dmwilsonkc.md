@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+Magic Mirror Voice Control skill
+
 This mycroft skill passes commands to a MagicMirror installed on a Raspberry Pi. It requires a working install of [MagicMirror](https://github.com/MichMich/MagicMirror) and the [MMM-Remote-Control module](https://github.com/Jopyth/MMM-Remote-Control) must be installed AND ACCESSIBLE ON YOUR LOCAL NETWORK.
 
 This skill requires MMM-Remote-Control be installed and working properly.
@@ -38,7 +40,9 @@ url for example 'http://localhost:8080/remote?action=someaction&param=someparame
 
 This skill includes intents for 90% of what the MMM-Remote-Control module is capable of doing. The other 10% is a work in progress.
 
-**Github:** | (https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)
-
-**Owner:** | [@dmwilsonkc](https://github.com/dmwilsonkc) ![avatart](https://avatars3.githubusercontent.com/u/38334225?v=4)
-
+**Github:** | (https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)  
+**Owner:** | [@dmwilsonkc](https://github.com/dmwilsonkc)  
+**Created:** | 2018-05-30T02:09:43Z  **Last updated:** 2018-09-01T16:43:55Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-373 needs validation new override autotester under review  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

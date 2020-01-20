@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+Podcast Player
+
 Select your favourite podcasts in the home.mycroft.ai settings and listen to episodes from those podcasts.
 You can also check with Mycroft if there are any new episodes available from your chosen podcasts.
 
@@ -17,7 +19,9 @@ you can change the trigger word to something clearer like "Nerd").
 
 I have included some example feeds but you can change these out to the podcasts that you would like to have!
 
-**Github:** | (https://github.com/JamesPoole/podcast-skill)
-
-**Owner:** | [@JamesPoole](https://github.com/JamesPoole) ![avatart](https://avatars0.githubusercontent.com/u/9287618?v=4)
-
+**Github:** | (https://github.com/JamesPoole/podcast-skill)  
+**Owner:** | [@JamesPoole](https://github.com/JamesPoole)  
+**Created:** | 2018-01-10T23:03:20Z  **Last updated:** 2018-10-21T19:21:06Z  
+**License:** | [MIT License](https://api.github.com/licenses/mit)  
+**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-643 new waiting  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

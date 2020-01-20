@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+CaffeineWiz
+
 The skill provides the functionality to inform the user of the caffeine content of the requested
 drink. Multiple drinks in a row are possible.
 
@@ -17,7 +19,9 @@ or -
 - How about caffeine content of *drink*?
 - The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_size}} ounces.
 
-**Github:** | (https://github.com/reginaneon/CaffeineWiz)
-
-**Owner:** | [@reginaneon](https://github.com/reginaneon) ![avatart](https://avatars0.githubusercontent.com/u/30847268?v=4)
-
+**Github:** | (https://github.com/reginaneon/CaffeineWiz)  
+**Owner:** | [@reginaneon](https://github.com/reginaneon)  
+**Created:** | 2017-10-17T23:38:17Z  **Last updated:** 2018-06-12T10:23:27Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

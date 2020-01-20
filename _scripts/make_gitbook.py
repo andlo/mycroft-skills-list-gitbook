@@ -1,25 +1,91 @@
 import io
 import json
+import urllib.request
+from PIL import Image
 
 json_data = open('../_data/skills.json')
 skillsdata = json.load(json_data)
 
 def make_skillsfiles(skills):
-    categorylist = {}
     for skill in skills:
+        txt = []
+        txt.append('---\n')
+        #of.write('titel: ' + skill["skill_info"]["title"] + '\n')
+        txt.append('description: ' + skill["skill_info"]["short_desc"] + '\n')
+        txt.append('---\n')
+        
+        #icon_img = '../img/' + skill["owner"]["login"] + '_icon.png'
+        #get_img(skill["skill_info"]["icon_img"], icon_img)
+        #resize_img(icon_img, 50)
+        txt.append(skill["skill_info"]["title"] + '\n\n')
+        txt.append(skill["skill_info"]["description"] + '\n\n')
+        #avatar = '../img/' + skill["owner"]["login"] + '_avatar.png'
+        #avatar = get_img(skill["owner"]["avatar_url"], avatar)
+        #resize_img(avatar, 50)
+
+        txt.append('**Github:** | (' + skill["html_url"] + ')  \n') 
+        txt.append('**Owner:** | [@' + skill["owner"]["login"] + 
+                   '](' + skill["owner"]["html_url"] + 
+                   ')  \n')
+        txt.append('**Created:** | ' + skill["created_at"] + 
+                   '  **Last updated:** ' + skill["updated_at"] + '  \n')
+        
+
+        try:
+            txt.append('**License:** | [' + skill["license"]["name"] + '](' +
+                       skill["license"]["url"] + ')  \n')
+        except Exception:
+            txt.append('**License:** | No License - dont use this skill !  \n')
+        try:
+            txt.append('**Market status:** | ' + 
+                       '[' + skill["skill_info"].get("market_status") + ']' +
+                       '(' + skill["skill_info"]["market_url"] + ')')
+        except Exception:
+            pass
+        try:
+            for label in skill["skill_info"]["market_pending"]:
+                txt.append(' ' + label)
+        except Exception:
+            pass
+        txt.append('  \n')
+        try:
+            mk1 = ' ![.gitbook/assets/mark-1-icon.png] '
+            mk2 = ' ![.gitbook/assets/mark-2-icon.png] '
+            pi = ' ![.gitbook/assets/picroft-icon.png] '
+            kde = ' ![.gitbook/assets/kde.png]'
+            for device in skill["skill_info"].get("platforms"):
+                if device == 'all':
+                    txt.append(mk1 + mk2 + pi + kde)
+                if device == 'platform_mark1':
+                    txt.append(mk1)
+                if device == 'platform_mark2':
+                    txt.append(mk2)
+                if device == 'platform_plasmoid':
+                    txt.append(kde)
+            txt.append('  \n')
+        except Exception:
+            pass
+        
+
+        
         skillfile = '../skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
         of = open(skillfile, 'w')
-        of.write('---\n')
-        #of.write('titel: ' + skill["skill_info"]["title"] + '\n')
-        of.write('description: ' + skill["skill_info"]["short_desc"] + '\n')
-        of.write('---\n')
-        of.write(skill["skill_info"]["description"] + '\n\n')
-        of.write('**Github:** | (' + skill["html_url"] + ')\n\n') 
-        of.write('**Owner:** | [@' + skill["owner"]["login"] + 
-                 '](' + skill["owner"]["html_url"] + 
-                 ') ![avatart](' + skill["owner"]["avatar_url"] + 
-                 ')\n\n')
+        of.writelines(txt)
         of.close()
+
+def get_img(url, filename):
+        print(url)
+        result = urllib.request.urlretrieve(url, filename)
+
+def resize_img(imgfile, size):
+    print(imgfile)
+        
+    basewidth = size
+    img = Image.open(imgfile)
+    wpercent = (basewidth/float(img.size[0]))
+    hsize = int((float(img.size[1])*float(wpercent)))
+    img = img.resize((basewidth,hsize), Image.ANTIALIAS)
+    img.save(imgfile) 
 
 """
  <p>Github: <a href='{{ skill.html_url }}'>{{ skill.html_url }}</a> </p>

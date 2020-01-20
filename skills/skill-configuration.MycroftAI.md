@@ -1,6 +1,8 @@
 ---
 description: Synchronize your Device Settings with [Home](https://home.mycroft.ai)
 ---
+Device Configuration
+
 User and device settings from [home.mycroft.ai](https://home.mycroft.ai) are
 synchronized with your Devices.  This Skill performs that synchronization and
 allows you to check your settings.
@@ -16,7 +18,9 @@ __Wake word listener__
 >
 > For now, Precise only handles the "Hey Mycroft" keyword.
 
-**Github:** | (https://github.com/MycroftAI/skill-configuration)
-
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
-
+**Github:** | (https://github.com/MycroftAI/skill-configuration)  
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** | 2017-04-05T22:56:14Z  **Last updated:** 2018-12-03T10:49:52Z  
+**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-configuration)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

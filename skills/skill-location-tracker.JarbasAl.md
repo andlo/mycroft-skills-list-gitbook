@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+Location Tracker Skill
+
 Updates device location, the mycroft home location configuration remains
 unchanged
 
@@ -14,7 +16,9 @@ Current localization sources:
 * ip api - https://ipapi.co/json/
 * local ip database - https://dev.maxmind.com/geoip/legacy/geolite/
 
-**Github:** | (https://github.com/JarbasAl/skill-location-tracker)
-
-**Owner:** | [@JarbasAl](https://github.com/JarbasAl) ![avatart](https://avatars0.githubusercontent.com/u/33701864?v=4)
-
+**Github:** | (https://github.com/JarbasAl/skill-location-tracker)  
+**Owner:** | [@JarbasAl](https://github.com/JarbasAl)  
+**Created:** | 2017-08-11T15:14:30Z  **Last updated:** 2018-11-19T06:52:27Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

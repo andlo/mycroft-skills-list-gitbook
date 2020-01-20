@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+Mosquito Speak
+
 This skill has two purposes:
 1) Instead of triggering a skill by asking Mycroft a question, this skill triggers when a text message is received on mqtt.
 It can be used for notifications. For instance, a smart home server could publish the text "Somebody is at the door", if the doorbell is pressed.
@@ -44,7 +46,9 @@ Example underscore: Convert "Kitchen_window is open" to "Kitchen Window is open"
 What happens: The regex match "_" in "Kitchen_window is open".  We retain the characters until index 0 of "_", which is no characters.
 We retain the characters after index 1 of "_", which is no characters. And we put a space in the middle.
 
-**Github:** | (https://github.com/CarstenAgerskov/skill-mosquito-speak)
-
-**Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov) ![avatart](https://avatars2.githubusercontent.com/u/7515935?v=4)
-
+**Github:** | (https://github.com/CarstenAgerskov/skill-mosquito-speak)  
+**Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
+**Created:** | 2018-01-06T09:08:31Z  **Last updated:** 2018-12-24T23:21:26Z  
+**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  

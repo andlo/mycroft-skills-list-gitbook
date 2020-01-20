@@ -1,6 +1,8 @@
 ---
 description: 
 ---
+Description
+
 In this skill a user interacts with Mycroft to tell a Knock Knock joke.
 
 Here is a sample interaction
@@ -19,7 +21,9 @@ Mycroft: "says me, that's who"
 
 User: rotfl.
 
-**Github:** | (https://github.com/aussieW/skill-knock-knock-jokes)
-
-**Owner:** | [@aussieW](https://github.com/aussieW) ![avatart](https://avatars1.githubusercontent.com/u/1840035?v=4)
-
+**Github:** | (https://github.com/aussieW/skill-knock-knock-jokes)  
+**Owner:** | [@aussieW](https://github.com/aussieW)  
+**Created:** | 2018-01-30T01:11:21Z  **Last updated:** 2018-02-13T16:18:11Z  
+**License:** | No License - dont use this skill !  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
