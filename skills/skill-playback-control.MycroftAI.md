@@ -11,7 +11,7 @@ Additionally, this implements the common Play handler.  This allows playback
 services to negotiate which is best suited to play back a specific request.
 This capability is used by the [Spotify](https://github.com/forslund/spotify-skill) and [Pandora](https://github.com/mycroftai/pianobar-skill) Skills, among others.
 
-**Github:** (https://github.com/MycroftAI/skill-playback-control)
+**Github:** | (https://github.com/MycroftAI/skill-playback-control)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

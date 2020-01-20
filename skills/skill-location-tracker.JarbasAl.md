@@ -14,7 +14,7 @@ Current localization sources:
 * ip api - https://ipapi.co/json/
 * local ip database - https://dev.maxmind.com/geoip/legacy/geolite/
 
-**Github:** (https://github.com/JarbasAl/skill-location-tracker)
+**Github:** | (https://github.com/JarbasAl/skill-location-tracker)
 
-**Owner:** [@JarbasAl](https://github.com/JarbasAl) ![avatart](https://avatars0.githubusercontent.com/u/33701864?v=4)
+**Owner:** | [@JarbasAl](https://github.com/JarbasAl) ![avatart](https://avatars0.githubusercontent.com/u/33701864?v=4)
 

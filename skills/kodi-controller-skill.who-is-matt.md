@@ -8,7 +8,7 @@ player (allowing the skill to control Kodi on multiple different devices without
 requiring the user to manually edit the skill's settings), to search for videos and
 music, and to control playback.
 
-**Github:** (https://github.com/who-is-matt/kodi-controller-skill)
+**Github:** | (https://github.com/who-is-matt/kodi-controller-skill)
 
-**Owner:** [@who-is-matt](https://github.com/who-is-matt) ![avatart](https://avatars2.githubusercontent.com/u/4270243?v=4)
+**Owner:** | [@who-is-matt](https://github.com/who-is-matt) ![avatart](https://avatars2.githubusercontent.com/u/4270243?v=4)
 

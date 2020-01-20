@@ -14,7 +14,7 @@ HowToUse:
 
 "Hey mycroft, give me directions from Richmond Hill Road New York to 39th street kansas city"
 
-**Github:** (https://github.com/luke5sky/directions-skill)
+**Github:** | (https://github.com/luke5sky/directions-skill)
 
-**Owner:** [@luke5sky](https://github.com/luke5sky) ![avatart](https://avatars0.githubusercontent.com/u/27992191?v=4)
+**Owner:** | [@luke5sky](https://github.com/luke5sky) ![avatart](https://avatars0.githubusercontent.com/u/27992191?v=4)
 

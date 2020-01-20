@@ -7,7 +7,7 @@ Content is from fairytalez.com, so please go visit there if you like the stories
 Fairytalez.com is the world's largest collection of fairy tales, fables and folktales. Discover more than 2,000 classic tales plus new stories by fairy tale fans.
 http://www.fairytalez.com.
 
-**Github:** (https://github.com/andlo/fairytalez-skill)
+**Github:** | (https://github.com/andlo/fairytalez-skill)
 
-**Owner:** [@andlo](https://github.com/andlo) ![avatart](https://avatars2.githubusercontent.com/u/3314671?v=4)
+**Owner:** | [@andlo](https://github.com/andlo) ![avatart](https://avatars2.githubusercontent.com/u/3314671?v=4)
 

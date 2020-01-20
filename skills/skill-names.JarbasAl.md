@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/JarbasAl/skill-names)
+**Github:** | (https://github.com/JarbasAl/skill-names)
 
-**Owner:** [@JarbasAl](https://github.com/JarbasAl) ![avatart](https://avatars0.githubusercontent.com/u/33701864?v=4)
+**Owner:** | [@JarbasAl](https://github.com/JarbasAl) ![avatart](https://avatars0.githubusercontent.com/u/33701864?v=4)
 

@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/tjoen/skill-dutch-radio)
+**Github:** | (https://github.com/tjoen/skill-dutch-radio)
 
-**Owner:** [@tjoen](https://github.com/tjoen) ![avatart](https://avatars3.githubusercontent.com/u/974847?v=4)
+**Owner:** | [@tjoen](https://github.com/tjoen) ![avatart](https://avatars3.githubusercontent.com/u/974847?v=4)
 

@@ -19,7 +19,7 @@ Mycroft: "says me, that's who"
 
 User: rotfl.
 
-**Github:** (https://github.com/aussieW/skill-knock-knock-jokes)
+**Github:** | (https://github.com/aussieW/skill-knock-knock-jokes)
 
-**Owner:** [@aussieW](https://github.com/aussieW) ![avatart](https://avatars1.githubusercontent.com/u/1840035?v=4)
+**Owner:** | [@aussieW](https://github.com/aussieW) ![avatart](https://avatars1.githubusercontent.com/u/1840035?v=4)
 

@@ -5,7 +5,7 @@ Every corporation will have a different answer to "what is the wifi password", a
 
 Currently, VPN is assumed to be an SSL or similar type delivered with a web-based login.
 
-**Github:** (https://github.com/jrwarwick/skill-corporate-i-t-f-a-q)
+**Github:** | (https://github.com/jrwarwick/skill-corporate-i-t-f-a-q)
 
-**Owner:** [@jrwarwick](https://github.com/jrwarwick) ![avatart](https://avatars2.githubusercontent.com/u/1444084?v=4)
+**Owner:** | [@jrwarwick](https://github.com/jrwarwick) ![avatart](https://avatars2.githubusercontent.com/u/1444084?v=4)
 

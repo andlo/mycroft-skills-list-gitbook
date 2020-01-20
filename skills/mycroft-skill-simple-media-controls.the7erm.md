@@ -8,7 +8,7 @@ I've written a couple of scripts to get you started.  Keep in mind these might n
 
 If you write your owns scripts, please feel free to fork the project, add them to the `samples/` and create a pull request.
 
-**Github:** (https://github.com/the7erm/mycroft-skill-simple-media-controls)
+**Github:** | (https://github.com/the7erm/mycroft-skill-simple-media-controls)
 
-**Owner:** [@the7erm](https://github.com/the7erm) ![avatart](https://avatars0.githubusercontent.com/u/2530157?v=4)
+**Owner:** | [@the7erm](https://github.com/the7erm) ![avatart](https://avatars0.githubusercontent.com/u/2530157?v=4)
 

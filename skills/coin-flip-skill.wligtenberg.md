@@ -9,7 +9,7 @@ To get this done we need
 - Randomly pick between heads or tails
 - Speak the result.
 
-**Github:** (https://github.com/wligtenberg/coin-flip-skill)
+**Github:** | (https://github.com/wligtenberg/coin-flip-skill)
 
-**Owner:** [@wligtenberg](https://github.com/wligtenberg) ![avatart](https://avatars0.githubusercontent.com/u/1241175?v=4)
+**Owner:** | [@wligtenberg](https://github.com/wligtenberg) ![avatart](https://avatars0.githubusercontent.com/u/1241175?v=4)
 

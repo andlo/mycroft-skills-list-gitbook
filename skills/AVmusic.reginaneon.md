@@ -25,7 +25,7 @@ or -
 - Actually, go ahead
 - Say stop when you are done.
 
-**Github:** (https://github.com/reginaneon/AVmusic)
+**Github:** | (https://github.com/reginaneon/AVmusic)
 
-**Owner:** [@reginaneon](https://github.com/reginaneon) ![avatart](https://avatars0.githubusercontent.com/u/30847268?v=4)
+**Owner:** | [@reginaneon](https://github.com/reginaneon) ![avatart](https://avatars0.githubusercontent.com/u/30847268?v=4)
 

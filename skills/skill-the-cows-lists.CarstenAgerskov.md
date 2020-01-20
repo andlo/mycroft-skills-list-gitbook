@@ -116,7 +116,7 @@ and you decide what information to put in the issue report.
 
 Other issues that are not caught as describe above, can be reported as well, on https://github.com/CarstenAgerskov/skill-the-cows-lists/issues.
 
-**Github:** (https://github.com/CarstenAgerskov/skill-the-cows-lists)
+**Github:** | (https://github.com/CarstenAgerskov/skill-the-cows-lists)
 
-**Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov) ![avatart](https://avatars2.githubusercontent.com/u/7515935?v=4)
+**Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov) ![avatart](https://avatars2.githubusercontent.com/u/7515935?v=4)
 

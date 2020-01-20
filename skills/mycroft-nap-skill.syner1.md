@@ -10,7 +10,7 @@ wake up". Otherwise the system will be totally silent and won't bother you.
 
 On a Mark 1 this also dims the eyes.
 
-**Github:** (https://github.com/syner1/mycroft-nap-skill)
+**Github:** | (https://github.com/syner1/mycroft-nap-skill)
 
-**Owner:** [@syner1](https://github.com/syner1) ![avatart](https://avatars0.githubusercontent.com/u/43918410?v=4)
+**Owner:** | [@syner1](https://github.com/syner1) ![avatart](https://avatars0.githubusercontent.com/u/43918410?v=4)
 

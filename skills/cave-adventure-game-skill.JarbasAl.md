@@ -5,7 +5,7 @@ This is a faithful port of the “Adventure” game to a Mycroft Skill from the 
 
 Adapted from [python-adventure](https://github.com/brandon-rhodes/python-adventure), the python port of the game.
 
-**Github:** (https://github.com/JarbasAl/cave-adventure-game-skill)
+**Github:** | (https://github.com/JarbasAl/cave-adventure-game-skill)
 
-**Owner:** [@JarbasAl](https://github.com/JarbasAl) ![avatart](https://avatars0.githubusercontent.com/u/33701864?v=4)
+**Owner:** | [@JarbasAl](https://github.com/JarbasAl) ![avatart](https://avatars0.githubusercontent.com/u/33701864?v=4)
 

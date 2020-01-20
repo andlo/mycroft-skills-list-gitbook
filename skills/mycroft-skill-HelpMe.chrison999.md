@@ -15,7 +15,7 @@ Input: help me with intents
 Input: help me with skill
 2017-05-26 17:42:52,210 - CLIClient - INFO - Speak: skill_joke , no description provided for this skill.
 
-**Github:** (https://github.com/chrison999/mycroft-skill-HelpMe)
+**Github:** | (https://github.com/chrison999/mycroft-skill-HelpMe)
 
-**Owner:** [@chrison999](https://github.com/chrison999) ![avatart](https://avatars3.githubusercontent.com/u/7979787?v=4)
+**Owner:** | [@chrison999](https://github.com/chrison999) ![avatart](https://avatars3.githubusercontent.com/u/7979787?v=4)
 

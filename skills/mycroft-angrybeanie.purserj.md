@@ -11,7 +11,7 @@ cd into mycroft-angrybeanie
 
 pip -r requirements.txt.
 
-**Github:** (https://github.com/purserj/mycroft-angrybeanie)
+**Github:** | (https://github.com/purserj/mycroft-angrybeanie)
 
-**Owner:** [@purserj](https://github.com/purserj) ![avatart](https://avatars2.githubusercontent.com/u/7918145?v=4)
+**Owner:** | [@purserj](https://github.com/purserj) ![avatart](https://avatars2.githubusercontent.com/u/7918145?v=4)
 

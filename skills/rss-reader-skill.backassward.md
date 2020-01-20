@@ -8,7 +8,7 @@ the main features are:
 * ask Mycroft to check if new articles have been published,
 * ask Mycroft to read the titles and other information for you.
 
-**Github:** (https://github.com/backassward/rss-reader-skill)
+**Github:** | (https://github.com/backassward/rss-reader-skill)
 
-**Owner:** [@backassward](https://github.com/backassward) ![avatart](https://avatars2.githubusercontent.com/u/38608535?v=4)
+**Owner:** | [@backassward](https://github.com/backassward) ![avatart](https://avatars2.githubusercontent.com/u/38608535?v=4)
 

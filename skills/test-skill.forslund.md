@@ -7,7 +7,7 @@ from the BBC, Associated Press, CBC.ca, CNN, PBS or
 Fox.  Select your favorite at:
 [home.mycroft.ai](https://home.mycroft.ai/#/skill).
 
-**Github:** (https://github.com/forslund/test-skill)
+**Github:** | (https://github.com/forslund/test-skill)
 
-**Owner:** [@forslund](https://github.com/forslund) ![avatart](https://avatars0.githubusercontent.com/u/804543?v=4)
+**Owner:** | [@forslund](https://github.com/forslund) ![avatart](https://avatars0.githubusercontent.com/u/804543?v=4)
 

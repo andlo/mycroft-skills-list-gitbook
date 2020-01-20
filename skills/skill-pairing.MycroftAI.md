@@ -6,7 +6,7 @@ The default backend to provide services for Mycroft users is
 to privacy-protecting Speech to Text, Wolfram Alpha and other such services,
 as well as easy configuration for all your Mycroft devices.
 
-**Github:** (https://github.com/MycroftAI/skill-pairing)
+**Github:** | (https://github.com/MycroftAI/skill-pairing)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

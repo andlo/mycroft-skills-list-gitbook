@@ -10,7 +10,7 @@ For **enclosures** with screen support, conditions are briefly shown using visem
 
 The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your [https://home.mycroft.ai](https://home.mycroft.ai) account.
 
-**Github:** (https://github.com/einstalek/ru-weather)
+**Github:** | (https://github.com/einstalek/ru-weather)
 
-**Owner:** [@einstalek](https://github.com/einstalek) ![avatart](https://avatars1.githubusercontent.com/u/20370264?v=4)
+**Owner:** | [@einstalek](https://github.com/einstalek) ![avatart](https://avatars1.githubusercontent.com/u/20370264?v=4)
 

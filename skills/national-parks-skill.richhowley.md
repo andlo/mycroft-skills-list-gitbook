@@ -13,7 +13,7 @@ Since definite articles are dropped from speech, searches for descriptions of so
 
 After asking to be quizzed Mycroft will ask what state a particular National Park Service property is in.  The answer may be spoken after the beep without using the wake word but there will only be a few seconds to answer.  If Mycroft does not respond to the answer use the wake word with "Repeat national parks quiz" and answer after the beep.
 
-**Github:** (https://github.com/richhowley/national-parks-skill)
+**Github:** | (https://github.com/richhowley/national-parks-skill)
 
-**Owner:** [@richhowley](https://github.com/richhowley) ![avatart](https://avatars0.githubusercontent.com/u/318132?v=4)
+**Owner:** | [@richhowley](https://github.com/richhowley) ![avatart](https://avatars0.githubusercontent.com/u/318132?v=4)
 

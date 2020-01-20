@@ -23,7 +23,7 @@ description:
 * For other distributions:
 - Python Dbus and Python Psutil package is required and copying the Python Dbus folder and lib from your system python install over to /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/.
 
-**Github:** (https://github.com/AIIX/amarok-player-skill)
+**Github:** | (https://github.com/AIIX/amarok-player-skill)
 
-**Owner:** [@AIIX](https://github.com/AIIX) ![avatart](https://avatars3.githubusercontent.com/u/19663666?v=4)
+**Owner:** | [@AIIX](https://github.com/AIIX) ![avatart](https://avatars3.githubusercontent.com/u/19663666?v=4)
 

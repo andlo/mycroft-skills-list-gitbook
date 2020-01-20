@@ -13,7 +13,7 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
 
-**Github:** (https://github.com/ln191/Skill-PhotoFrame)
+**Github:** | (https://github.com/ln191/Skill-PhotoFrame)
 
-**Owner:** [@ln191](https://github.com/ln191) ![avatart](https://avatars3.githubusercontent.com/u/22520244?v=4)
+**Owner:** | [@ln191](https://github.com/ln191) ![avatart](https://avatars3.githubusercontent.com/u/22520244?v=4)
 

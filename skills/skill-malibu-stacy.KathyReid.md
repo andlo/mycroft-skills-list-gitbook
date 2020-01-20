@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/KathyReid/skill-malibu-stacy)
+**Github:** | (https://github.com/KathyReid/skill-malibu-stacy)
 
-**Owner:** [@KathyReid](https://github.com/KathyReid) ![avatart](https://avatars2.githubusercontent.com/u/114158?v=4)
+**Owner:** | [@KathyReid](https://github.com/KathyReid) ![avatart](https://avatars2.githubusercontent.com/u/114158?v=4)
 

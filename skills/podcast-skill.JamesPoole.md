@@ -17,7 +17,7 @@ you can change the trigger word to something clearer like "Nerd").
 
 I have included some example feeds but you can change these out to the podcasts that you would like to have!
 
-**Github:** (https://github.com/JamesPoole/podcast-skill)
+**Github:** | (https://github.com/JamesPoole/podcast-skill)
 
-**Owner:** [@JamesPoole](https://github.com/JamesPoole) ![avatart](https://avatars0.githubusercontent.com/u/9287618?v=4)
+**Owner:** | [@JamesPoole](https://github.com/JamesPoole) ![avatart](https://avatars0.githubusercontent.com/u/9287618?v=4)
 

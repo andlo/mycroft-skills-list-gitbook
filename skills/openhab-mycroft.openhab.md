@@ -30,7 +30,7 @@ If items are modified in openHAB, a refresh in Mycroft is needed by the command:
 If you've forgotten what items have been identified, you can ask Mycroft:
 - *"Hey Mycroft, list openhab items"*
 
-**Github:** (https://github.com/openhab/openhab-mycroft)
+**Github:** | (https://github.com/openhab/openhab-mycroft)
 
-**Owner:** [@openhab](https://github.com/openhab) ![avatart](https://avatars0.githubusercontent.com/u/1007353?v=4)
+**Owner:** | [@openhab](https://github.com/openhab) ![avatart](https://avatars0.githubusercontent.com/u/1007353?v=4)
 

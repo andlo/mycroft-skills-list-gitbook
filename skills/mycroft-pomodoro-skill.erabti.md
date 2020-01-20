@@ -23,7 +23,7 @@ Pomodoro is a very good work technique used to manage time, by giving persistent
 4. Integrate with the enclosure.
 5. Switchable fun mode!
 
-**Github:** (https://github.com/erabti/mycroft-pomodoro-skill)
+**Github:** | (https://github.com/erabti/mycroft-pomodoro-skill)
 
-**Owner:** [@erabti](https://github.com/erabti) ![avatart](https://avatars0.githubusercontent.com/u/18039922?v=4)
+**Owner:** | [@erabti](https://github.com/erabti) ![avatart](https://avatars0.githubusercontent.com/u/18039922?v=4)
 

@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/rugbylug/Mycroft-Todo)
+**Github:** | (https://github.com/rugbylug/Mycroft-Todo)
 
-**Owner:** [@rugbylug](https://github.com/rugbylug) ![avatart](https://avatars3.githubusercontent.com/u/41974542?v=4)
+**Owner:** | [@rugbylug](https://github.com/rugbylug) ![avatart](https://avatars3.githubusercontent.com/u/41974542?v=4)
 

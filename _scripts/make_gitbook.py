@@ -14,8 +14,8 @@ def make_skillsfiles(skills):
         of.write('description: ' + skill["skill_info"]["short_desc"] + '\n')
         of.write('---\n')
         of.write(skill["skill_info"]["description"] + '\n\n')
-        of.write('**Github:** (' + skill["html_url"] + ')\n\n') 
-        of.write('**Owner:** [@' + skill["owner"]["login"] + 
+        of.write('**Github:** | (' + skill["html_url"] + ')\n\n') 
+        of.write('**Owner:** | [@' + skill["owner"]["login"] + 
                  '](' + skill["owner"]["html_url"] + 
                  ') ![avatart](' + skill["owner"]["avatar_url"] + 
                  ')\n\n')

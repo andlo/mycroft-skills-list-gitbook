@@ -20,7 +20,7 @@ Add a block to your `~/.mycroft/mycroft.conf` file like this:
 ```
 * Google API key can be obtained [HERE](https://developers.google.com/maps/documentation/directions/start#get-a-key)
 
-**Github:** (https://github.com/BongoEADGC6/mycroft-traffic)
+**Github:** | (https://github.com/BongoEADGC6/mycroft-traffic)
 
-**Owner:** [@BongoEADGC6](https://github.com/BongoEADGC6) ![avatart](https://avatars2.githubusercontent.com/u/12252699?v=4)
+**Owner:** | [@BongoEADGC6](https://github.com/BongoEADGC6) ![avatart](https://avatars2.githubusercontent.com/u/12252699?v=4)
 

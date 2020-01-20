@@ -12,7 +12,7 @@ By default it will give you clean and/or geeky jokes, but you can ask a little a
 
 _WARNING:  Laughter is not guaranteed, but eye rolls are likely._
 
-**Github:** (https://github.com/MycroftAI/skill-joke)
+**Github:** | (https://github.com/MycroftAI/skill-joke)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

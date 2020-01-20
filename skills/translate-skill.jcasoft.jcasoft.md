@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/jcasoft/translate-skill.jcasoft)
+**Github:** | (https://github.com/jcasoft/translate-skill.jcasoft)
 
-**Owner:** [@jcasoft](https://github.com/jcasoft) ![avatart](https://avatars0.githubusercontent.com/u/2822015?v=4)
+**Owner:** | [@jcasoft](https://github.com/jcasoft) ![avatart](https://avatars0.githubusercontent.com/u/2822015?v=4)
 

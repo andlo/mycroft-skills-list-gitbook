@@ -49,7 +49,7 @@ It should respond with: This is your ChatID: YOURCHATID
 
 - Your bot should send you this welcome message: Telegram-Skill on Mycroft Unit YOURUNIT is loaded and ready to use.
 
-**Github:** (https://github.com/luke5sky/telegram-skill)
+**Github:** | (https://github.com/luke5sky/telegram-skill)
 
-**Owner:** [@luke5sky](https://github.com/luke5sky) ![avatart](https://avatars0.githubusercontent.com/u/27992191?v=4)
+**Owner:** | [@luke5sky](https://github.com/luke5sky) ![avatart](https://avatars0.githubusercontent.com/u/27992191?v=4)
 

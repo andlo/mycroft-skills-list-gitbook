@@ -13,7 +13,7 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
 
-**Github:** (https://github.com/MycroftAI/skill-hello-world)
+**Github:** | (https://github.com/MycroftAI/skill-hello-world)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

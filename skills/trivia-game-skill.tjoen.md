@@ -15,7 +15,7 @@ And it actually does seem to work pretty good.
 
 Translations might be a problem with this method, but this skill uses questions in english.
 
-**Github:** (https://github.com/tjoen/trivia-game-skill)
+**Github:** | (https://github.com/tjoen/trivia-game-skill)
 
-**Owner:** [@tjoen](https://github.com/tjoen) ![avatart](https://avatars3.githubusercontent.com/u/974847?v=4)
+**Owner:** | [@tjoen](https://github.com/tjoen) ![avatart](https://avatars3.githubusercontent.com/u/974847?v=4)
 

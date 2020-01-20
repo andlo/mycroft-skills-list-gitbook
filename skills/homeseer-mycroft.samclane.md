@@ -5,7 +5,7 @@ A port of the HomeSeer functionality from Alexa to Mycroft. Allows the user to i
 control. Currently allows devices to be turned on/off, change values/percentages, lock/unlock devices, and get the
 current status of any device.
 
-**Github:** (https://github.com/samclane/homeseer-mycroft)
+**Github:** | (https://github.com/samclane/homeseer-mycroft)
 
-**Owner:** [@samclane](https://github.com/samclane) ![avatart](https://avatars1.githubusercontent.com/u/5761099?v=4)
+**Owner:** | [@samclane](https://github.com/samclane) ![avatart](https://avatars1.githubusercontent.com/u/5761099?v=4)
 

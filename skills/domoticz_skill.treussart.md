@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/treussart/domoticz_skill)
+**Github:** | (https://github.com/treussart/domoticz_skill)
 
-**Owner:** [@treussart](https://github.com/treussart) ![avatart](https://avatars0.githubusercontent.com/u/20381672?v=4)
+**Owner:** | [@treussart](https://github.com/treussart) ![avatart](https://avatars0.githubusercontent.com/u/20381672?v=4)
 

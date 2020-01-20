@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/Quinn2017/Skill-Magic-Eight-Ball)
+**Github:** | (https://github.com/Quinn2017/Skill-Magic-Eight-Ball)
 
-**Owner:** [@Quinn2017](https://github.com/Quinn2017) ![avatart](https://avatars2.githubusercontent.com/u/32936713?v=4)
+**Owner:** | [@Quinn2017](https://github.com/Quinn2017) ![avatart](https://avatars2.githubusercontent.com/u/32936713?v=4)
 

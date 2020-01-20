@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/TicklishGiraffe/mycroft_genomics)
+**Github:** | (https://github.com/TicklishGiraffe/mycroft_genomics)
 
-**Owner:** [@TicklishGiraffe](https://github.com/TicklishGiraffe) ![avatart](https://avatars2.githubusercontent.com/u/11031408?v=4)
+**Owner:** | [@TicklishGiraffe](https://github.com/TicklishGiraffe) ![avatart](https://avatars2.githubusercontent.com/u/11031408?v=4)
 

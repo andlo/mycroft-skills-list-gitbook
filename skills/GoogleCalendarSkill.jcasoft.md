@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/jcasoft/GoogleCalendarSkill)
+**Github:** | (https://github.com/jcasoft/GoogleCalendarSkill)
 
-**Owner:** [@jcasoft](https://github.com/jcasoft) ![avatart](https://avatars0.githubusercontent.com/u/2822015?v=4)
+**Owner:** | [@jcasoft](https://github.com/jcasoft) ![avatart](https://avatars0.githubusercontent.com/u/2822015?v=4)
 

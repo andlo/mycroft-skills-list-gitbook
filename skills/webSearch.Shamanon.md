@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/Shamanon/webSearch)
+**Github:** | (https://github.com/Shamanon/webSearch)
 
-**Owner:** [@Shamanon](https://github.com/Shamanon) ![avatart](https://avatars1.githubusercontent.com/u/7411356?v=4)
+**Owner:** | [@Shamanon](https://github.com/Shamanon) ![avatart](https://avatars1.githubusercontent.com/u/7411356?v=4)
 

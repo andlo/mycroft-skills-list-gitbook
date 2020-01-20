@@ -38,7 +38,7 @@ url for example 'http://localhost:8080/remote?action=someaction&param=someparame
 
 This skill includes intents for 90% of what the MMM-Remote-Control module is capable of doing. The other 10% is a work in progress.
 
-**Github:** (https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)
+**Github:** | (https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)
 
-**Owner:** [@dmwilsonkc](https://github.com/dmwilsonkc) ![avatart](https://avatars3.githubusercontent.com/u/38334225?v=4)
+**Owner:** | [@dmwilsonkc](https://github.com/dmwilsonkc) ![avatart](https://avatars3.githubusercontent.com/u/38334225?v=4)
 

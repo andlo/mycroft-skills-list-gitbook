@@ -3,7 +3,7 @@ description:
 ---
 
 
-**Github:** (https://github.com/lachendeKatze/skill-days-until-christmas)
+**Github:** | (https://github.com/lachendeKatze/skill-days-until-christmas)
 
-**Owner:** [@lachendeKatze](https://github.com/lachendeKatze) ![avatart](https://avatars0.githubusercontent.com/u/21974795?v=4)
+**Owner:** | [@lachendeKatze](https://github.com/lachendeKatze) ![avatart](https://avatars0.githubusercontent.com/u/21974795?v=4)
 

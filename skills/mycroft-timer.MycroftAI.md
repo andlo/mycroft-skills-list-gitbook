@@ -6,7 +6,7 @@ Use Mycroft when your hands are messy or you need more that the one timer in you
 On a Mark 1 you'll see visual feedback as the timer runs, and you can use
 the top button to stop the beeping once a timer expires.
 
-**Github:** (https://github.com/MycroftAI/mycroft-timer)
+**Github:** | (https://github.com/MycroftAI/mycroft-timer)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 

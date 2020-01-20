@@ -9,7 +9,7 @@ The skill stops adjusting volume if another skill is using the speaker or if Myc
 
 The skill can be activated og deactivatet by the command "Hey Mycroft, set auto volume off" or "Hey Mycroft, set auto volume on"
 
-**Github:** (https://github.com/andlo/auto-volume-skill)
+**Github:** | (https://github.com/andlo/auto-volume-skill)
 
-**Owner:** [@andlo](https://github.com/andlo) ![avatart](https://avatars2.githubusercontent.com/u/3314671?v=4)
+**Owner:** | [@andlo](https://github.com/andlo) ![avatart](https://avatars2.githubusercontent.com/u/3314671?v=4)
 

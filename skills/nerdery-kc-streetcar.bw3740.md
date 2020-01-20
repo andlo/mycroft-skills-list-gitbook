@@ -7,7 +7,7 @@ Information is provided free-of-charge from http://www.kc-metro.com/tmwebwatch/L
 
 This skill is still in it's early stages of development. With the planned expansions of the line, there will be tweaks needed. This is for the good of the KC and Mycroft communities, so please add/suggest new features.
 
-**Github:** (https://github.com/bw3740/nerdery-kc-streetcar)
+**Github:** | (https://github.com/bw3740/nerdery-kc-streetcar)
 
-**Owner:** [@bw3740](https://github.com/bw3740) ![avatart](https://avatars2.githubusercontent.com/u/8460730?v=4)
+**Owner:** | [@bw3740](https://github.com/bw3740) ![avatart](https://avatars2.githubusercontent.com/u/8460730?v=4)
 

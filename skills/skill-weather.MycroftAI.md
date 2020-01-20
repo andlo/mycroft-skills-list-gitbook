@@ -10,7 +10,7 @@ For **enclosures** with screen support, conditions are briefly shown using visem
 
 The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your [https://home.mycroft.ai](https://home.mycroft.ai) account.
 
-**Github:** (https://github.com/MycroftAI/skill-weather)
+**Github:** | (https://github.com/MycroftAI/skill-weather)
 
-**Owner:** [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI) ![avatart](https://avatars0.githubusercontent.com/u/14171097?v=4)
 
