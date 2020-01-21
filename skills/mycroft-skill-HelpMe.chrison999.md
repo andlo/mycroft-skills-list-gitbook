@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-mycroft-skill-HelpMe
-
 Input: help me with jokeskill
 2017-05-26 17:42:30,332 - CLIClient - INFO - Speak: I can help you with the following things. 1 - Description of this skill,  2 - Intent Description, 3 - Commands for this skill, 4 - Contact
 
@@ -23,3 +21,6 @@ Input: help me with skill
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
+{% endhint %}

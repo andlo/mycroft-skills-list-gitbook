@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-Lecture Subjects
-
 When asked what kind of lecture there is today, mycroft answers with the right subject. this works as a teaching example for home assistants.
 
 In "dates.txt" the user puts dates for upcoming lectures with some requirements:
@@ -19,6 +17,9 @@ If the date of today cannot be found in "dates.txt", nolecture.dialog will be us
 **Github:** | (https://github.com/Habanossi/lecture-skill)  
 **Owner:** | [@Habanossi](https://github.com/Habanossi)  
 **Created:** | 2019-05-08T07:05:29Z  **Last updated:** 2019-08-30T07:56:57Z  
-**License:** | No License - dont use this skill !  
+**License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+{% endhint %}

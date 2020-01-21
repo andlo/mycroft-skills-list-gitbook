@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-Pomodoro Skill
-
 This skill is used to try to make Mycroft as your work companion.
 Pomodoro is a very good work technique used to manage time, by giving persistent break times.
 
@@ -28,6 +26,12 @@ Pomodoro is a very good work technique used to manage time, by giving persistent
 **Github:** | (https://github.com/erabti/mycroft-pomodoro-skill)  
 **Owner:** | [@erabti](https://github.com/erabti)  
 **Created:** | 2018-01-06T21:55:09Z  **Last updated:** 2018-08-27T15:35:39Z  
-**License:** | No License - dont use this skill !  
+**License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
+{% endhint %}
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+{% endhint %}

@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-KDE-Kate-Control
-
 #### Installation of skill:
 * Download or Clone Git (run: git clone https://github.com/AIIX/kde-kate-control inside /opt/mycroft/skills)
 * Create /opt/mycroft/skills folder if it does not exist
@@ -29,3 +27,6 @@ KDE-Kate-Control
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
+{% endhint %}

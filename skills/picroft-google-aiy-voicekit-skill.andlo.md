@@ -1,8 +1,6 @@
 ---
 description: Enables Google AIY voicekit
 ---
-Google AIY voicekit
-
 This enables the led and button on the Google AIY voicekit.
 
 The button led turns on when Mycroft is listning. If button is pressed he begins to listen. If the button is pressed for a longer time he stops whatever he is dooing.
@@ -13,3 +11,16 @@ The button led turns on when Mycroft is listning. If button is pressed he begins
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/picroft-google-aiy-voicekit) PR-1149  
 **Platform:**   ![](.gitbook/assets/picroft-icon.png)   
+**Tags:** \#googlevoicekit \#aiy \#Googleaiy \#voicekit \#voicehat   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Google AIY voicekit
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Google AIY voicekit```
+{% endtab %}
+  {% endtabs %}
+  

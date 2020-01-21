@@ -1,8 +1,6 @@
 ---
 description: Fallback using any offline AIML2.0 chatbot
 ---
-Fallback Chatbot
-
 **WARNING**: Do NOT install this skill if you aren't at least somewhat familiar with linux as it WILL break your Picroft installation!!!
 Because of the mere size of Program-Y, there are a few incompatibilities and installation difficulties that have to be manually resolved.
 Please read the whole description before proceeding.
@@ -33,6 +31,10 @@ ever doubt that it's even doing anything, open another terminal and run `htop` o
 **Github:** | (https://github.com/Fantailed/fallback-chatbot)  
 **Owner:** | [@Fantailed](https://github.com/Fantailed)  
 **Created:** | 2018-11-26T21:57:05Z  **Last updated:** 2018-11-29T15:35:16Z  
-**License:** | No License - dont use this skill !  
+**License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**  **Platform:**  **Platform:**    
+**Platform:**    
+**Tags:** \#\chatbot \#\aiml \#\aiml2.0   
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+{% endhint %}

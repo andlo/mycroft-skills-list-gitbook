@@ -18,7 +18,7 @@ def make_skillsfiles(skills):
         #icon_img = '../img/' + skill["owner"]["login"] + '_icon.png'
         #get_img(skill["skill_info"]["icon_img"], icon_img)
         #resize_img(icon_img, 50)
-        txt.append(skill["skill_info"]["title"] + '\n\n')
+        #txt.append(skill["skill_info"]["title"] + '\n\n')
         txt.append(skill["skill_info"]["description"] + '\n\n')
         #avatar = '../img/' + skill["owner"]["login"] + '_avatar.png'
         #avatar = get_img(skill["owner"]["avatar_url"], avatar)
@@ -35,13 +35,20 @@ def make_skillsfiles(skills):
         try:
             txt.append('**License:** | [' + skill["license"]["name"] + '](' +
                        skill["license"]["url"] + ')  \n')
+            license = True
         except Exception:
-            txt.append('**License:** | No License - dont use this skill !  \n')
+            txt.append('**License:** | No License  \n')
+            license = False
         try:
             txt.append('**Market status:** | ' + 
                        '[' + skill["skill_info"].get("market_status") + ']' +
                        '(' + skill["skill_info"]["market_url"] + ')')
+            if skill["skill_info"]["market_status"] == 'In Market':
+                market = True
+            else:
+                market = False
         except Exception:
+            market = False
             pass
         try:
             for label in skill["skill_info"]["market_pending"]:
@@ -54,8 +61,8 @@ def make_skillsfiles(skills):
             mk2 = ' ![](.gitbook/assets/mark-2-icon.png) '
             pi = ' ![](.gitbook/assets/picroft-icon.png) '
             kde = ' ![](.gitbook/assets/kde.png) '
+            txt.append('**Platform:**  ')
             for device in skill["skill_info"].get("platforms"):
-                txt.append('**Platform:**  ')
                 if device == 'all':
                     txt.append(mk1 + mk2 + pi + kde)
                 if device == 'platform_mark1':
@@ -67,11 +74,45 @@ def make_skillsfiles(skills):
                 if device == 'platform_picroft':
                     txt.append(pi)
             txt.append('  \n')
+            if not skill["skill_info"]["tags"] == []:
+                txt.append('**Tags:** ')
+                for tag in skill["skill_info"]["tags"]:
+                    txt.append('\#' + tag + ' ')
+                txt.append('  \n')
         except Exception:
             pass
-        
+        ast = skill["skill_info"]["ast_passed"]
+        if not ast:
+            txt.append('{% hint style="warning" %}\n')                
+            txt.append('This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.\n')
+            txt.append('{% endhint %}\n')
+        if not license:
+            txt.append('{% hint style="danger" %}\n')                
+            txt.append('This skill dosnt have any license attatched. It is not adviasable to use this skill')
+            txt.append('nor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.\n')
+            txt.append('{% endhint %}\n')
+        if market and license and ast:
+            txt.append('{% hint style="info" %}\n')
+            txt.append('This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers\n')
+            txt.append('{% endhint %}\n  ')
+            txt.append('{% tabs %}\n')
+            txt.append('{% tab title="Install by voice" %}\n' + 
+                       '> Hey Mycroft - install ' + skill["skill_info"]["name"] + '\n')
+            txt.append('{% endtab %}\n  ')
+            txt.append('{% tab title="Install by mycroft-msm" %}\n' + 
+                       '``` mycroft-msm install ' + skill["skill_info"]["name"] + '```\n')
+            txt.append('{% endtab %}\n  ')
+            txt.append('{% endtabs %}\n  ')
+        if not market and license and ast:
+            txt.append('{% hint style="warning" %}\n')
+            txt.append('This skill is not aproved by Mycroft skill tester.\n')
+            txt.append('{% endhint %}\n  ')
+            txt.append('{% tabs %}\n')
+            txt.append('{% tab title="Install by mycroft-msm" %}\n' + 
+                       '``` mycroft-msm install ' + skill["html_url"] + '```\n')
+            txt.append('{% endtab %}\n  ')
+            txt.append('{% endtabs %}\n  ')
 
-        
         skillfile = '../skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
         of = open(skillfile, 'w')
         of.writelines(txt)
@@ -90,110 +131,6 @@ def resize_img(imgfile, size):
     hsize = int((float(img.size[1])*float(wpercent)))
     img = img.resize((basewidth,hsize), Image.ANTIALIAS)
     img.save(imgfile) 
-
-"""
- <p>Github: <a href='{{ skill.html_url }}'>{{ skill.html_url }}</a> </p>
-    <p>Owner: <a href='{{ skill.owner.html_url }}'>@{{ skill.owner.login }}  <img src='{{ skill.owner.avatar_url }}' width='20' style='vertical-align:bottom'/></a></p>
-    <p>Created: {{ skill.created_at | date_to_string }}    Updated: {{ skill.updated_at | date_to_string }} </p>
-    {% if skill.license.size >= 1 %}
-    <p>License: {{ skill.license.name }} </p>
-    {% endif %}
-    {% if skill.skill_info.market_status == 'In Market' %}
-    <p>Market status: <a href='{{ skill.skill_info.market_url }}'>{{ skill.skill_info.market_status }}</a></p>
-    {% endif %}
-    {% if skill.skill_info.market_status == 'Not in Market' %}
-    <p>Market status: {{ skill.skill_info.market_status }} </p>
-    {% endif %}
-    {% if skill.skill_info.market_status == 'Pending Market' %}
-    <p>Market status: Pending
-        {% if skill.skill_info.market_pending.size >= 1 %}
-           {% for label in skill.skill_info.market_pending %} [{{ label  }}] {% endfor %}
-        {% endif %}
-    </p>
-    {% endif %}
-   
-""" 
-   
-
-"""
-{% for skill in site.data.skills %}
-{% if skill.skill_info.icon.size >= 1  %}
-    <span style="font-size: 3em; color: {{ skill.skill_info.icon.color }} ;margin-bottom: 0;">
-    <i class="fas fa-{{ skill.skill_info.icon.icon }}"></i>
-    </span>
-{% else %}
-    {% if skill.skill_info.icon_img.size >= 1 %}
-    <img src='{{ skill.skill_info.icon_img }}' height='50' style='vertical-align:bottom'/>&nbsp;&nbsp;
-    {% else %}
-    <span style="font-size: 3em; color: lightgray ; margin-bottom: 0;">
-    <i class="fas fa-comment-alt"></i>
-    </span>
-    {% endif %}
-{% endif %}
-{% if skill.skill_info.title != "" %}
-    <span style="font-size: 2.3em; margin-bottom: 0;">{{ skill.skill_info.title }}<br></span>
-{% else %}
-    <span style="font-size: 2.3em; margin-bottom: 0;">{{ skill.name }}<br></span>
-{% endif %}
-{% if skill.skill_info.short_desc != "" %}
-    <span style="font-size: 1.5em; margin-bottom: 0; margin-top: 0;">{{ skill.skill_info.short_desc }}<br></span>
-{% else %}
-    {% if skill.description != "" or skill.description != null %}
-        <span style="font-size: 1.5em; margin-bottom: 0; margin-top: 0;">{{ skill.description }}<br></span>
-    {% endif %}
-{% endif %}
-<div class="skill-info">
-    {% if skill.skill_info.categories.size >= 1 %}
-    <p>Category: {% for category in skill.skill_info.categories %} [{{ category  }}] {% endfor %}</p>
-    {% endif %}
-    <p>Github: <a href='{{ skill.html_url }}'>{{ skill.html_url }}</a> </p>
-    <p>Owner: <a href='{{ skill.owner.html_url }}'>@{{ skill.owner.login }}  <img src='{{ skill.owner.avatar_url }}' width='20' style='vertical-align:bottom'/></a></p>
-    <p>Created: {{ skill.created_at | date_to_string }}    Updated: {{ skill.updated_at | date_to_string }} </p>
-    {% if skill.license.size >= 1 %}
-    <p>License: {{ skill.license.name }} </p>
-    {% endif %}
-    {% if skill.skill_info.market_status == 'In Market' %}
-    <p>Market status: <a href='{{ skill.skill_info.market_url }}'>{{ skill.skill_info.market_status }}</a></p>
-    {% endif %}
-    {% if skill.skill_info.market_status == 'Not in Market' %}
-    <p>Market status: {{ skill.skill_info.market_status }} </p>
-    {% endif %}
-    {% if skill.skill_info.market_status == 'Pending Market' %}
-    <p>Market status: Pending
-        {% if skill.skill_info.market_pending.size >= 1 %}
-           {% for label in skill.skill_info.market_pending %} [{{ label  }}] {% endfor %}
-        {% endif %}
-    </p>
-    {% endif %}
-    {% if skill.skill_info.platforms.size >= 1 %}
-    <p>Platforms:
-        {% for device in skill.skill_info.platforms %}
-            {% if device == 'all' %}<img src='images/mark-1-icon.png' style='vertical-align:top'> <img src='images/mark-2-icon.png' style='vertical-align:top'> <img src='images/picroft-icon.png' style='vertical-align:top'> <img src='images/kde.png' style='vertical-align:top'>{% endif %}
-            {% if device == 'platform_mark1' %} <img src='images/mark-1-icon.png' style='vertical-align:top'> {% endif %} {% if device == 'platform_mark2' %} <img src='images/mark-2-icon.png'> {% endif %}
-            {% if device == 'platform_picroft' %} <img src='images/picroft-icon.png' style='vertical-align:top'> {% endif %}
-            {% if device == 'platform_plasmoid' %} <img src='images/kde.png' style='vertical-align:top'> {% endif %}
-        {% endfor %}
-    </p>
-    {% endif %}
-    {% if skill.skill_info.ast_passed != true %}
-    <p>AST: Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state. </p>
-    {% endif %}
-</div>
-{% endfor %}
-</div>
-"""
-
-"""
-from PIL import Image
-
-basewidth = 300
-img = Image.open('somepic.jpg')
-wpercent = (basewidth/float(img.size[0]))
-hsize = int((float(img.size[1])*float(wpercent)))
-img = img.resize((basewidth,hsize), Image.ANTIALIAS)
-img.save('sompic.jpg') 
-"""
-
 
 def make_categorylist(skills):
     categorylist = {}
@@ -214,55 +151,48 @@ def make_categorylist(skills):
                 categorylist[category] = cat
             else:
                 categorylist[category] = categoryitem
-    #categories_pop = []
-    #for category in categorylist:
-    #    if len(categorylist[category]) is 1:
-    #        cat =  categorylist.get('uncategorized')
-    #        cat.append(text)
-    #        categorylist['uncategorized'] = cat
-    #        categories_pop.append(category)
-    #for cat in categories_pop:
-    #    categorylist.pop(cat)
-    #catfile = open('categories.json', 'w')
-    #catfile.write(json.dumps(categorylist, ensure_ascii=False, indent=2))
-    #catfile.close()
     return categorylist
 
-summary = open('../SUMMARY.md', 'w')
-summary.write('# Table of contents\n')
-summary.write('* [Introduction](README.md)\n')
-summary.write('* [FAQ](FAQ.md)\n')
-summary.write('## Skills\n')
+def make_summary():
+    summary = open('../SUMMARY.md', 'w')
+    summary.write('# Table of contents\n')
+    summary.write('* [Introduction](README.md)\n')
+    summary.write('* [FAQ](FAQ.md)\n')
+    summary.write('## Skills\n')
 
+
+    skillslist = []
+    summary.write('* In Market\n')
+    for skill in skillsdata:
+        if skill["skill_info"].get("market_status") == 'In Market':
+            skillslist.append(skill)
+    categorylist = make_categorylist(skillslist)
+    for category in categorylist:
+        summary.write('  * ' + category + '\n')
+        summary.writelines(categorylist[category])
+    summary.write('* Pending Market\n')
+    skillslist = []
+    for skill in skillsdata:
+        if skill["skill_info"].get("market_status") == 'Pending Market':
+            skillslist.append(skill)
+    categorylist = make_categorylist(skillslist)
+    for category in categorylist:
+        summary.write('  * ' + category + '\n')
+        summary.writelines(categorylist[category])
+    summary.write('* Not in Market\n')
+    skillslist = []
+    for skill in skillsdata:
+        if skill["skill_info"].get("market_status") == 'Not in Market':
+            skillslist.append(skill)
+    categorylist = make_categorylist(skillslist)
+    for category in categorylist:
+        summary.write('  * ' + category + '\n')
+        summary.writelines(categorylist[category])
+
+    summary.write('## Skill Writers\n')
+
+make_summary()
 make_skillsfiles(skillsdata)
-
-skillslist = []
-summary.write('* In Market\n')
-for skill in skillsdata:
-    if skill["skill_info"].get("market_status") == 'In Market':
-        skillslist.append(skill)
-categorylist = make_categorylist(skillslist)
-for category in categorylist:
-    summary.write('  * ' + category + '\n')
-    summary.writelines(categorylist[category])
-summary.write('* Pending Market\n')
-skillslist = []
-for skill in skillsdata:
-    if skill["skill_info"].get("market_status") == 'Pending Market':
-        skillslist.append(skill)
-categorylist = make_categorylist(skillslist)
-for category in categorylist:
-    summary.write('  * ' + category + '\n')
-    summary.writelines(categorylist[category])
-summary.write('* Not in Market\n')
-skillslist = []
-for skill in skillsdata:
-    if skill["skill_info"].get("market_status") == 'Not in Market':
-        skillslist.append(skill)
-categorylist = make_categorylist(skillslist)
-for category in categorylist:
-    summary.write('  * ' + category + '\n')
-    summary.writelines(categorylist[category])
 
 print(len(skillsdata))
 

@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-[GNU World Order](http://gnuworldorder.info/)
-
 Teaches Mycroft AI about the the GNU World Order ["GNU World Order".](http://gnuworldorder.info/)
 
 * "Hey Mycroft, Who is the GNU World Order?"
@@ -13,3 +11,12 @@ Teaches Mycroft AI about the the GNU World Order ["GNU World Order".](http://gnu
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/joshuacox/skill-GNUworldOrder```
+{% endtab %}
+  {% endtabs %}
+  

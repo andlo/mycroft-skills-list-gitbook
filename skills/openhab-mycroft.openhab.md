@@ -1,8 +1,6 @@
 ---
 description: This skill adds openHAB support to Mycroft
 ---
-openHAB
-
 This skill adds [openHAB](http://www.openhab.org/) support to [Mycroft](https://mycroft.ai).
 The skill takes advantage of the openHAB REST API, so it works both with the v1.x and v2.x of openHAB.
 
@@ -38,3 +36,16 @@ If you've forgotten what items have been identified, you can ask Mycroft:
 **License:** | [Eclipse Public License 2.0](https://api.github.com/licenses/epl-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/openhab-skill) PR-1145 new waiting  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#openHAB \#smarthome \#IoT \#Automation \#opensource   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install openHAB
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install openHAB```
+{% endtab %}
+  {% endtabs %}
+  

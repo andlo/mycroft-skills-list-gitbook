@@ -1,8 +1,6 @@
 ---
 description: Select a random number when provided a min and max value
 ---
-Pick Number
-
 Mycroft.AI will select a random number between a min and max value.
 The minimum and maximum value may be in any order and any value.
 
@@ -12,3 +10,16 @@ The minimum and maximum value may be in any order and any value.
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/pick-number)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#random \#dice \#decisionmaker   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Pick Number
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Pick Number```
+{% endtab %}
+  {% endtabs %}
+  

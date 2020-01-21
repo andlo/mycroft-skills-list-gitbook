@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-Trivia skill with local stt
-
 This skill uses mycrofts pocketsphinx STT with a small dict.
 
 It uses a localstt.dic (dictionary) and localstt.lm (language model) in the res folder.
@@ -20,6 +18,12 @@ Translations might be a problem with this method, but this skill uses questions 
 **Github:** | (https://github.com/tjoen/trivia-game-skill)  
 **Owner:** | [@tjoen](https://github.com/tjoen)  
 **Created:** | 2018-02-21T13:52:32Z  **Last updated:** 2018-02-21T13:53:01Z  
-**License:** | No License - dont use this skill !  
+**License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
+{% endhint %}
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+{% endhint %}

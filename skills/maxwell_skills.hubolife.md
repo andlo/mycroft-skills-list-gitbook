@@ -1,8 +1,6 @@
 ---
 description: Skills to intergrate to Myscroft platform , Maxwell is the project name
 ---
-Maxwell Acronym skill interface to Altsearch engine
-
 This is a AltSearch for acroymyns skill that takes an _Utterance_ from the user and provides a voice response - a _Dialog_. This Skill demonstrates the basic directory and file structure of a Mycroft Skill platform good in developing Skills for the Mycroft ecosystem.
 
 If you want to write **Skills** for Mycroft, Documentation is available:
@@ -18,6 +16,13 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 **Github:** | (https://github.com/hubolife/maxwell_skills)  
 **Owner:** | [@hubolife](https://github.com/hubolife)  
 **Created:** | 2019-02-11T09:42:47Z  **Last updated:** 2019-02-11T13:33:20Z  
-**License:** | No License - dont use this skill !  
+**License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#altsearch \#acronym \#catagory   
+{% hint style="warning" %}
+This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
+{% endhint %}
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+{% endhint %}

@@ -1,8 +1,6 @@
 ---
 description: This skill plays a sound in the given note or an sound in the given guitar string
 ---
-Sound tuner
-
 This skill plays a sound in the given note or an sound in the given guitar string.
 This can be used to tune a musical instruments.
 
@@ -18,6 +16,10 @@ people call middle C for "C3" or even for "C5".
 **Github:** | (https://github.com/andlo/sound-tuner-skill)  
 **Owner:** | [@andlo](https://github.com/andlo)  
 **Created:** | 2018-12-08T20:51:57Z  **Last updated:** 2019-12-18T15:10:43Z  
-**License:** | No License - dont use this skill !  
+**License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**   ![](.gitbook/assets/mark-2-icon.png) **Platform:**   ![](.gitbook/assets/picroft-icon.png) **Platform:**   ![](.gitbook/assets/kde.png)   
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#sound \#tuner   
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+{% endhint %}

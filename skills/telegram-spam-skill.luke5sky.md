@@ -1,8 +1,6 @@
 ---
 description: A skill to connect a telegram bot to MyCroft. This will send you everything that is happening, if you are looking for the "normal" telegram skill -> https://github.com/luke5sky/telegram-skill
 ---
-Telegram Spam Skill
-
 You need to create a telegram bot (via BotFather) and save the Bot Token, your ChatID and your MyCroft Device name on home.mycroft.ai under skill settings.
 After this restart your MyCroft Unit.
 You can now commmunicate with your MyCroft Unit via this bot.
@@ -53,3 +51,13 @@ It should respond with: This is your ChatID: YOURCHATID
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#messenger \#bot \#telegram-bot   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/luke5sky/telegram-spam-skill```
+{% endtab %}
+  {% endtabs %}
+  

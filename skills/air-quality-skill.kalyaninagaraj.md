@@ -1,8 +1,6 @@
 ---
 description: Mycroft reports real-time pollutant levels in your city
 ---
-Air Quality
-
 Get real-time air quality data for more than 1000 cities from
 the [World Air Quality Index](https://aqicn.org/) (WAQI) project.
 
@@ -36,3 +34,13 @@ levels measured in micrograms per cubic meter.
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#Air \#quality \#Pollutant \#level \#Mycroft \#AI   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/kalyaninagaraj/air-quality-skill```
+{% endtab %}
+  {% endtabs %}
+  

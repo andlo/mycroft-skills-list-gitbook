@@ -1,8 +1,6 @@
 ---
 description: Common playback control system
 ---
-Playback Control
-
 This Skill doesn't do anything by itself, but it provides an important common
 language for audio playback skills.  By handling simple phrases like
 'pause', this one Skill can turn around and rebroadcast the [messagebus](https://mycroft.ai/documentation/message-bus/)
@@ -19,3 +17,16 @@ This capability is used by the [Spotify](https://github.com/forslund/spotify-ski
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-playback-control)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#music \#play \#playback \#pause \#resume \#next \#system   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Playback Control
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Playback Control```
+{% endtab %}
+  {% endtabs %}
+  

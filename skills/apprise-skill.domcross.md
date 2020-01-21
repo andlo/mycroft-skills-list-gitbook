@@ -1,8 +1,6 @@
 ---
 description: Send push notification to almost every platform (using apprise lib)
 ---
-Apprise
-
 With this skill you can send push notifications to a large number of notifications services including pushbullet, pushover, twitter, email and many many more - using the fantastic apprise lib...
 
 Configure up to three services and/or use a configuration file (e.g. when you do not want to upload your username and password to home.mycroft.ai)
@@ -15,3 +13,13 @@ For config file usage instructions please see the [apprise config file manual](h
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#Push \#Notify \#Apprise   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/domcross/apprise-skill```
+{% endtab %}
+  {% endtabs %}
+  

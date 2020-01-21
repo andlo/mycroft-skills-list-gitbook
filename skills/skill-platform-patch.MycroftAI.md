@@ -1,8 +1,6 @@
 ---
 description: Updates original Mark 1 devices so they can upgrade to the latest version of Mycroft
 ---
-Platform Patch
-
 Some of the earliest shipping Mark 1 devices require this platform patch in order to begin automatically updating.
 
 You can tell if you need the patch by following this guide:
@@ -24,3 +22,13 @@ If your version is less than 0.9.0, you should install this platform patch.
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)   
+**Tags:** \#mark1 \#mycroft-mark1 \#platform-patch \#update \#patch   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/MycroftAI/skill-platform-patch```
+{% endtab %}
+  {% endtabs %}
+  

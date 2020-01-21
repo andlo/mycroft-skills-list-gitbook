@@ -1,8 +1,6 @@
 ---
 description: An intercom, (and soon to be) messaging, and (video) calling skill for Mycroft!
 ---
-Communications
-
 Use this skill to broadcast messages across your home.
 When this skill is installed on two or more of your devices, the devices will automatically find and connect to each other.
 
@@ -32,3 +30,13 @@ The future includes:
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#intercom \#intercoms \#communication \#communications \#broadcast \#broadcasting \#connect \#devices \#video \#calling \#call   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/LinusS1/communications-skill```
+{% endtab %}
+  {% endtabs %}
+  

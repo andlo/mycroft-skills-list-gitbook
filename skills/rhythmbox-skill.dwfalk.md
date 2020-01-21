@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-rhythmbox-skill
-
 Let Mycroft help you control Rhythmbox. When asked Mycroft interfaces with Rhythmbox to play selections from your music library.
 
 **Github:** | (https://github.com/dwfalk/rhythmbox-skill)  
@@ -11,3 +9,13 @@ Let Mycroft help you control Rhythmbox. When asked Mycroft interfaces with Rhyth
 **License:** | [MIT License](https://api.github.com/licenses/mit)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#songs \#music \#rhythmbox \#mycroft \#skill   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/dwfalk/rhythmbox-skill```
+{% endtab %}
+  {% endtabs %}
+  

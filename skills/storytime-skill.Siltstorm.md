@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-story timeThis skill tells story that changes what happens next each time
-
 Start a story by saying "Mycroft, tell me a story."
 It will then start the story and randomly choose each chapter for the reader.
 
@@ -16,3 +14,6 @@ To get this done we need
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
+{% endhint %}

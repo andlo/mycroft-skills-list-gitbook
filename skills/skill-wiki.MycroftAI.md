@@ -1,8 +1,6 @@
 ---
 description: Wikipedia
 ---
-Wikipedia
-
 Query [Wikipedia](https://www.wikipedia.org) for answers to all your questions.  Get just a summary, or ask for more to get in-depth information.
 
 This Skill uses the [Wikimedia API](https://en.wikipedia.org/w/api.php).
@@ -13,3 +11,16 @@ This Skill uses the [Wikimedia API](https://en.wikipedia.org/w/api.php).
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-wiki)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#wikipedia \#encyclopedia \#general-knowledge \#wiki \#question \#query   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Wikipedia
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Wikipedia```
+{% endtab %}
+  {% endtabs %}
+  

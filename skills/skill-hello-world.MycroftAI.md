@@ -1,8 +1,6 @@
 ---
 description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together
 ---
-Hello World
-
 This is a basic Hello Word Skill that takes an _Utterance_ from the user and provides a voice response - a _Dialog_. This Skill demonstrates the basic directory and file structure of a Mycroft Skill, and is a good first Skill to study if you are interested in developing Skills for the Mycroft ecosystem.
 
 If you want to write **Skills** for Mycroft, Documentation is available:
@@ -18,6 +16,10 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 **Github:** | (https://github.com/MycroftAI/skill-hello-world)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
 **Created:** | 2017-04-05T22:56:27Z  **Last updated:** 2019-11-15T10:48:24Z  
-**License:** | No License - dont use this skill !  
+**License:** | No License  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-hello-world)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#helloworld \#first-skill \#hello \#greeting   
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+{% endhint %}

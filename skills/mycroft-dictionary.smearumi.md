@@ -1,8 +1,6 @@
 ---
 description: Find out the definition/meaning of a specific word from dictionary
 ---
-Dictionary
-
 You can find out the definition/meaning of a specific word from dictionary using Oxford Dictionaries API.
 
 **Github:** | (https://github.com/smearumi/mycroft-dictionary)  
@@ -11,3 +9,13 @@ You can find out the definition/meaning of a specific word from dictionary using
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#mycroft \#skill \#dictionary \#home \#voice \#assistant   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/smearumi/mycroft-dictionary```
+{% endtab %}
+  {% endtabs %}
+  

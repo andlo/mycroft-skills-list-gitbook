@@ -1,8 +1,6 @@
 ---
 description: A skill to connect a telegram bot to MyCroft
 ---
-Telegram
-
 You need to create a telegram bot (via BotFather) and save the Bot Token, your ChatID and your MyCroft Device name on home.mycroft.ai under skill settings.
 After this restart your MyCroft Unit.
 You can now commmunicate with your MyCroft Unit via this bot.
@@ -57,3 +55,16 @@ It should respond with: This is your ChatID: YOURCHATID
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/telegram)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#messenger \#bot \#telegram-bot   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Telegram
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Telegram```
+{% endtab %}
+  {% endtabs %}
+  

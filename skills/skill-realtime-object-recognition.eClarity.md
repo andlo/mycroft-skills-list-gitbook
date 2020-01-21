@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-Realtime Object Recognition Skill
-
 
 
 **Github:** | (https://github.com/eClarity/skill-realtime-object-recognition)  
@@ -11,3 +9,6 @@ Realtime Object Recognition Skill
 **License:** | [MIT License](https://api.github.com/licenses/mit)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
+{% endhint %}

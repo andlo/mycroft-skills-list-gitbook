@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-Usage
-
 This is a very old skill so it uses the now depricated skill config in mycroft.conf.
 The skill can be configured to run scripts from easily pronouncable human utterances, such as "generate report" by adding the following to the `~/.mycroft/mycroft.conf`
 
@@ -24,3 +22,12 @@ The configuration above will launch `/home/forslund/scripts/generate_report.sh` 
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/forslund/cmd_skill```
+{% endtab %}
+  {% endtabs %}
+  

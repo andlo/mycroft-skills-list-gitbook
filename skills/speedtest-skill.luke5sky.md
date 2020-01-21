@@ -1,8 +1,6 @@
 ---
 description: Ask Mycroft to run a simple speedtest
 ---
-Speedtest
-
 Run a speedtest with Mycroft.
 This skill uses the speedtest-cli (https://github.com/sivel/speedtest-cli) which runs an internet bandwidth test using speedtest.net.
 
@@ -20,3 +18,16 @@ If a Raspberry Pi 3 B - connected to WiFi - runs Mycroft you won't get more than
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/speedtest)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#ínternet \#speed \#bandwith   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Speedtest
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Speedtest```
+{% endtab %}
+  {% endtabs %}
+  

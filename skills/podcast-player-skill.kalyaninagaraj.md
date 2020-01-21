@@ -1,8 +1,6 @@
 ---
 description: Mycroft plays the latest episode of your favorite podcast
 ---
-Podcast Player
-
 Unlike a typical podcast player, this skill does not maintain playlist.
 
 Instead, this skill lets you to play a particular episode by identifying the season and episode number to Mycroft.
@@ -13,3 +11,13 @@ Instead, this skill lets you to play a particular episode by identifying the sea
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#Podcast \#Mycroft \#AI   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/kalyaninagaraj/podcast-player-skill```
+{% endtab %}
+  {% endtabs %}
+  

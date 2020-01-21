@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-node-light-controller
-
 This skills allows to turn on/off, the Red/Green LEDs attached with NodeMCU microcontroller.
 It is using Thinger.io (https://thinger.io/) server installed on local machine to control the
 LEDs through REST API calls. Thinger.io server provides an interface to manage all the IoT resources
@@ -25,3 +23,12 @@ Demo videos on YouTube:
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/neoscreenager/node-light-controller```
+{% endtab %}
+  {% endtabs %}
+  

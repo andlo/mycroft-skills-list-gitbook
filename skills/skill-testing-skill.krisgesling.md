@@ -1,8 +1,6 @@
 ---
 description: Internal utterance testing tool
 ---
-Skill Testing
-
 ### "read all utterances"
 Enter a list of phrases in Skill settings to verify which Skill and intent handler is triggered. Phrase list should be in format:
 > phrase one, phrase two, phrase three
@@ -21,6 +19,10 @@ Results will be uploaded to termbin.com in csv format and the link will be email
 **Github:** | (https://github.com/krisgesling/skill-testing-skill)  
 **Owner:** | [@krisgesling](https://github.com/krisgesling)  
 **Created:** | 2019-04-19T03:46:49Z  **Last updated:** 2019-12-17T13:47:17Z  
-**License:** | No License - dont use this skill !  
+**License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#testing   
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+{% endhint %}

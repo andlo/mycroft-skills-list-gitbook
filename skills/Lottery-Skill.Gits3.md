@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-Lottery-Skill
-
 
 
 **Github:** | (https://github.com/Gits3/Lottery-Skill)  
@@ -11,3 +9,6 @@ Lottery-Skill
 **License:** | [The Unlicense](https://api.github.com/licenses/unlicense)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
+{% endhint %}

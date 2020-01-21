@@ -1,8 +1,6 @@
 ---
 description: Control KODI open source media center with Mycroft.ai
 ---
-Kodi Control
-
 Utilize the kodi API and Python library for controlling the KODI open source media center with Mycroft.ai. The control is mostly geared towards videos/movies but is capable of handling cursor navigation as well.
 The Kodi Skill uses conversational dialog to help you to control your KODI instance more naturally.
 
@@ -12,3 +10,13 @@ The Kodi Skill uses conversational dialog to help you to control your KODI insta
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#'kodi, \#Krypton \#Leia, \#mycroft.ai, \#python, \#skills \#youtube'   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/pcwii/kodi-skill```
+{% endtab %}
+  {% endtabs %}
+  

@@ -1,13 +1,14 @@
 ---
 description: 
 ---
-Mk Automation
-
 This skill connects to my personal pc automation suite and exposes the automation scripts to mycroft.
 
 **Github:** | (https://github.com/machinekoder/mk-automation-skill)  
 **Owner:** | [@machinekoder](https://github.com/machinekoder)  
 **Created:** | 2018-08-16T19:37:30Z  **Last updated:** 2018-08-16T19:37:36Z  
-**License:** | No License - dont use this skill !  
+**License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+{% endhint %}

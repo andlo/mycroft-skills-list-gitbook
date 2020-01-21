@@ -1,8 +1,6 @@
 ---
 description: Example of interacting with GPIO pins on a Raspberry Pi
 ---
-Raspberry Pi GPIO Demo
-
 This Skill demonstrates how to interact with the Raspberry Pi GPIO pins using a Mycroft Skill. This Skill shows both reading data from a GPIO port (detecting a button press) and writing data to the port (illuminating an LED).
 
 ### Preparation
@@ -53,4 +51,14 @@ Please use the below image as a guide to the circuit layout:
 **Created:** | 2019-08-05T09:10:55Z  **Last updated:** 2019-08-05T09:21:02Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**   ![](.gitbook/assets/picroft-icon.png)   
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/picroft-icon.png)   
+**Tags:** \#IoT \#GPIO \#RPi   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/MOHIT-sketch/rasp```
+{% endtab %}
+  {% endtabs %}
+  

@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-The Cows Lists
-
 This skill adds [Remember The Milk](https://www.rememberthemilk.com/) support to [Mycroft](https://mycroft.ai/).
 The skill use Remember The Milk's [rest interface](https://www.rememberthemilk.com/services/api/).
 The purpose if the skill is to allow operations suited for a voice interface. It is not an attempt to cover all functionality of remember the milk.
@@ -124,3 +122,15 @@ Other issues that are not caught as describe above, can be reported as well, on 
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/carstena-the-cows-lists)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install The Cows Lists
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install The Cows Lists```
+{% endtab %}
+  {% endtabs %}
+  

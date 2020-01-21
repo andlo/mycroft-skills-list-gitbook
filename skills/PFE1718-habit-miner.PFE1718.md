@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-Habit-miner skill
-
 This skill is made to work with the full Habits Automation project https://github.com/PFE1718/mycroft-skills-automation.
 
 Its role is to go through user logs and analyse them. By implementing machine learning algorithms, it can then detect most frequent user habits. They are then passed to the habits-automation skill.
@@ -18,3 +16,12 @@ It can detect two types of habits :
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/PFE1718/PFE1718-habit-miner```
+{% endtab %}
+  {% endtabs %}
+  

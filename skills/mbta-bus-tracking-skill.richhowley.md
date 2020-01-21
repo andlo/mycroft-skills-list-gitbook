@@ -1,8 +1,6 @@
 ---
 description: Announce arrivals of MBTA busses at your desired stop
 ---
-MBTA Bus Tracking
-
 Mycroft will announce estimated arrival times of MBTA busses  at your stop so you never leave the house before you have to.  All data and arrival predictions used by this skill are provided by the MBTA.
 
 See below for full documentation, including how to track busses traveling toward your stop, but to get started just say "Hey Mycroft, T Bus Arrivals".  You will be prompted for the bus route, direction and stop name.  Mycroft will respond with all estimated arrival times at your stop.
@@ -95,3 +93,13 @@ When installed this skill does not use an API key when getting data from the MBT
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1108 needs validation new  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#MBTA,Boston   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/richhowley/mbta-bus-tracking-skill```
+{% endtab %}
+  {% endtabs %}
+  

@@ -1,8 +1,6 @@
 ---
 description: Weather conditions and forecasts
 ---
-Weather
-
 Get weather conditions, forecasts, expected precipitation and more!  By default it will tell
 you about your default location, or you can ask for other cities around the world.
 
@@ -18,3 +16,16 @@ The temperature is shown in Celsius or Fahrenheit depending on the preferences s
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-weather)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#weather \#forecast \#rain \#humidity \#snow \#temperature   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Weather
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Weather```
+{% endtab %}
+  {% endtabs %}
+  

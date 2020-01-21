@@ -1,8 +1,6 @@
 ---
 description: Set alarms with Mycroft
 ---
-Set alarms
-
 Set a single use alarm, daily alarms, or weekly recurring alarms.
 
 You can choose from five different alarm sounds:
@@ -18,3 +16,16 @@ You can choose from five different alarm sounds:
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-alarm)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#alarm   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Set alarms
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Set alarms```
+{% endtab %}
+  {% endtabs %}
+  

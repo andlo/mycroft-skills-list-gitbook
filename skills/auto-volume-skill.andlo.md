@@ -1,8 +1,6 @@
 ---
 description: Sets the volume depending on background noise level
 ---
-Auto volume
-
 This skill lets Mycroft decide when to use high, normal, or low volume. Mycrofts keeps monitoring the background sound levels using the microphone, using which it decides what volume level is the right one to use.
 
 As it is not easy to know what is high and what is low noise level, the skill will adapt over time. The skill notices the highest and lowest measured levels over time and adjusts its settings according to those measurements.
@@ -16,4 +14,17 @@ The skill can be activated or deactivated using the command "Hey Mycroft, set au
 **Created:** | 2018-10-16T18:13:54Z  **Last updated:** 2019-12-27T21:20:39Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/auto-volume) PR-1148  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**   ![](.gitbook/assets/picroft-icon.png)   
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/picroft-icon.png)   
+**Tags:** \#volume   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Auto volume
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Auto volume```
+{% endtab %}
+  {% endtabs %}
+  

@@ -1,8 +1,6 @@
 ---
 description: Track your and your family's health related information
 ---
-Health
-
 You can track health related information of your and your family's and generate the report for current/previous month which will send to your registered email address.
 
 **Github:** | (https://github.com/smearumi/mycroft-health)  
@@ -11,3 +9,13 @@ You can track health related information of your and your family's and generate 
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#mycroft \#skill \#health \#medical \#home \#voice \#assistant   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/smearumi/mycroft-health```
+{% endtab %}
+  {% endtabs %}
+  

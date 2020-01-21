@@ -1,8 +1,6 @@
 ---
 description: General system control
 ---
-System
-
 Provides verbal interfaces for basic framework interactions, such as the
 "Stop" command.  Also provide interface to control physical Mycroft hardware.
 
@@ -15,3 +13,16 @@ directly, rather it emits messages for the device creator to capture.
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-stop)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#system   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install System
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install System```
+{% endtab %}
+  {% endtabs %}
+  

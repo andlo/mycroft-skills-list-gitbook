@@ -1,8 +1,6 @@
 ---
 description: Controls the aimar robot
 ---
-Aimar
-
 Controls the aimar robot with commands for movement, navigation, image recognition, and more.
 
 The AIMAR skill runs alongside Mycroft. Mycroft uses Python 3 and runs on the TurtleBot.
@@ -22,3 +20,13 @@ For functions like database access and skin image classification, we send a web 
 **License:** | [MIT License](https://api.github.com/licenses/mit)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#Robot \#Medical   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/UMD-AIMAR/aimar```
+{% endtab %}
+  {% endtabs %}
+  

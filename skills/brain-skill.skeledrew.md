@@ -1,8 +1,6 @@
 ---
 description: 
 ---
-Brain Skill
-
 Essentially [Tasker](http://tasker.dinglisch.net/) for [Mycroft AI](https://mycroft.ai/), to help automate ALL THE THINGS. 'nuff said. NB: This is an early work in progress.
 
 **Github:** | (https://github.com/skeledrew/brain-skill)  
@@ -11,3 +9,12 @@ Essentially [Tasker](http://tasker.dinglisch.net/) for [Mycroft AI](https://mycr
 **License:** | [GNU Affero General Public License v3.0](https://api.github.com/licenses/agpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/skeledrew/brain-skill```
+{% endtab %}
+  {% endtabs %}
+  

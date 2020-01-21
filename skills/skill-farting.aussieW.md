@@ -1,8 +1,6 @@
 ---
 description: Mycroft will play a farting sound when requested or at random intervals
 ---
-Farting
-
 This is just a fun skill that should generate a laugh or two and then never be used again.
 
 When asked "did you fart", Mycroft will answer with a statement such as "it wasn't me. it was the dog".
@@ -16,6 +14,10 @@ Has been tested on picroft and mark1.
 **Github:** | (https://github.com/aussieW/skill-farting)  
 **Owner:** | [@aussieW](https://github.com/aussieW)  
 **Created:** | 2018-01-17T23:22:55Z  **Last updated:** 2019-02-21T23:50:43Z  
-**License:** | No License - dont use this skill !  
+**License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#fart \#smell \#fun   
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+{% endhint %}

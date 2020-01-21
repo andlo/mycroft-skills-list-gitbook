@@ -5,7 +5,7 @@ import ast
 from datetime import datetime
 from pytz import timezone
 import time
-
+import re
 '''
 Generates a json data with all skills found nby searching github. For every skill
 skills info is added so endresult is a json data with all github info and skill find_title_info
@@ -90,9 +90,9 @@ def generate_entry(repo):
                 'id': repo['name'] + '.' + repo['owner']['login'],
                 'github_username': repo["owner"]["login"],
                 'title': title,
-                'short_desc': harvest.format_sentence(short_desc.replace('\n', ' ')).rstrip('.'),
-                'description': harvest.format_sentence(harvest.find_section('About', sections) or
-                                            harvest.find_section('Description', sections) or ''),
+                'short_desc': cleanhtml(harvest.format_sentence(short_desc.replace('\n', ' ')).rstrip('.')),
+                'description': cleanhtml(harvest.format_sentence(harvest.find_section('About', sections) or
+                                            harvest.find_section('Description', sections) or '')),
                 'examples': [harvest.parse_example(i) for i in harvest.find_examples(sections)],
                 'credits': harvest.make_credits((harvest.find_section('Credits', sections, 0.9)) or repo["owner"]["login"]),
                 'categories': [
@@ -178,6 +178,11 @@ def search_github():
             print("Added from market " + MARKET[item]['name'])
     return skills
 
+def cleanhtml(raw_html):
+  # cleanr = re.compile('<.*?>')
+  cleanr = re.compile('<.*?>|&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a-f]{1,6});')
+  cleantext = re.sub(cleanr, '', raw_html)
+  return cleantext
 
 skills = search_github()
 skills_file = open('skills.json', 'w')

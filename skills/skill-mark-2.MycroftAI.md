@@ -1,8 +1,6 @@
 ---
 description: Customize your Mark 2
 ---
-Mycroft Mark 2
-
 The Mycroft Mark 2 has several unique capabilities which this Skill lets you
 control.
 
@@ -15,4 +13,14 @@ its brightness level to dim at night.
 **Created:** | 2018-12-12T08:36:13Z  **Last updated:** 2019-11-29T16:18:16Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-2-icon.png) **Platform:**    
+**Platform:**   ![](.gitbook/assets/mark-2-icon.png)   
+**Tags:** \#mark2 \#configuration \#settings \#system   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/MycroftAI/skill-mark-2```
+{% endtab %}
+  {% endtabs %}
+  

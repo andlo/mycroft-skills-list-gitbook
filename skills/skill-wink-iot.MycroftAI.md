@@ -1,8 +1,6 @@
 ---
 description: Control lights and switches connected to a Wink Hub
 ---
-Wink IoT
-
 Interact with your smart home using the [Wink system](https://www.wink.com/).  Wink hubs can work with virtually any brand of lights, including [Philips Hue](https://www2.meethue.com/en-us), [GE](https://www.gelighting.com/), [Sylvania](https://www.sylvania.com/en-us/Pages/default.aspx), [Cree](https://creebulb.com/connected), and many more.  Use Mycroft to easily interact with nearby lights and light groups you create within the Wink ecosystem.
 
 Your can easily find the right light or lights based on the names of lights and groups.  The Mycroft device's Name (set at [Home](https://home.mycroft.ai/ -- check by asking "what is your name?")
@@ -21,3 +19,16 @@ You can also include the light/group name in your request, along with intensity 
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-wink-iot)  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Tags:** \#wink \#winkhub \#iot \#home-automation \#smarthome \#smart-home \#LED \#light \#lightbulb \#lighting   
+{% hint style="info" %}
+This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Wink IoT
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Wink IoT```
+{% endtab %}
+  {% endtabs %}
+  

@@ -1,8 +1,6 @@
 ---
 description: Give voice commands to Mycroft to control a MagicMirror
 ---
-Magic Mirror Voice Control
-
 This mycroft skill passes commands to an accessible MagicMirror installed anywhere on the same network as Mycroft. It requires a working install of [MagicMirror](https://github.com/MichMich/MagicMirror) and the [MMM-Remote-Control module](https://github.com/Jopyth/MMM-Remote-Control). It must be installed AND ACCESSIBLE ON THE SAME NETWORK AS MYCROFT.
 
 This skill requires MMM-Remote-Control be installed and working properly on the MagicMirror.
@@ -25,3 +23,12 @@ to configure the MagicMirror config.js by SSH or VNC for the particular skill yo
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-933 new override autotester waiting  
 **Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
+{% endhint %}
+  {% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/dmwilsonkc/magic-mirror-voice-control-skill```
+{% endtab %}
+  {% endtabs %}
+  
