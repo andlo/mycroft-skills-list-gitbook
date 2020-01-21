@@ -1,19 +1,29 @@
----
-description: Tool used by Mycroft  internal Quality Assurance team when validating a new mycroft-core release
----
+---  
+description: Tool used by Mycroft  internal Quality Assurance team when validating a new mycroft-core release  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Release Test  
+### _skill-release-test.MycroftAI_  
+## About:  
 When a new release is being tested, this skill is installed to verify the
 installation mechanism functions properly.  Additionally, the following line
 is edited to verify that the skill update process occurs as intended.
 
 Test line:  2018/10/23 23:14.
 
-**Github:** | (https://github.com/MycroftAI/skill-release-test)  
+## Skill information:  
+**Github:** | [https://github.com/MycroftAI/skill-release-test](https://github.com/MycroftAI/skill-release-test)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-08-03T22:32:49Z  **Last updated:** 2019-12-20T10:47:26Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2017 Aug 03 22:32:49 UTC  **Last updated:** 2019 Dec 20 10:47:26 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-release-test)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#release \#release-test \#quality-assurance \#testing \#qa \#ci \#cd   
+## Examples:  
+> Run the release test (should respond with 'Test passed')  
+> Release test.  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

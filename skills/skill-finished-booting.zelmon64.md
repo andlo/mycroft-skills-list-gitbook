@@ -1,14 +1,20 @@
----
-description: Skill to determine when Mycroft AI has finished booting up
----
+---  
+description: Skill to determine when Mycroft AI has finished booting up  
+---  
+![](../.gitbook/assets/star.png)  
+# Finished Booting Skill  
+### _skill-finished-booting.zelmon64_  
+## About:  
 With this skill Mycroft will say when the boot up period has finished and is ready to receive commands.
 
-**Github:** | (https://github.com/zelmon64/skill-finished-booting)  
+## Skill information:  
+**Github:** | [https://github.com/zelmon64/skill-finished-booting](https://github.com/zelmon64/skill-finished-booting)  
 **Owner:** | [@zelmon64](https://github.com/zelmon64)  
-**Created:** | 2018-10-27T18:30:40Z  **Last updated:** 2019-10-07T23:56:01Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2018 Oct 27 18:30:40 UTC  **Last updated:** 2019 Oct 07 23:56:01 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/skill-finished-booting)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

@@ -13,32 +13,39 @@ skillsdata = json.load(json_data)
 def make_skillsfiles(skills):
     for skill in skills:
         txt = []
-        txt.append('---\n')
+        txt.append('---  \n')
         #of.write('titel: ' + skill["skill_info"]["title"] + '\n')
         short_desc = clean_txt(skill["skill_info"]["short_desc"])
-        txt.append('description: ' + short_desc + '\n')
-        txt.append('---\n')
+        txt.append('description: ' + short_desc + '  \n')
+        txt.append('---  \n')
+        if not skill["stargazers_count"] == 0: 
+            for x in range(skill["stargazers_count"]):
+                txt.append('![](../.gitbook/assets/star.png)')
+            txt.append('  \n')               
+        txt.append('# ' + skill["skill_info"]["name"] + '  \n')
+        txt.append('### _' + skill["skill_info"]["id"] + '_  \n')
         
         #icon_img = '../img/' + skill["owner"]["login"] + '_icon.png'
         #get_img(skill["skill_info"]["icon_img"], icon_img)
         #resize_img(icon_img, 50)
         #txt.append(skill["skill_info"]["title"] + '\n\n')
+        txt.append('## About:  \n')
         txt.append(skill["skill_info"]["description"] + '\n\n')
         #avatar = '../img/' + skill["owner"]["login"] + '_avatar.png'
         #avatar = get_img(skill["owner"]["avatar_url"], avatar)
         #resize_img(avatar, 50)
-
-        txt.append('**Github:** | (' + skill["html_url"] + ')  \n') 
+        
+        txt.append('## Skill information:  \n')
+        txt.append('**Github:** | [' + skill["html_url"] + ']' + '(' + skill["html_url"] + ')  \n') 
         txt.append('**Owner:** | [@' + skill["owner"]["login"] + 
                    '](' + skill["owner"]["html_url"] + 
                    ')  \n')
-        txt.append('**Created:** | ' + skill["created_at"] + 
-                   '  **Last updated:** ' + skill["updated_at"] + '  \n')
+        txt.append('**Created:** | ' + nice_time(skill["created_at"]) + 
+                   '  **Last updated:** ' + nice_time(skill["updated_at"]) + '  \n')
         
 
         try:
-            txt.append('**License:** | [' + skill["license"]["name"] + '](' +
-                       skill["license"]["url"] + ')  \n')
+            txt.append('**License:** | ' + skill["license"]["name"] + '  \n')
             license = True
         except Exception:
             txt.append('**License:** | No License  \n')
@@ -54,18 +61,19 @@ def make_skillsfiles(skills):
         except Exception:
             market = False
             pass
-        try:
-            for label in skill["skill_info"]["market_pending"]:
-                txt.append(' ' + label)
-        except Exception:
-            pass
+        if skill["skill_info"]["market_status"] == 'Pending Market':
+            try:
+                for label in skill["skill_info"]["market_pending"]:
+                    txt.append(' ' + label)
+            except Exception:
+                pass
         txt.append('  \n')
         try:
-            mk1 = ' ![](.gitbook/assets/mark-1-icon.png) '
-            mk2 = ' ![](.gitbook/assets/mark-2-icon.png) '
-            pi = ' ![](.gitbook/assets/picroft-icon.png) '
-            kde = ' ![](.gitbook/assets/kde.png) '
-            txt.append('**Platform:**  ')
+            mk1 = ' ![](../.gitbook/assets/mark-1-icon.png) '
+            mk2 = ' ![](../.gitbook/assets/mark-2-icon.png) '
+            pi = ' ![](../.gitbook/assets/picroft-icon.png) '
+            kde = ' ![](../.gitbook/assets/kde.png) '
+            txt.append('**Platform:**  \n')
             for device in skill["skill_info"].get("platforms"):
                 if device == 'all':
                     txt.append(mk1 + mk2 + pi + kde)
@@ -85,6 +93,13 @@ def make_skillsfiles(skills):
                 txt.append('  \n')
         except Exception:
             pass
+
+        if not skill["skill_info"]["examples"] == []:
+            txt.append('## Examples:  \n')
+            for example in skill["skill_info"]["examples"]:
+                txt.append('> ' + example + '  \n')
+            txt.append('  \n')
+
         ast = skill["skill_info"]["ast_passed"]
         if not ast:
             txt.append('{% hint style="warning" %}\n')                
@@ -113,6 +128,8 @@ def make_skillsfiles(skills):
             txt.append('{% hint style="warning" %}\n')
             txt.append('This skill is not aproved by Mycroft skill tester.\n')
             txt.append('{% endhint %}\n  ')
+            txt.append('  \n')
+            txt.append('## Installation:  \n')
             txt.append('{% tabs %}\n')
             txt.append('{% tab title="Install by mycroft-msm" %}\n' + 
                        '``` mycroft-msm install ' + skill["html_url"] + '```\n')
@@ -124,6 +141,16 @@ def make_skillsfiles(skills):
         of.writelines(txt)
         of.close()
 
+
+def nice_time(timestamp):
+    months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+    for c in ['T', 'Z', '-', ':']:
+        timestamp = timestamp.replace(c, ' ')
+    out = timestamp.split()
+    out[1] = months[int(out[1]) - 1]
+    return "{} {} {} {}:{}:{} UTC".format(*out)
+
+  
 def clean_txt(txt):
     cleanr = re.compile('<.*?>|&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a-f]{1,6});')
     result = re.sub(cleanr, '', txt)
@@ -209,6 +236,6 @@ make_summary()
 make_skillsfiles(skillsdata)
 
 print(len(skillsdata))
-
+#resize_img('../.gitbook/assets/star.png', 30)
 
 

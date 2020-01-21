@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# node-light-controller  
+### _node-light-controller.neoscreenager_  
+## About:  
 This skills allows to turn on/off, the Red/Green LEDs attached with NodeMCU microcontroller.
 It is using Thinger.io (https://thinger.io/) server installed on local machine to control the
 LEDs through REST API calls. Thinger.io server provides an interface to manage all the IoT resources
@@ -17,16 +21,27 @@ Demo videos on YouTube:
 2. https://youtu.be/Tw6L6K-t1TA    Demo to query room temperature
 3. https://youtu.be/Zdkx1vZKKfw    Screencast walkthrough under the hood.
 
-**Github:** | (https://github.com/neoscreenager/node-light-controller)  
+## Skill information:  
+**Github:** | [https://github.com/neoscreenager/node-light-controller](https://github.com/neoscreenager/node-light-controller)  
 **Owner:** | [@neoscreenager](https://github.com/neoscreenager)  
-**Created:** | 2018-05-27T15:23:17Z  **Last updated:** 2019-08-07T06:08:59Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2018 May 27 15:23:17 UTC  **Last updated:** 2019 Aug 07 06:08:59 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Turn red light on.  
+> Turn green light off.  
+> Turn red light off.  
+> What is the room temperature?  
+> What is the temperature of this room?  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/neoscreenager/node-light-controller```
 {% endtab %}

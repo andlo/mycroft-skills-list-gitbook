@@ -1,14 +1,19 @@
----
-description: 
----
+---  
+description:   
+---  
+# Dutch Radio skill  
+### _skill-dutchradio.RdeLange_  
+## About:  
 
 
-**Github:** | (https://github.com/RdeLange/skill-dutchradio)  
+## Skill information:  
+**Github:** | [https://github.com/RdeLange/skill-dutchradio](https://github.com/RdeLange/skill-dutchradio)  
 **Owner:** | [@RdeLange](https://github.com/RdeLange)  
-**Created:** | 2018-06-08T06:02:12Z  **Last updated:** 2018-06-21T22:10:44Z  
+**Created:** | 2018 Jun 08 06:02:12 UTC  **Last updated:** 2018 Jun 21 22:10:44 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

@@ -1,6 +1,10 @@
----
-description: Fallback using any offline AIML2.0 chatbot
----
+---  
+description: Fallback using any offline AIML2.0 chatbot  
+---  
+![](../.gitbook/assets/star.png)  
+# Fallback Chatbot  
+### _fallback-chatbot.Fantailed_  
+## About:  
 **WARNING**: Do NOT install this skill if you aren't at least somewhat familiar with linux as it WILL break your Picroft installation!!!
 Because of the mere size of Program-Y, there are a few incompatibilities and installation difficulties that have to be manually resolved.
 Please read the whole description before proceeding.
@@ -28,13 +32,27 @@ sudo pip3 install lxml
 Note that the installation of lxml can be _very_ slow on low RAM devices like the Raspberry Pi (I am talking in the order of 10min+!). If you
 ever doubt that it's even doing anything, open another terminal and run `htop` on it.
 
-**Github:** | (https://github.com/Fantailed/fallback-chatbot)  
+## Skill information:  
+**Github:** | [https://github.com/Fantailed/fallback-chatbot](https://github.com/Fantailed/fallback-chatbot)  
 **Owner:** | [@Fantailed](https://github.com/Fantailed)  
-**Created:** | 2018-11-26T21:57:05Z  **Last updated:** 2018-11-29T15:35:16Z  
-**License:** | No License  
+**Created:** | 2018 Nov 26 21:57:05 UTC  **Last updated:** 2018 Nov 29 15:35:16 UTC  
+**License:** | Other  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**    
+**Platform:**  
+  
 **Tags:** \#\chatbot \#\aiml \#\aiml2.0   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+## Examples:  
+> My name is Dave.  
+> What is my name?  
+  
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
+    
+## Installation:  
+{% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/Fantailed/fallback-chatbot```
+{% endtab %}
+  {% endtabs %}
+  

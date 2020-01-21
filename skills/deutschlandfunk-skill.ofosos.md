@@ -1,18 +1,32 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# Deutschlandfunk player  
+### _deutschlandfunk-skill.ofosos_  
+## About:  
 Play Deutschlandfunk streams and query schedule.
 
-**Github:** | (https://github.com/ofosos/deutschlandfunk-skill)  
+## Skill information:  
+**Github:** | [https://github.com/ofosos/deutschlandfunk-skill](https://github.com/ofosos/deutschlandfunk-skill)  
 **Owner:** | [@ofosos](https://github.com/ofosos)  
-**Created:** | 2017-11-11T22:47:05Z  **Last updated:** 2018-05-18T06:49:22Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2017 Nov 11 22:47:05 UTC  **Last updated:** 2018 May 18 06:49:22 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Play dlf nova.  
+> Play dlf.  
+> Play dlf culture.  
+> What's on dlf?  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/ofosos/deutschlandfunk-skill```
 {% endtab %}

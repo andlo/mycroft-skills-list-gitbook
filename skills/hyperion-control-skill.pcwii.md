@@ -1,14 +1,26 @@
----
-description: 
----
+---  
+description:   
+---  
+# Hyperion-Skill  
+### _hyperion-control-skill.pcwii_  
+## About:  
 Utilize the KODI hyperion plugin for controlling the hyperion strip light RGB bulbs with Mycroft.
 
-**Github:** | (https://github.com/pcwii/hyperion-control-skill)  
+## Skill information:  
+**Github:** | [https://github.com/pcwii/hyperion-control-skill](https://github.com/pcwii/hyperion-control-skill)  
 **Owner:** | [@pcwii](https://github.com/pcwii)  
-**Created:** | 2018-07-06T20:40:06Z  **Last updated:** 2018-12-20T12:52:34Z  
+**Created:** | 2018 Jul 06 20:40:06 UTC  **Last updated:** 2018 Dec 20 12:52:34 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Turn lights on.  
+> Turn lights off.  
+> Dim the lights.  
+> Set lights to 50%  
+> Set light color to red.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

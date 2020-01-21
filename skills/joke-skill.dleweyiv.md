@@ -1,6 +1,9 @@
----
-description: 
----
+---  
+description:   
+---  
+# Jokes  
+### _joke-skill.dleweyiv_  
+## About:  
 Brighten your day with a little humor.  This draws on the jokes collected by the [PyJokes project](https://github.com/pyjokes/pyjokes) to give you a chuckle.
 
 The joke categories are:
@@ -12,12 +15,20 @@ By default it will give you clean and/or geeky jokes, but you can ask a little a
 
 _WARNING:  Laughter is not guaranteed, but eye rolls are likely._
 
-**Github:** | (https://github.com/dleweyiv/joke-skill)  
+## Skill information:  
+**Github:** | [https://github.com/dleweyiv/joke-skill](https://github.com/dleweyiv/joke-skill)  
 **Owner:** | [@dleweyiv](https://github.com/dleweyiv)  
-**Created:** | 2018-04-11T01:57:48Z  **Last updated:** 2018-04-11T02:31:53Z  
+**Created:** | 2018 Apr 11 01:57:48 UTC  **Last updated:** 2018 Apr 11 02:31:53 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Make me laugh.  
+> Tell me a Chuck Norris joke.  
+> I want to hear a raunchy joke.  
+> How about a neutral joke.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

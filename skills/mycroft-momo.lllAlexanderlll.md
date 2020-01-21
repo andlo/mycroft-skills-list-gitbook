@@ -1,14 +1,27 @@
----
-description: 
----
+---  
+description:   
+---  
+# mycroft-momo  
+### _mycroft-momo.lllAlexanderlll_  
+## About:  
 
 
-**Github:** | (https://github.com/lllAlexanderlll/mycroft-momo)  
+## Skill information:  
+**Github:** | [https://github.com/lllAlexanderlll/mycroft-momo](https://github.com/lllAlexanderlll/mycroft-momo)  
 **Owner:** | [@lllAlexanderlll](https://github.com/lllAlexanderlll)  
-**Created:** | 2019-09-25T16:06:45Z  **Last updated:** 2019-10-11T16:21:26Z  
-**License:** | No License  
+**Created:** | 2019 Sep 25 16:06:45 UTC  **Last updated:** 2019 Oct 11 16:21:26 UTC  
+**License:** | Other  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
+    
+## Installation:  
+{% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/lllAlexanderlll/mycroft-momo```
+{% endtab %}
+  {% endtabs %}
+  

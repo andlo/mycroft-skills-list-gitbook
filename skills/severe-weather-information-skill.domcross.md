@@ -1,6 +1,10 @@
----
-description: Checks your national weather service and notifies you when there are alerts for your region
----
+---  
+description: Checks your national weather service and notifies you when there are alerts for your region  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Severe Weather Information  
+### _severe-weather-information-skill.domcross_  
+## About:  
 The severe weather information skills can connect to dozens of weather alerting servic
 
 among them many from following lists:
@@ -19,17 +23,24 @@ ask "are there weather alerts?" to check for new alerts.
 
 you can also set a "watchdog" that automatically checks for new alerts and notifies you...
 
-**Github:** | (https://github.com/domcross/severe-weather-information-skill)  
+## Skill information:  
+**Github:** | [https://github.com/domcross/severe-weather-information-skill](https://github.com/domcross/severe-weather-information-skill)  
 **Owner:** | [@domcross](https://github.com/domcross)  
-**Created:** | 2019-07-28T12:05:26Z  **Last updated:** 2019-10-27T19:27:39Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2019 Jul 28 12:05:26 UTC  **Last updated:** 2019 Oct 27 19:27:39 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#Weather \#alert \#Severe \#weather   
+## Examples:  
+> Are there weather alerts.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/domcross/severe-weather-information-skill```
 {% endtab %}

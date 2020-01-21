@@ -1,14 +1,20 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+#   
+### _PushbulletSkill.jcasoft_  
+## About:  
 
 
-**Github:** | (https://github.com/jcasoft/PushbulletSkill)  
+## Skill information:  
+**Github:** | [https://github.com/jcasoft/PushbulletSkill](https://github.com/jcasoft/PushbulletSkill)  
 **Owner:** | [@jcasoft](https://github.com/jcasoft)  
-**Created:** | 2016-09-23T15:22:23Z  **Last updated:** 2018-06-06T16:13:22Z  
+**Created:** | 2016 Sep 23 15:22:23 UTC  **Last updated:** 2018 Jun 06 16:13:22 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

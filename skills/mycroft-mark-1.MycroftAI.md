@@ -1,6 +1,10 @@
----
-description: Customize your Mark 1
----
+---  
+description: Customize your Mark 1  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Mycroft Mark 1  
+### _mycroft-mark-1.MycroftAI_  
+## About:  
 The Mycroft Mark 1 has several unique capabilities which this Skill lets you control.
 
 ### Eye Color
@@ -13,13 +17,23 @@ list for more options
 Set the faceplate to a specific brightness, or allow it to automatically adjust
 its brightness level to dim at night.
 
-**Github:** | (https://github.com/MycroftAI/mycroft-mark-1)  
+## Skill information:  
+**Github:** | [https://github.com/MycroftAI/mycroft-mark-1](https://github.com/MycroftAI/mycroft-mark-1)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-12-04T17:41:52Z  **Last updated:** 2019-11-15T13:42:51Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2017 Dec 04 17:41:52 UTC  **Last updated:** 2019 Nov 15 13:42:51 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-mark-1)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)   
 **Tags:** \#mark1 \#configuration \#settings \#system   
+## Examples:  
+> Set your eye color to pink.  
+> Change your eye color to the default.  
+> Set a custom eye color.  
+> Turn on auto brightness.  
+> Change to low brightness.  
+> Dim to 50%  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

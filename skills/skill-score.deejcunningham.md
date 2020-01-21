@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# score  
+### _skill-score.deejcunningham_  
+## About:  
 Skill-score is an application that enables Mycroft to answer user questions about Major League Baseball (MLB) scores. [Mycroft](https://mycroft.ai) is an open-source AI voice assistant. Skill-score uses [panzarino's mlbgame API](https://github.com/panzarino/mlbgame) to report an MLB team's latest final scores, including live scores.
 
 User input has the format:
@@ -18,16 +22,25 @@ The next goals for skill-score are the ability to:
 * give the time of the next MLB game; and
 * support more leagues (e.g., National Football League, National Basketball League), depending on available APIs.
 
-**Github:** | (https://github.com/deejcunningham/skill-score)  
+## Skill information:  
+**Github:** | [https://github.com/deejcunningham/skill-score](https://github.com/deejcunningham/skill-score)  
 **Owner:** | [@deejcunningham](https://github.com/deejcunningham)  
-**Created:** | 2018-05-17T23:56:07Z  **Last updated:** 2019-10-29T21:49:58Z  
-**License:** | [MIT License](https://api.github.com/licenses/mit)  
+**Created:** | 2018 May 17 23:56:07 UTC  **Last updated:** 2019 Oct 29 21:49:58 UTC  
+**License:** | MIT License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> What is the Royals score?  
+> What is the Angels score?  
+> What is the Yankees score?  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/deejcunningham/skill-score```
 {% endtab %}

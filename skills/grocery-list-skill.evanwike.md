@@ -1,14 +1,25 @@
----
-description: 
----
+---  
+description:   
+---  
+# Grocery List  
+### _grocery-list-skill.evanwike_  
+## About:  
 Mycroft will keep track of and update your grocery list!
 
-**Github:** | (https://github.com/evanwike/grocery-list-skill)  
+## Skill information:  
+**Github:** | [https://github.com/evanwike/grocery-list-skill](https://github.com/evanwike/grocery-list-skill)  
 **Owner:** | [@evanwike](https://github.com/evanwike)  
-**Created:** | 2019-04-07T03:21:23Z  **Last updated:** 2019-04-08T04:26:48Z  
+**Created:** | 2019 Apr 07 03:21:23 UTC  **Last updated:** 2019 Apr 08 04:26:48 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> What's on my grocery list?  
+> Add hot pockets to my grocery list.  
+> Remove apples from my grocery list.  
+> How many items are on my grocery list.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

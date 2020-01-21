@@ -1,14 +1,23 @@
----
-description: 
----
+---  
+description:   
+---  
+# Mycroft Math Skill  
+### _math-skill.skeledrew_  
+## About:  
 A calculator that can be "infinitely" extended, using the abilities template.
 
-**Github:** | (https://github.com/skeledrew/math-skill)  
+## Skill information:  
+**Github:** | [https://github.com/skeledrew/math-skill](https://github.com/skeledrew/math-skill)  
 **Owner:** | [@skeledrew](https://github.com/skeledrew)  
-**Created:** | 2017-10-06T16:09:56Z  **Last updated:** 2017-10-06T21:56:43Z  
+**Created:** | 2017 Oct 06 16:09:56 UTC  **Last updated:** 2017 Oct 06 21:56:43 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Calculate three plus twenty.  
+> Calculate the square root of 100.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

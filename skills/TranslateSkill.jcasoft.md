@@ -1,14 +1,20 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+#   
+### _TranslateSkill.jcasoft_  
+## About:  
 
 
-**Github:** | (https://github.com/jcasoft/TranslateSkill)  
+## Skill information:  
+**Github:** | [https://github.com/jcasoft/TranslateSkill](https://github.com/jcasoft/TranslateSkill)  
 **Owner:** | [@jcasoft](https://github.com/jcasoft)  
-**Created:** | 2017-01-05T17:26:13Z  **Last updated:** 2019-04-12T08:11:56Z  
+**Created:** | 2017 Jan 05 17:26:13 UTC  **Last updated:** 2019 Apr 12 08:11:56 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

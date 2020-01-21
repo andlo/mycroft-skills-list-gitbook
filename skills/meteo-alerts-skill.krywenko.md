@@ -1,14 +1,19 @@
----
-description: 
----
+---  
+description:   
+---  
+# meteo-alerts-skill  
+### _meteo-alerts-skill.krywenko_  
+## About:  
 
 
-**Github:** | (https://github.com/krywenko/meteo-alerts-skill)  
+## Skill information:  
+**Github:** | [https://github.com/krywenko/meteo-alerts-skill](https://github.com/krywenko/meteo-alerts-skill)  
 **Owner:** | [@krywenko](https://github.com/krywenko)  
-**Created:** | 2019-07-17T19:21:14Z  **Last updated:** 2019-07-18T00:09:05Z  
+**Created:** | 2019 Jul 17 19:21:14 UTC  **Last updated:** 2019 Jul 18 00:09:05 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

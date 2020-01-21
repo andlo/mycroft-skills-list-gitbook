@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Audio-control-plasma  
+### _audio-control-plasma.AIIX_  
+## About:  
 #### Installation of skill:
 * Download or Clone Git (run: git clone https://github.com/AIIX/audio-control-plasma inside /opt/mycroft/skills)
 * Create /opt/mycroft/skills folder if it does not exist
@@ -21,16 +25,38 @@ description:
 * For other distributions:
 - Python Dbus package is required and copying the Python Dbus folder and lib from your system python install over to /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/.
 
-**Github:** | (https://github.com/AIIX/audio-control-plasma)  
+## Skill information:  
+**Github:** | [https://github.com/AIIX/audio-control-plasma](https://github.com/AIIX/audio-control-plasma)  
 **Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2017-10-05T08:38:57Z  **Last updated:** 2018-05-10T15:52:02Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2017 Oct 05 08:38:57 UTC  **Last updated:** 2018 May 10 15:52:02 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Increase the volume.  
+> Increase volume.  
+> Increase to maximum volume.  
+> Maximum volume.  
+> Decrease the volume.  
+> Decrease volume.  
+> Decrease to minimum volume.  
+> Minimum volume.  
+> Increase the microphone volume.  
+> Increase microphone volume.  
+> Increase microphone to maximum volume.  
+> Maximum microphone volume.  
+> Decrease the microphone volume.  
+> Decrease microphone volume.  
+> Decrease microphone to minimum volume.  
+> Minimum microphone volume.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/AIIX/audio-control-plasma```
 {% endtab %}

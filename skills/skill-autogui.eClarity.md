@@ -1,14 +1,30 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# skill-autogui  
+### _skill-autogui.eClarity_  
+## About:  
 
 
-**Github:** | (https://github.com/eClarity/skill-autogui)  
+## Skill information:  
+**Github:** | [https://github.com/eClarity/skill-autogui](https://github.com/eClarity/skill-autogui)  
 **Owner:** | [@eClarity](https://github.com/eClarity)  
-**Created:** | 2017-06-28T03:11:46Z  **Last updated:** 2018-04-11T01:13:36Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2017 Jun 28 03:11:46 UTC  **Last updated:** 2018 Apr 11 01:13:36 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Type Mycroft is awesome.  
+> Press enter.  
+> Scroll up 10 clicks.  
+> Scroll down 10 clicks.  
+> Scroll right 10 clicks - Linux only.  
+> Hold down key.  
+> Release down key.  
+> Screen resolution.  
+  
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

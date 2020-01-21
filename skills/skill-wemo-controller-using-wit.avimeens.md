@@ -1,18 +1,33 @@
----
-description: 
----
+---  
+description:   
+---  
+# Wemo Controller Using Wit  
+### _skill-wemo-controller-using-wit.avimeens_  
+## About:  
 Mycroft skill to controll WeMo switches that are not on the same network as Mycroft.
 
-**Github:** | (https://github.com/avimeens/skill-wemo-controller-using-wit)  
+## Skill information:  
+**Github:** | [https://github.com/avimeens/skill-wemo-controller-using-wit](https://github.com/avimeens/skill-wemo-controller-using-wit)  
 **Owner:** | [@avimeens](https://github.com/avimeens)  
-**Created:** | 2018-06-28T20:18:10Z  **Last updated:** 2018-06-28T20:18:54Z  
-**License:** | [MIT License](https://api.github.com/licenses/mit)  
+**Created:** | 2018 Jun 28 20:18:10 UTC  **Last updated:** 2018 Jun 28 20:18:54 UTC  
+**License:** | MIT License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Find WeMo devices.  
+> Discover WeMo devices.  
+> Turn on living room lights.  
+> Turn of living room lights.  
+> Turn on dining room fan.  
+> Turn off dining room fan.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/avimeens/skill-wemo-controller-using-wit```
 {% endtab %}

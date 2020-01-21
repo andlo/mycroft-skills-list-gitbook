@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# Home Assistant Skill for Mycroft  
+### _mycroft-smartthings.mschot_  
+## About:  
 Add a block to your `~/.mycroft/mycroft.conf` file like this:
 
 ```
@@ -18,16 +22,20 @@ NOTE: SSL support is currently secure as it does verify the cert.
 
 You will then need to restart mycroft.
 
-**Github:** | (https://github.com/mschot/mycroft-smartthings)  
+## Skill information:  
+**Github:** | [https://github.com/mschot/mycroft-smartthings](https://github.com/mschot/mycroft-smartthings)  
 **Owner:** | [@mschot](https://github.com/mschot)  
-**Created:** | 2018-02-01T20:26:25Z  **Last updated:** 2019-08-26T00:36:43Z  
-**License:** | [GNU Lesser General Public License v3.0](https://api.github.com/licenses/lgpl-3.0)  
+**Created:** | 2018 Feb 01 20:26:25 UTC  **Last updated:** 2019 Aug 26 00:36:43 UTC  
+**License:** | GNU Lesser General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/mschot/mycroft-smartthings```
 {% endtab %}

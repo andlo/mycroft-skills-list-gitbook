@@ -1,6 +1,10 @@
----
-description: Weather conditions and forecasts
----
+---  
+description: Weather conditions and forecasts  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Weather  
+### _skill-weather.MycroftAI_  
+## About:  
 Get weather conditions, forecasts, expected precipitation and more!  By default it will tell
 you about your default location, or you can ask for other cities around the world.
 
@@ -10,13 +14,26 @@ For **enclosures** with screen support, conditions are briefly shown using visem
 
 The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your [https://home.mycroft.ai](https://home.mycroft.ai) account.
 
-**Github:** | (https://github.com/MycroftAI/skill-weather)  
+## Skill information:  
+**Github:** | [https://github.com/MycroftAI/skill-weather](https://github.com/MycroftAI/skill-weather)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-04-04T17:49:49Z  **Last updated:** 2019-12-02T08:16:00Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2017 Apr 04 17:49:49 UTC  **Last updated:** 2019 Dec 02 08:16:00 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-weather)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#weather \#forecast \#rain \#humidity \#snow \#temperature   
+## Examples:  
+> What is the weather?  
+> What is the forecast tomorrow?  
+> What is the weather going to be like Tuesday?  
+> What is the weather in Houston?  
+> When will it rain next?  
+> How windy is it?  
+> What's the humidity?  
+> Is it going to snow?  
+> What's the temperature?  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

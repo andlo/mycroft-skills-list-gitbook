@@ -1,6 +1,9 @@
----
-description: Skills to intergrate to Myscroft platform , Maxwell is the project name
----
+---  
+description: Skills to intergrate to Myscroft platform , Maxwell is the project name  
+---  
+# Maxwell Acronym skill interface to Altsearch engine  
+### _maxwell_skills.hubolife_  
+## About:  
 This is a AltSearch for acroymyns skill that takes an _Utterance_ from the user and provides a voice response - a _Dialog_. This Skill demonstrates the basic directory and file structure of a Mycroft Skill platform good in developing Skills for the Mycroft ecosystem.
 
 If you want to write **Skills** for Mycroft, Documentation is available:
@@ -13,13 +16,20 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
 
-**Github:** | (https://github.com/hubolife/maxwell_skills)  
+## Skill information:  
+**Github:** | [https://github.com/hubolife/maxwell_skills](https://github.com/hubolife/maxwell_skills)  
 **Owner:** | [@hubolife](https://github.com/hubolife)  
-**Created:** | 2019-02-11T09:42:47Z  **Last updated:** 2019-02-11T13:33:20Z  
+**Created:** | 2019 Feb 11 09:42:47 UTC  **Last updated:** 2019 Feb 11 13:33:20 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#altsearch \#acronym \#catagory   
+## Examples:  
+> AltSearch.  
+> Link status?  
+> Search Acronym.  
+  
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

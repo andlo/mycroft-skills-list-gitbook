@@ -1,6 +1,9 @@
----
-description: 
----
+---  
+description:   
+---  
+# Mosquito Message  
+### _skill-mosquito-message.RdeLange_  
+## About:  
 This skill has two purposes:
 1) Instead of triggering a skill by asking Mycroft a question, this skill triggers when a text message is received on mqtt.
 It can be used for notifications. For instance, a smart home server could publish the text "Somebody is at the door", if the doorbell is pressed.
@@ -44,16 +47,30 @@ Example underscore: Convert "Kitchen_window is open" to "Kitchen Window is open"
 What happens: The regex match "_" in "Kitchen_window is open".  We retain the characters until index 0 of "_", which is no characters.
 We retain the characters after index 1 of "_", which is no characters. And we put a space in the middle.
 
-**Github:** | (https://github.com/RdeLange/skill-mosquito-message)  
+## Skill information:  
+**Github:** | [https://github.com/RdeLange/skill-mosquito-message](https://github.com/RdeLange/skill-mosquito-message)  
 **Owner:** | [@RdeLange](https://github.com/RdeLange)  
-**Created:** | 2018-05-25T19:11:30Z  **Last updated:** 2018-10-13T19:44:47Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2018 May 25 19:11:30 UTC  **Last updated:** 2018 Oct 13 19:44:47 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Out/text.  
+> You, at a linux command prompt: mosquitto_pub -h mqttserver -t my-out/text -m.  
+> :  
+> You:  
+> :  
+> You, at a linux command prompt: mosquitto_pub -h mqttserver -t my-out/text -m.  
+> :  
+> :  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/RdeLange/skill-mosquito-message```
 {% endtab %}

@@ -1,14 +1,27 @@
----
-description: 
----
+---  
+description:   
+---  
+# One Before Last  
+### _one-before-last-mycroft.stuartlangridge_  
+## About:  
 Answer true or false trivia questions, but with a twist: you have to answer not the question you've just been asked, but the one before that. Get it wrong three times and you lose.
 
-**Github:** | (https://github.com/stuartlangridge/one-before-last-mycroft)  
+## Skill information:  
+**Github:** | [https://github.com/stuartlangridge/one-before-last-mycroft](https://github.com/stuartlangridge/one-before-last-mycroft)  
 **Owner:** | [@stuartlangridge](https://github.com/stuartlangridge)  
-**Created:** | 2018-03-23T21:47:40Z  **Last updated:** 2018-03-24T18:25:53Z  
-**License:** | No License  
+**Created:** | 2018 Mar 23 21:47:40 UTC  **Last updated:** 2018 Mar 24 18:25:53 UTC  
+**License:** | Other  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
+    
+## Installation:  
+{% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/stuartlangridge/one-before-last-mycroft```
+{% endtab %}
+  {% endtabs %}
+  

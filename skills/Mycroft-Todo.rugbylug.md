@@ -1,18 +1,61 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# Mycroft Todo skill  
+### _Mycroft-Todo.rugbylug_  
+## About:  
 
 
-**Github:** | (https://github.com/rugbylug/Mycroft-Todo)  
+## Skill information:  
+**Github:** | [https://github.com/rugbylug/Mycroft-Todo](https://github.com/rugbylug/Mycroft-Todo)  
 **Owner:** | [@rugbylug](https://github.com/rugbylug)  
-**Created:** | 2018-08-01T08:19:40Z  **Last updated:** 2018-10-18T20:21:44Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2018 Aug 01 08:19:40 UTC  **Last updated:** 2018 Oct 18 20:21:44 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Create a list called SOMELIST.  
+> {{listname}} created.  
+> Set list as default.  
+> List {{listname}} set as default.  
+> Use list SOMELIST.  
+> Using list {{listname}}  
+> Find list SOMELIST.  
+> Found list {{listname}}  
+> Cant find list {{listname}}  
+> Remove list SOMELIST.  
+> Are you sure you want to remove list {{listname}}?  
+> Yes.  
+> List {{listname}} removed.  
+> Add {{item}} [to SOMELIST]  
+> Item {{item}} added to {{listname}}  
+> How many items.  
+> There are  {{itemcount}} items on list {{listname}}  
+> Find item SOMEITEM.  
+> Item {{item}} found.  
+> Make it priority 1.  
+> Make it top priority.  
+> Make it high priority.  
+> Make it highest priority.  
+> Make it low priority.  
+> Item {{item}} is now priority {{priority}}  
+> Set due date to SOMEDATE.  
+> Item {{item}} due at {{duedate}}  
+> Mark as complete.  
+> Item {{item}} marked as complete.  
+> Remove item SOMEITEM.  
+> Item {{item}} removed.  
+> Tell me about it.  
+> Item {{itemname}} has priority {{priority}} and is due on {{duedate}}  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/rugbylug/Mycroft-Todo```
 {% endtab %}

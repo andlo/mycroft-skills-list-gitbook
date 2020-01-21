@@ -1,14 +1,19 @@
----
-description: 
----
+---  
+description:   
+---  
+# Pushetta skill  
+### _Mycroft-Pushetta-skill.marksev1_  
+## About:  
 
 
-**Github:** | (https://github.com/marksev1/Mycroft-Pushetta-skill)  
+## Skill information:  
+**Github:** | [https://github.com/marksev1/Mycroft-Pushetta-skill](https://github.com/marksev1/Mycroft-Pushetta-skill)  
 **Owner:** | [@marksev1](https://github.com/marksev1)  
-**Created:** | 2017-03-15T18:44:03Z  **Last updated:** 2017-03-15T18:45:30Z  
+**Created:** | 2017 Mar 15 18:44:03 UTC  **Last updated:** 2017 Mar 15 18:45:30 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

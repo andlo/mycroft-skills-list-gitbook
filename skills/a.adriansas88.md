@@ -1,14 +1,19 @@
----
-description: 
----
+---  
+description:   
+---  
+#   
+### _a.adriansas88_  
+## About:  
 
 
-**Github:** | (https://github.com/adriansas88/a)  
+## Skill information:  
+**Github:** | [https://github.com/adriansas88/a](https://github.com/adriansas88/a)  
 **Owner:** | [@adriansas88](https://github.com/adriansas88)  
-**Created:** | 2018-03-14T18:38:54Z  **Last updated:** 2018-03-14T18:47:06Z  
+**Created:** | 2018 Mar 14 18:38:54 UTC  **Last updated:** 2018 Mar 14 18:47:06 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

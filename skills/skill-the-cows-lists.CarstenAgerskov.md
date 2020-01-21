@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# The Cows Lists  
+### _skill-the-cows-lists.CarstenAgerskov_  
+## About:  
 This skill adds [Remember The Milk](https://www.rememberthemilk.com/) support to [Mycroft](https://mycroft.ai/).
 The skill use Remember The Milk's [rest interface](https://www.rememberthemilk.com/services/api/).
 The purpose if the skill is to allow operations suited for a voice interface. It is not an attempt to cover all functionality of remember the milk.
@@ -116,12 +120,18 @@ and you decide what information to put in the issue report.
 
 Other issues that are not caught as describe above, can be reported as well, on https://github.com/CarstenAgerskov/skill-the-cows-lists/issues.
 
-**Github:** | (https://github.com/CarstenAgerskov/skill-the-cows-lists)  
+## Skill information:  
+**Github:** | [https://github.com/CarstenAgerskov/skill-the-cows-lists](https://github.com/CarstenAgerskov/skill-the-cows-lists)  
 **Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
-**Created:** | 2017-11-26T15:48:44Z  **Last updated:** 2019-05-10T00:51:51Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2017 Nov 26 15:48:44 UTC  **Last updated:** 2019 May 10 00:51:51 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/carstena-the-cows-lists)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Add milk to my grocery list.  
+> Add remember to call home tomorrow at 9 to list Inbox.  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

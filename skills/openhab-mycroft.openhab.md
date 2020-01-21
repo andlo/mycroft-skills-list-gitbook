@@ -1,6 +1,10 @@
----
-description: This skill adds openHAB support to Mycroft
----
+---  
+description: This skill adds openHAB support to Mycroft  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# openHAB  
+### _openhab-mycroft.openhab_  
+## About:  
 This skill adds [openHAB](http://www.openhab.org/) support to [Mycroft](https://mycroft.ai).
 The skill takes advantage of the openHAB REST API, so it works both with the v1.x and v2.x of openHAB.
 
@@ -30,13 +34,36 @@ If items are modified in openHAB, a refresh in Mycroft is needed by the command:
 If you've forgotten what items have been identified, you can ask Mycroft:
 - *"Hey Mycroft, list openhab items"*
 
-**Github:** | (https://github.com/openhab/openhab-mycroft)  
+## Skill information:  
+**Github:** | [https://github.com/openhab/openhab-mycroft](https://github.com/openhab/openhab-mycroft)  
 **Owner:** | [@openhab](https://github.com/openhab)  
-**Created:** | 2017-09-07T19:37:21Z  **Last updated:** 2019-12-20T15:45:08Z  
-**License:** | [Eclipse Public License 2.0](https://api.github.com/licenses/epl-2.0)  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/openhab-skill) PR-1145 new waiting  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Created:** | 2017 Sep 07 19:37:21 UTC  **Last updated:** 2019 Dec 20 15:45:08 UTC  
+**License:** | Eclipse Public License 2.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/openhab-skill)  
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#openHAB \#smarthome \#IoT \#Automation \#opensource   
+## Examples:  
+> Turn on Diningroom Light.  
+> Switch off Kitchen Light.  
+> Put on Good Night.  
+> What is Good Night status?  
+> What is the status of Good Night?  
+> Set Diningroom to 50 percent.  
+> Dim Kitchen.  
+> Bright Kitchen.  
+> Dim Kitchen by 20 percent.  
+> What's Bedroom temperature?  
+> Tell me the temperature of Bedroom.  
+> What's the Bedroom humidity?  
+> I'd like to know the humidity of Bedroom.  
+> Adjust Main Thermostat to 21 degrees.  
+> Regulate Main Thermostat to 20 degrees.  
+> Decrease Main Thermostat by 2 degrees.  
+> Increase Main Thermostat by 1 degrees.  
+> What is Main Thermostat is regulated to?  
+> How the Main Thermostat tuned to?  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

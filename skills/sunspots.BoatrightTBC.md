@@ -1,14 +1,19 @@
----
-description: 
----
+---  
+description:   
+---  
+# sunspots  
+### _sunspots.BoatrightTBC_  
+## About:  
 
 
-**Github:** | (https://github.com/BoatrightTBC/sunspots)  
+## Skill information:  
+**Github:** | [https://github.com/BoatrightTBC/sunspots](https://github.com/BoatrightTBC/sunspots)  
 **Owner:** | [@BoatrightTBC](https://github.com/BoatrightTBC)  
-**Created:** | 2017-03-18T04:37:17Z  **Last updated:** 2017-03-18T05:42:31Z  
+**Created:** | 2017 Mar 18 04:37:17 UTC  **Last updated:** 2017 Mar 18 05:42:31 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

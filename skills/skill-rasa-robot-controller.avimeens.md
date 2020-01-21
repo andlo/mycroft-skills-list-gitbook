@@ -1,14 +1,26 @@
----
-description: 
----
+---  
+description:   
+---  
+# Rasa Robot Controller  
+### _skill-rasa-robot-controller.avimeens_  
+## About:  
 In order to provide voice interance for controlling a robot on Mycroft, this skill provides intent processing to understand basic commands such as "move", "go", "stop", "turn" using RasaNLU as the intent processor.
 
-**Github:** | (https://github.com/avimeens/skill-rasa-robot-controller)  
+## Skill information:  
+**Github:** | [https://github.com/avimeens/skill-rasa-robot-controller](https://github.com/avimeens/skill-rasa-robot-controller)  
 **Owner:** | [@avimeens](https://github.com/avimeens)  
-**Created:** | 2018-07-16T14:55:52Z  **Last updated:** 2018-08-14T21:39:13Z  
-**License:** | [MIT License](https://api.github.com/licenses/mit)  
+**Created:** | 2018 Jul 16 14:55:52 UTC  **Last updated:** 2018 Aug 14 21:39:13 UTC  
+**License:** | MIT License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Move 10 feet forward.  
+> Turn 45 degrees to your right.  
+> Go back 3 meters.  
+> Store your current location.  
+> Stop.  
+  
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

@@ -1,6 +1,9 @@
----
-description: Example of interacting with GPIO pins on a Raspberry Pi
----
+---  
+description: Example of interacting with GPIO pins on a Raspberry Pi  
+---  
+# Raspberry Pi GPIO Demo  
+### _rasp.MOHIT-sketch_  
+## About:  
 This Skill demonstrates how to interact with the Raspberry Pi GPIO pins using a Mycroft Skill. This Skill shows both reading data from a GPIO port (detecting a button press) and writing data to the port (illuminating an LED).
 
 ### Preparation
@@ -46,17 +49,27 @@ Please use the below image as a guide to the circuit layout:
 
 ![](https://github.com/MycroftAI/picroft_example_skill_gpio/blob/master/IMG_20170706_153744.jpg)
 
-**Github:** | (https://github.com/MOHIT-sketch/rasp)  
+## Skill information:  
+**Github:** | [https://github.com/MOHIT-sketch/rasp](https://github.com/MOHIT-sketch/rasp)  
 **Owner:** | [@MOHIT-sketch](https://github.com/MOHIT-sketch)  
-**Created:** | 2019-08-05T09:10:55Z  **Last updated:** 2019-08-05T09:21:02Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2019 Aug 05 09:10:55 UTC  **Last updated:** 2019 Aug 05 09:21:02 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/picroft-icon.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#IoT \#GPIO \#RPi   
+## Examples:  
+> Turn LED on.  
+> Turn LED off.  
+> Blink LED.  
+> LED status.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/MOHIT-sketch/rasp```
 {% endtab %}

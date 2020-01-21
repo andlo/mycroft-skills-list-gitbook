@@ -1,6 +1,9 @@
----
-description: 
----
+---  
+description:   
+---  
+# skill-tivo  
+### _skill-tivo.groupwhere_  
+## About:  
 Based on ideas from the following sites:
 ```
 https://community.home-assistant.io/t/control-tivo-box-over-telnet/12430/65
@@ -43,16 +46,20 @@ Mycroft will respond with, e.g.:
 * "Bob's Tivo is off"
 * "Bob's Tivo is playing"
 
-**Github:** | (https://github.com/groupwhere/skill-tivo)  
+## Skill information:  
+**Github:** | [https://github.com/groupwhere/skill-tivo](https://github.com/groupwhere/skill-tivo)  
 **Owner:** | [@groupwhere](https://github.com/groupwhere)  
-**Created:** | 2018-03-17T16:20:08Z  **Last updated:** 2018-08-09T16:55:23Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2018 Mar 17 16:20:08 UTC  **Last updated:** 2018 Aug 09 16:55:23 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/groupwhere/skill-tivo```
 {% endtab %}

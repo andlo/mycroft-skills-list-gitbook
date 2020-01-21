@@ -1,14 +1,19 @@
----
-description: 
----
+---  
+description:   
+---  
+# shopping-demo  
+### _shopping-demo.AIIX_  
+## About:  
 
 
-**Github:** | (https://github.com/AIIX/shopping-demo)  
+## Skill information:  
+**Github:** | [https://github.com/AIIX/shopping-demo](https://github.com/AIIX/shopping-demo)  
 **Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018-10-04T14:27:01Z  **Last updated:** 2019-04-03T11:53:39Z  
+**Created:** | 2018 Oct 04 14:27:01 UTC  **Last updated:** 2019 Apr 03 11:53:39 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

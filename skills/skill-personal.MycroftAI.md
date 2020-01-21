@@ -1,16 +1,29 @@
----
-description: Learn history and personality of Mycroft
----
+---  
+description: Learn history and personality of Mycroft  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Mycroft's Background  
+### _skill-personal.MycroftAI_  
+## About:  
 Ask about the "birth" and parentage of Mycroft and get a taste of the community
 who is fostering this open source artificial intelligence.
 
-**Github:** | (https://github.com/MycroftAI/skill-personal)  
+## Skill information:  
+**Github:** | [https://github.com/MycroftAI/skill-personal](https://github.com/MycroftAI/skill-personal)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-04-04T17:47:50Z  **Last updated:** 2019-11-28T11:00:30Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2017 Apr 04 17:47:50 UTC  **Last updated:** 2019 Nov 28 11:00:30 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-personal)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#personality \#persona   
+## Examples:  
+> When were you created?  
+> What are you?  
+> Where were you born?  
+> Who made you?  
+> Do you even rhyme?  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

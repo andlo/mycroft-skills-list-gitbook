@@ -1,6 +1,9 @@
----
-description: Announce arrivals of MBTA busses at your desired stop
----
+---  
+description: Announce arrivals of MBTA busses at your desired stop  
+---  
+# MBTA Bus Tracking  
+### _mbta-bus-tracking-skill.richhowley_  
+## About:  
 Mycroft will announce estimated arrival times of MBTA busses  at your stop so you never leave the house before you have to.  All data and arrival predictions used by this skill are provided by the MBTA.
 
 See below for full documentation, including how to track busses traveling toward your stop, but to get started just say "Hey Mycroft, T Bus Arrivals".  You will be prompted for the bus route, direction and stop name.  Mycroft will respond with all estimated arrival times at your stop.
@@ -87,17 +90,26 @@ When installed this skill does not use an API key when getting data from the MBT
 
 </details>
 
-**Github:** | (https://github.com/richhowley/mbta-bus-tracking-skill)  
+## Skill information:  
+**Github:** | [https://github.com/richhowley/mbta-bus-tracking-skill](https://github.com/richhowley/mbta-bus-tracking-skill)  
 **Owner:** | [@richhowley](https://github.com/richhowley)  
-**Created:** | 2019-07-16T01:18:28Z  **Last updated:** 2019-10-02T23:32:24Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2019 Jul 16 01:18:28 UTC  **Last updated:** 2019 Oct 02 23:32:24 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1108 needs validation new  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#MBTA,Boston   
+## Examples:  
+> T Bus Arrivals.  
+> T Bus Tracking.  
+> Save Transit Shortcut.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/richhowley/mbta-bus-tracking-skill```
 {% endtab %}

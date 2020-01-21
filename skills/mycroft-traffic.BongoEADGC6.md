@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Traffic Skill for Mycroft  
+### _mycroft-traffic.BongoEADGC6_  
+## About:  
 Add a block to your `~/.mycroft/mycroft.conf` file like this:
 
 ```
@@ -20,12 +24,14 @@ Add a block to your `~/.mycroft/mycroft.conf` file like this:
 ```
 * Google API key can be obtained [HERE](https://developers.google.com/maps/documentation/directions/start#get-a-key)
 
-**Github:** | (https://github.com/BongoEADGC6/mycroft-traffic)  
+## Skill information:  
+**Github:** | [https://github.com/BongoEADGC6/mycroft-traffic](https://github.com/BongoEADGC6/mycroft-traffic)  
 **Owner:** | [@BongoEADGC6](https://github.com/BongoEADGC6)  
-**Created:** | 2017-03-04T14:09:37Z  **Last updated:** 2019-11-14T08:44:48Z  
+**Created:** | 2017 Mar 04 14:09:37 UTC  **Last updated:** 2019 Nov 14 08:44:48 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

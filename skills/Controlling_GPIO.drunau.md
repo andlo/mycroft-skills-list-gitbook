@@ -1,6 +1,9 @@
----
-description: Example of interacting with GPIO pins on a Raspberry Pi
----
+---  
+description: Example of interacting with GPIO pins on a Raspberry Pi  
+---  
+# Raspberry Pi GPIO Demo  
+### _Controlling_GPIO.drunau_  
+## About:  
 This Skill demonstrates how to interact with the Raspberry Pi GPIO pins using a Mycroft Skill. This Skill shows both reading data from a GPIO port (detecting a button press) and writing data to the port (illuminating an LED).
 
 ### Preparation
@@ -46,17 +49,27 @@ Please use the below image as a guide to the circuit layout:
 
 ![](https://github.com/MycroftAI/picroft_example_skill_gpio/blob/master/IMG_20170706_153744.jpg)
 
-**Github:** | (https://github.com/drunau/Controlling_GPIO)  
+## Skill information:  
+**Github:** | [https://github.com/drunau/Controlling_GPIO](https://github.com/drunau/Controlling_GPIO)  
 **Owner:** | [@drunau](https://github.com/drunau)  
-**Created:** | 2019-08-29T10:58:03Z  **Last updated:** 2019-08-29T10:58:14Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2019 Aug 29 10:58:03 UTC  **Last updated:** 2019 Aug 29 10:58:14 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1081 needs validation new  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/picroft-icon.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#IoT \#GPIO \#RPi   
+## Examples:  
+> Turn LED on.  
+> Turn LED off.  
+> Blink LED.  
+> LED status.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/drunau/Controlling_GPIO```
 {% endtab %}

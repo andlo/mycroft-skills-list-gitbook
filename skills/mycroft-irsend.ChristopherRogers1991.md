@@ -1,18 +1,29 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# mycroft-irsend  
+### _mycroft-irsend.ChristopherRogers1991_  
+## About:  
 
 
-**Github:** | (https://github.com/ChristopherRogers1991/mycroft-irsend)  
+## Skill information:  
+**Github:** | [https://github.com/ChristopherRogers1991/mycroft-irsend](https://github.com/ChristopherRogers1991/mycroft-irsend)  
 **Owner:** | [@ChristopherRogers1991](https://github.com/ChristopherRogers1991)  
-**Created:** | 2017-07-06T07:25:41Z  **Last updated:** 2019-01-02T19:17:00Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2017 Jul 06 07:25:41 UTC  **Last updated:** 2019 Jan 02 19:17:00 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> - Run this if you've added remotes to lirc, and want Mycroft to pick them up (otherwise they will be picked up on restart)  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/ChristopherRogers1991/mycroft-irsend```
 {% endtab %}

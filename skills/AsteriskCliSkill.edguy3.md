@@ -1,14 +1,20 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# AsteriskCliSkill  
+### _AsteriskCliSkill.edguy3_  
+## About:  
 
 
-**Github:** | (https://github.com/edguy3/AsteriskCliSkill)  
+## Skill information:  
+**Github:** | [https://github.com/edguy3/AsteriskCliSkill](https://github.com/edguy3/AsteriskCliSkill)  
 **Owner:** | [@edguy3](https://github.com/edguy3)  
-**Created:** | 2017-11-21T20:14:49Z  **Last updated:** 2018-05-29T00:11:12Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2017 Nov 21 20:14:49 UTC  **Last updated:** 2018 May 29 00:11:12 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

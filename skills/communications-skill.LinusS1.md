@@ -1,6 +1,10 @@
----
-description: An intercom, (and soon to be) messaging, and (video) calling skill for Mycroft!
----
+---  
+description: An intercom, (and soon to be) messaging, and (video) calling skill for Mycroft!  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Communications  
+### _communications-skill.LinusS1_  
+## About:  
 Use this skill to broadcast messages across your home.
 When this skill is installed on two or more of your devices, the devices will automatically find and connect to each other.
 
@@ -24,17 +28,26 @@ The future includes:
 - Not having to allow ports in (this will be done automatically)
 - Calling and video calling!
 
-**Github:** | (https://github.com/LinusS1/communications-skill)  
+## Skill information:  
+**Github:** | [https://github.com/LinusS1/communications-skill](https://github.com/LinusS1/communications-skill)  
 **Owner:** | [@LinusS1](https://github.com/LinusS1)  
-**Created:** | 2018-12-25T01:28:55Z  **Last updated:** 2019-12-11T22:44:08Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2018 Dec 25 01:28:55 UTC  **Last updated:** 2019 Dec 11 22:44:08 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#intercom \#intercoms \#communication \#communications \#broadcast \#broadcasting \#connect \#devices \#video \#calling \#call   
+## Examples:  
+> Announce that.  
+> Announce.  
+> Announce.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/LinusS1/communications-skill```
 {% endtab %}

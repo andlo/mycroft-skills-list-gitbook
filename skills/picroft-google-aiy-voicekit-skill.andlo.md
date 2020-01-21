@@ -1,16 +1,22 @@
----
-description: Enables Google AIY voicekit
----
+---  
+description: Enables Google AIY voicekit  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Google AIY voicekit  
+### _picroft-google-aiy-voicekit-skill.andlo_  
+## About:  
 This enables the led and button on the Google AIY voicekit.
 
 The button led turns on when Mycroft is listning. If button is pressed he begins to listen. If the button is pressed for a longer time he stops whatever he is dooing.
 
-**Github:** | (https://github.com/andlo/picroft-google-aiy-voicekit-skill)  
+## Skill information:  
+**Github:** | [https://github.com/andlo/picroft-google-aiy-voicekit-skill](https://github.com/andlo/picroft-google-aiy-voicekit-skill)  
 **Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018-10-19T21:03:35Z  **Last updated:** 2019-12-28T20:31:07Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/picroft-google-aiy-voicekit) PR-1149  
-**Platform:**   ![](.gitbook/assets/picroft-icon.png)   
+**Created:** | 2018 Oct 19 21:03:35 UTC  **Last updated:** 2019 Dec 28 20:31:07 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/picroft-google-aiy-voicekit)  
+**Platform:**  
+ ![](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#googlevoicekit \#aiy \#Googleaiy \#voicekit \#voicehat   
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers

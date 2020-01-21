@@ -1,18 +1,33 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# whats-nearby  
+### _whats-nearby.AIIX_  
+## About:  
 #### Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display Results
 #### Permission Notice: This Skill makes use of Mozilla Location Services to determine your current location
 #### This skill requires you to setup your own HERE API Keys on https://home.mycroft.ai | Register for free HERE API Keys at: https://developer.here.com/
 
 ##### To-Do: Improve Location Accuracy on Plasma-Mobile by utilizing nearby cell-tower information.
 
-**Github:** | (https://github.com/AIIX/whats-nearby)  
+## Skill information:  
+**Github:** | [https://github.com/AIIX/whats-nearby](https://github.com/AIIX/whats-nearby)  
 **Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018-01-02T13:27:41Z  **Last updated:** 2018-08-22T15:22:13Z  
+**Created:** | 2018 Jan 02 13:27:41 UTC  **Last updated:** 2018 Aug 22 15:22:13 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Search for nearby resturants.  
+> Search for nearby Hotels.  
+> Search nearby parks.  
+> Search nearby hostels.  
+> Search for nearby hospitals.  
+> Search for hotels.  
+> Search for pubs.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

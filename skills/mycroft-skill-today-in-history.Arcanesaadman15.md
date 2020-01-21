@@ -1,18 +1,25 @@
----
-description: 
----
+---  
+description:   
+---  
+# Mycroft Today in History - Event skill  
+### _mycroft-skill-today-in-history.Arcanesaadman15_  
+## About:  
 
 
-**Github:** | (https://github.com/Arcanesaadman15/mycroft-skill-today-in-history)  
+## Skill information:  
+**Github:** | [https://github.com/Arcanesaadman15/mycroft-skill-today-in-history](https://github.com/Arcanesaadman15/mycroft-skill-today-in-history)  
 **Owner:** | [@Arcanesaadman15](https://github.com/Arcanesaadman15)  
-**Created:** | 2018-02-04T15:50:04Z  **Last updated:** 2018-12-26T17:14:36Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2018 Feb 04 15:50:04 UTC  **Last updated:** 2018 Dec 26 17:14:36 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/Arcanesaadman15/mycroft-skill-today-in-history```
 {% endtab %}

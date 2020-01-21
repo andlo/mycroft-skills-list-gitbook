@@ -1,14 +1,20 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# mycroft_spaceflightnow_skill  
+### _mycroft_spaceflightnow_skill.praxeo_  
+## About:  
 
 
-**Github:** | (https://github.com/praxeo/mycroft_spaceflightnow_skill)  
+## Skill information:  
+**Github:** | [https://github.com/praxeo/mycroft_spaceflightnow_skill](https://github.com/praxeo/mycroft_spaceflightnow_skill)  
 **Owner:** | [@praxeo](https://github.com/praxeo)  
-**Created:** | 2016-09-05T03:48:15Z  **Last updated:** 2018-03-25T16:24:56Z  
+**Created:** | 2016 Sep 05 03:48:15 UTC  **Last updated:** 2018 Mar 25 16:24:56 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

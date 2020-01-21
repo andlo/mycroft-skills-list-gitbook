@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# CaffeineWiz  
+### _CaffeineWiz.reginaneon_  
+## About:  
 The skill provides the functionality to inform the user of the caffeine content of the requested
 drink. Multiple drinks in a row are possible.
 
@@ -17,12 +21,18 @@ or -
 - How about caffeine content of *drink*?
 - The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_size}} ounces.
 
-**Github:** | (https://github.com/reginaneon/CaffeineWiz)  
+## Skill information:  
+**Github:** | [https://github.com/reginaneon/CaffeineWiz](https://github.com/reginaneon/CaffeineWiz)  
 **Owner:** | [@reginaneon](https://github.com/reginaneon)  
-**Created:** | 2017-10-17T23:38:17Z  **Last updated:** 2018-06-12T10:23:27Z  
+**Created:** | 2017 Oct 17 23:38:17 UTC  **Last updated:** 2018 Jun 12 10:23:27 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Tell me caffeine content of *drink*?  
+> How much caffeine is in *drink*?  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

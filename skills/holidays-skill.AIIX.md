@@ -1,19 +1,29 @@
----
-description: Holidays List Information
----
+---  
+description: Holidays List Information  
+---  
+# Holidays  
+### _holidays-skill.AIIX_  
+## About:  
 Get Current and Historic holidays list for a country.
 
-**Github:** | (https://github.com/AIIX/holidays-skill)  
+## Skill information:  
+**Github:** | [https://github.com/AIIX/holidays-skill](https://github.com/AIIX/holidays-skill)  
 **Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018-12-04T12:49:53Z  **Last updated:** 2018-12-04T12:51:29Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2018 Dec 04 12:49:53 UTC  **Last updated:** 2018 Dec 04 12:51:29 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#holidays \#list \#history \#information   
+## Examples:  
+> Give me a list of holidays for {country} in {year}  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/AIIX/holidays-skill```
 {% endtab %}

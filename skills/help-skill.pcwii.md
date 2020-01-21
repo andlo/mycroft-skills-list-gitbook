@@ -1,14 +1,25 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# Help Skill for Mycroft AI  
+### _help-skill.pcwii_  
+## About:  
 This skill will provide conversational help for the installed skills by scraping the Readme files for any examples.
 
-**Github:** | (https://github.com/pcwii/help-skill)  
+## Skill information:  
+**Github:** | [https://github.com/pcwii/help-skill](https://github.com/pcwii/help-skill)  
 **Owner:** | [@pcwii](https://github.com/pcwii)  
-**Created:** | 2018-07-28T14:05:46Z  **Last updated:** 2019-10-27T16:41:55Z  
+**Created:** | 2018 Jul 28 14:05:46 UTC  **Last updated:** 2019 Oct 27 16:41:55 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Help.  
+> What can you do?  
+> How do I use kodi skill.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

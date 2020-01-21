@@ -1,14 +1,20 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+#   
+### _GoogleCalendarSkill.jcasoft_  
+## About:  
 
 
-**Github:** | (https://github.com/jcasoft/GoogleCalendarSkill)  
+## Skill information:  
+**Github:** | [https://github.com/jcasoft/GoogleCalendarSkill](https://github.com/jcasoft/GoogleCalendarSkill)  
 **Owner:** | [@jcasoft](https://github.com/jcasoft)  
-**Created:** | 2017-01-02T20:56:57Z  **Last updated:** 2019-01-13T22:00:58Z  
+**Created:** | 2017 Jan 02 20:56:57 UTC  **Last updated:** 2019 Jan 13 22:00:58 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

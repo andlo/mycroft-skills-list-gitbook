@@ -1,14 +1,35 @@
----
-description: 
----
+---  
+description:   
+---  
+# Plex Mycroft Skill  
+### _Mycroft-Plex-Skill.tony1661_  
+## About:  
 A custom Mycroft skill I created to control my plex server.
 
-**Github:** | (https://github.com/tony1661/Mycroft-Plex-Skill)  
+## Skill information:  
+**Github:** | [https://github.com/tony1661/Mycroft-Plex-Skill](https://github.com/tony1661/Mycroft-Plex-Skill)  
 **Owner:** | [@tony1661](https://github.com/tony1661)  
-**Created:** | 2019-04-24T04:14:02Z  **Last updated:** 2019-05-14T17:07:51Z  
-**License:** | No License  
+**Created:** | 2019 Apr 24 04:14:02 UTC  **Last updated:** 2019 May 14 17:07:51 UTC  
+**License:** | Other  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Refresh Plex.  
+> How many movies do I have downloaded?  
+> Count my movies.  
+> How many movies do I have.  
+> How many movies do I have downloaded.  
+> How many movies do I have on plex.  
+  
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
+    
+## Installation:  
+{% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/tony1661/Mycroft-Plex-Skill```
+{% endtab %}
+  {% endtabs %}
+  

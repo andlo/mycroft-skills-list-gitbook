@@ -1,6 +1,10 @@
----
-description: Information on US National Parks
----
+---  
+description: Information on US National Parks  
+---  
+![](../.gitbook/assets/star.png)  
+# National Parks  
+### _national-parks-skill.richhowley_  
+## About:  
 Get listings of US National Parks by state, have Mycroft read descriptions of  national parks and even test your knowledge of where National Parks are located.
 
 To use this skill  you will need to obtain an API key from the [National Park Service](https://www.nps.gov/subjects/developer/get-started.htm).  Just follow the link and fill in the form, it's free and you will not be required to create an account.  When the skill is installed there will be a new settings entry in the Skills section of [Mycroft Home](https://home.mycroft.ai) under National Parks.  Paste in your API key and click the Save button.  As soon as the skill picks up the API key it will be able to connect to the NPS servers.
@@ -13,13 +17,21 @@ Since definite articles are dropped from speech, searches for descriptions of so
 
 After asking to be quizzed Mycroft will ask what state a particular National Park Service property is in.  The answer may be spoken after the beep without using the wake word but there will only be a few seconds to answer.  If Mycroft does not respond to the answer use the wake word with "Repeat national parks quiz" and answer after the beep.
 
-**Github:** | (https://github.com/richhowley/national-parks-skill)  
+## Skill information:  
+**Github:** | [https://github.com/richhowley/national-parks-skill](https://github.com/richhowley/national-parks-skill)  
 **Owner:** | [@richhowley](https://github.com/richhowley)  
-**Created:** | 2018-11-11T17:31:25Z  **Last updated:** 2019-05-22T01:53:00Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2018 Nov 11 17:31:25 UTC  **Last updated:** 2019 May 22 01:53:00 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/national-park)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#nationalparks \#parks \#vacation   
+## Examples:  
+> List national parks in Utah.  
+> Describe Yellowstone national park.  
+> Quiz me on national parks.  
+> Repeat national parks quiz.  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

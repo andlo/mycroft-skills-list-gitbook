@@ -1,18 +1,30 @@
----
-description: 
----
+---  
+description:   
+---  
+# Mycroft Today in History - Event skill  
+### _tinh.avellent_  
+## About:  
 Looks up a random event from today in history API.
 
-**Github:** | (https://github.com/avellent/tinh)  
+## Skill information:  
+**Github:** | [https://github.com/avellent/tinh](https://github.com/avellent/tinh)  
 **Owner:** | [@avellent](https://github.com/avellent)  
-**Created:** | 2018-09-02T20:30:00Z  **Last updated:** 2018-09-02T20:30:45Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2018 Sep 02 20:30:00 UTC  **Last updated:** 2018 Sep 02 20:30:45 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> What event happened this day in history?  
+> This day in history.  
+> Today in history.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/avellent/tinh```
 {% endtab %}

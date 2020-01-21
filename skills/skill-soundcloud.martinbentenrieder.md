@@ -1,19 +1,31 @@
----
-description: 
----
+---  
+description:   
+---  
+# Soundcloud-Skill  
+### _skill-soundcloud.martinbentenrieder_  
+## About:  
 A more verbose description, including any extra instructions or
 information that didn't fit in the one line.
 
-**Github:** | (https://github.com/martinbentenrieder/skill-soundcloud)  
+## Skill information:  
+**Github:** | [https://github.com/martinbentenrieder/skill-soundcloud](https://github.com/martinbentenrieder/skill-soundcloud)  
 **Owner:** | [@martinbentenrieder](https://github.com/martinbentenrieder)  
-**Created:** | 2018-09-26T16:40:22Z  **Last updated:** 2018-09-27T16:34:25Z  
-**License:** | [MIT License](https://api.github.com/licenses/mit)  
+**Created:** | 2018 Sep 26 16:40:22 UTC  **Last updated:** 2018 Sep 27 16:34:25 UTC  
+**License:** | MIT License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Play Spectralist on Soundcloud.  
+> Listen to Joseph Disco on Soundcloud.  
+> Stop Soundcloud.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/martinbentenrieder/skill-soundcloud```
 {% endtab %}

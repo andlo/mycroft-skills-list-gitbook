@@ -1,15 +1,34 @@
----
-description: 
----
+---  
+description:   
+---  
+# YOUR SKILL NAME  
+### _arduino-control-skill.Julia3107_  
+## About:  
 A more verbose description, including any extra instructions or
 information that didn't fit in the one line.
 
-**Github:** | (https://github.com/Julia3107/arduino-control-skill)  
+## Skill information:  
+**Github:** | [https://github.com/Julia3107/arduino-control-skill](https://github.com/Julia3107/arduino-control-skill)  
 **Owner:** | [@Julia3107](https://github.com/Julia3107)  
-**Created:** | 2019-08-29T10:03:55Z  **Last updated:** 2019-09-14T12:26:50Z  
-**License:** | No License  
+**Created:** | 2019 Aug 29 10:03:55 UTC  **Last updated:** 2019 Sep 14 12:26:50 UTC  
+**License:** | Other  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Hello world.  
+> Greetings planet earth.  
+> Count up.  
+> Count down.  
+  
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
+    
+## Installation:  
+{% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/Julia3107/arduino-control-skill```
+{% endtab %}
+  {% endtabs %}
+  

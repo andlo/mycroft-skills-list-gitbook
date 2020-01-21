@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# AVmusic  
+### _AVmusic.reginaneon_  
+## About:  
 The skill provides the functionality to playback the video of any music band/album/playlist
 or specific song requested by the user. No need to specify the location of the files or register any accounts.
 Just say what you would like to listen to and enjoy.
@@ -25,12 +29,18 @@ or -
 - Actually, go ahead
 - Say stop when you are done.
 
-**Github:** | (https://github.com/reginaneon/AVmusic)  
+## Skill information:  
+**Github:** | [https://github.com/reginaneon/AVmusic](https://github.com/reginaneon/AVmusic)  
 **Owner:** | [@reginaneon](https://github.com/reginaneon)  
-**Created:** | 2018-06-01T22:33:50Z  **Last updated:** 2018-11-16T19:15:08Z  
+**Created:** | 2018 Jun 01 22:33:50 UTC  **Last updated:** 2018 Nov 16 19:15:08 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Play some imagine dragons music.  
+> Av play study music playlist.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

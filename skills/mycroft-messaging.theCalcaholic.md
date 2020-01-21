@@ -1,14 +1,32 @@
----
-description: 
----
+---  
+description:   
+---  
+# Messaging Skill  
+### _mycroft-messaging.theCalcaholic_  
+## About:  
 
 
-**Github:** | (https://github.com/theCalcaholic/mycroft-messaging)  
+## Skill information:  
+**Github:** | [https://github.com/theCalcaholic/mycroft-messaging](https://github.com/theCalcaholic/mycroft-messaging)  
 **Owner:** | [@theCalcaholic](https://github.com/theCalcaholic)  
-**Created:** | 2017-11-07T19:53:51Z  **Last updated:** 2018-08-19T19:17:55Z  
-**License:** | No License  
+**Created:** | 2017 Nov 07 19:53:51 UTC  **Last updated:** 2018 Aug 19 19:17:55 UTC  
+**License:** | Other  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> ...  
+> ...  
+> ...  
+  
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
+    
+## Installation:  
+{% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/theCalcaholic/mycroft-messaging```
+{% endtab %}
+  {% endtabs %}
+  

@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# Trivia skill with local stt  
+### _lstt-skill.tjoen_  
+## About:  
 This skill uses mycrofts pocketsphinx STT with a small dict.
 
 It uses a localstt.dic (dictionary) and localstt.lm (language model) in the res folder.
@@ -18,12 +22,19 @@ Translations might be a problem with this method, but this skill uses questions 
 [JarbasAI](https://github.com/JarbasAl) just made a very nice local listener that will be implemented in the near future.
 [More info on that here](https://github.com/JarbasAl/local_listener)
 
-**Github:** | (https://github.com/tjoen/lstt-skill)  
+## Skill information:  
+**Github:** | [https://github.com/tjoen/lstt-skill](https://github.com/tjoen/lstt-skill)  
 **Owner:** | [@tjoen](https://github.com/tjoen)  
-**Created:** | 2018-02-17T13:59:42Z  **Last updated:** 2018-03-23T16:18:55Z  
+**Created:** | 2018 Feb 17 13:59:42 UTC  **Last updated:** 2018 Mar 23 16:18:55 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Start local speech.  
+> Play trivia.  
+> Game of trivia.  
+  
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

@@ -1,19 +1,32 @@
----
-description: General system control
----
+---  
+description: General system control  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# System  
+### _skill-stop.MycroftAI_  
+## About:  
 Provides verbal interfaces for basic framework interactions, such as the
 "Stop" command.  Also provide interface to control physical Mycroft hardware.
 
 NOTE: This Skill is a little unusual in that it really doesn't do anything
 directly, rather it emits messages for the device creator to capture.
 
-**Github:** | (https://github.com/MycroftAI/skill-stop)  
+## Skill information:  
+**Github:** | [https://github.com/MycroftAI/skill-stop](https://github.com/MycroftAI/skill-stop)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-04-05T22:57:33Z  **Last updated:** 2019-12-23T18:47:54Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2017 Apr 05 22:57:33 UTC  **Last updated:** 2019 Dec 23 18:47:54 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-stop)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#system   
+## Examples:  
+> Stop.  
+> Reboot.  
+> Turn off.  
+> Allow remote login.  
+> Configure wifi.  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

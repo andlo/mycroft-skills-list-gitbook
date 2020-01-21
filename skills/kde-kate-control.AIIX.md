@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# KDE-Kate-Control  
+### _kde-kate-control.AIIX_  
+## About:  
 #### Installation of skill:
 * Download or Clone Git (run: git clone https://github.com/AIIX/kde-kate-control inside /opt/mycroft/skills)
 * Create /opt/mycroft/skills folder if it does not exist
@@ -21,12 +25,26 @@ description:
 * For other distributions:
 - Python Dbus package is required and copying the Python Dbus folder and lib from your system python install over to /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/.
 
-**Github:** | (https://github.com/AIIX/kde-kate-control)  
+## Skill information:  
+**Github:** | [https://github.com/AIIX/kde-kate-control](https://github.com/AIIX/kde-kate-control)  
 **Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2017-11-28T13:32:40Z  **Last updated:** 2017-12-08T08:54:08Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2017 Nov 28 13:32:40 UTC  **Last updated:** 2017 Dec 08 08:54:08 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Create new file.  
+> Close file.  
+> Save documents.  
+> Goto next tab.  
+> Goto previous tab.  
+> Split view horizontally.  
+> Split view vertically.  
+> Goto next view.  
+> Goto previous view.  
+> Show config.  
+  
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

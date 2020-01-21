@@ -1,6 +1,9 @@
----
-description: 
----
+---  
+description:   
+---  
+# Lecture Subjects  
+### _lecture-skill.Habanossi_  
+## About:  
 When asked what kind of lecture there is today, mycroft answers with the right subject. this works as a teaching example for home assistants.
 
 In "dates.txt" the user puts dates for upcoming lectures with some requirements:
@@ -14,12 +17,19 @@ Observe that the amount of lecture.dialog files must match the amount of dates i
 Date settings can be changed so that mycroft either uses a default answer or uses dates.txt for lecture subjects set for specific dates.
 If the date of today cannot be found in "dates.txt", nolecture.dialog will be used. This means that there is no lecture today.
 
-**Github:** | (https://github.com/Habanossi/lecture-skill)  
+## Skill information:  
+**Github:** | [https://github.com/Habanossi/lecture-skill](https://github.com/Habanossi/lecture-skill)  
 **Owner:** | [@Habanossi](https://github.com/Habanossi)  
-**Created:** | 2019-05-08T07:05:29Z  **Last updated:** 2019-08-30T07:56:57Z  
+**Created:** | 2019 May 08 07:05:29 UTC  **Last updated:** 2019 Aug 30 07:56:57 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> What is the subject of the lecture?  
+> What theme does the lecture have?  
+> Change the lecture settings.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

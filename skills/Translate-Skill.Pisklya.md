@@ -1,14 +1,19 @@
----
-description: 
----
+---  
+description:   
+---  
+#   
+### _Translate-Skill.Pisklya_  
+## About:  
 
 
-**Github:** | (https://github.com/Pisklya/Translate-Skill)  
+## Skill information:  
+**Github:** | [https://github.com/Pisklya/Translate-Skill](https://github.com/Pisklya/Translate-Skill)  
 **Owner:** | [@Pisklya](https://github.com/Pisklya)  
-**Created:** | 2017-11-08T20:35:32Z  **Last updated:** 2018-06-01T17:09:52Z  
+**Created:** | 2017 Nov 08 20:35:32 UTC  **Last updated:** 2018 Jun 01 17:09:52 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

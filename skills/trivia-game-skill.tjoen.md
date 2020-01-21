@@ -1,6 +1,9 @@
----
-description: 
----
+---  
+description:   
+---  
+# Trivia skill with local stt  
+### _trivia-game-skill.tjoen_  
+## About:  
 This skill uses mycrofts pocketsphinx STT with a small dict.
 
 It uses a localstt.dic (dictionary) and localstt.lm (language model) in the res folder.
@@ -15,12 +18,19 @@ And it actually does seem to work pretty good.
 
 Translations might be a problem with this method, but this skill uses questions in english.
 
-**Github:** | (https://github.com/tjoen/trivia-game-skill)  
+## Skill information:  
+**Github:** | [https://github.com/tjoen/trivia-game-skill](https://github.com/tjoen/trivia-game-skill)  
 **Owner:** | [@tjoen](https://github.com/tjoen)  
-**Created:** | 2018-02-21T13:52:32Z  **Last updated:** 2018-02-21T13:53:01Z  
+**Created:** | 2018 Feb 21 13:52:32 UTC  **Last updated:** 2018 Feb 21 13:53:01 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Start local speech.  
+> Play trivia.  
+> Game of trivia.  
+  
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

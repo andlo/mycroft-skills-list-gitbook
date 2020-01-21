@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Location Tracker Skill  
+### _skill-location-tracker.JarbasAl_  
+## About:  
 Updates device location, the mycroft home location configuration remains
 unchanged
 
@@ -14,12 +18,22 @@ Current localization sources:
 * ip api - https://ipapi.co/json/
 * local ip database - https://dev.maxmind.com/geoip/legacy/geolite/
 
-**Github:** | (https://github.com/JarbasAl/skill-location-tracker)  
+## Skill information:  
+**Github:** | [https://github.com/JarbasAl/skill-location-tracker](https://github.com/JarbasAl/skill-location-tracker)  
 **Owner:** | [@JarbasAl](https://github.com/JarbasAl)  
-**Created:** | 2017-08-11T15:14:30Z  **Last updated:** 2019-01-16T22:29:45Z  
+**Created:** | 2017 Aug 11 15:14:30 UTC  **Last updated:** 2019 Jan 16 22:29:45 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Current location.  
+> Activate location tracking.  
+> Deactivate location tracking.  
+> Update location.  
+> Where am i?  
+> Location is wrong.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

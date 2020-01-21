@@ -1,6 +1,9 @@
----
-description: 
----
+---  
+description:   
+---  
+# KDE-Konversation-Control  
+### _kde-konversation-control.AIIX_  
+## About:  
 #### Installation of skill:
 * Download or Clone Git (run: git clone https://github.com/AIIX/kde-konversation-control inside /opt/mycroft/skills)
 * Create /opt/mycroft/skills folder if it does not exist
@@ -21,16 +24,26 @@ description:
 * For other distributions:
 - Python Dbus package is required and copying the Python Dbus folder and lib from your system python install over to /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/.
 
-**Github:** | (https://github.com/AIIX/kde-konversation-control)  
+## Skill information:  
+**Github:** | [https://github.com/AIIX/kde-konversation-control](https://github.com/AIIX/kde-konversation-control)  
 **Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2017-10-31T12:00:04Z  **Last updated:** 2017-10-31T12:02:05Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2017 Oct 31 12:00:04 UTC  **Last updated:** 2017 Oct 31 12:02:05 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Show Konversation.  
+> Quit Konversation.  
+> Show Konversation Server List.  
+> Manage Konversation Identity.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/AIIX/kde-konversation-control```
 {% endtab %}

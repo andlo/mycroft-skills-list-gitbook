@@ -1,14 +1,33 @@
----
-description: 
----
+---  
+description:   
+---  
+# mycroft-lifx  
+### _mycroft-lifx.camuthig_  
+## About:  
 
 
-**Github:** | (https://github.com/camuthig/mycroft-lifx)  
+## Skill information:  
+**Github:** | [https://github.com/camuthig/mycroft-lifx](https://github.com/camuthig/mycroft-lifx)  
 **Owner:** | [@camuthig](https://github.com/camuthig)  
-**Created:** | 2018-01-13T22:18:57Z  **Last updated:** 2018-01-13T22:19:57Z  
-**License:** | No License  
+**Created:** | 2018 Jan 13 22:18:57 UTC  **Last updated:** 2018 Jan 13 22:19:57 UTC  
+**License:** | Other  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> *(in progress)**  
+>   
+> *(in progress)**  
+>   
+  
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
+    
+## Installation:  
+{% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/camuthig/mycroft-lifx```
+{% endtab %}
+  {% endtabs %}
+  

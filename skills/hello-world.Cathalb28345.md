@@ -1,6 +1,9 @@
----
-description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together
----
+---  
+description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together  
+---  
+# Hello World  
+### _hello-world.Cathalb28345_  
+## About:  
 This is a basic Hello Word Skill that takes an _Utterance_ from the user and provides a voice response - a _Dialog_. This Skill demonstrates the basic directory and file structure of a Mycroft Skill, and is a good first Skill to study if you are interested in developing Skills for the Mycroft ecosystem.
 
 If you want to write **Skills** for Mycroft, Documentation is available:
@@ -13,13 +16,20 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
 
-**Github:** | (https://github.com/Cathalb28345/hello-world)  
+## Skill information:  
+**Github:** | [https://github.com/Cathalb28345/hello-world](https://github.com/Cathalb28345/hello-world)  
 **Owner:** | [@Cathalb28345](https://github.com/Cathalb28345)  
-**Created:** | 2019-04-10T06:02:03Z  **Last updated:** 2019-04-10T06:03:12Z  
+**Created:** | 2019 Apr 10 06:02:03 UTC  **Last updated:** 2019 Apr 10 06:03:12 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#helloworld \#first-skill \#hello \#greeting   
+## Examples:  
+> Hello world.  
+> How are you?  
+> Thank you.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# Description  
+### _skill-knock-knock-jokes.aussieW_  
+## About:  
 In this skill a user interacts with Mycroft to tell a Knock Knock joke.
 
 Here is a sample interaction
@@ -19,12 +23,18 @@ Mycroft: "says me, that's who"
 
 User: rotfl.
 
-**Github:** | (https://github.com/aussieW/skill-knock-knock-jokes)  
+## Skill information:  
+**Github:** | [https://github.com/aussieW/skill-knock-knock-jokes](https://github.com/aussieW/skill-knock-knock-jokes)  
 **Owner:** | [@aussieW](https://github.com/aussieW)  
-**Created:** | 2018-01-30T01:11:21Z  **Last updated:** 2018-02-13T16:18:11Z  
+**Created:** | 2018 Jan 30 01:11:21 UTC  **Last updated:** 2018 Feb 13 16:18:11 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Tell a knock knock.  
+> Tell a knock knock joke.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# Directions Skill  
+### _directions-skill.luke5sky_  
+## About:  
 A skill to get simple directions (time and distance) via MyCroft.
 
 You need to create an account at https://openrouteservice.org/ and create an API-KEY/API-TOKEN put this on home.mycroft.ai under skill settings.
@@ -14,16 +18,20 @@ HowToUse:
 
 "Hey mycroft, give me directions from Richmond Hill Road New York to 39th street kansas city"
 
-**Github:** | (https://github.com/luke5sky/directions-skill)  
+## Skill information:  
+**Github:** | [https://github.com/luke5sky/directions-skill](https://github.com/luke5sky/directions-skill)  
 **Owner:** | [@luke5sky](https://github.com/luke5sky)  
-**Created:** | 2018-12-07T15:52:20Z  **Last updated:** 2019-11-14T09:27:58Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2018 Dec 07 15:52:20 UTC  **Last updated:** 2019 Nov 14 09:27:58 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/luke5sky/directions-skill```
 {% endtab %}

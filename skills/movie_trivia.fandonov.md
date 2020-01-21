@@ -1,14 +1,34 @@
----
-description: 
----
+---  
+description:   
+---  
+# movie trivia  
+### _movie_trivia.fandonov_  
+## About:  
 With self contained db from opendb project, this skill knows lets Mycroft knows all about who plays who in what movie, directors, screen writers, etc.
 
-**Github:** | (https://github.com/fandonov/movie_trivia)  
+## Skill information:  
+**Github:** | [https://github.com/fandonov/movie_trivia](https://github.com/fandonov/movie_trivia)  
 **Owner:** | [@fandonov](https://github.com/fandonov)  
-**Created:** | 2018-12-29T11:51:10Z  **Last updated:** 2018-12-30T16:58:32Z  
-**License:** | No License  
+**Created:** | 2018 Dec 29 11:51:10 UTC  **Last updated:** 2018 Dec 30 16:58:32 UTC  
+**License:** | Other  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Tell me who plays in die hard.  
+> Tell me who stars in the movie home alone.  
+> Tell me the movie cast of the terminator.  
+> Tell me who wrote the music for the movie braveheart.  
+> Tell me who directed home alone.  
+  
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
+    
+## Installation:  
+{% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/fandonov/movie_trivia```
+{% endtab %}
+  {% endtabs %}
+  

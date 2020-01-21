@@ -1,6 +1,10 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Pomodoro Skill  
+### _mycroft-pomodoro-skill.erabti_  
+## About:  
 This skill is used to try to make Mycroft as your work companion.
 Pomodoro is a very good work technique used to manage time, by giving persistent break times.
 
@@ -23,12 +27,31 @@ Pomodoro is a very good work technique used to manage time, by giving persistent
 4. Integrate with the enclosure.
 5. Switchable fun mode!
 
-**Github:** | (https://github.com/erabti/mycroft-pomodoro-skill)  
+## Skill information:  
+**Github:** | [https://github.com/erabti/mycroft-pomodoro-skill](https://github.com/erabti/mycroft-pomodoro-skill)  
 **Owner:** | [@erabti](https://github.com/erabti)  
-**Created:** | 2018-01-06T21:55:09Z  **Last updated:** 2018-08-27T15:35:39Z  
+**Created:** | 2018 Jan 06 21:55:09 UTC  **Last updated:** 2018 Aug 27 15:35:39 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Pomodoro.  
+> Start pomodoro.  
+> Start a pomodoro.  
+> Start a pomodoro for 23 minutes.  
+> Start a pomodoro for 20 minutes and 10 minutes.  
+> Start pomodoro for 30 minutes work and 10 minutes break.  
+> Start a pomodoro for 20 minutes work time and 5 minutes break time.  
+> How much time left for the work time.  
+> How much time left in pomodoro.  
+> Pomodoro status.  
+> How much time left for the break.  
+> What is the remaining time for the break?  
+> End pomodoro.  
+> Stop pomodoro.  
+> Exit pomodoro.  
+  
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

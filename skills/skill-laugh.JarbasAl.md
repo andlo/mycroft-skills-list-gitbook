@@ -1,15 +1,26 @@
----
-description:     Makes Mycroft laugh like a maniac
----
+---  
+description:     Makes Mycroft laugh like a maniac  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Laugh  
+### _skill-laugh.JarbasAl_  
+## About:  
 Laugh randomly or when requested, gender configurable on home.mycroft.ai.
 
-**Github:** | (https://github.com/JarbasAl/skill-laugh)  
+## Skill information:  
+**Github:** | [https://github.com/JarbasAl/skill-laugh](https://github.com/JarbasAl/skill-laugh)  
 **Owner:** | [@JarbasAl](https://github.com/JarbasAl)  
-**Created:** | 2018-03-09T16:28:33Z  **Last updated:** 2019-05-29T13:34:17Z  
-**License:** | [MIT License](https://api.github.com/licenses/mit)  
+**Created:** | 2018 Mar 09 16:28:33 UTC  **Last updated:** 2019 May 29 13:34:17 UTC  
+**License:** | MIT License  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/laugh)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#laugh \#funny \#entertainment \#repeating   
+## Examples:  
+> Laugh like Alexa.  
+> Random laughter.  
+> Do the evil laugh.  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

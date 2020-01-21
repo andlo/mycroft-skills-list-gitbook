@@ -1,18 +1,29 @@
----
-description: 
----
+---  
+description:   
+---  
+# PROJECT_NAME skill  
+### _mp3_playback_skill.mkonsti_  
+## About:  
 
 
-**Github:** | (https://github.com/mkonsti/mp3_playback_skill)  
+## Skill information:  
+**Github:** | [https://github.com/mkonsti/mp3_playback_skill](https://github.com/mkonsti/mp3_playback_skill)  
 **Owner:** | [@mkonsti](https://github.com/mkonsti)  
-**Created:** | 2018-02-02T15:17:56Z  **Last updated:** 2018-02-02T15:19:35Z  
-**License:** | [MIT License](https://api.github.com/licenses/mit)  
+**Created:** | 2018 Feb 02 15:17:56 UTC  **Last updated:** 2018 Feb 02 15:19:35 UTC  
+**License:** | MIT License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Attribution - No Derivative Works.  
+> Nd/3.0/legalcode.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/mkonsti/mp3_playback_skill```
 {% endtab %}

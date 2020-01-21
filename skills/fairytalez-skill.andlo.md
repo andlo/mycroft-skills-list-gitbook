@@ -1,6 +1,10 @@
----
-description: Mycroft tells more then 2000 fairy tales, folk tales, and fables from all around the world
----
+---  
+description: Mycroft tells more then 2000 fairy tales, folk tales, and fables from all around the world  
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Fairytalez  
+### _fairytalez-skill.andlo_  
+## About:  
 This skill enables Mycroft to tell lots of fairytales. So make a cup of coco, and sit back and enjoy listning to the good tales.
 
 Content is from fairytalez.com, so please go visit there if you like the stories.
@@ -13,13 +17,20 @@ _“If you want your children to be intelligent, read them fairy tales. If you w
 intelligent, read them more fairy tales.”
 Albert Einstein_
 
-**Github:** | (https://github.com/andlo/fairytalez-skill)  
+## Skill information:  
+**Github:** | [https://github.com/andlo/fairytalez-skill](https://github.com/andlo/fairytalez-skill)  
 **Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018-11-02T20:13:21Z  **Last updated:** 2019-12-18T05:18:23Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2018 Nov 02 20:13:21 UTC  **Last updated:** 2019 Dec 18 05:18:23 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/fairytalez)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#stories \#story \#tales \#fairy \#fairytale \#fairytales   
+## Examples:  
+> Tell a fairy tale.  
+> Tell me the story The Little Match Girl.  
+> Continue story.  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

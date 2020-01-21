@@ -1,14 +1,20 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# mycroft-skill-ha-scenes  
+### _mycroft-skill-ha-scenes.chris-mcawesome12_  
+## About:  
 
 
-**Github:** | (https://github.com/chris-mcawesome12/mycroft-skill-ha-scenes)  
+## Skill information:  
+**Github:** | [https://github.com/chris-mcawesome12/mycroft-skill-ha-scenes](https://github.com/chris-mcawesome12/mycroft-skill-ha-scenes)  
 **Owner:** | [@chris-mcawesome12](https://github.com/chris-mcawesome12)  
-**Created:** | 2017-09-29T15:53:11Z  **Last updated:** 2017-10-02T06:32:22Z  
+**Created:** | 2017 Sep 29 15:53:11 UTC  **Last updated:** 2017 Oct 02 06:32:22 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

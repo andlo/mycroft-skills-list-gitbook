@@ -1,15 +1,34 @@
----
-description: 
----
+---  
+description:   
+---  
+# YOUR SKILL NAME  
+### _Mycroft-scheduler.BrianArch96_  
+## About:  
 A more verbose description, including any extra instructions or
 information that didn't fit in the one line.
 
-**Github:** | (https://github.com/BrianArch96/Mycroft-scheduler)  
+## Skill information:  
+**Github:** | [https://github.com/BrianArch96/Mycroft-scheduler](https://github.com/BrianArch96/Mycroft-scheduler)  
 **Owner:** | [@BrianArch96](https://github.com/BrianArch96)  
-**Created:** | 2019-03-05T16:40:05Z  **Last updated:** 2019-03-20T14:09:13Z  
-**License:** | No License  
+**Created:** | 2019 Mar 05 16:40:05 UTC  **Last updated:** 2019 Mar 20 14:09:13 UTC  
+**License:** | Other  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> Hello world.  
+> Greetings planet earth.  
+> Count up.  
+> Count down.  
+  
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
+    
+## Installation:  
+{% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/BrianArch96/Mycroft-scheduler```
+{% endtab %}
+  {% endtabs %}
+  

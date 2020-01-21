@@ -1,14 +1,53 @@
----
-description: Orchestrates a automatic orchard with mycroft
----
+---  
+description: Orchestrates a automatic orchard with mycroft  
+---  
+# Lahuertaderamiroskill  
+### _LaHuertaDeRamiroSkill.jandrovins_  
+## About:  
 This skill is intended to administrate 4 aspects of a orchard: soil moisture, temperature, brightness and athmomspheric pressure. this variables will me measure a few times a day, and depending on the data collected mycroft will alert the user to water the plant.
 
-**Github:** | (https://github.com/jandrovins/LaHuertaDeRamiroSkill)  
+## Skill information:  
+**Github:** | [https://github.com/jandrovins/LaHuertaDeRamiroSkill](https://github.com/jandrovins/LaHuertaDeRamiroSkill)  
 **Owner:** | [@jandrovins](https://github.com/jandrovins)  
-**Created:** | 2019-11-15T02:26:38Z  **Last updated:** 2019-11-20T19:31:23Z  
+**Created:** | 2019 Nov 15 02:26:38 UTC  **Last updated:** 2019 Nov 20 19:31:23 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+## Examples:  
+> How are my plants.  
+> How is my plant.  
+> What is the soil moisture?  
+> When was the last time my plants were watered?  
+> When was the last time my plant was watered?  
+> What is the temperature of my plant?  
+> What is the temperature of my plants?  
+> What is my plant's temperature?  
+> What is my plant's soil moisture?  
+> What is the brightness of my plants?  
+> What is my plant's brightness?  
+> What is my plant's athmospheric pressure?  
+> What is the athmomspheric pressure of my plant?  
+> What is the athmomspheric pressure of my plants?  
+> How is my orchard.  
+> How is my garden.  
+> When was the last time my garden was watered?  
+> When was the last time my orchard was watered?  
+> What is the temperature of my garden?  
+> What is the temperature of my orchard?  
+> What is my orchard's temperature?  
+> What is my garden's temperature?  
+> What is my garden's moisture?  
+> What is my orchard's moisture?  
+> What is my orchard's soil moisture?  
+> What is my garden's soil moisture?  
+> What is the brightness of my garden?  
+> What is the brightness of my orchard?  
+> What is my orchard's brightness?  
+> What is my garden's brightness?  
+> What is my orchard's athmospheric pressure?  
+> What is my garden's athmospheric pressure?  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

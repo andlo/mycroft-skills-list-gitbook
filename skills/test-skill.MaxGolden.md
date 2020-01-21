@@ -1,15 +1,23 @@
----
-description: Mycroft whitenoise
----
+---  
+description: Mycroft whitenoise  
+---  
+# Whitenoise  
+### _test-skill.MaxGolden_  
+## About:  
 Mycroft will play the whitenoise by using text to speech.
 
-**Github:** | (https://github.com/MaxGolden/test-skill)  
+## Skill information:  
+**Github:** | [https://github.com/MaxGolden/test-skill](https://github.com/MaxGolden/test-skill)  
 **Owner:** | [@MaxGolden](https://github.com/MaxGolden)  
-**Created:** | 2019-04-06T14:46:32Z  **Last updated:** 2019-04-07T14:59:11Z  
+**Created:** | 2019 Apr 06 14:46:32 UTC  **Last updated:** 2019 Apr 07 14:59:11 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#sing \#singing \#lyrics \#song \#music \#texttospeech   
+## Examples:  
+> Play some whitenoise.  
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

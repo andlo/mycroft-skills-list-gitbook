@@ -1,6 +1,10 @@
----
-description: Updates original Mark 1 devices so they can upgrade to the latest version of Mycroft
----
+---  
+description: Updates original Mark 1 devices so they can upgrade to the latest version of Mycroft  
+---  
+![](../.gitbook/assets/star.png)  
+# Platform Patch  
+### _skill-platform-patch.MycroftAI_  
+## About:  
 Some of the earliest shipping Mark 1 devices require this platform patch in order to begin automatically updating.
 
 You can tell if you need the patch by following this guide:
@@ -16,17 +20,24 @@ Hey Mycroft, what version are you running?
 ```
 If your version is less than 0.9.0, you should install this platform patch.
 
-**Github:** | (https://github.com/MycroftAI/skill-platform-patch)  
+## Skill information:  
+**Github:** | [https://github.com/MycroftAI/skill-platform-patch](https://github.com/MycroftAI/skill-platform-patch)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-07-03T16:24:57Z  **Last updated:** 2018-08-29T18:29:59Z  
-**License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
+**Created:** | 2017 Jul 03 16:24:57 UTC  **Last updated:** 2018 Aug 29 18:29:59 UTC  
+**License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)   
 **Tags:** \#mark1 \#mycroft-mark1 \#platform-patch \#update \#patch   
+## Examples:  
+> Install platform patch.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/MycroftAI/skill-platform-patch```
 {% endtab %}

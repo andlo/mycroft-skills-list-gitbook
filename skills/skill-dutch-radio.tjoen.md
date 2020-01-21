@@ -1,14 +1,20 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)  
+# Dutch Radio skill  
+### _skill-dutch-radio.tjoen_  
+## About:  
 
 
-**Github:** | (https://github.com/tjoen/skill-dutch-radio)  
+## Skill information:  
+**Github:** | [https://github.com/tjoen/skill-dutch-radio](https://github.com/tjoen/skill-dutch-radio)  
 **Owner:** | [@tjoen](https://github.com/tjoen)  
-**Created:** | 2017-10-24T16:17:12Z  **Last updated:** 2018-02-27T08:08:55Z  
+**Created:** | 2017 Oct 24 16:17:12 UTC  **Last updated:** 2018 Feb 27 08:08:55 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}

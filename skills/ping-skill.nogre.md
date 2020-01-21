@@ -1,6 +1,9 @@
----
-description: Send network pings (a.k.a. ICMP echo requests) to internet nodes
----
+---  
+description: Send network pings (a.k.a. ICMP echo requests) to internet nodes  
+---  
+# Network Ping  
+### _ping-skill.nogre_  
+## About:  
 This is a 3rd party skill that uses keywords to get either a server's ping time or status via ICMP echo requests. This can be used to check that a server is responding correctly. Alternatively, one can use this to send simple HTTP GET requests to a server to start or stop services. By using the Network Ping Skill, custom commands can be created for webhook-enabled online services.
 
 For instance, saying, *Mycroft: Send a Ping to network node Google* garners a reply of `Pinged in 9.03 milliseconds.`
@@ -25,17 +28,26 @@ hug, 1, https://www.HuginnDomain.com/users/1/web_requests/2/supersecretstring?se
 
 and the corresponding settings on the remote end will make the Ping Skill into a basic remote control. Saying *Mycroft: Send a Ping Hug* will load that URL, which will execute code on the server. Mycroft will reply, in the case of Huginn with a default Webhook Agent, with the custom server response, `Event Created 201`, to confirm the instruction was received and followed.
 
-**Github:** | (https://github.com/nogre/ping-skill)  
+## Skill information:  
+**Github:** | [https://github.com/nogre/ping-skill](https://github.com/nogre/ping-skill)  
 **Owner:** | [@nogre](https://github.com/nogre)  
-**Created:** | 2017-02-17T18:45:39Z  **Last updated:** 2019-06-10T21:07:35Z  
-**License:** | [MIT License](https://api.github.com/licenses/mit)  
+**Created:** | 2017 Feb 17 18:45:39 UTC  **Last updated:** 2019 Jun 10 21:07:35 UTC  
+**License:** | MIT License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#network \#ping \#utility   
+## Examples:  
+> Send a Ping to network node Google.  
+> Send ICMP echo to ten dot zero dot zero dot thirty.  
+> Send ping to dns name mycroft dot AI.  
+  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/nogre/ping-skill```
 {% endtab %}

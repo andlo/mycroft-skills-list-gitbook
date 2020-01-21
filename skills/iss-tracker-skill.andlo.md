@@ -1,17 +1,28 @@
----
-description: Where is the international space station - ISS
----
+---  
+description: Where is the international space station - ISS  
+---  
+![](../.gitbook/assets/star.png)  
+# ISS Tracker  
+### _iss-tracker-skill.andlo_  
+## About:  
 This skill allows mycroft to tell you where the International Space Station (ISS) is in orbit, realtive
 to the earth in latitude and longitude. it uses reverse geocoding to translate these coordinates
 into the country or body of water it is over.
 
-**Github:** | (https://github.com/andlo/iss-tracker-skill)  
+## Skill information:  
+**Github:** | [https://github.com/andlo/iss-tracker-skill](https://github.com/andlo/iss-tracker-skill)  
 **Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018-12-26T15:36:04Z  **Last updated:** 2019-11-23T16:16:52Z  
-**License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
+**Created:** | 2018 Dec 26 15:36:04 UTC  **Last updated:** 2019 Nov 23 16:16:52 UTC  
+**License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/iss-tracker)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 **Tags:** \#iss \#space \#spacestation \#nasa \#esa   
+## Examples:  
+> Where is the international space station?  
+> Locate I S S.  
+> Where is I S S?  
+  
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}

@@ -1,14 +1,20 @@
----
-description: 
----
+---  
+description:   
+---  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+#   
+### _GoogleGmail-Skill.jcasoft_  
+## About:  
 
 
-**Github:** | (https://github.com/jcasoft/GoogleGmail-Skill)  
+## Skill information:  
+**Github:** | [https://github.com/jcasoft/GoogleGmail-Skill](https://github.com/jcasoft/GoogleGmail-Skill)  
 **Owner:** | [@jcasoft](https://github.com/jcasoft)  
-**Created:** | 2016-10-20T22:54:45Z  **Last updated:** 2019-03-19T21:37:22Z  
+**Created:** | 2016 Oct 20 22:54:45 UTC  **Last updated:** 2019 Mar 19 21:37:22 UTC  
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
+**Platform:**  
+ ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}
