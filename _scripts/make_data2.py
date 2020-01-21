@@ -135,6 +135,7 @@ def search_github():
     added = 1
     page = 1
     while page <= 10:
+        GITHUB_API_URL = "https://api.github.com/search/repositories?q='Mycroft'in:readme+archived:false+created:<2018-01-01&per_page=100"
         request = requests.get(GITHUB_API_URL + "&page=" + str(page))
         result = json.loads(request.text)
         for repo in result["items"]:
@@ -145,6 +146,22 @@ def search_github():
                 added = added + 1
             proc = proc +1
         page = page + 1
+    page = 1
+    while page <= 10:
+        GITHUB_API_URL = "https://api.github.com/search/repositories?q='Mycroft'in:readme+archived:false+created:>=2018-01-01&per_page=100"
+        request = requests.get(GITHUB_API_URL + "&page=" + str(page))
+        result = json.loads(request.text)
+        for repo in result["items"]:
+            print("Processing " + str(proc) +"/" + str(result["total_count"]))
+            if check_if_skill(repo["html_url"], repo["default_branch"]):
+                skills.append(generate_entry(repo))
+                print("Added " + repo['name'] + '.' + repo['owner']['login'])
+                added = added + 1
+            proc = proc +1
+        page = page + 1
+
+
+
     ## Add if skill is in market but are missing from skillslist
     for item in MARKET:
         in_list = False

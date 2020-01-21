@@ -3,6 +3,7 @@ import json
 import urllib.request
 from PIL import Image
 
+
 json_data = open('../_data/skills.json')
 skillsdata = json.load(json_data)
 
@@ -49,11 +50,12 @@ def make_skillsfiles(skills):
             pass
         txt.append('  \n')
         try:
-            mk1 = ' ![.gitbook/assets/mark-1-icon.png] '
-            mk2 = ' ![.gitbook/assets/mark-2-icon.png] '
-            pi = ' ![.gitbook/assets/picroft-icon.png] '
-            kde = ' ![.gitbook/assets/kde.png]'
+            mk1 = ' ![](.gitbook/assets/mark-1-icon.png) '
+            mk2 = ' ![](.gitbook/assets/mark-2-icon.png) '
+            pi = ' ![](.gitbook/assets/picroft-icon.png) '
+            kde = ' ![](.gitbook/assets/kde.png) '
             for device in skill["skill_info"].get("platforms"):
+                txt.append('**Platform:**  ')
                 if device == 'all':
                     txt.append(mk1 + mk2 + pi + kde)
                 if device == 'platform_mark1':
@@ -210,15 +212,15 @@ def make_categorylist(skills):
                 categorylist[category] = cat
             else:
                 categorylist[category] = categoryitem
-    categories_pop = []
-    for category in categorylist:
-        if len(categorylist[category]) is 1:
-            cat =  categorylist.get('uncategorized')
-            cat.append(text)
-            categorylist['uncategorized'] = cat
-            categories_pop.append(category)
-    for cat in categories_pop:
-        categorylist.pop(cat)
+    #categories_pop = []
+    #for category in categorylist:
+    #    if len(categorylist[category]) is 1:
+    #        cat =  categorylist.get('uncategorized')
+    #        cat.append(text)
+    #        categorylist['uncategorized'] = cat
+    #        categories_pop.append(category)
+    #for cat in categories_pop:
+    #    categorylist.pop(cat)
     #catfile = open('categories.json', 'w')
     #catfile.write(json.dumps(categorylist, ensure_ascii=False, indent=2))
     #catfile.close()
@@ -260,9 +262,7 @@ for category in categorylist:
     summary.write('  * ' + category + '\n')
     summary.writelines(categorylist[category])
 
-
 print(len(skillsdata))
 
 
-#make_categorylist()
 
