@@ -1,5 +1,5 @@
 ---
-description: Check the status of your [MyEpisodes.com](http://www.myepisodes.com) show list
+description: Check the status of your MyEpisodes.com show list
 ---
 You will be able to ask Mycroft to check the status of your shows list handled by [MyEpisodes.com](http://www.myepisodes.com).
 Mycroft will be able to give you the number of episodes not acquired and optionally the number of episodes acquired but not watched.

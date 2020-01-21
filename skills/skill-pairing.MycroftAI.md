@@ -1,5 +1,5 @@
 ---
-description: Connect your device to the Mycroft server - [Home](https://home.mycroft.ai/)
+description: Connect your device to the Mycroft server - Home
 ---
 The default backend to provide services for Mycroft users is
 [Home](https://home.mycroft.ai/).  Pairing a device with Home provides access

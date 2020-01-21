@@ -1,5 +1,5 @@
 ---
-description: Plays the latest news bulletin from [All India Radio](http://www.newsonair.nic.in/Default.aspx)
+description: Plays the latest news bulletin from All India Radio
 ---
 Mycroft streams five to fifteen minute news bulletins from All India Radio's News Service Division website. For more information about the streaming service, visit its [podcast page](http://www.newsonair.nic.in/Podcast.aspx).
 

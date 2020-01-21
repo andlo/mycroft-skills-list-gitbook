@@ -1,5 +1,5 @@
 ---
-description: Synchronize your Device Settings with [Home](https://home.mycroft.ai)
+description: Synchronize your Device Settings with Home
 ---
 User and device settings from [home.mycroft.ai](https://home.mycroft.ai) are
 synchronized with your Devices.  This Skill performs that synchronization and

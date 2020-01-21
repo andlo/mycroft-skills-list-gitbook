@@ -1,5 +1,5 @@
 ---
-description: The [Mycroft Chat](https://chat.mycroft.ai) allows you to interact with other community users. This skill allows you to monitor Mycroft Chat and find out if you have been mentioned or if there are unread messages. The messages can be read to you by Mycroft as well
+description: The Mycroft Chat allows you to interact with other community users. This skill allows you to monitor Mycroft Chat and find out if you have been mentioned or if there are unread messages. The messages can be read to you by Mycroft as well
 ---
 In your [skill settings](https://home.mycroft.ai) you must enter your username (as given in your Mycroft Chat account settings) and your personal access token.
 In case you do not have a token you can specify your login-id (usually that is your email) and your password.

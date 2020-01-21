@@ -2,6 +2,9 @@ import io
 import json
 import urllib.request
 from PIL import Image
+from bs4 import BeautifulSoup
+from markdown import markdown
+import re
 
 
 json_data = open('../_data/skills.json')
@@ -12,7 +15,8 @@ def make_skillsfiles(skills):
         txt = []
         txt.append('---\n')
         #of.write('titel: ' + skill["skill_info"]["title"] + '\n')
-        txt.append('description: ' + skill["skill_info"]["short_desc"] + '\n')
+        short_desc = clean_txt(skill["skill_info"]["short_desc"])
+        txt.append('description: ' + short_desc + '\n')
         txt.append('---\n')
         
         #icon_img = '../img/' + skill["owner"]["login"] + '_icon.png'
@@ -117,6 +121,13 @@ def make_skillsfiles(skills):
         of = open(skillfile, 'w')
         of.writelines(txt)
         of.close()
+
+def clean_txt(txt):
+    cleanr = re.compile('<.*?>|&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a-f]{1,6});')
+    result = re.sub(cleanr, '', txt)
+    html = markdown(result)
+    result =  ''.join(BeautifulSoup(html,features="html.parser").findAll(text=True))
+    return result     
 
 def get_img(url, filename):
         print(url)

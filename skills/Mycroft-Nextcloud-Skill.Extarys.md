@@ -1,5 +1,5 @@
 ---
-description: Connect [Nextcloud](https://nextcloud.com/) services to Mycroft
+description: Connect Nextcloud services to Mycroft
 ---
 Control your contacts and your calendar with Mycroft!
 

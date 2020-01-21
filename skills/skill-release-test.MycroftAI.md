@@ -1,5 +1,5 @@
 ---
-description: Tool used by Mycroft  internal Quality Assurance team when validating a new `mycroft-core` release
+description: Tool used by Mycroft  internal Quality Assurance team when validating a new mycroft-core release
 ---
 When a new release is being tested, this skill is installed to verify the
 installation mechanism functions properly.  Additionally, the following line

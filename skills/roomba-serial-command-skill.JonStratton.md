@@ -1,5 +1,5 @@
 ---
-description: Talks to a roomba that is connected to something running [roomba-serial-command-service](https://github.com/JonStratton/Roomba-Serial-Command-Service)
+description: Talks to a roomba that is connected to something running roomba-serial-command-service
 ---
 This skill is to be used with a roomba with a serial connection to a small single board computer running the roomba-serial-command-service. This device must also be connected to the same local network that mycroft is running from. The mycoft skill will use zeroconf to try to locate the service.
 
