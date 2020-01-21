@@ -64,6 +64,8 @@ def make_skillsfiles(skills):
                     txt.append(mk2)
                 if device == 'platform_plasmoid':
                     txt.append(kde)
+                if device == 'platform_picroft':
+                    txt.append(pi)
             txt.append('  \n')
         except Exception:
             pass

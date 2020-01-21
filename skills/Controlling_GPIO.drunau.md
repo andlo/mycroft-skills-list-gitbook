@@ -53,4 +53,4 @@ Please use the below image as a guide to the circuit layout:
 **Created:** | 2019-08-29T10:58:03Z  **Last updated:** 2019-08-29T10:58:14Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1081 needs validation new  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**    
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**   ![](.gitbook/assets/picroft-icon.png)   

@@ -53,4 +53,4 @@ Please use the below image as a guide to the circuit layout:
 **Created:** | 2019-08-05T09:10:55Z  **Last updated:** 2019-08-05T09:21:02Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**    
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**   ![](.gitbook/assets/picroft-icon.png)   

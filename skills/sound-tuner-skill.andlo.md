@@ -20,4 +20,4 @@ people call middle C for "C3" or even for "C5".
 **Created:** | 2018-12-08T20:51:57Z  **Last updated:** 2019-12-18T15:10:43Z  
 **License:** | No License - dont use this skill !  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**   ![](.gitbook/assets/mark-2-icon.png) **Platform:**  **Platform:**   ![](.gitbook/assets/kde.png)   
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**   ![](.gitbook/assets/mark-2-icon.png) **Platform:**   ![](.gitbook/assets/picroft-icon.png) **Platform:**   ![](.gitbook/assets/kde.png)   

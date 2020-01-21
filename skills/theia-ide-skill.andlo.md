@@ -17,4 +17,4 @@ https://www.theia-ide.org/index.html
 **Created:** | 2018-11-05T20:34:10Z  **Last updated:** 2019-08-12T16:00:26Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/theia-ide)  
-**Platform:**    
+**Platform:**   ![](.gitbook/assets/picroft-icon.png)   

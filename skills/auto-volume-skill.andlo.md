@@ -16,4 +16,4 @@ The skill can be activated or deactivated using the command "Hey Mycroft, set au
 **Created:** | 2018-10-16T18:13:54Z  **Last updated:** 2019-12-27T21:20:39Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/auto-volume) PR-1148  
-**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**    
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**   ![](.gitbook/assets/picroft-icon.png)   

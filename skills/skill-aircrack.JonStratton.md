@@ -10,4 +10,4 @@ A simple Mycroft wrapper for a small subset of Aircrack-ng. Basically, it can li
 **Created:** | 2018-05-10T01:57:37Z  **Last updated:** 2019-12-11T03:50:35Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/skill-aircrack)  
-**Platform:**  **Platform:**   ![](.gitbook/assets/kde.png)   
+**Platform:**   ![](.gitbook/assets/picroft-icon.png) **Platform:**   ![](.gitbook/assets/kde.png)   

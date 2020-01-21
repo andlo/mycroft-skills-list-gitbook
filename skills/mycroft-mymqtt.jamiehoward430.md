@@ -12,4 +12,4 @@ Currently it will publish the action to a topic built from the commands said, fo
 **Created:** | 2016-11-21T09:24:07Z  **Last updated:** 2019-02-02T11:41:51Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**  **Platform:**   ![](.gitbook/assets/kde.png)   
+**Platform:**   ![](.gitbook/assets/picroft-icon.png) **Platform:**   ![](.gitbook/assets/kde.png)   

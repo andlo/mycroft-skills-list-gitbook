@@ -15,4 +15,4 @@ What's new with Mycroft ? "Hey Mycroft, what's the room temperature ?", it's eas
 **Created:** | 2018-11-05T17:48:01Z  **Last updated:** 2018-11-05T17:58:06Z  
 **License:** | No License - dont use this skill !  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
-**Platform:**    
+**Platform:**   ![](.gitbook/assets/picroft-icon.png)   
