@@ -20,7 +20,9 @@ when the option is activated Mycroft willl speak out loud the number of unread m
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Mycroft Chat
 {% endtab %}

@@ -15,7 +15,9 @@ Stories are downloaded with the skill and can be listed by voice, selected by ti
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Bedtime Stories
 {% endtab %}

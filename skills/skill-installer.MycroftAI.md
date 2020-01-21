@@ -23,7 +23,9 @@ ambiguous names -- just pick the skill you want from the list read to you.
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Installer
 {% endtab %}

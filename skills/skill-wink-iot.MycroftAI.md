@@ -23,7 +23,9 @@ You can also include the light/group name in your request, along with intensity 
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Wink IoT
 {% endtab %}

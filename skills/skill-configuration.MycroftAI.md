@@ -18,7 +18,9 @@ the system that wakes the device up when you say "Hey Mycroft".
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Device Configuration
 {% endtab %}

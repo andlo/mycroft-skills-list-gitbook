@@ -13,7 +13,9 @@ Retrieve the [IP address](https://en.wikipedia.org/wiki/IP_address), also known 
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Device IP Address
 {% endtab %}

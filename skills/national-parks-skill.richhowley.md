@@ -23,7 +23,9 @@ After asking to be quizzed Mycroft will ask what state a particular National Par
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install National Parks
 {% endtab %}

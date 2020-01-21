@@ -20,7 +20,9 @@ The temperature is shown in Celsius or Fahrenheit depending on the preferences s
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Weather
 {% endtab %}

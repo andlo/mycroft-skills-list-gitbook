@@ -14,7 +14,9 @@ Report the version of your Mycroft install (`mycroft-core`) and of the platform 
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Version Checker
 {% endtab %}

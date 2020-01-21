@@ -12,7 +12,9 @@ With this skill Mycroft will say when the boot up period has finished and is rea
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Finished Booting Skill
 {% endtab %}

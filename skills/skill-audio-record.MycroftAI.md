@@ -13,7 +13,9 @@ This Skill records audio from the microphone and allows you to play back that re
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Audio Recorder
 {% endtab %}

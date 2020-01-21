@@ -13,7 +13,9 @@ Mycroft will speak the lyrics to a random pop music song using text to speech.
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Singing
 {% endtab %}

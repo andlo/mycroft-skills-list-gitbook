@@ -1,5 +1,5 @@
 ---
-description: A skill to connect a telegram bot to MyCroft. This will send you everything that is happening, if you are looking for the "normal" telegram skill -> https://github.com/luke5sky/telegram-skill
+description: A skill to connect a telegram bot to MyCroft. This will send you everything that is happening, if you are looking for the "normal" telegram skill -> 
 ---
 You need to create a telegram bot (via BotFather) and save the Bot Token, your ChatID and your MyCroft Device name on home.mycroft.ai under skill settings.
 After this restart your MyCroft Unit.

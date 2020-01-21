@@ -22,7 +22,9 @@ _WARNING:  Laughter is not guaranteed, but eye rolls are likely._
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Jokes
 {% endtab %}

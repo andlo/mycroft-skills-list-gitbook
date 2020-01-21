@@ -13,7 +13,9 @@ This skill lets Mycroft do counting to a number or and countdown from a number.
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Count
 {% endtab %}

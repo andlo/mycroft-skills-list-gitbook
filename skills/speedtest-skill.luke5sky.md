@@ -22,7 +22,9 @@ If a Raspberry Pi 3 B - connected to WiFi - runs Mycroft you won't get more than
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Speedtest
 {% endtab %}

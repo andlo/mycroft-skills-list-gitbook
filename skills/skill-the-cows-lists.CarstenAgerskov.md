@@ -125,7 +125,9 @@ Other issues that are not caught as describe above, can be reported as well, on 
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install The Cows Lists
 {% endtab %}

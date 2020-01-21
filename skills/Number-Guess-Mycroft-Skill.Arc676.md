@@ -13,7 +13,9 @@ In Number Guess, you provide a lower and upper bound, then try to guess the rand
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Number Guess
 {% endtab %}

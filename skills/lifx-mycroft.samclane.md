@@ -13,7 +13,9 @@ Allows users to interact with the LIFX-brand smartbulbs on their home network th
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install lifx-mycroft
 {% endtab %}

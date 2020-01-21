@@ -17,7 +17,9 @@ This uses the [0x0.st](https://0x0.st/) service for storing the debugging inform
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Support
 {% endtab %}

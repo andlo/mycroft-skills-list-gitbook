@@ -13,7 +13,9 @@ Turn Mycroft into a parrot.  Speak a phrase and listen to it repeated in Mycroft
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Speak
 {% endtab %}

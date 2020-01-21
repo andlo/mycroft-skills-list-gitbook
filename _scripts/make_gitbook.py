@@ -99,6 +99,8 @@ def make_skillsfiles(skills):
             txt.append('{% hint style="info" %}\n')
             txt.append('This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers\n')
             txt.append('{% endhint %}\n  ')
+            txt.append('  \n')
+            txt.append('## Installation:  \n')
             txt.append('{% tabs %}\n')
             txt.append('{% tab title="Install by voice" %}\n' + 
                        '> Hey Mycroft - install ' + skill["skill_info"]["name"] + '\n')
@@ -127,6 +129,7 @@ def clean_txt(txt):
     result = re.sub(cleanr, '', txt)
     html = markdown(result)
     result =  ''.join(BeautifulSoup(html,features="html.parser").findAll(text=True))
+    result = re.sub(r'http\S+', '', result)
     return result     
 
 def get_img(url, filename):

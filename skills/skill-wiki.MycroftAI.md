@@ -15,7 +15,9 @@ This Skill uses the [Wikimedia API](https://en.wikipedia.org/w/api.php).
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Wikipedia
 {% endtab %}

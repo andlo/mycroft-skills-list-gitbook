@@ -16,7 +16,9 @@ Perfect whenever you need to generate a random number, but don't have a dice nea
 {% hint style="info" %}
 This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
 {% endhint %}
-  {% tabs %}
+    
+## Installation:  
+{% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Dice
 {% endtab %}
