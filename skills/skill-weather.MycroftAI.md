@@ -14,7 +14,7 @@ The temperature is shown in Celsius or Fahrenheit depending on the preferences s
 
 **Github:** | (https://github.com/MycroftAI/skill-weather)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-04-04T17:49:49Z  **Last updated:** 2018-12-19T08:54:11Z  
+**Created:** | 2017-04-04T17:49:49Z  **Last updated:** 2019-12-02T08:16:00Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-weather)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

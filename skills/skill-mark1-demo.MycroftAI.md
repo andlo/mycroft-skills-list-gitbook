@@ -15,7 +15,7 @@ You can stop the demo by pressing the top button or saying "Stop".
 
 **Github:** | (https://github.com/MycroftAI/skill-mark1-demo)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-05-04T22:20:05Z  **Last updated:** 2018-09-27T07:19:29Z  
+**Created:** | 2017-05-04T22:20:05Z  **Last updated:** 2019-01-10T03:48:24Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-mark-1-demo)  
- ![.gitbook/assets/mark-1-icon.png]   
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)   

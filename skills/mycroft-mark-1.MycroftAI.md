@@ -17,7 +17,7 @@ its brightness level to dim at night.
 
 **Github:** | (https://github.com/MycroftAI/mycroft-mark-1)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-12-04T17:41:52Z  **Last updated:** 2018-11-19T21:12:30Z  
+**Created:** | 2017-12-04T17:41:52Z  **Last updated:** 2019-11-15T13:42:51Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-mark-1)  
- ![.gitbook/assets/mark-1-icon.png]   
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)   

@@ -1,19 +1,19 @@
 ---
-description: Sets the volume after surounding noice level
+description: Sets the volume depending on background noise level
 ---
 Auto volume
 
-This skill lets Mycroft deside when to use high, normal or low volume. Mycrofts keeps monitoring the mic level, and from that deside what volume level is right to use.
+This skill lets Mycroft decide when to use high, normal, or low volume. Mycrofts keeps monitoring the background sound levels using the microphone, using which it decides what volume level is the right one to use.
 
-As it is not easy to know what is high and what is low noice level, the skill vil adap over time. The skill notise the higest and lowest messured level, and adjust acording to that.
+As it is not easy to know what is high and what is low noise level, the skill will adapt over time. The skill notices the highest and lowest measured levels over time and adjusts its settings according to those measurements.
 
-The skill stops adjusting volume if another skill is using the speaker or if Mycroft himself is talking.
+The skill stops adjusting the volume if another skill is using the speaker or if Mycroft himself is talking.
 
-The skill can be activated og deactivatet by the command "Hey Mycroft, set auto volume off" or "Hey Mycroft, set auto volume on"
+The skill can be activated or deactivated using the command "Hey Mycroft, set auto volume off" or "Hey Mycroft, set auto volume on".
 
 **Github:** | (https://github.com/andlo/auto-volume-skill)  
 **Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018-10-16T18:13:54Z  **Last updated:** 2018-12-26T14:22:46Z  
+**Created:** | 2018-10-16T18:13:54Z  **Last updated:** 2019-12-27T21:20:39Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-722  
- ![.gitbook/assets/mark-1-icon.png]   
+**Market status:** | [In Market](https://market.mycroft.ai/skill/auto-volume) PR-1148  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**    

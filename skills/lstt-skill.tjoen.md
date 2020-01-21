@@ -25,4 +25,4 @@ Translations might be a problem with this method, but this skill uses questions 
 **Created:** | 2018-02-17T13:59:42Z  **Last updated:** 2018-03-23T16:18:55Z  
 **License:** | No License - dont use this skill !  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

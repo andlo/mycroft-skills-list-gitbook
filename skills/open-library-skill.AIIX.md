@@ -11,7 +11,7 @@ Open-Library-skill
 
 **Github:** | (https://github.com/AIIX/open-library-skill)  
 **Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018-04-10T10:39:37Z  **Last updated:** 2018-08-22T16:10:08Z  
+**Created:** | 2018-04-10T10:39:37Z  **Last updated:** 2019-02-21T00:12:21Z  
 **License:** | No License - dont use this skill !  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

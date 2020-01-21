@@ -7,7 +7,7 @@ Once configured to connect to your on-premises Atlassian JIRA server with Servic
 
 **Github:** | (https://github.com/jrwarwick/jrwarwick-jira-agent-skill)  
 **Owner:** | [@jrwarwick](https://github.com/jrwarwick)  
-**Created:** | 2017-11-03T21:57:23Z  **Last updated:** 2018-07-31T15:09:58Z  
+**Created:** | 2017-11-03T21:57:23Z  **Last updated:** 2019-10-21T20:06:59Z  
 **License:** | [MIT License](https://api.github.com/licenses/mit)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

@@ -13,7 +13,7 @@ mpd_port=YOUR_PORT
 
 **Github:** | (https://github.com/forslund/mpd_skill)  
 **Owner:** | [@forslund](https://github.com/forslund)  
-**Created:** | 2016-10-02T14:22:06Z  **Last updated:** 2018-09-28T19:06:03Z  
+**Created:** | 2016-10-02T14:22:06Z  **Last updated:** 2019-03-24T18:04:33Z  
 **License:** | No License - dont use this skill !  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

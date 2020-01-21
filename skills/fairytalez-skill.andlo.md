@@ -1,5 +1,5 @@
 ---
-description: Mycroft tells fairytales
+description: Mycroft tells more then 2000 fairy tales, folk tales, and fables from all around the world
 ---
 Fairytalez
 
@@ -7,11 +7,17 @@ This skill enables Mycroft to tell lots of fairytales. So make a cup of coco, an
 
 Content is from fairytalez.com, so please go visit there if you like the stories.
 Fairytalez.com is the world's largest collection of fairy tales, fables and folktales. Discover more than 2,000 classic tales plus new stories by fairy tale fans.
-http://www.fairytalez.com.
+
+http://www.fairytalez.com
+
+
+_“If you want your children to be intelligent, read them fairy tales. If you want them to be more
+intelligent, read them more fairy tales.”
+Albert Einstein_
 
 **Github:** | (https://github.com/andlo/fairytalez-skill)  
 **Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018-11-02T20:13:21Z  **Last updated:** 2018-12-26T17:11:19Z  
+**Created:** | 2018-11-02T20:13:21Z  **Last updated:** 2019-12-18T05:18:23Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-721  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/fairytalez)  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

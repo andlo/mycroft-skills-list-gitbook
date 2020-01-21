@@ -22,7 +22,7 @@ The next goals for skill-score are the ability to:
 
 **Github:** | (https://github.com/deejcunningham/skill-score)  
 **Owner:** | [@deejcunningham](https://github.com/deejcunningham)  
-**Created:** | 2018-05-17T23:56:07Z  **Last updated:** 2018-07-13T19:11:34Z  
+**Created:** | 2018-05-17T23:56:07Z  **Last updated:** 2019-10-29T21:49:58Z  
 **License:** | [MIT License](https://api.github.com/licenses/mit)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

@@ -10,4 +10,4 @@ Mycroft can spell any word which is understood by speech-to-text.  The proper sp
 **Created:** | 2018-08-16T23:42:13Z  **Last updated:** 2018-08-17T00:05:46Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

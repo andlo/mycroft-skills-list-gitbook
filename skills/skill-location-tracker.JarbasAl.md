@@ -18,7 +18,7 @@ Current localization sources:
 
 **Github:** | (https://github.com/JarbasAl/skill-location-tracker)  
 **Owner:** | [@JarbasAl](https://github.com/JarbasAl)  
-**Created:** | 2017-08-11T15:14:30Z  **Last updated:** 2018-11-19T06:52:27Z  
+**Created:** | 2017-08-11T15:14:30Z  **Last updated:** 2019-01-16T22:29:45Z  
 **License:** | No License - dont use this skill !  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

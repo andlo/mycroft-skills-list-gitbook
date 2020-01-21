@@ -17,7 +17,7 @@ After asking to be quizzed Mycroft will ask what state a particular National Par
 
 **Github:** | (https://github.com/richhowley/national-parks-skill)  
 **Owner:** | [@richhowley](https://github.com/richhowley)  
-**Created:** | 2018-11-11T17:31:25Z  **Last updated:** 2018-11-18T23:26:34Z  
+**Created:** | 2018-11-11T17:31:25Z  **Last updated:** 2019-05-22T01:53:00Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/national-park)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

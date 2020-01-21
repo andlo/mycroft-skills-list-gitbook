@@ -17,7 +17,7 @@ people call middle C for "C3" or even for "C5".
 
 **Github:** | (https://github.com/andlo/sound-tuner-skill)  
 **Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018-12-08T20:51:57Z  **Last updated:** 2018-12-11T19:29:30Z  
+**Created:** | 2018-12-08T20:51:57Z  **Last updated:** 2019-12-18T15:10:43Z  
 **License:** | No License - dont use this skill !  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png) **Platform:**   ![](.gitbook/assets/mark-2-icon.png) **Platform:**  **Platform:**   ![](.gitbook/assets/kde.png)   

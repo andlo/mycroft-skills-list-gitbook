@@ -23,4 +23,4 @@ If your version is less than 0.9.0, you should install this platform patch.
 **Created:** | 2017-07-03T16:24:57Z  **Last updated:** 2018-08-29T18:29:59Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]   
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)   

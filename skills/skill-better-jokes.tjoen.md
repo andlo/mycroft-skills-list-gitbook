@@ -8,7 +8,7 @@ This skill gives mycroft better jokes. It uses icanhazdadjoke.com to get the jok
 
 **Github:** | (https://github.com/tjoen/skill-better-jokes)  
 **Owner:** | [@tjoen](https://github.com/tjoen)  
-**Created:** | 2018-02-01T14:50:11Z  **Last updated:** 2018-05-24T22:00:45Z  
+**Created:** | 2018-02-01T14:50:11Z  **Last updated:** 2019-12-18T05:34:09Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

@@ -22,4 +22,4 @@ You will then need to restart mycroft.
 **Created:** | 2018-03-23T22:54:16Z  **Last updated:** 2018-03-23T22:55:23Z  
 **License:** | [GNU Lesser General Public License v3.0](https://api.github.com/licenses/lgpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

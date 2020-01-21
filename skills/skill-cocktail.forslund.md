@@ -7,7 +7,7 @@ Let Mycroft help you mix better and more fun drinks and cocktails. When asked My
 
 **Github:** | (https://github.com/forslund/skill-cocktail)  
 **Owner:** | [@forslund](https://github.com/forslund)  
-**Created:** | 2018-07-13T16:10:26Z  **Last updated:** 2018-11-14T11:39:03Z  
+**Created:** | 2018-07-13T16:10:26Z  **Last updated:** 2019-05-29T06:52:59Z  
 **License:** | No License - dont use this skill !  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/cocktails)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

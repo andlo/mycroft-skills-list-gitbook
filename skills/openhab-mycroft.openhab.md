@@ -34,7 +34,7 @@ If you've forgotten what items have been identified, you can ask Mycroft:
 
 **Github:** | (https://github.com/openhab/openhab-mycroft)  
 **Owner:** | [@openhab](https://github.com/openhab)  
-**Created:** | 2017-09-07T19:37:21Z  **Last updated:** 2018-12-12T16:16:14Z  
-**License:** | [Eclipse Public License 1.0](https://api.github.com/licenses/epl-1.0)  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/openhab-skill)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Created:** | 2017-09-07T19:37:21Z  **Last updated:** 2019-12-20T15:45:08Z  
+**License:** | [Eclipse Public License 2.0](https://api.github.com/licenses/epl-2.0)  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/openhab-skill) PR-1145 new waiting  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

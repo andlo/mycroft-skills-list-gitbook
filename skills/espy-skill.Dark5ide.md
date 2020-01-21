@@ -7,7 +7,7 @@ This skill has been created for the makers and hackers who want to build their o
 
 **Github:** | (https://github.com/Dark5ide/espy-skill)  
 **Owner:** | [@Dark5ide](https://github.com/Dark5ide)  
-**Created:** | 2018-07-09T21:34:51Z  **Last updated:** 2018-07-31T20:38:08Z  
+**Created:** | 2018-07-09T21:34:51Z  **Last updated:** 2019-06-29T13:19:15Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-607 new waiting  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

@@ -16,7 +16,7 @@ _WARNING:  Laughter is not guaranteed, but eye rolls are likely._
 
 **Github:** | (https://github.com/MycroftAI/skill-joke)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-04-04T17:46:27Z  **Last updated:** 2018-11-20T07:01:44Z  
+**Created:** | 2017-04-04T17:46:27Z  **Last updated:** 2019-11-04T03:11:20Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-joke)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

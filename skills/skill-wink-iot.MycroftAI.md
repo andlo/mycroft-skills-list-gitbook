@@ -1,5 +1,5 @@
 ---
-description: Control lights and switches conected to a Wink Hub
+description: Control lights and switches connected to a Wink Hub
 ---
 Wink IoT
 
@@ -17,7 +17,7 @@ You can also include the light/group name in your request, along with intensity 
 
 **Github:** | (https://github.com/MycroftAI/skill-wink-iot)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-12-10T10:04:12Z  **Last updated:** 2018-12-15T05:12:22Z  
+**Created:** | 2017-12-10T10:04:12Z  **Last updated:** 2019-02-11T09:16:47Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-wink-iot)  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

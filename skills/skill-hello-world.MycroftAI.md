@@ -17,7 +17,7 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 
 **Github:** | (https://github.com/MycroftAI/skill-hello-world)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-04-05T22:56:27Z  **Last updated:** 2018-11-30T12:10:36Z  
+**Created:** | 2017-04-05T22:56:27Z  **Last updated:** 2019-11-15T10:48:24Z  
 **License:** | No License - dont use this skill !  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-hello-world)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

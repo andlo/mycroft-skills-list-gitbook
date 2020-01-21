@@ -7,7 +7,7 @@ In Number Guess, you provide a lower and upper bound, then try to guess the rand
 
 **Github:** | (https://github.com/Arc676/Number-Guess-Mycroft-Skill)  
 **Owner:** | [@Arc676](https://github.com/Arc676)  
-**Created:** | 2018-09-08T13:38:50Z  **Last updated:** 2018-09-27T16:50:07Z  
+**Created:** | 2018-09-08T13:38:50Z  **Last updated:** 2019-05-29T08:15:22Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/skill-number-guess)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

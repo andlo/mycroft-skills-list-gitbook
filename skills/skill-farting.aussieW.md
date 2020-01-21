@@ -1,7 +1,7 @@
 ---
-description: 
+description: Mycroft will play a farting sound when requested or at random intervals
 ---
-Make fart sounds
+Farting
 
 This is just a fun skill that should generate a laugh or two and then never be used again.
 
@@ -15,7 +15,7 @@ Has been tested on picroft and mark1.
 
 **Github:** | (https://github.com/aussieW/skill-farting)  
 **Owner:** | [@aussieW](https://github.com/aussieW)  
-**Created:** | 2018-01-17T23:22:55Z  **Last updated:** 2018-12-26T14:06:10Z  
+**Created:** | 2018-01-17T23:22:55Z  **Last updated:** 2019-02-21T23:50:43Z  
 **License:** | No License - dont use this skill !  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

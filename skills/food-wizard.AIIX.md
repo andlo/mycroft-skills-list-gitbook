@@ -1,19 +1,13 @@
 ---
-description: 
+description: Get Popular Food & Cooking Recipes On The Go
 ---
-Food-Wizard
+Food Wizard
 
-Get popular recipes and how to cook directions based on combination of Ingredient keywords such as "Hey Mycroft, search for recipes with cheese, eggs and chicken"
-
-#### Note: This Mycroft Skill Requires The Mycroft Plasmoid for Plasma Desktop / Plasma-Mobile To Display Results
-
-##### To-Do:
-* Get More Recipes: Implement "Hey Mycroft Get More Recipes"
-* Add Specific Search Categories like Soup, Fried, Semi-Fried, Roasted, Etc.
+Get popular recipes and how to cook directions based on combination of Ingredient keywords.
 
 **Github:** | (https://github.com/AIIX/food-wizard)  
 **Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018-02-20T11:58:48Z  **Last updated:** 2018-10-19T16:13:24Z  
+**Created:** | 2018-02-20T11:58:48Z  **Last updated:** 2019-06-28T10:01:36Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1038 GUI required needs validation new  
+**Platform:**   ![](.gitbook/assets/mark-2-icon.png) **Platform:**   ![](.gitbook/assets/kde.png)   

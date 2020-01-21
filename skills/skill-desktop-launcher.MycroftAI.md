@@ -7,7 +7,7 @@ Launch applications on the Linux desktop, and close them when done.
 
 **Github:** | (https://github.com/MycroftAI/skill-desktop-launcher)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-04-04T17:45:25Z  **Last updated:** 2018-09-16T04:58:14Z  
+**Created:** | 2017-04-04T17:45:25Z  **Last updated:** 2019-12-23T18:47:43Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/kde.png]  
+**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1120 needs validation new  
+**Platform:**   ![](.gitbook/assets/kde.png)   

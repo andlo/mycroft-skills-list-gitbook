@@ -12,7 +12,7 @@ If you write your owns scripts, please feel free to fork the project, add them t
 
 **Github:** | (https://github.com/the7erm/mycroft-skill-simple-media-controls)  
 **Owner:** | [@the7erm](https://github.com/the7erm)  
-**Created:** | 2016-06-29T13:26:42Z  **Last updated:** 2017-09-05T13:18:31Z  
+**Created:** | 2016-06-29T13:26:42Z  **Last updated:** 2019-02-08T17:21:28Z  
 **License:** | [GNU General Public License v2.0](https://api.github.com/licenses/gpl-2.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

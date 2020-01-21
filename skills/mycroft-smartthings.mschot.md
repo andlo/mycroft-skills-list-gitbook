@@ -22,7 +22,7 @@ You will then need to restart mycroft.
 
 **Github:** | (https://github.com/mschot/mycroft-smartthings)  
 **Owner:** | [@mschot](https://github.com/mschot)  
-**Created:** | 2018-02-01T20:26:25Z  **Last updated:** 2018-02-01T20:27:37Z  
+**Created:** | 2018-02-01T20:26:25Z  **Last updated:** 2019-08-26T00:36:43Z  
 **License:** | [GNU Lesser General Public License v3.0](https://api.github.com/licenses/lgpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

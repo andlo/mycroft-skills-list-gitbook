@@ -15,7 +15,7 @@ This capability is used by the [Spotify](https://github.com/forslund/spotify-ski
 
 **Github:** | (https://github.com/MycroftAI/skill-playback-control)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-06-14T11:25:44Z  **Last updated:** 2018-11-16T08:01:03Z  
+**Created:** | 2017-06-14T11:25:44Z  **Last updated:** 2019-11-29T16:20:35Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-playback-control)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

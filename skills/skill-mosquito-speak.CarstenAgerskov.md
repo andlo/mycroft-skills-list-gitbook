@@ -48,7 +48,7 @@ We retain the characters after index 1 of "_", which is no characters. And we pu
 
 **Github:** | (https://github.com/CarstenAgerskov/skill-mosquito-speak)  
 **Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
-**Created:** | 2018-01-06T09:08:31Z  **Last updated:** 2018-12-24T23:21:26Z  
+**Created:** | 2018-01-06T09:08:31Z  **Last updated:** 2019-07-31T14:47:01Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

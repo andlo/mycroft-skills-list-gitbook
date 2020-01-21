@@ -1,7 +1,7 @@
 ---
 description: 
 ---
-Skill The Cows Lists
+The Cows Lists
 
 This skill adds [Remember The Milk](https://www.rememberthemilk.com/) support to [Mycroft](https://mycroft.ai/).
 The skill use Remember The Milk's [rest interface](https://www.rememberthemilk.com/services/api/).
@@ -120,7 +120,7 @@ Other issues that are not caught as describe above, can be reported as well, on 
 
 **Github:** | (https://github.com/CarstenAgerskov/skill-the-cows-lists)  
 **Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
-**Created:** | 2017-11-26T15:48:44Z  **Last updated:** 2018-11-14T19:03:27Z  
+**Created:** | 2017-11-26T15:48:44Z  **Last updated:** 2019-05-10T00:51:51Z  
 **License:** | [GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/carstena-the-cows-lists)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

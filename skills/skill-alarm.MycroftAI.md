@@ -14,7 +14,7 @@ You can choose from five different alarm sounds:
 
 **Github:** | (https://github.com/MycroftAI/skill-alarm)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-04-04T17:44:09Z  **Last updated:** 2018-12-03T11:05:31Z  
+**Created:** | 2017-04-04T17:44:09Z  **Last updated:** 2019-11-22T16:35:54Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-alarm)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

@@ -11,7 +11,7 @@ Test line:  2018/10/23 23:14.
 
 **Github:** | (https://github.com/MycroftAI/skill-release-test)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-08-03T22:32:49Z  **Last updated:** 2018-12-20T10:32:53Z  
+**Created:** | 2017-08-03T22:32:49Z  **Last updated:** 2019-12-20T10:47:26Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-release-test)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   

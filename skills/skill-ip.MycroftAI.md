@@ -7,7 +7,7 @@ Retrieve the [IP address](https://en.wikipedia.org/wiki/IP_address), also known 
 
 **Github:** | (https://github.com/MycroftAI/skill-ip)  
 **Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017-04-04T17:46:10Z  **Last updated:** 2018-11-19T21:13:09Z  
+**Created:** | 2017-04-04T17:46:10Z  **Last updated:** 2019-12-11T21:32:48Z  
 **License:** | [Apache License 2.0](https://api.github.com/licenses/apache-2.0)  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-ip)  
- ![.gitbook/assets/mark-1-icon.png]  ![.gitbook/assets/mark-2-icon.png]  ![.gitbook/assets/picroft-icon.png]  ![.gitbook/assets/kde.png]  
+**Platform:**   ![](.gitbook/assets/mark-1-icon.png)  ![](.gitbook/assets/mark-2-icon.png)  ![](.gitbook/assets/picroft-icon.png)  ![](.gitbook/assets/kde.png)   
