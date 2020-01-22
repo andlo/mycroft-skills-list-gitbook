@@ -6,7 +6,7 @@ tags: googlevoicekit aiy Googleaiy voicekit voicehat
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Google AIY voicekit  
+## Google AIY voicekit  
 ### _picroft-google-aiy-voicekit-skill.andlo_  
 ## About:  
 This enables the led and button on the Google AIY voicekit.
