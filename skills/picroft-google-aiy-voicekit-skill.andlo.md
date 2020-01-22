@@ -1,6 +1,6 @@
----  
-description: Enables Google AIY voicekit    
----  
+---
+description: Enables Google AIY voicekit
+---
 
 # Google AIY voicekit  
 
