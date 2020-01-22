@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # mycroft smart home skill  
 ### _mycroft-smart-home.mikonse_  
 ## About:  

@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # rpi-gpio-skill  
 ### _rpi-gpio-skill.pcwii_  
 ## About:  

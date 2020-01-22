@@ -1,6 +1,6 @@
----  
+---    
 description: Add and remove Mycroft Skills  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Installer  
 ### _skill-installer.MycroftAI_  

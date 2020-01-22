@@ -1,6 +1,6 @@
----  
+---    
 description: Record and playback audio  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Audio Recorder  
 ### _skill-audio-record.MycroftAI_  

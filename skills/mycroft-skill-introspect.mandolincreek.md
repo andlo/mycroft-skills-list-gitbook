@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Mycroft Introspection Skill  
 ### _mycroft-skill-introspect.mandolincreek_  

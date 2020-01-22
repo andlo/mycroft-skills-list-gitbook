@@ -1,6 +1,6 @@
----  
+---    
 description: Control your mouse and keyboard by voice  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Desktop Control  
 ### _desktop-control.TREE-Ind_  

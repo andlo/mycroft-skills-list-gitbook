@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Mycroft Slack Skill - Under development  
 ### _skill-slack.gregmccoy_  

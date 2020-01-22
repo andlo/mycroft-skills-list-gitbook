@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Quote Skill  
 ### _skill-quote.cristinailli_  
 ## About:  

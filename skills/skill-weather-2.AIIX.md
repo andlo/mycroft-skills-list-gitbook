@@ -1,6 +1,6 @@
----  
+---    
 description: Weather conditions and forecasts  
----  
+---    
 # Weather  
 ### _skill-weather-2.AIIX_  
 ## About:  

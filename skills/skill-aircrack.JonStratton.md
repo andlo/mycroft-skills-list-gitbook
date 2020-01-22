@@ -1,6 +1,6 @@
----  
+---    
 description: A simple Mycroft wrapper for a small subset of Aircrack-ng  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Wrapper Aircrack  
 ### _skill-aircrack.JonStratton_  

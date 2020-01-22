@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # skill-jira  
 ### _mycroft-skill-jira.megastruktur_  

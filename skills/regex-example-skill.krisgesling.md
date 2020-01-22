@@ -1,6 +1,6 @@
----  
+---    
 description: A quick regex examples for Skill developers  
----  
+---    
 # Regex Example  
 ### _regex-example-skill.krisgesling_  
 ## About:  

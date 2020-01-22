@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # mycroft-haskill-abstract  
 ### _mycroft-haskill-abstract.deevrek_  
 ## About:  

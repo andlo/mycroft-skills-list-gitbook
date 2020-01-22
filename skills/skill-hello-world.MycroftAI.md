@@ -1,6 +1,6 @@
----  
+---    
 description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Hello World  
 ### _skill-hello-world.MycroftAI_  

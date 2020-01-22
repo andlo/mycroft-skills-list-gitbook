@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # KDE-Kate-Control  
 ### _kde-kate-control.AIIX_  

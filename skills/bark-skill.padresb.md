@@ -1,6 +1,6 @@
----  
+---    
 description: Barks like a dog  
----  
+---    
 # Bark  
 ### _bark-skill.padresb_  
 ## About:  

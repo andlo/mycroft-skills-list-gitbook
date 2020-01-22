@@ -1,6 +1,6 @@
----  
+---    
 description:     Makes Mycroft laugh like a maniac  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Laugh  
 ### _skill-laugh.JarbasAl_  

@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Development Status  
 ### _mycroft-precise-trainer.MycroftAI_  
 ## About:  

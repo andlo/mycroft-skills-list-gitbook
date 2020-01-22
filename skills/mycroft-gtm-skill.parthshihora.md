@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # mycroft-gtm-skill  
 ### _mycroft-gtm-skill.parthshihora_  

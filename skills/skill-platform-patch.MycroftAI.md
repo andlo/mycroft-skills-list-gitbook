@@ -1,6 +1,6 @@
----  
+---    
 description: Updates original Mark 1 devices so they can upgrade to the latest version of Mycroft  
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Platform Patch  
 ### _skill-platform-patch.MycroftAI_  

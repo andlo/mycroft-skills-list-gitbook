@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Newspaper Skill  
 ### _skill-newspaper.rigved_  
 ## About:  

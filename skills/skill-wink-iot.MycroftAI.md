@@ -1,6 +1,6 @@
----  
+---    
 description: Control lights and switches connected to a Wink Hub  
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Wink IoT  
 ### _skill-wink-iot.MycroftAI_  

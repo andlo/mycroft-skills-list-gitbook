@@ -1,6 +1,6 @@
----  
+---    
 description: Control the flashcard program anki with your voice  
----  
+---    
 # Anki Interface  
 ### _anki-interface-skill.timo-a_  
 ## About:  

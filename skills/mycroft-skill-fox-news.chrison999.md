@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # mycroft-skill-fox-news  
 ### _mycroft-skill-fox-news.chrison999_  

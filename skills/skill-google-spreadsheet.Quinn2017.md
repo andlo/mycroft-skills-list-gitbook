@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Write to Google-Spreadsheets Skill  
 ### _skill-google-spreadsheet.Quinn2017_  
 ## About:  

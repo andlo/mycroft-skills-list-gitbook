@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Mycroft PDF Skill  
 ### _skill-pdf.sofwerx_  
 ## About:  

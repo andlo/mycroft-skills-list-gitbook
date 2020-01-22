@@ -1,6 +1,6 @@
----  
+---    
 description: Control the volume of your system  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Volume Control  
 ### _skill-volume.MycroftAI_  

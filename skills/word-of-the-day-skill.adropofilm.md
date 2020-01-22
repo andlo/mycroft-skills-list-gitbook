@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Word Of The Day Skill  
 ### _word-of-the-day-skill.adropofilm_  
 ## About:  

@@ -1,6 +1,6 @@
----  
+---    
 description: Minimum code to test geolocation api  
----  
+---    
 # Bj Geolocation Sample  
 ### _bj-geolocation-sample-skill.ndato_  
 ## About:  

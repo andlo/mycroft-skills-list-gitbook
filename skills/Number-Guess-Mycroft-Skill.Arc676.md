@@ -1,6 +1,6 @@
----  
+---    
 description: Play Number Guess with Mycroft  
----  
+---    
 # Number Guess  
 ### _Number-Guess-Mycroft-Skill.Arc676_  
 ## About:  

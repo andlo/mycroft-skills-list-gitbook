@@ -13,11 +13,11 @@ skillsdata = json.load(json_data)
 def make_skillsfiles(skills):
     for skill in skills:
         txt = []
-        txt.append('---  \n')
+        txt.append('---    \n')
         #of.write('titel: ' + skill["skill_info"]["title"] + '\n')
         short_desc = clean_txt(skill["skill_info"]["short_desc"])
         txt.append('description: ' + short_desc + '  \n')
-        txt.append('---  \n')
+        txt.append('---    \n')
         if not skill["stargazers_count"] == 0: 
             for x in range(skill["stargazers_count"]):
                 txt.append('![](../.gitbook/assets/star.png)')

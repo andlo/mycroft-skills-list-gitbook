@@ -1,6 +1,6 @@
----  
+---    
 description: Skills to intergrate to Myscroft platform , Maxwell is the project name  
----  
+---    
 # Maxwell Acronym skill interface to Altsearch engine  
 ### _maxwell_skills.hubolife_  
 ## About:  

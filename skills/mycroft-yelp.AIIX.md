@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Yelp Skill - Fork of btotharye Mycroft Yelp Skill  
 ### _mycroft-yelp.AIIX_  
 ## About:  

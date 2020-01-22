@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # clarifai-image-recognition-skill  
 ### _clarifai-image-recognition-skill.AIIX_  

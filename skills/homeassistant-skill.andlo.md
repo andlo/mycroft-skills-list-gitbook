@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Home Assistant Skill for Mycroft  
 ### _homeassistant-skill.andlo_  
 ## About:  

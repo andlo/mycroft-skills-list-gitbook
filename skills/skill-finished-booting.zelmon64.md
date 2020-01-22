@@ -1,6 +1,6 @@
----  
+---    
 description: Skill to determine when Mycroft AI has finished booting up  
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Finished Booting Skill  
 ### _skill-finished-booting.zelmon64_  

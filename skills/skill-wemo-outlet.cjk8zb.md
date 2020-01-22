@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # YOUR SKILL NAME  
 ### _skill-wemo-outlet.cjk8zb_  
 ## About:  

@@ -1,6 +1,6 @@
----  
+---    
 description: Customize your Mark 2  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Mycroft Mark 2  
 ### _skill-mark-2.MycroftAI_  

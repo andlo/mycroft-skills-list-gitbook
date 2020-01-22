@@ -1,6 +1,6 @@
----  
+---    
 description: Mycroft tells more then 2000 fairy tales, folk tales, and fables from all around the world  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Fairytalez  
 ### _fairytalez-skill.andlo_  

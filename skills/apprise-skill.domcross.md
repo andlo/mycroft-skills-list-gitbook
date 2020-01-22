@@ -1,6 +1,6 @@
----  
+---    
 description: Send push notification to almost every platform (using apprise lib)  
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Apprise  
 ### _apprise-skill.domcross_  

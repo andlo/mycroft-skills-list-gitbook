@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # YOUR SKILL NAME  
 ### _domocrofticz.sartsj_  
 ## About:  

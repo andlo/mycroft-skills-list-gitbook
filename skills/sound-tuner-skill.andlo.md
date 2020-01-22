@@ -1,6 +1,6 @@
----  
+---    
 description: This skill plays a sound in the given note or an sound in the given guitar string  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Sound tuner  
 ### _sound-tuner-skill.andlo_  

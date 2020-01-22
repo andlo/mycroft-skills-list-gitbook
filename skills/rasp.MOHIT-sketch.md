@@ -1,6 +1,6 @@
----  
+---    
 description: Example of interacting with GPIO pins on a Raspberry Pi  
----  
+---    
 # Raspberry Pi GPIO Demo  
 ### _rasp.MOHIT-sketch_  
 ## About:  

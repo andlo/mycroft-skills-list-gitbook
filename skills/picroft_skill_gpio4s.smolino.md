@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # picroft 4 Switch Relay skill gpio Readme  
 ### _picroft_skill_gpio4s.smolino_  
 ## About:  

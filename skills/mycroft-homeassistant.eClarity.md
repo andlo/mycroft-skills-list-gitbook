@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Home Assistant Skill for Mycroft  
 ### _mycroft-homeassistant.eClarity_  
 ## About:  

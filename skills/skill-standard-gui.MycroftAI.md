@@ -1,6 +1,6 @@
----  
+---    
 description: Basic Mycroft GUI screen support  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Standard GUI  
 ### _skill-standard-gui.MycroftAI_  

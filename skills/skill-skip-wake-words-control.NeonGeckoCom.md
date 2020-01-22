@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # skill-skip-wake-words-control  
 ### _skill-skip-wake-words-control.NeonGeckoCom_  
 ## About:  

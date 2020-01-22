@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Mycroft Today in History - Event skill  
 ### _mycroft-esp-skill-off.s-p-a-s_  

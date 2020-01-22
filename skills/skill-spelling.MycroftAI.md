@@ -1,6 +1,6 @@
----  
+---    
 description: Let Mycroft help you spell words  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Spelling  
 ### _skill-spelling.MycroftAI_  

@@ -1,6 +1,6 @@
----  
+---    
 description: Dismisses Mycroft  
----  
+---    
 # Dismissal  
 ### _dismissal-skill.ChanceNCounter_  
 ## About:  

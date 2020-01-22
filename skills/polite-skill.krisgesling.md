@@ -1,6 +1,6 @@
----  
+---    
 description: Example Skill to show use of the converse() method  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Polite  
 ### _polite-skill.krisgesling_  

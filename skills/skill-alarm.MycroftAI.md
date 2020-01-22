@@ -1,6 +1,6 @@
----  
+---    
 description: Set alarms with Mycroft  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Set alarms  
 ### _skill-alarm.MycroftAI_  

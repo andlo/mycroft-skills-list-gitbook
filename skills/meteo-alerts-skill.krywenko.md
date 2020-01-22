@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # meteo-alerts-skill  
 ### _meteo-alerts-skill.krywenko_  
 ## About:  

@@ -1,6 +1,6 @@
----  
+---    
 description: A simple calculator skill for Mycroft AI  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Calculator  
 ### _calculator.gras64_  

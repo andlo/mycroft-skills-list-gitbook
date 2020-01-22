@@ -1,6 +1,6 @@
----  
+---    
 description: Listens offline for wake words and pre-defined speech commands  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Local Speech  
 ### _local-speech-skill.JarbasAl_  

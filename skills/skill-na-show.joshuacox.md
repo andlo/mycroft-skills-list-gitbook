@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # [No Agenda Show](http://www.noagendashow.com/)  
 ### _skill-na-show.joshuacox_  

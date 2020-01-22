@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # [GNU World Order](http://gnuworldorder.info/)  
 ### _skill-GNUworldOrder.joshuacox_  
 ## About:  

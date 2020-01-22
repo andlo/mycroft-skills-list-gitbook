@@ -1,6 +1,6 @@
----  
+---    
 description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together  
----  
+---    
 # Hello World  
 ### _skill-mcp-status.josmoo15_  
 ## About:  

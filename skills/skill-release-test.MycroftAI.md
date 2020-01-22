@@ -1,6 +1,6 @@
----  
+---    
 description: Tool used by Mycroft  internal Quality Assurance team when validating a new mycroft-core release  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Release Test  
 ### _skill-release-test.MycroftAI_  

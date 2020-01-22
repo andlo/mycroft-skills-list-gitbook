@@ -1,6 +1,6 @@
----  
+---    
 description: Set named timers for cooking, watering plants, brewing tea and more  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Timer  
 ### _mycroft-timer.MycroftAI_  

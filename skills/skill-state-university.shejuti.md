@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # YOUR SKILL NAME  
 ### _skill-state-university.shejuti_  
 ## About:  

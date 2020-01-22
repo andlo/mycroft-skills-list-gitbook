@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # skill-magic-eight-ball  
 ### _Skill-Magic-Eight-Ball.Quinn2017_  

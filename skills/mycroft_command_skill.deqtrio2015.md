@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # YOUR SKILL NAME  
 ### _mycroft_command_skill.deqtrio2015_  
 ## About:  

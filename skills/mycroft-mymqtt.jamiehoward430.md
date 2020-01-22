@@ -1,6 +1,6 @@
----  
+---    
 description: This is a skill written for mycroft to publish commands over an mqtt broker for home automation or any other purpose  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # MQTT for MycroftAI  
 ### _mycroft-mymqtt.jamiehoward430_  

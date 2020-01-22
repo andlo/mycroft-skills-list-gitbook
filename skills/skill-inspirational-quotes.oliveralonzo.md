@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Inspirational Quotes  
 ### _skill-inspirational-quotes.oliveralonzo_  

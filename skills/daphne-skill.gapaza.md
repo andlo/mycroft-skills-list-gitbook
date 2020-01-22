@@ -1,6 +1,6 @@
----  
+---    
 description: Physical embodiment of daphne eoss  
----  
+---    
 # Daphne  
 ### _daphne-skill.gapaza_  
 ## About:  

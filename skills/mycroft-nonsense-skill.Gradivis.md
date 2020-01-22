@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Nonsense Skill for Mycroft  
 ### _mycroft-nonsense-skill.Gradivis_  
 ## About:  

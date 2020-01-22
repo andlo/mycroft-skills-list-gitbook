@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Trivia skill with local stt  
 ### _lstt-skill.tjoen_  

@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # mycroft-skill-cbc-news  
 ### _mycroft-skill-cbc-news.chrison999_  
 ## About:  

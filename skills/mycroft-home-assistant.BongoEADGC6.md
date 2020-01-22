@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Home Assistant Skill for Mycroft  
 ### _mycroft-home-assistant.BongoEADGC6_  

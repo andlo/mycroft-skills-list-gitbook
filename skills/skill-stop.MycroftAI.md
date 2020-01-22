@@ -1,6 +1,6 @@
----  
+---    
 description: General system control  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # System  
 ### _skill-stop.MycroftAI_  

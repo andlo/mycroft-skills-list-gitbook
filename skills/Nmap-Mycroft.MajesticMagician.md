@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # YOUR SKILL NAME  
 ### _Nmap-Mycroft.MajesticMagician_  
 ## About:  

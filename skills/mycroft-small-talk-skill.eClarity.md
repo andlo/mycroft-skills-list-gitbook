@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # mycroft-small-talk-skill  
 ### _mycroft-small-talk-skill.eClarity_  

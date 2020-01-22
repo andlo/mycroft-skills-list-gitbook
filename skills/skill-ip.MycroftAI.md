@@ -1,6 +1,6 @@
----  
+---    
 description: Network connection information  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Device IP Address  
 ### _skill-ip.MycroftAI_  

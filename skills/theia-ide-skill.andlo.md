@@ -1,6 +1,6 @@
----  
+---    
 description: Installs and setup THEIA IDE locally on your device. Real VS Code experience  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # THEIA IDE  
 ### _theia-ide-skill.andlo_  

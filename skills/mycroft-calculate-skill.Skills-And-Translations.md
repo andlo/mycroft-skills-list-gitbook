@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # mycroft-calculate-skill  
 ### _mycroft-calculate-skill.Skills-And-Translations_  
 ## About:  

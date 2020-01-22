@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # skill-rock-paper-scissors  
 ### _skill-rock-paper-scissors.lachendeKatze_  

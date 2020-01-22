@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # skill-days-until-christmas  
 ### _skill-days-until-christmas.lachendeKatze_  

@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Mycroft Today in History - Event skill  
 ### _mycroft-skill-today-in-history.Arcanesaadman15_  
 ## About:  

@@ -1,6 +1,6 @@
----  
+---    
 description: Control a remote computer via SSH and Wake on Lan. (Power OFF/ON)  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Remote Computer  
 ### _mycroft-remote-computer.smearumi_  

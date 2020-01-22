@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # subsonic media player  
 ### _skill-subsonic-media.ejstacey_  

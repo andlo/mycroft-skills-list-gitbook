@@ -1,6 +1,6 @@
----  
+---    
 description: Check your email with Mycroft!  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Email  
 ### _email-skill.LinusS1_  

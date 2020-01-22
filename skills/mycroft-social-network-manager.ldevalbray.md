@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Mycroft-Social-Network-Manager  
 ### _mycroft-social-network-manager.ldevalbray_  

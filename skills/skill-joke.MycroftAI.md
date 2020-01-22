@@ -1,6 +1,6 @@
----  
+---    
 description: Let Mycroft brighten your day with a little humor  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Jokes  
 ### _skill-joke.MycroftAI_  

@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # Digikam-Control  
 ### _digikam-control.AIIX_  
 ## About:  

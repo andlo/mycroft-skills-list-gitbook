@@ -1,6 +1,6 @@
----  
+---    
 description: Lets you control your Xbox One by voice  
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Xbox Control  
 ### _xbox-control-skill.tgru_  

@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # mycroft---pick-up-line---skill  
 ### _skill-pick-up-lines.JarbasAl_  

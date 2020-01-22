@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # KDE News Skill  
 ### _kde-news-skill.AIIX_  
 ## About:  

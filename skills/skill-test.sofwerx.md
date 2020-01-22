@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # tsa-wait-skill  
 ### _skill-test.sofwerx_  
 ## About:  

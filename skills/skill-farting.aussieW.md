@@ -1,6 +1,6 @@
----  
+---    
 description: Mycroft will play a farting sound when requested or at random intervals  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Farting  
 ### _skill-farting.aussieW_  

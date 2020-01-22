@@ -1,6 +1,6 @@
----  
+---    
 description: Manage a shopping list  
----  
+---    
 # Shopping List  
 ### _shopping-list-skill.vraedac_  
 ## About:  

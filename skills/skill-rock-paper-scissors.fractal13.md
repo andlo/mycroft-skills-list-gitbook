@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # YOUR SKILL NAME  
 ### _skill-rock-paper-scissors.fractal13_  
 ## About:  

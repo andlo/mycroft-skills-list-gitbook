@@ -1,6 +1,6 @@
----  
+---    
 description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together  
----  
+---    
 # Hello World  
 ### _mycroft_history_skill.SandeepRamesh_  
 ## About:  

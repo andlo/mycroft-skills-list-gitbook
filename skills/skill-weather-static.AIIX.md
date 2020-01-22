@@ -1,6 +1,6 @@
----  
+---    
 description: Weather conditions and forecasts  
----  
+---    
 # Weather  
 ### _skill-weather-static.AIIX_  
 ## About:  

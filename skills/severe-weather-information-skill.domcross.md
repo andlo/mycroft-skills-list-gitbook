@@ -1,6 +1,6 @@
----  
+---    
 description: Checks your national weather service and notifies you when there are alerts for your region  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Severe Weather Information  
 ### _severe-weather-information-skill.domcross_  

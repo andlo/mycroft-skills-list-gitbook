@@ -1,6 +1,6 @@
----  
+---    
 description: Give voice commands to Mycroft to control a MagicMirror  
----  
+---    
 ![](../.gitbook/assets/star.png)  
 # Magic Mirror Voice Control  
 ### _magic-mirror-voice-control-skill.dmwilsonkc_  

@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # YOUR SKILL NAME  
 ### _WebView-Mycroft.MajesticMagician_  
 ## About:  

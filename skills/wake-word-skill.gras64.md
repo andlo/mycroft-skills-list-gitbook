@@ -1,6 +1,6 @@
----  
+---    
 description: Just train a new wakeword  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Wake Word  
 ### _wake-word-skill.gras64_  

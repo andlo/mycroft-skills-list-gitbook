@@ -1,6 +1,6 @@
----  
+---    
 description: Nahverkehrsauskunft für Dresden (dvb, vvo) per MyCroft-Sprachassistent  
----  
+---    
 # Public Transport  
 ### _public-transport-skill.Nos-_  
 ## About:  

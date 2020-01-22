@@ -1,6 +1,6 @@
----  
+---    
 description: Mycroft interaction to jeedom  
----  
+---    
 # Jeedom Assistant  
 ### _jeedom-assistant-skill.gilbr1098_  
 ## About:  

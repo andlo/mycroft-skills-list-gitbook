@@ -1,6 +1,6 @@
----  
+---    
 description: Provides current stock prices  
----  
+---    
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Stock Prices  
 ### _skill-stock.MycroftAI_  

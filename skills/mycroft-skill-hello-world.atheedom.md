@@ -1,6 +1,6 @@
----  
+---    
 description:   
----  
+---    
 # YOUR SKILL NAME  
 ### _mycroft-skill-hello-world.atheedom_  
 ## About:  
