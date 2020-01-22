@@ -1,8 +1,8 @@
---- 
-description: Enables Google AIY voicekit
+---  
+description: Enables Google AIY voicekit  
 categories: IoT   
 tags: googlevoicekit aiy Googleaiy voicekit voicehat   
----
+---  
 
 # Google AIY voicekit  
 
