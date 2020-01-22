@@ -1,11 +1,13 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # lifx-skill  
 ### _skill-lifx.GotTheNumbers_  
 ## About:  
-A <a href='https://mycroft.ai/'>Mycroft</a> skill for controlling <a href='https://www.lifx.com/'>Lifx</a> lights.
+A Mycroft skill for controlling Lifx lights.
 
 ## Skill information:  
 **Github:** | [https://github.com/GotTheNumbers/skill-lifx](https://github.com/GotTheNumbers/skill-lifx)  

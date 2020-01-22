@@ -1,5 +1,7 @@
 --- 
 description: Installs and setup THEIA IDE locally on your device. Real VS Code experience
+categories: Productivity   
+tags: theia IDE editor dev vscode   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -11,9 +13,6 @@ with integratio to Github, and tools like mycroft-msm and mycroft-msk directly f
 shell.
 Theia provides Microsoft VS Code experience in the browser.
 
-https://www.theia-ide.org/index.html
-
-<img src='screenshot.png' card_color='#40DBB0' width=800 style='vertical-align:bottom'/>
 
 ## Skill information:  
 **Github:** | [https://github.com/andlo/theia-ide-skill](https://github.com/andlo/theia-ide-skill)  

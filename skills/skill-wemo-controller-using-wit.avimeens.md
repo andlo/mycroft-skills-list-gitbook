@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Wemo Controller Using Wit  

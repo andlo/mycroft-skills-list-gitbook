@@ -1,5 +1,7 @@
 --- 
 description: Reads out news headlines from r/worldnews on reddit
+categories: Information   
+tags: news reddit headlines   
 ---
 
 ![](../.gitbook/assets/star.png)  

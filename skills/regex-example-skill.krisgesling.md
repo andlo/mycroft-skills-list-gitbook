@@ -1,13 +1,14 @@
 --- 
 description: A quick regex examples for Skill developers
+categories: Examples   
+tags: example regex adapt   
 ---
 
 # Regex Example  
 ### _regex-example-skill.krisgesling_  
 ## About:  
 A very simple Skill showing how to use regex files with the Adapt intent parser.
-
-For more detail on the structure of Skills and different types of intents, see [Introduction to Developing Skills](https://mycroft.ai/documentation/skills/introduction-developing-skills/) in the Mycroft.ai documentation.
+For more detail on the structure of Skills and different types of intents, see Introduction to Developing Skills in the Mycroft.ai documentation.
 
 ## Skill information:  
 **Github:** | [https://github.com/krisgesling/regex-example-skill](https://github.com/krisgesling/regex-example-skill)  

@@ -1,5 +1,7 @@
 --- 
 description: Control Sonos speakers from Mycroft
+categories: Media   
+tags: Sonos   
 ---
 
 #   

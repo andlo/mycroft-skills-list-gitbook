@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # image-ocr-skill  

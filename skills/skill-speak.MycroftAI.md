@@ -1,5 +1,7 @@
 --- 
 description: Make Mycroft repeat whatever you want
+categories: Entertainment   
+tags: speak say repeat system   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

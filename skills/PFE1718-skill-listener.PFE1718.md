@@ -1,13 +1,14 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Skill Listener  
 ### _PFE1718-skill-listener.PFE1718_  
 ## About:  
-This skill is made to work with the full Habits Automation project https://github.com/PFE1718/mycroft-skills-automation.
-
+This skill is made to work with the full Habits Automation project 
 Its role is to log mycroft intents when the user launches a skill. It runs continuously in the background and calls the other two skills of the project by utterance when necessary.
 Different cases :
 - Skill trigger detected (calls the automation handler skill)

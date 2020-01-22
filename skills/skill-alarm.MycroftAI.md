@@ -1,5 +1,7 @@
 --- 
 description: Set alarms with Mycroft
+categories: Daily   
+tags: alarm   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -7,7 +9,6 @@ description: Set alarms with Mycroft
 ### _skill-alarm.MycroftAI_  
 ## About:  
 Set a single use alarm, daily alarms, or weekly recurring alarms.
-
 You can choose from five different alarm sounds:
 * Constant Beep
 * Four rapid beeps

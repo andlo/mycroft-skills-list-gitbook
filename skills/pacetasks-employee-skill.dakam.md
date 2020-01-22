@@ -1,5 +1,7 @@
 --- 
 description: A skill for pacetasks
+categories: Information Productivity   
+tags: Pacetasks Erp Human resource Mysql Database   
 ---
 
 # Pacetasks Employee  

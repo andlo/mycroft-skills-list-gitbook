@@ -1,5 +1,7 @@
 --- 
 description: My first test to interact with emilia
+categories: Entertainment Arts Restoration Vintage   
+tags: Printer Ascii   
 ---
 
 # Hello Print  

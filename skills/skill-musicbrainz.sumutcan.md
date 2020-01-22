@@ -1,5 +1,7 @@
 --- 
 description: A skill that answers questions over LinkedBrainz data
+categories: Music Information   
+tags: music generalknowledge questionanswer   
 ---
 
 # Music Brains  

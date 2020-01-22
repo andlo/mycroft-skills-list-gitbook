@@ -1,12 +1,13 @@
 --- 
 description: Connect Nextcloud services to Mycroft
+categories: Productivity Information,   
+tags:   
 ---
 
 # Test  
 ### _Mycroft-Nextcloud-Skill.Extarys_  
 ## About:  
 Control your contacts and your calendar with Mycroft!
-
 Ability to create appointments in any calendars.
 You can now add a contact to Nextcloud in 15 seconds with your voice.
 

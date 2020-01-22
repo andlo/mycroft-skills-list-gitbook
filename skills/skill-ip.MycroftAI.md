@@ -1,12 +1,14 @@
 --- 
 description: Network connection information
+categories: Configuration   
+tags: IP-address IPaddress network-address network system   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Device IP Address  
 ### _skill-ip.MycroftAI_  
 ## About:  
-Retrieve the [IP address](https://en.wikipedia.org/wiki/IP_address), also known as the "network address" of the Device and respond verbally to the user, and if the Device supports it, display the IP address.
+Retrieve the IP address, also known as the "network address" of the Device and respond verbally to the user, and if the Device supports it, display the IP address.
 
 ## Skill information:  
 **Github:** | [https://github.com/MycroftAI/skill-ip](https://github.com/MycroftAI/skill-ip)  

@@ -1,5 +1,7 @@
 --- 
 description: Control your mouse and keyboard by voice
+categories: Productivity   
+tags: desktop mouse keyboard screen   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

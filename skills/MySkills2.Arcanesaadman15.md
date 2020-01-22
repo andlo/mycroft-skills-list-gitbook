@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Mycroft Today in History - Event skill  

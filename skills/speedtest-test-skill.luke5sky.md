@@ -1,12 +1,14 @@
 --- 
 description: Ask MyCroft to run a simple speedtest
+categories: Daily Information IoT Productivity   
+tags: ínternet speed bandwith   
 ---
 
 # Speedtest  
 ### _speedtest-test-skill.luke5sky_  
 ## About:  
 Run a speedtest with MyCroft.
-This skill uses the speedtest-cli (https://github.com/sivel/speedtest-cli) which runs an internet bandwidth test using speedtest.net.
+This skill uses the speedtest-cli ( which runs an internet bandwidth test using speedtest.net.
 
 ## Skill information:  
 **Github:** | [https://github.com/luke5sky/speedtest-test-skill](https://github.com/luke5sky/speedtest-test-skill)  

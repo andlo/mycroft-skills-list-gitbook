@@ -1,5 +1,7 @@
 --- 
 description:     skill for Adventure game by Crowther and Woods
+categories: Entertainment   
+tags: game adventure cave   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -7,8 +9,7 @@ description:     skill for Adventure game by Crowther and Woods
 ### _cave-adventure-game-skill.JarbasAl_  
 ## About:  
 This is a faithful port of the “Adventure” game to a Mycroft Skill from the original 1977 FORTRAN code by Crowther and Woods.
-
-Adapted from [python-adventure](https://github.com/brandon-rhodes/python-adventure), the python port of the game.
+Adapted from python-adventure, the python port of the game.
 
 ## Skill information:  
 **Github:** | [https://github.com/JarbasAl/cave-adventure-game-skill](https://github.com/JarbasAl/cave-adventure-game-skill)  

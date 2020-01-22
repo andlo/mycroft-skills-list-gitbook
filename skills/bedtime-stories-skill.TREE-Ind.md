@@ -1,5 +1,7 @@
 --- 
 description: Listen to famous bedtime stories
+categories: Entertainment   
+tags: stories audio kidfriendly   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -7,7 +9,6 @@ description: Listen to famous bedtime stories
 ### _bedtime-stories-skill.TREE-Ind_  
 ## About:  
 A skill that has a small selection of famous bedtime stories  provided by Librivox.
-
 Stories are downloaded with the skill and can be listed by voice, selected by title, or chosen randomly.
 
 ## Skill information:  

@@ -1,11 +1,13 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Mycroft skill-radio-oe1  
 ### _skill-radio-oe1.SomePati_  
 ## About:  
-Latest news from http://www.oe1.orf.at from austria.
+Latest news from  from austria.
 
 ## Skill information:  
 **Github:** | [https://github.com/SomePati/skill-radio-oe1](https://github.com/SomePati/skill-radio-oe1)  

@@ -1,5 +1,7 @@
 --- 
 description: Mycroft sings lyrics to some popular songs
+categories: Entertainment   
+tags: sing singing lyrics song music texttospeech   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

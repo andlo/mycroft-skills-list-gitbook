@@ -1,12 +1,14 @@
 --- 
 description: Get help mixing drinks
+categories: Information   
+tags: drinks recipies cocktails   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Cocktails  
 ### _skill-cocktail.forslund_  
 ## About:  
-Let Mycroft help you mix better and more fun drinks and cocktails. When asked Mycroft provides ingredients and mixing instructions for various drinks. The skill uses the fabulous [theCocktailDB](https://thecocktaildb.com/).
+Let Mycroft help you mix better and more fun drinks and cocktails. When asked Mycroft provides ingredients and mixing instructions for various drinks. The skill uses the fabulous theCocktailDB.
 
 ## Skill information:  
 **Github:** | [https://github.com/forslund/skill-cocktail](https://github.com/forslund/skill-cocktail)  

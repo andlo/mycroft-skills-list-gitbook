@@ -1,12 +1,14 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Mycroftinator  
 ### _mycroftinator.Tyler-The-App-Creator_  
 ## About:  
-A fun game created with Akinator the Genie, https://en.akinator.com/
-brought to life using the Mycroft open source AI, https://mycroft.ai/
+A fun game created with Akinator the Genie, 
+brought to life using the Mycroft open source AI, 
 
 ## Skill information:  
 **Github:** | [https://github.com/Tyler-The-App-Creator/mycroftinator](https://github.com/Tyler-The-App-Creator/mycroftinator)  

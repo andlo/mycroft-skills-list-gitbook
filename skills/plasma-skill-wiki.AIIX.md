@@ -1,11 +1,13 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Wikipedia  
 ### _plasma-skill-wiki.AIIX_  
 ## About:  
-Query [Wikipedia](https://www.wikipedia.org) for answers to all your questions!  Get just the
+Query Wikipedia for answers to all your questions!  Get just the
 summary, or ask for more to get in-depth information.
 
 ## Skill information:  

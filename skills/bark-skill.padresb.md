@@ -1,5 +1,7 @@
 --- 
 description: Barks like a dog
+categories: Daily   
+tags: Dog Bark   
 ---
 
 # Bark  

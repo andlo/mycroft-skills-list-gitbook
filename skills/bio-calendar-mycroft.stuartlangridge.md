@@ -1,11 +1,13 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Birmingham tech events  
 ### _bio-calendar-mycroft.stuartlangridge_  
 ## About:  
-A list of tech events happening in Birmingham UK over the next few days. Powered by [the Birmingham.IO calendar](https://calendar.birmingham.io), and using the same back end as the similar [Alexa Flash Briefing skill](https://www.kryogenix.org/days/2017/07/05/birmingham-tech-events-in-the-alexa-flash-briefing/).
+A list of tech events happening in Birmingham UK over the next few days. Powered by the Birmingham.IO calendar, and using the same back end as the similar Alexa Flash Briefing skill.
 
 ## Skill information:  
 **Github:** | [https://github.com/stuartlangridge/bio-calendar-mycroft](https://github.com/stuartlangridge/bio-calendar-mycroft)  

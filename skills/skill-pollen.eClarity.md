@@ -1,18 +1,17 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
 # Allergy Tracker Skill for Mycroft  
 ### _skill-pollen.eClarity_  
 ## About:  
-Add a block to your `~/.mycroft/mycroft.conf` file like this:
-
-```
+Add a block to your ~/.mycroft/mycroft.conf file like this:
 "PollenSkill": {
 "zipcode": yourziphere
 }
-```
 
 ## Skill information:  
 **Github:** | [https://github.com/eClarity/skill-pollen](https://github.com/eClarity/skill-pollen)  

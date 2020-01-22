@@ -1,13 +1,14 @@
 --- 
 description: Wikipedia
+categories: Information   
+tags: wikipedia encyclopedia general-knowledge wiki question query   
 ---
 
 # Wikipedia  
 ### _ru-wiki.einstalek_  
 ## About:  
-Query [Wikipedia](https://www.wikipedia.org) for answers to all your questions.  Get just a summary, or ask for more to get in-depth information.
-
-This Skill uses the [Wikimedia API](https://en.wikipedia.org/w/api.php).
+Query Wikipedia for answers to all your questions.  Get just a summary, or ask for more to get in-depth information.
+This Skill uses the Wikimedia API.
 
 ## Skill information:  
 **Github:** | [https://github.com/einstalek/ru-wiki](https://github.com/einstalek/ru-wiki)  

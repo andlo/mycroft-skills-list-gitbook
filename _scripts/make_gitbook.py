@@ -17,6 +17,14 @@ def make_skillsfiles(skills):
         #of.write('titel: ' + skill["skill_info"]["title"] + '\n')
         short_desc = clean_txt(skill["skill_info"]["short_desc"])
         txt.append('description: ' + short_desc + '\n')
+        txt.append('categories: ')
+        for category in skill["skill_info"]["categories"]:
+            txt.append(category + ' ')
+        txt.append('  \n')
+        txt.append('tags: ')
+        for tag in skill["skill_info"]["tags"]:
+            txt.append(tag + ' ')
+        txt.append('  \n')
         txt.append('---\n\n')
         if not skill["stargazers_count"] == 0: 
             for x in range(skill["stargazers_count"]):
@@ -30,7 +38,7 @@ def make_skillsfiles(skills):
         #resize_img(icon_img, 50)
         #txt.append(skill["skill_info"]["title"] + '\n\n')
         txt.append('## About:  \n')
-        txt.append(skill["skill_info"]["description"] + '\n\n')
+        txt.append(clean_txt(skill["skill_info"]["description"]) + '\n\n')
         #avatar = '../img/' + skill["owner"]["login"] + '_avatar.png'
         #avatar = get_img(skill["owner"]["avatar_url"], avatar)
         #resize_img(avatar, 50)

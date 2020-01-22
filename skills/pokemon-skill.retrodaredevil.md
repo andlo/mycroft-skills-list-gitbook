@@ -1,5 +1,7 @@
 --- 
 description: Aids you on your journey as a Pokemon Trainer
+categories: Entertainment Information   
+tags: Pokemon Pokedex Video Games   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

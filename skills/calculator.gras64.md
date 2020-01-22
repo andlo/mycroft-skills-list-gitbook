@@ -1,5 +1,7 @@
 --- 
 description: A simple calculator skill for Mycroft AI
+categories: Productivity   
+tags: 'calculation   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

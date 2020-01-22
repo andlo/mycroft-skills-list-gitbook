@@ -1,11 +1,13 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Calcurse  
 ### _calcurse-skill.lb803_  
 ## About:  
-This skill is a [calcurse](https://packages.debian.org/stable/calcurse) wrapper for [Mycroft](https://mycroft.ai/).
+This skill is a calcurse wrapper for Mycroft.
 
 ## Skill information:  
 **Github:** | [https://github.com/lb803/calcurse-skill](https://github.com/lb803/calcurse-skill)  

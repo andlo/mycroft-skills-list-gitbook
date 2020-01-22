@@ -1,5 +1,7 @@
 --- 
 description: Physical embodiment of daphne eoss
+categories: Information   
+tags:   
 ---
 
 # Daphne  

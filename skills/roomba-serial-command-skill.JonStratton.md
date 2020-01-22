@@ -1,5 +1,7 @@
 --- 
 description: Talks to a roomba that is connected to something running roomba-serial-command-service
+categories: IoT   
+tags: roomba   
 ---
 
 # Roomba Serial Command  

@@ -1,14 +1,15 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # irc-skill  
 ### _irc-skill.merspieler_  
 ## About:  
 Mycroft skill that lets you use IRC via voice commands.
-
 This skill is not considered done.
-_NOTE_: Developent has been currently stoped due to personal reasons. Merge Requests will still be accepted.
+NOTE: Developent has been currently stoped due to personal reasons. Merge Requests will still be accepted.
 
 ## Skill information:  
 **Github:** | [https://github.com/merspieler/irc-skill](https://github.com/merspieler/irc-skill)  

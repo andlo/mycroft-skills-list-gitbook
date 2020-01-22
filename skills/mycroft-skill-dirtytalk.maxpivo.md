@@ -1,14 +1,18 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Dirty Talk  
 ### _mycroft-skill-dirtytalk.maxpivo_  
 ## About:  
-* "Talk Dirty" - Run of the mill dirty talk
-* "Filthy" - A little more X rated
-* "Nasty" - X Rated and intended to be offensive
-* "Filthy Joke" - Will tell you a one-liner.
+
+"Talk Dirty" - Run of the mill dirty talk
+"Filthy" - A little more X rated
+"Nasty" - X Rated and intended to be offensive
+"Filthy Joke" - Will tell you a one-liner.
+
 
 ## Skill information:  
 **Github:** | [https://github.com/maxpivo/mycroft-skill-dirtytalk](https://github.com/maxpivo/mycroft-skill-dirtytalk)  

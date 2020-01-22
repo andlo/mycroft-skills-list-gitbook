@@ -1,5 +1,7 @@
 --- 
 description: Voice interface to control a telescope using the indi protocol
+categories: IoT   
+tags: Astronomy telescope indi   
 ---
 
 # Mycroft Indi  

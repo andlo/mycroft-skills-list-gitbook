@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: Information Iot Productivity   
+tags:   
 ---
 
 # Shodan  

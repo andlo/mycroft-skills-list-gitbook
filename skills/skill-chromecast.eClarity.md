@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -7,12 +9,9 @@ description:
 ### _skill-chromecast.eClarity_  
 ## About:  
 Add a block to your Mycroft configuration file like this:
-
-```
 "ChromecastSkill": {
 "cc_device": "YourDeviceName",
 }
-```
 
 ## Skill information:  
 **Github:** | [https://github.com/eClarity/skill-chromecast](https://github.com/eClarity/skill-chromecast)  

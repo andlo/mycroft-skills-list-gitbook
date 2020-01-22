@@ -1,5 +1,7 @@
 --- 
 description: Mycroft whitenoise
+categories: Entertainment   
+tags: sing singing lyrics song music texttospeech   
 ---
 
 # Whitenoise  

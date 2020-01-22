@@ -1,5 +1,7 @@
 --- 
 description: Find information about movies, actors and production details
+categories: Entertainment   
+tags: TMDB Movies Actors Mark I   
 ---
 
 ![](../.gitbook/assets/star.png)  

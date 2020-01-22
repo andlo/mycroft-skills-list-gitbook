@@ -1,5 +1,7 @@
 --- 
 description: Tells you the status of your favorite Minecraft Servers
+categories: Entertainment Information   
+tags: Minecraft Video Games   
 ---
 
 # Minecraft Server Status  

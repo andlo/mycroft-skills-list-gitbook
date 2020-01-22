@@ -1,14 +1,16 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Ask-Stack  
 ### _ask-stack.AIIX_  
 ## About:  
-#### Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display and Interact with Results
+Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display and Interact with Results
 Find Questions on StackExchanged based channels.
-###### Done: StackOverFlow
-###### ToDo: Rest.
+Done: StackOverFlow
+ToDo: Rest.
 
 ## Skill information:  
 **Github:** | [https://github.com/AIIX/ask-stack](https://github.com/AIIX/ask-stack)  

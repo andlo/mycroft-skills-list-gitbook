@@ -1,12 +1,13 @@
 --- 
 description: Mycroft plays the latest episode of your favorite podcast
+categories: & Music Audio Entertainment Media   
+tags: Podcast Mycroft AI   
 ---
 
 # Podcast Player  
 ### _podcast-player-skill.kalyaninagaraj_  
 ## About:  
 Unlike a typical podcast player, this skill does not maintain playlist.
-
 Instead, this skill lets you to play a particular episode by identifying the season and episode number to Mycroft.
 
 ## Skill information:  

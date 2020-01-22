@@ -1,11 +1,13 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # plasma-baloo-search-skill  
 ### _plasma-baloo-search-skill.AIIX_  
 ## About:  
-#### Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display Results.
+Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display Results.
 
 ## Skill information:  
 **Github:** | [https://github.com/AIIX/plasma-baloo-search-skill](https://github.com/AIIX/plasma-baloo-search-skill)  

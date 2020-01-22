@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: IoT   
+tags: wake-on-lan wake   
 ---
 
 # Description  

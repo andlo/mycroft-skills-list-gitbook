@@ -1,5 +1,7 @@
 --- 
 description: General system control
+categories: Configuration   
+tags: system   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -8,7 +10,6 @@ description: General system control
 ## About:  
 Provides verbal interfaces for basic framework interactions, such as the
 "Stop" command.  Also provide interface to control physical Mycroft hardware.
-
 NOTE: This Skill is a little unusual in that it really doesn't do anything
 directly, rather it emits messages for the device creator to capture.
 

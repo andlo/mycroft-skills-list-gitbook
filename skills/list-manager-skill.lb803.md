@@ -1,13 +1,15 @@
 --- 
 description: Access and manage lists with Mycroft
+categories: Productivity   
+tags: Notes Note-taking   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # List Manager  
 ### _list-manager-skill.lb803_  
 ## About:  
-*List Manager* is a simple utility for filing lists of things you don't want to forget.
-Whether these are titles of books to read, the specs of your new bike, or random thoughts for a new programming project; you can ask [Mycroft](https://mycroft.ai/) to create a list for each them!
+List Manager is a simple utility for filing lists of things you don't want to forget.
+Whether these are titles of books to read, the specs of your new bike, or random thoughts for a new programming project; you can ask Mycroft to create a list for each them!
 
 ## Skill information:  
 **Github:** | [https://github.com/lb803/list-manager-skill](https://github.com/lb803/list-manager-skill)  

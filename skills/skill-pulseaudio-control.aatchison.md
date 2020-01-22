@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags: * `listing devices should work just fine` * `setting devices speaks the device that was set, but setting hasn't been implemented just yet`   
 ---
 
 ![](../.gitbook/assets/star.png)  

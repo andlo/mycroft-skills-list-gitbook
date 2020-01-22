@@ -1,11 +1,13 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Subsonic  
 ### _subsonic-mycroft-skill.mj2p_  
 ## About:  
-Subsonic (https://subsonic.org) is a media streaming server. this skill will interface with a preconfigured subsonic server and allow mycroft to stream media from it.
+Subsonic ( is a media streaming server. this skill will interface with a preconfigured subsonic server and allow mycroft to stream media from it.
 
 ## Skill information:  
 **Github:** | [https://github.com/mj2p/subsonic-mycroft-skill](https://github.com/mj2p/subsonic-mycroft-skill)  

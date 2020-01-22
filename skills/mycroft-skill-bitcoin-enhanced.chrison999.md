@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -7,10 +9,9 @@ description:
 ### _mycroft-skill-bitcoin-enhanced.chrison999_  
 ## About:  
 This Mycroft skill is an enhancement of the bitcoin-skill by Red5d.
-(https://github.com/Red5d/mycroft_skills/tree/master/bitcoin)
-
+(
 The bitcoin statistics are obtained from bitcoinaverage.com.
-(https://api.bitcoinaverage.com/all)
+(
 
 ## Skill information:  
 **Github:** | [https://github.com/chrison999/mycroft-skill-bitcoin-enhanced](https://github.com/chrison999/mycroft-skill-bitcoin-enhanced)  

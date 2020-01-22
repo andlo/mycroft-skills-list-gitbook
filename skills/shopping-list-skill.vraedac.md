@@ -1,5 +1,7 @@
 --- 
 description: Manage a shopping list
+categories: Productivity   
+tags: Shopping List Grocery Todoist   
 ---
 
 # Shopping List  

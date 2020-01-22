@@ -1,5 +1,7 @@
 --- 
 description: Basic Mycroft GUI screen support
+categories: Configuration   
+tags: gui system   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

@@ -1,5 +1,7 @@
 --- 
 description: Control the volume of your system
+categories: Music   
+tags: volume volume-control sound   
 ---
 
 # Volume Control  

@@ -1,5 +1,7 @@
 --- 
 description: Ask MyCroft to remember things for you
+categories: Productivity Daily   
+tags: brain remember todo-list   
 ---
 
 # Remember  

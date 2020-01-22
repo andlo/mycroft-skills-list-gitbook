@@ -1,14 +1,14 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Traffic Skill for Mycroft  
 ### _mycroft-traffic.BongoEADGC6_  
 ## About:  
-Add a block to your `~/.mycroft/mycroft.conf` file like this:
-
-```
+Add a block to your ~/.mycroft/mycroft.conf file like this:
 "TrafficSkill": {
 "api_key": "REPLACETHISWITHKEYFROMGOOGLE",
 "pois": {
@@ -22,8 +22,7 @@ Add a block to your `~/.mycroft/mycroft.conf` file like this:
 }
 }
 }
-```
-* Google API key can be obtained [HERE](https://developers.google.com/maps/documentation/directions/start#get-a-key)
+* Google API key can be obtained HERE
 
 ## Skill information:  
 **Github:** | [https://github.com/BongoEADGC6/mycroft-traffic](https://github.com/BongoEADGC6/mycroft-traffic)  

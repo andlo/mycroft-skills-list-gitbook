@@ -1,14 +1,15 @@
 --- 
 description: 
+categories: uncategorized   
+tags: [JamesPoole](https://github.com/JamesPoole/) from whose [podcast-skill](https://github.com/JamesPoole/podcast-skill) brilliant skill I inherited many ideas.   
 ---
 
 # Rss Reader  
 ### _rss-reader-skill.backassward_  
 ## About:  
 This skill is a simple tool to get updates from your favorite news sources.
-
 the main features are:
-* manage your feed subscriptions from your [dashboard](https://home.mycroft.ai/),
+* manage your feed subscriptions from your dashboard,
 * ask Mycroft to check if new articles have been published,
 * ask Mycroft to read the titles and other information for you.
 

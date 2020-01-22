@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Weather  
@@ -7,8 +9,7 @@ description:
 ## About:  
 Get weather conditions, forecasts, expected precipitation and more!  By default it will tell
 you about your default location, or you can ask for other cities around the world.  Current
-conditions and weather forecasts come from [Open Weather Map](https://openweathermap.org).
-
+conditions and weather forecasts come from Open Weather Map.
 For devices with screen support, conditions are briefly shown.
 
 ## Skill information:  

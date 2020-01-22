@@ -1,12 +1,13 @@
 --- 
 description: Provides random answers to yes/no questions
+categories: Entertainment   
+tags: crystalball random   
 ---
 
 # Crystal Ball  
 ### _Crystal-Ball-Mycroft-Skill.Arc676_  
 ## About:  
 Ask Mycroft any yes/no question and receive a randomly chosen answer.
-
 Please don't use this skill for any important questions.
 
 ## Skill information:  

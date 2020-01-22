@@ -1,5 +1,7 @@
 --- 
 description: Connect to your HomeSeer hub and control your smart-home devices using Mycroft
+categories: IoT   
+tags: homeseer homeautomation automation hub iot lights lighting smartlight smarthome smartbulb smartlock [submodule "homeseer-mycroft"] path = homeseer-mycroft-skill url = https://github.com/samclane/homeseer-mycroft.git   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

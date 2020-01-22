@@ -1,5 +1,7 @@
 --- 
 description: Let Mycroft help you spell words
+categories: Information   
+tags: spell spelling   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

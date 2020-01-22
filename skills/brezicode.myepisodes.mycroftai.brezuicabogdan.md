@@ -1,11 +1,13 @@
 --- 
 description: Check the status of your MyEpisodes.com show list
+categories: Information Entertainment   
+tags: tv episodes myepisodes.com series   
 ---
 
 # My Episodes  
 ### _brezicode.myepisodes.mycroftai.brezuicabogdan_  
 ## About:  
-You will be able to ask Mycroft to check the status of your shows list handled by [MyEpisodes.com](http://www.myepisodes.com).
+You will be able to ask Mycroft to check the status of your shows list handled by MyEpisodes.com.
 Mycroft will be able to give you the number of episodes not acquired and optionally the number of episodes acquired but not watched.
 Also you will be able to find out the unacquired seasons and episdes numbers.
 

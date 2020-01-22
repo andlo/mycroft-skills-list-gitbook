@@ -1,5 +1,7 @@
 --- 
 description: Minimum code to test geolocation api
+categories: Configuration Testing   
+tags: Geolocation Sample   
 ---
 
 # Bj Geolocation Sample  

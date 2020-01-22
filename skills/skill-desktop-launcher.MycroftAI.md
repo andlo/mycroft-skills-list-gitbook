@@ -1,5 +1,7 @@
 --- 
 description: Desktop Launcher
+categories: Productivity   
+tags: desktop desktop-launch desktop-launcher   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

@@ -1,12 +1,14 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
 # subsonic media player  
 ### _skill-subsonic-media.ejstacey_  
 ## About:  
-This module plays streaming content from a Subsonic Media Server (https://www.subsonic.org/).
+This module plays streaming content from a Subsonic Media Server (
 
 ## Skill information:  
 **Github:** | [https://github.com/ejstacey/skill-subsonic-media](https://github.com/ejstacey/skill-subsonic-media)  

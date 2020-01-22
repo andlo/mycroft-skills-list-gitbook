@@ -1,5 +1,7 @@
 --- 
 description: Listen to episodes of your favourite podcasts
+categories: Entertainment Information Media Music   
+tags: podcasts podcast listen play   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -8,7 +10,6 @@ description: Listen to episodes of your favourite podcasts
 ## About:  
 With this skill, you can add your favorite podcasts an
 Select your favourite podcasts  and listen to episodes from those podcasts. You can also check with Mycroft if there are any new episodes available from your chosen podcasts.
-
 You can now also scroll through all episodes of your chosen podcasts.
 
 ## Skill information:  

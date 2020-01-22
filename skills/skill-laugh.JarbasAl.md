@@ -1,5 +1,7 @@
 --- 
 description:     Makes Mycroft laugh like a maniac
+categories: Entertainment   
+tags: laugh funny entertainment repeating   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

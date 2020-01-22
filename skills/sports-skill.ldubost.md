@@ -1,17 +1,16 @@
 --- 
 description: Mycroft skill to get sports results from open data sources
+categories: Information Sports   
+tags: Sports Tennis   
 ---
 
 # Sports  
 ### _sports-skill.ldubost_  
 ## About:  
 Get sports results from open data sources including Wikipedia
-
-this service requires a server to treat the results and manage the sources. The code for this server is an XWiki Application provided here: https://github.com/ldubost/xwiki-sports-skill/ which currently supports only the Tennis French Open 2019.
-
-A server is running at http://wiki-scores.org/ where you can test the capabilities of that skill.
-
-You can hear a demo here https://raw.githubusercontent.com/ldubost/sports-skill/master/mycroftsports.mp3.
+this service requires a server to treat the results and manage the sources. The code for this server is an XWiki Application provided here:  which currently supports only the Tennis French Open 2019.
+A server is running at  where you can test the capabilities of that skill.
+You can hear a demo here 
 
 ## Skill information:  
 **Github:** | [https://github.com/ldubost/sports-skill](https://github.com/ldubost/sports-skill)  

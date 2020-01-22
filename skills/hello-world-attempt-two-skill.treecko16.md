@@ -1,5 +1,7 @@
 --- 
 description: Says "hello, world!"
+categories: Entertainment   
+tags: Test Helloworld Hello Hi Not final   
 ---
 
 # Hello World Attempt Two  

@@ -1,12 +1,13 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Employees  
 ### _employees-skill.SamG486_  
 ## About:  
 Customer wants to be connected to an employee
-
 after specifying a name or phone number, mycroft connects him to the specific employee.
 
 ## Skill information:  

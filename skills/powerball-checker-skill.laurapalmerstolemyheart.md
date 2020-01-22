@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: Entertainment Daily Information   
+tags: powerball lottery lotto   
 ---
 
 # Powerball Checker  

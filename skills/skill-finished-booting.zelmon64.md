@@ -1,5 +1,7 @@
 --- 
 description: Skill to determine when Mycroft AI has finished booting up
+categories: Configuration   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  

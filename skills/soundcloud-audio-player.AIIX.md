@@ -1,5 +1,7 @@
 --- 
 description: Play songs and music from soundcloud
+categories: Music   
+tags: Music Soundcloud Sound MusicStreaming Streaming Songs Music SongSearch MusicSearch GUI MusicPlayer Online   
 ---
 
 ![](../.gitbook/assets/star.png)  

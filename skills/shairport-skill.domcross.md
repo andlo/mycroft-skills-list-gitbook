@@ -1,5 +1,7 @@
 --- 
 description: Run and control shairport-sync
+categories: & Music Audio   
+tags: Airport   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -7,7 +9,6 @@ description: Run and control shairport-sync
 ### _shairport-skill.domcross_  
 ## About:  
 This skill will install shairport-sync package that turns your Picroft (or Mycroft on a Debian-style Linux) into an airplay audio player. Nothing fancy here like ducking or volume control, just turning Shairport-sync on and off.
-
 This is just a quick hack I made on a rainy day that "works for me" and comes without any warranty or support.
 
 ## Skill information:  

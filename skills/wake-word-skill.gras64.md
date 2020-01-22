@@ -1,5 +1,7 @@
 --- 
 description: Just train a new wakeword
+categories: Configuration Productivity   
+tags: Wake word   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

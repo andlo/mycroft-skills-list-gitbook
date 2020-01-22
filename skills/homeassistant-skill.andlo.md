@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: IoT   
+tags: homeautomation iot homeassistant smarthome hue smartbulb light lighting lights nest temperature thermostat lifx   
 ---
 
 # Home Assistant Skill for Mycroft  

@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: Information   
+tags: songs music rhythmbox mycroft skill   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

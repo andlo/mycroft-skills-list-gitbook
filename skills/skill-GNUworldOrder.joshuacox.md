@@ -1,13 +1,16 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # [GNU World Order](http://gnuworldorder.info/)  
 ### _skill-GNUworldOrder.joshuacox_  
 ## About:  
-Teaches Mycroft AI about the the GNU World Order ["GNU World Order".](http://gnuworldorder.info/)
+Teaches Mycroft AI about the the GNU World Order "GNU World Order".
 
-* "Hey Mycroft, Who is the GNU World Order?"
+"Hey Mycroft, Who is the GNU World Order?"
+
 
 ## Skill information:  
 **Github:** | [https://github.com/joshuacox/skill-GNUworldOrder](https://github.com/joshuacox/skill-GNUworldOrder)  

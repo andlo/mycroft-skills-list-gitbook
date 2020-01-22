@@ -1,5 +1,7 @@
 --- 
 description: Lets you control your Xbox One by voice
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  

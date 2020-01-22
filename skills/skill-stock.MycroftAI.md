@@ -1,12 +1,14 @@
 --- 
 description: Provides current stock prices
+categories: Information   
+tags: stocks stock-market stock-prices financial   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Stock Prices  
 ### _skill-stock.MycroftAI_  
 ## About:  
-Using the [MarkitOnDemand](http://markitondemand.github.io/DataApis/StockQuoteSample/) API, you can ask Mycroft to get the current price of stocks.
+Using the MarkitOnDemand API, you can ask Mycroft to get the current price of stocks.
 
 ## Skill information:  
 **Github:** | [https://github.com/MycroftAI/skill-stock](https://github.com/MycroftAI/skill-stock)  

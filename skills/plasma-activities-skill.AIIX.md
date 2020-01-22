@@ -1,5 +1,7 @@
 --- 
 description: Control Your Plasmashell Activities
+categories: Productivity   
+tags: desktop kde activities control plasma switch   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

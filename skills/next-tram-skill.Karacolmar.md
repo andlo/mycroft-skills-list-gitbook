@@ -1,12 +1,13 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Next Tram  
 ### _next-tram-skill.Karacolmar_  
 ## About:  
 Configure one tram station close to your home. your mycroft device will be able to tell you how long you will have to wait for the next tram and whether to hurry up
-
 !
 
 ## Skill information:  

@@ -1,11 +1,13 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Mycroft skill-radio-rne-news  
 ### _skill-radio-rne.00tiagopolicarpo00_  
 ## About:  
-Latest news from http://www.rtve.es/radio/ from Spain.
+Latest news from  from Spain.
 
 ## Skill information:  
 **Github:** | [https://github.com/00tiagopolicarpo00/skill-radio-rne](https://github.com/00tiagopolicarpo00/skill-radio-rne)  

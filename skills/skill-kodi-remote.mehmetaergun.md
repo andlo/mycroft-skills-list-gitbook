@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: Media   
+tags:   
 ---
 
 # Kodi Remote Skill  

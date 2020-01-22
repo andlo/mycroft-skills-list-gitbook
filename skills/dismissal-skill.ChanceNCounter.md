@@ -1,5 +1,7 @@
 --- 
 description: Dismisses Mycroft
+categories: Configuration   
+tags: basic   
 ---
 
 # Dismissal  

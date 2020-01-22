@@ -1,5 +1,7 @@
 --- 
 description: Get the time, date, day of the week
+categories: Daily   
+tags: date time clock world-time world-clock date-time   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -8,10 +10,9 @@ description: Get the time, date, day of the week
 ## About:  
 Get the local time or time for major cities around the world.  Times
 are given in 12-hour (2:30 pm) or 24-hour format (14:30) based on the
-Time Format setting at [Home](https://home.mycroft.ai/#/setting/basic)
-
+Time Format setting at Home
 Time can optionally be shown on a display, like a digital clock.  See
-the [Skill Setting](https://home.mycroft.ai/#/skill).
+the Skill Setting.
 
 ## Skill information:  
 **Github:** | [https://github.com/MycroftAI/skill-date-time](https://github.com/MycroftAI/skill-date-time)  

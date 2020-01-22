@@ -1,5 +1,7 @@
 --- 
 description: Mycroft GUI Showcase Examples
+categories: Information   
+tags: gui sample example delegates mycroftgui mycroft-gui   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

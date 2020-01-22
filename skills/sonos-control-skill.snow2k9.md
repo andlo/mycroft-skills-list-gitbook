@@ -1,13 +1,14 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Sonos Control  
 ### _sonos-control-skill.snow2k9_  
 ## About:  
-**currently only chooses random device**
-
-Control your Sonos with [Mycroft](https://github.com/MycroftAI/mycroft-core)
+currently only chooses random device
+Control your Sonos with Mycroft
 
 ## Skill information:  
 **Github:** | [https://github.com/snow2k9/sonos-control-skill](https://github.com/snow2k9/sonos-control-skill)  

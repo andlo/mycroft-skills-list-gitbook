@@ -1,5 +1,7 @@
 --- 
 description: Holidays List Information
+categories: Entertainment   
+tags: holidays list history information   
 ---
 
 # Holidays  

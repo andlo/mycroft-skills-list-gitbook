@@ -1,5 +1,7 @@
 --- 
 description: Mycroft interaction to jeedom
+categories: IoT Home automation   
+tags: Iot Home automation Domotic   
 ---
 
 # Jeedom Assistant  

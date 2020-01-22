@@ -1,5 +1,7 @@
 --- 
 description: Track your and your family's health related information
+categories: Information Daily Productivity   
+tags: mycroft skill health medical home voice assistant   
 ---
 
 # Health  

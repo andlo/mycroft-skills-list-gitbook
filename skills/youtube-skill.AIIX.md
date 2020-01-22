@@ -1,5 +1,7 @@
 --- 
 description: Play and stream youtube videos
+categories: Media   
+tags: Youtube Music Video VideoStreaming AudioStreaming YoutubeVideos Media GUI   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

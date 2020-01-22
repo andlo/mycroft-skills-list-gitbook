@@ -1,5 +1,7 @@
 --- 
 description: How to use the get_response method in a mycroft skill
+categories: Development   
+tags: Dev Example Code   
 ---
 
 # Dev Ex Get Response  
@@ -7,8 +9,7 @@ description: How to use the get_response method in a mycroft skill
 ## About:  
 DO NOT USE.
 This was a quick first draft, it does not work.
-
-If you're interested in contributing please reach out via [Mycroft Chat](https://chat.mycroft.ai/community/messages/@gez-mycroft).
+If you're interested in contributing please reach out via Mycroft Chat.
 
 ## Skill information:  
 **Github:** | [https://github.com/krisgesling/dev-ex-get-response-skill](https://github.com/krisgesling/dev-ex-get-response-skill)  

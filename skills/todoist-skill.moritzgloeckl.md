@@ -1,5 +1,7 @@
 --- 
 description: Manage your Todoist tasks
+categories: Productivity Daily   
+tags: todoist todo todolist   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -7,7 +9,6 @@ description: Manage your Todoist tasks
 ### _todoist-skill.moritzgloeckl_  
 ## About:  
 Add new tasks to your Todoist todo-list, complete tasks or check what's on your todos for a specific day/date or project. Works with or without a Todoist premium membership.
-
 To setup the skill you can either click on the Connect button in the skill settings in home.mycroft.ai or enter your Todoist API key.
 
 ## Skill information:  

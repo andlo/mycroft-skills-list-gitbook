@@ -1,5 +1,7 @@
 --- 
 description: Allergy report for my husband David
+categories: Daily Information   
+tags: Allergy   
 ---
 
 # Allergy Level  

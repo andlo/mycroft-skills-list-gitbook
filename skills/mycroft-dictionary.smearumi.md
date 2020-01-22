@@ -1,5 +1,7 @@
 --- 
 description: Find out the definition/meaning of a specific word from dictionary
+categories: Information Daily Productivity   
+tags: mycroft skill dictionary home voice assistant   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

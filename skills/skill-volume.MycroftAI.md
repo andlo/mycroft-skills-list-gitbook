@@ -1,5 +1,7 @@
 --- 
 description: Control the volume of your system
+categories: Configuration   
+tags: volume volume-control sound system   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

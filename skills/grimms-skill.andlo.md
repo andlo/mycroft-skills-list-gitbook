@@ -1,19 +1,18 @@
 --- 
 description: Mycroft tells H. C. Andersen's Fairy Tales
+categories: Entertainment   
+tags: stories story tales fairy fairytale fairytales andersen hca   
 ---
 
 # Andersen's Fairy Tales  
 ### _grimms-skill.andlo_  
 ## About:  
 This skill enables Mycroft to tell H. C. Andersen's Fairy Tales. So enjoy these good stories from the famious Danish auhtor.
-
 Content is from andersenstories.com, so please go visit there if you like the stories and want them in text to read.
 
-https://www.andersenstories.com/
-
-_“If you want your children to be intelligent, read them fairy tales. If you want them to be more
+“If you want your children to be intelligent, read them fairy tales. If you want them to be more
 intelligent, read them more fairy tales.”
-Albert Einstein_
+Albert Einstein
 
 ## Skill information:  
 **Github:** | [https://github.com/andlo/grimms-skill](https://github.com/andlo/grimms-skill)  

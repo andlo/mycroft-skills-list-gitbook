@@ -1,5 +1,7 @@
 --- 
 description: Orchestrates a automatic orchard with mycroft
+categories: IoT Daily   
+tags:   
 ---
 
 # Lahuertaderamiroskill  

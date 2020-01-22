@@ -1,5 +1,7 @@
 --- 
 description: Learn history and personality of Mycroft
+categories: Entertainment   
+tags: personality persona   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

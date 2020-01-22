@@ -1,12 +1,14 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Word Of The Day Skill  
 ### _word-of-the-day-skill.adropofilm_  
 ## About:  
 This skill dynamically provides Mycroft users with the "word of the day" and definition. Current words and definitions come from
-[Dictionary.com.](Dictionary.com)
+Dictionary.com.
 
 ## Skill information:  
 **Github:** | [https://github.com/adropofilm/word-of-the-day-skill](https://github.com/adropofilm/word-of-the-day-skill)  

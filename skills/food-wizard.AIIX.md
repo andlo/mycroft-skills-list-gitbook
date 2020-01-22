@@ -1,5 +1,7 @@
 --- 
 description: Get Popular Food & Cooking Recipes On The Go
+categories: Information   
+tags: Food Recipes GUI Plasmoid KDE Ingredients Cooking   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

@@ -1,13 +1,17 @@
 --- 
 description: Report the version of your Mycroft
+categories: Configuration   
+tags: version build platform versioning system   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Version Checker  
 ### _skill-version-checker.MycroftAI_  
 ## About:  
-Report the version of your Mycroft install (`mycroft-core`) and of the platform you are running on - ie
-> Mycroft Mark 1, version 18.2.13 beta.
+Report the version of your Mycroft install (mycroft-core) and of the platform you are running on - ie
+
+Mycroft Mark 1, version 18.2.13 beta.
+
 
 ## Skill information:  
 **Github:** | [https://github.com/MycroftAI/skill-version-checker](https://github.com/MycroftAI/skill-version-checker)  

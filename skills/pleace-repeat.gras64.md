@@ -1,5 +1,7 @@
 --- 
 description: You did not understand anything and want mycroft to repeat itself
+categories: Daily Productivity   
+tags: Repeat   
 ---
 
 # Please Repeat  

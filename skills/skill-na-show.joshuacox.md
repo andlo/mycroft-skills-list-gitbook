@@ -1,14 +1,17 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
 # [No Agenda Show](http://www.noagendashow.com/)  
 ### _skill-na-show.joshuacox_  
 ## About:  
-Teaches Mycroft AI about the the best podcast in the universe ["No Agenda Show".](http://www.noagendashow.com/)
+Teaches Mycroft AI about the the best podcast in the universe "No Agenda Show".
 
-* "Hey Mycroft, Who is the best podcast in the Universe?"
+"Hey Mycroft, Who is the best podcast in the Universe?"
+
 
 ## Skill information:  
 **Github:** | [https://github.com/joshuacox/skill-na-show](https://github.com/joshuacox/skill-na-show)  

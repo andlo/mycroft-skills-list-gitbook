@@ -1,5 +1,7 @@
 --- 
 description: Converts from one unit of measure to another
+categories: Information Productivity   
+tags: Units Conversion   
 ---
 
 # Unit Converter  

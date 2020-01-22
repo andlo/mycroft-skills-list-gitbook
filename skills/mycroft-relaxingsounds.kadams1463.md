@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags: health, sleep Development and Contributing If you find something that this skill can improve, please feel free to make edits and contributions.   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -7,12 +9,12 @@ description:
 ### _mycroft-relaxingsounds.kadams1463_  
 ## About:  
 Play various sounds on a loop through Mycroft. The sounds help with sleep, relaxing, or meditating.
-
 Here is a list of sounds:
 
-* White Noise
-* Waves
-* Rain.
+White Noise
+Waves
+Rain.
+
 
 ## Skill information:  
 **Github:** | [https://github.com/kadams1463/mycroft-relaxingsounds](https://github.com/kadams1463/mycroft-relaxingsounds)  

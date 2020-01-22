@@ -1,5 +1,7 @@
 --- 
 description: Allows Mycroft to repeat the most recent thing it said
+categories: Configuration   
+tags: basic   
 ---
 
 # Repeat That  

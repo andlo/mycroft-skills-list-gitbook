@@ -1,5 +1,7 @@
 --- 
 description: Use the Respeaker Mic Array v2 (usb) with Mycroft A.I
+categories: uncategorized   
+tags:   
 ---
 
 # ReSpeaker Mic Array v2 (usb) Mycroft A.I. Skill  

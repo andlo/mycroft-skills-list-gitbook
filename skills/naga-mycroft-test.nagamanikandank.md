@@ -1,11 +1,13 @@
 --- 
 description: 
+categories: Configuration   
+tags: IP-address IPaddress network-address network system   
 ---
 
 # About  
 ### _naga-mycroft-test.nagamanikandank_  
 ## About:  
-Retrieve the [IP address](https://en.wikipedia.org/wiki/IP_address), also known as the "network address" of the Device and respond verbally to the user, and if the Device supports it, display the IP address.
+Retrieve the IP address, also known as the "network address" of the Device and respond verbally to the user, and if the Device supports it, display the IP address.
 
 ## Skill information:  
 **Github:** | [https://github.com/nagamanikandank/naga-mycroft-test](https://github.com/nagamanikandank/naga-mycroft-test)  

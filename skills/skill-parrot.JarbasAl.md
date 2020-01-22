@@ -1,5 +1,7 @@
 --- 
 description:     Turn Mycroft into a echoing parrot!
+categories: Entertainment   
+tags: parrot converse echo   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -14,7 +16,6 @@ what
 "who are you"
 who are you
 "Stop parrot"
-
 NOTE: This illustrates the converse() method.
 
 ## Skill information:  

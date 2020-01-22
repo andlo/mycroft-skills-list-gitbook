@@ -1,5 +1,7 @@
 --- 
 description: Record and playback audio
+categories: Configuration   
+tags: audio record record-audio microphone configuration   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

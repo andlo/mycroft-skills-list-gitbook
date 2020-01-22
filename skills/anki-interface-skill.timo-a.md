@@ -1,5 +1,7 @@
 --- 
 description: Control the flashcard program anki with your voice
+categories: Daily Productivity   
+tags: Spaced repetition Vocab Learning   
 ---
 
 # Anki Interface  

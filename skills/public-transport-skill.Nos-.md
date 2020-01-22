@@ -1,13 +1,14 @@
 --- 
 description: Nahverkehrsauskunft für Dresden (dvb, vvo) per MyCroft-Sprachassistent
+categories: Transportation Daily Information   
+tags: DVB VVO Dresden ÖPNV Sachsen Nahverkehr   
 ---
 
 # Public Transport  
 ### _public-transport-skill.Nos-_  
 ## About:  
 Auskunft über Bus- und Bahnverbindungen im Bereich der DVB (Dresdner Verkehrsbetriebe) und des VVO (Verkehrsverbund Oberelbe, Sachsen) - ein Sprachassistent für datenschutzbewusste Reisende.
-
-Entstanden beim [opendatacamp2019](http://www.dresden.de/odcdresden19).
+Entstanden beim opendatacamp2019.
 
 ## Skill information:  
 **Github:** | [https://github.com/Nos-/public-transport-skill](https://github.com/Nos-/public-transport-skill)  

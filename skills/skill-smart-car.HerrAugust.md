@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: IoT   
+tags: iot smart-car mycroft   
 ---
 
 # Real-time smart-car skill Mycroft  

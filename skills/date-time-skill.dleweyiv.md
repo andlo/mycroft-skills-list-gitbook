@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Date and Time  
@@ -7,10 +9,9 @@ description:
 ## About:  
 Get the local time or time for major cities around the world.  Times
 are given in 12-hour (2:30 pm) or 24-hour format (14:30) based on the
-Time Format setting at [Home](https://home.mycroft.ai/#/setting/basic)
-
+Time Format setting at Home
 Time can optionally be shown on a display, like a digital clock.  See
-the [skill setting](https://home.mycroft.ai/#/skill).
+the skill setting.
 
 ## Skill information:  
 **Github:** | [https://github.com/dleweyiv/date-time-skill](https://github.com/dleweyiv/date-time-skill)  

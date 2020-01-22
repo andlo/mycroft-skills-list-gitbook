@@ -1,5 +1,7 @@
 --- 
 description: Count and countdown skill
+categories: Daily   
+tags: count countdown   
 ---
 
 # Count  

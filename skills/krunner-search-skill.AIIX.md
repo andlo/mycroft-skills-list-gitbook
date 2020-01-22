@@ -1,5 +1,7 @@
 --- 
 description: Krunner enables users to search their local desktop for files, images, recent documents, bookmarks and utilize other krunner plugins
+categories: Productivity   
+tags: desktop kde krunner control plasma search bookmarks recent documents   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

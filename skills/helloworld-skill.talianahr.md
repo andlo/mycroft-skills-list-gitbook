@@ -1,5 +1,7 @@
 --- 
 description: Reminds you to feed your poor starving corgi
+categories: Daily Productivity   
+tags: Dogs   
 ---
 
 # Helloworld  

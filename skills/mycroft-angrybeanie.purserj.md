@@ -1,18 +1,16 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Angry Beanie  
 ### _mycroft-angrybeanie.purserj_  
 ## About:  
-### Installing
-
+Installing
 Go to your skills directory (ie /opt/mycroft/skills)
-
-git clone https://github.com/purserj/mycroft-angrybeanie.git
-
+git clone 
 cd into mycroft-angrybeanie
-
 pip -r requirements.txt.
 
 ## Skill information:  

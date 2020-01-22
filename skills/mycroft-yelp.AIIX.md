@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 # Yelp Skill - Fork of btotharye Mycroft Yelp Skill  

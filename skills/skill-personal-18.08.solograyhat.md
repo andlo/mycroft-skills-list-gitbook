@@ -1,5 +1,7 @@
 --- 
 description: Learn history and personality of Mycroft
+categories: Entertainment   
+tags: personality persona   
 ---
 
 # Mycroft's Personal Background  

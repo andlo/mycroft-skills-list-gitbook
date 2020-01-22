@@ -1,16 +1,16 @@
 --- 
 description: Example Skill to show use of the converse() method
+categories: Example   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Polite  
 ### _polite-skill.krisgesling_  
 ## About:  
-A simple example Skill that shows how the `converse()` method can be used to take action on utterances before they reach the normal intent handling process.
-
-This Skill catches any utterance that contains a word defined in `vocab/lang-code/RudeWords.voc` and responds. Or if no rude word is detected, allows Mycroft to respond normally.
-
-For more details see the [technical documentation on converse](https://mycroft-core.readthedocs.io/en/latest/source/mycroft.html?highlight=converse#mycroft.MycroftSkill.converse).
+A simple example Skill that shows how the converse() method can be used to take action on utterances before they reach the normal intent handling process.
+This Skill catches any utterance that contains a word defined in vocab/lang-code/RudeWords.voc and responds. Or if no rude word is detected, allows Mycroft to respond normally.
+For more details see the technical documentation on converse.
 
 ## Skill information:  
 **Github:** | [https://github.com/krisgesling/polite-skill](https://github.com/krisgesling/polite-skill)  

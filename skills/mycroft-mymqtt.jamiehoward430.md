@@ -1,5 +1,7 @@
 --- 
 description: This is a skill written for mycroft to publish commands over an mqtt broker for home automation or any other purpose
+categories: IoT   
+tags: mqtt   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -7,8 +9,8 @@ description: This is a skill written for mycroft to publish commands over an mqt
 ### _mycroft-mymqtt.jamiehoward430_  
 ## About:  
 Currently it will publish the action to a topic built from the commands said, for example
-- say `hey mycroft, turn the light on` and mycroft will publish `on` to `light/turn`.
-- say `hey mycroft, switch the tv on` and mycroft will publish `on` to `tv/switch`.
+- say hey mycroft, turn the light on and mycroft will publish on to light/turn.
+- say hey mycroft, switch the tv on and mycroft will publish on to tv/switch.
 
 ## Skill information:  
 **Github:** | [https://github.com/jamiehoward430/mycroft-mymqtt](https://github.com/jamiehoward430/mycroft-mymqtt)  

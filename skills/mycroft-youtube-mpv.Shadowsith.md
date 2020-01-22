@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -7,7 +9,7 @@ description:
 ### _mycroft-youtube-mpv.Shadowsith_  
 ## About:  
 Youtube Mpv is a powerful tool on base of the mpv player that uses the mpv unix
-socket to play and control youtube videos only with help of voice commands.<br>
+socket to play and control youtube videos only with help of voice commands.
 It also checks if mpv is running to avoid not wanted simultaneous mpv sessions.
 
 ## Skill information:  

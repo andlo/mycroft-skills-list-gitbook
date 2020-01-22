@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -7,14 +9,11 @@ description:
 ### _kodi-skill.cbenning_  
 ## About:  
 Add the following section to your mycroft-core/mycroft/configuration/mycroft.ini file
-```
 [KodiSkill]
-protocol = "http"
-host = "<kodi-host>"
+protocol = "
+host = ""
 port = 80
 similarity_threshold_percentage = 75
-```
-
 Also make sure your kodi is setup to be controlled via http interface.
 
 ## Skill information:  

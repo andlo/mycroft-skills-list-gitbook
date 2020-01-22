@@ -1,5 +1,7 @@
 --- 
 description: Train your body parts
+categories: Daily Productivity   
+tags: Body parts Sport Workout   
 ---
 
 # Sport Exercises  

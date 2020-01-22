@@ -1,5 +1,7 @@
 --- 
 description: 
+categories: uncategorized   
+tags: Mycroft skill for diagnosis   
 ---
 
 # diagnose  

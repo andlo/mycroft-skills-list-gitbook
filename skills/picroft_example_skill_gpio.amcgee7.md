@@ -1,13 +1,14 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
 # picroft example skill gpio Readme  
 ### _picroft_example_skill_gpio.amcgee7_  
 ## About:  
-```make test.pi```
-
+make test.pi
 This will run a test to be sure you have access to the gpio be sure to test on the system in a simular manner as mycroft.
 
 ## Skill information:  

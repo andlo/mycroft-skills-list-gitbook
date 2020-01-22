@@ -1,5 +1,7 @@
 --- 
 description: Smart home device unification
+categories: IoT   
+tags: system iot   
 ---
 
 ![](../.gitbook/assets/star.png)  

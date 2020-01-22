@@ -1,5 +1,7 @@
 --- 
 description: Select a random number when provided a min and max value
+categories: Entertainment   
+tags: random dice decisionmaker   
 ---
 
 # Pick Number  

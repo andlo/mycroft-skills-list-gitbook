@@ -1,5 +1,7 @@
 --- 
 description: A mycroft skill to control LIFX brand smart-bulbs
+categories: IoT   
+tags: lifx smartbulb smartlight home-automation   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

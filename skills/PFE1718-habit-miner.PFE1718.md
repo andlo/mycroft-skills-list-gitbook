@@ -1,19 +1,20 @@
 --- 
 description: 
+categories: uncategorized   
+tags:   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Habit-miner skill  
 ### _PFE1718-habit-miner.PFE1718_  
 ## About:  
-This skill is made to work with the full Habits Automation project https://github.com/PFE1718/mycroft-skills-automation.
-
+This skill is made to work with the full Habits Automation project 
 Its role is to go through user logs and analyse them. By implementing machine learning algorithms, it can then detect most frequent user habits. They are then passed to the habits-automation skill.
-
 It can detect two types of habits :
 
-*  Time based habits (i.e launching the same skill regularly at the same time of the day)
-* Group based habits (i.e launching a group of skills very frequently)
+Time based habits (i.e launching the same skill regularly at the same time of the day)
+Group based habits (i.e launching a group of skills very frequently)
+
 
 ## Skill information:  
 **Github:** | [https://github.com/PFE1718/PFE1718-habit-miner](https://github.com/PFE1718/PFE1718-habit-miner)  

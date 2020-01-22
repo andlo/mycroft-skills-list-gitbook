@@ -1,5 +1,7 @@
 --- 
 description: Play Number Guess with Mycroft
+categories: Entertainment   
+tags: numberguess game number random guessing   
 ---
 
 # Number Guess  

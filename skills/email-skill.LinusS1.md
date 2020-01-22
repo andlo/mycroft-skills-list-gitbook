@@ -1,5 +1,7 @@
 --- 
 description: Check your email with Mycroft!
+categories: Productivity Daily Information   
+tags: email mail emails   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -7,8 +9,7 @@ description: Check your email with Mycroft!
 ### _email-skill.LinusS1_  
 ## About:  
 With this skill, Mycroft can check your email. With this skill, Mycroft can say the sender and the subject of each email. You can also request Mycroft to notify you when you get email, either any email, or just from a specific sender. In addition, this skill allows you to ask if you have any email, and will list the new email from that sender.
-
-To configure this skill go [to the skill wiki](https://github.com/LinusS1/email-skill/wiki/Configuration)
+To configure this skill go to the skill wiki
 
 ## Skill information:  
 **Github:** | [https://github.com/LinusS1/email-skill](https://github.com/LinusS1/email-skill)  
