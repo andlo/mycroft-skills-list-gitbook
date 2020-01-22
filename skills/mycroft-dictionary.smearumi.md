@@ -1,6 +1,7 @@
----    
-description: Find out the definition/meaning of a specific word from dictionary  
----    
+--- 
+description: Find out the definition/meaning of a specific word from dictionary
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Dictionary  
 ### _mycroft-dictionary.smearumi_  

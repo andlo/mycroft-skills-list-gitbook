@@ -1,6 +1,7 @@
----    
-description: A mycroft skill to control LIFX brand smart-bulbs  
----    
+--- 
+description: A mycroft skill to control LIFX brand smart-bulbs
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # lifx-mycroft  
 ### _lifx-mycroft.samclane_  

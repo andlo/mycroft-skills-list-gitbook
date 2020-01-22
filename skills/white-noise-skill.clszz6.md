@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # White Noise  
 ### _white-noise-skill.clszz6_  

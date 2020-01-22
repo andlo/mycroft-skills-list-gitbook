@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # Skill-Abitrator-of-Disputes  
 ### _Skill-Arbitrator-of-Disputes.Quinn2017_  
 ## About:  

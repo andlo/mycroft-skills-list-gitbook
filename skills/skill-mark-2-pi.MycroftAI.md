@@ -1,6 +1,7 @@
----    
-description: Customize your Mark 2  
----    
+--- 
+description: Customize your Mark 2
+---
+
 # Mycroft Mark 2  
 ### _skill-mark-2-pi.MycroftAI_  
 ## About:  

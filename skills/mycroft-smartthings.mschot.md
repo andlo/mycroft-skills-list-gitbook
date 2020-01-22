@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # Home Assistant Skill for Mycroft  
 ### _mycroft-smartthings.mschot_  

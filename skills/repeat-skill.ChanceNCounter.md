@@ -1,6 +1,7 @@
----    
-description: Allows Mycroft to repeat the most recent thing it said  
----    
+--- 
+description: Allows Mycroft to repeat the most recent thing it said
+---
+
 # Repeat That  
 ### _repeat-skill.ChanceNCounter_  
 ## About:  

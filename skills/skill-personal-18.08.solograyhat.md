@@ -1,6 +1,7 @@
----    
-description: Learn history and personality of Mycroft  
----    
+--- 
+description: Learn history and personality of Mycroft
+---
+
 # Mycroft's Personal Background  
 ### _skill-personal-18.08.solograyhat_  
 ## About:  

@@ -1,6 +1,7 @@
----    
-description: Provides random answers to yes/no questions  
----    
+--- 
+description: Provides random answers to yes/no questions
+---
+
 # Crystal Ball  
 ### _Crystal-Ball-Mycroft-Skill.Arc676_  
 ## About:  

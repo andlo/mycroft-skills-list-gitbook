@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # Better Jokes  
 ### _skill-better-jokes.tjoen_  

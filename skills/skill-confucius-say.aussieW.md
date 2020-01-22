@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Quotes from Confucius  
 ### _skill-confucius-say.aussieW_  

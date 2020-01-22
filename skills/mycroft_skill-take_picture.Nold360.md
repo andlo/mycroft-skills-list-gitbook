@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 #   
 ### _mycroft_skill-take_picture.Nold360_  

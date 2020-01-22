@@ -1,6 +1,7 @@
----    
-description: Use the Respeaker Mic Array v2 (usb) with Mycroft A.I  
----    
+--- 
+description: Use the Respeaker Mic Array v2 (usb) with Mycroft A.I
+---
+
 # ReSpeaker Mic Array v2 (usb) Mycroft A.I. Skill  
 ### _mycroft-respeaker-usb-pixel-ring.arraylabs_  
 ## About:  

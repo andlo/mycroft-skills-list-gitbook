@@ -1,6 +1,7 @@
----    
-description: Put Mycroft to sleep when you don't want to be disturbed  
----    
+--- 
+description: Put Mycroft to sleep when you don't want to be disturbed
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Naptime  
 ### _skill-naptime.MycroftAI_  

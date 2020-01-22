@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # Pulseaudio device control skill  
 ### _skill-pulseaudio-control.aatchison_  

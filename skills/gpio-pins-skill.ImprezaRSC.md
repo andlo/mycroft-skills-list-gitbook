@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # Gpio Pins Skill  
 ### _gpio-pins-skill.ImprezaRSC_  
 ## About:  

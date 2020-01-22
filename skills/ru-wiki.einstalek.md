@@ -1,6 +1,7 @@
----    
-description: Wikipedia  
----    
+--- 
+description: Wikipedia
+---
+
 # Wikipedia  
 ### _ru-wiki.einstalek_  
 ## About:  

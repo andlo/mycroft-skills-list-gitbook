@@ -1,6 +1,7 @@
----    
-description: Get the time, date, day of the week  
----    
+--- 
+description: Get the time, date, day of the week
+---
+
 ![](../.gitbook/assets/star.png)  
 # Date and Time  
 ### _skill-date-time.MycroftAI_  

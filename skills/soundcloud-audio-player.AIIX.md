@@ -1,6 +1,7 @@
----    
-description: Play songs and music from soundcloud  
----    
+--- 
+description: Play songs and music from soundcloud
+---
+
 ![](../.gitbook/assets/star.png)  
 # Soundcloud Player  
 ### _soundcloud-audio-player.AIIX_  

@@ -1,6 +1,7 @@
----    
-description: Search the internet using google knowledge search  
----    
+--- 
+description: Search the internet using google knowledge search
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Google Search Knowledge Graph  
 ### _google-search-knowledge-graph-skill.domcross_  

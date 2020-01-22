@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # Open States Skill for Mycroft  
 ### _skill-openstates.eClarity_  

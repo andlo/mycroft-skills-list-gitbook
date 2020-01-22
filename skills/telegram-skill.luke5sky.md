@@ -1,6 +1,7 @@
----    
-description: A skill to connect a telegram bot to MyCroft  
----    
+--- 
+description: A skill to connect a telegram bot to MyCroft
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Telegram  
 ### _telegram-skill.luke5sky_  

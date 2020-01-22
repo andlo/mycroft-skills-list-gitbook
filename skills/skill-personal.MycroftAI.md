@@ -1,6 +1,7 @@
----    
-description: Learn history and personality of Mycroft  
----    
+--- 
+description: Learn history and personality of Mycroft
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Mycroft's Background  
 ### _skill-personal.MycroftAI_  

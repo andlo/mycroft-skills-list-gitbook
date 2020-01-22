@@ -1,6 +1,7 @@
----    
-description: Common playback control system  
----    
+--- 
+description: Common playback control system
+---
+
 ![](../.gitbook/assets/star.png)  
 # Playback Control  
 ### _skill-playback-control.MycroftAI_  

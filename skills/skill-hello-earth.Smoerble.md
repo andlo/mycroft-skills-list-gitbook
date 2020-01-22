@@ -1,6 +1,7 @@
----    
-description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together  
----    
+--- 
+description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together
+---
+
 # Hello World  
 ### _skill-hello-earth.Smoerble_  
 ## About:  

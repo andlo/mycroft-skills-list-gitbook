@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # Home Assistant Skill for Mycroft  
 ### _Mycroft-Home-Assistant.chris-mcawesome12_  
 ## About:  

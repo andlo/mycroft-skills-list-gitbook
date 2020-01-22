@@ -1,6 +1,7 @@
----    
-description: Capture information for Mycroft support  
----    
+--- 
+description: Capture information for Mycroft support
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Support  
 ### _skill-support.MycroftAI_  

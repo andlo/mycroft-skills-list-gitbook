@@ -1,6 +1,7 @@
----    
-description: Krunner enables users to search their local desktop for files, images, recent documents, bookmarks and utilize other krunner plugins  
----    
+--- 
+description: Krunner enables users to search their local desktop for files, images, recent documents, bookmarks and utilize other krunner plugins
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Krunner Search  
 ### _krunner-search-skill.AIIX_  

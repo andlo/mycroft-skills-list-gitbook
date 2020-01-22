@@ -1,6 +1,7 @@
----    
-description: Report the version of your Mycroft  
----    
+--- 
+description: Report the version of your Mycroft
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Version Checker  
 ### _skill-version-checker.MycroftAI_  

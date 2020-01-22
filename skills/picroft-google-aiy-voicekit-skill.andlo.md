@@ -1,6 +1,7 @@
----    
-description: Enables Google AIY voicekit  
----    
+--- 
+description: Enables Google AIY voicekit
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Google AIY voicekit  
 ### _picroft-google-aiy-voicekit-skill.andlo_  

@@ -1,6 +1,7 @@
----    
-description: Manage your Todoist tasks  
----    
+--- 
+description: Manage your Todoist tasks
+---
+
 ![](../.gitbook/assets/star.png)  
 # Todoist  
 ### _todoist-skill.moritzgloeckl_  

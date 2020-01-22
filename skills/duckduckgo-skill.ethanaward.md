@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # DuckDuckGo skill for Mycroft  
 ### _duckduckgo-skill.ethanaward_  
 ## About:  

@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # Rock Paper Scissors  
 ### _skill-rock-paper-scissors.jaller94_  
 ## About:  

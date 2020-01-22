@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # Open News Skill (for Mycroft AI)  
 ### _skill-open-news.akailash_  

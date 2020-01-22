@@ -1,6 +1,7 @@
----    
-description: Sets the volume depending on background noise level  
----    
+--- 
+description: Sets the volume depending on background noise level
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Auto volume  
 ### _auto-volume-skill.andlo_  

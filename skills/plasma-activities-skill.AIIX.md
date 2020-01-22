@@ -1,6 +1,7 @@
----    
-description: Control Your Plasmashell Activities  
----    
+--- 
+description: Control Your Plasmashell Activities
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Plasma Activites  
 ### _plasma-activities-skill.AIIX_  

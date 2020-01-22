@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # Corporate I T F A Q  
 ### _skill-corporate-i-t-f-a-q.jrwarwick_  

@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # mycroft-skill-simple-media-controls  
 ### _mycroft-skill-simple-media-controls.the7erm_  

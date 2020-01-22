@@ -1,6 +1,7 @@
----    
-description: Connect your device to the Mycroft server - Home  
----    
+--- 
+description: Connect your device to the Mycroft server - Home
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Pairing  
 ### _skill-pairing.MycroftAI_  

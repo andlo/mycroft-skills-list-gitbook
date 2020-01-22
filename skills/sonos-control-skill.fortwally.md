@@ -1,6 +1,7 @@
----    
-description: Control Sonos speakers from Mycroft  
----    
+--- 
+description: Control Sonos speakers from Mycroft
+---
+
 #   
 ### _sonos-control-skill.fortwally_  
 ## About:  

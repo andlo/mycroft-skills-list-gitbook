@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # YOUR SKILL NAME  
 ### _weather_skill.Julia3107_  
 ## About:  

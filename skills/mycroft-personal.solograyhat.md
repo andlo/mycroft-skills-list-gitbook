@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # skill-personal  
 ### _mycroft-personal.solograyhat_  
 ## About:  

@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # mycroft---konami-code  
 ### _skill-konami-code.JarbasAl_  

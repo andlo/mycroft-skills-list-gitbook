@@ -1,6 +1,7 @@
----    
-description: Check the status of your MyEpisodes.com show list  
----    
+--- 
+description: Check the status of your MyEpisodes.com show list
+---
+
 # My Episodes  
 ### _brezicode.myepisodes.mycroftai.brezuicabogdan_  
 ## About:  

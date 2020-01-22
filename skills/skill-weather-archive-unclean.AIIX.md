@@ -1,6 +1,7 @@
----    
-description: Weather conditions and forecasts  
----    
+--- 
+description: Weather conditions and forecasts
+---
+
 # Weather  
 ### _skill-weather-archive-unclean.AIIX_  
 ## About:  

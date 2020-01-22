@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # yeelight-skill  
 ### _yeelight-skill.pcwii_  
 ## About:  

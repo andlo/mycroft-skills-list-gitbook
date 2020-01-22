@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # Mycroft Influxdb Sensor Lookup  
 ### _mycroft-influxdb-sensor-lookup-skill.cliffordvandyk_  
 ## About:  

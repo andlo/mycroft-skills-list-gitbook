@@ -1,6 +1,7 @@
----    
-description: Connect to your HomeSeer hub and control your smart-home devices using Mycroft  
----    
+--- 
+description: Connect to your HomeSeer hub and control your smart-home devices using Mycroft
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # HomeSeer-Mycroft  
 ### _homeseer-mycroft.samclane_  

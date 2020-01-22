@@ -1,6 +1,7 @@
----    
-description: Set named timers for cooking, watering plants, brewing tea and more  
----    
+--- 
+description: Set named timers for cooking, watering plants, brewing tea and more
+---
+
 # Timer  
 ### _Dog_timer.BenjaminDannegard_  
 ## About:  

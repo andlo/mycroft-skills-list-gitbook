@@ -1,6 +1,7 @@
----    
-description: How to use the get_response method in a mycroft skill  
----    
+--- 
+description: How to use the get_response method in a mycroft skill
+---
+
 # Dev Ex Get Response  
 ### _dev-ex-get-response-skill.krisgesling_  
 ## About:  

@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # Magic Mirror Mycroft Skill  
 ### _mycroft-mm-boot.syner1_  
 ## About:  

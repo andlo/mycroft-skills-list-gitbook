@@ -1,6 +1,7 @@
----    
-description:     skill for Adventure game by Crowther and Woods  
----    
+--- 
+description:     skill for Adventure game by Crowther and Woods
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Colossal Cave Adventure  
 ### _cave-adventure-game-skill.JarbasAl_  

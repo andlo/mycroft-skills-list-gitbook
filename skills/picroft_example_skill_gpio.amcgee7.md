@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # picroft example skill gpio Readme  
 ### _picroft_example_skill_gpio.amcgee7_  

@@ -1,6 +1,7 @@
----    
-description: Mycroft GUI Showcase Examples  
----    
+--- 
+description: Mycroft GUI Showcase Examples
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Skill-Gui-Example  
 ### _Skill-Gui-Examples.AIIX_  

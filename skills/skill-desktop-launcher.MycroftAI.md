@@ -1,6 +1,7 @@
----    
-description: Desktop Launcher  
----    
+--- 
+description: Desktop Launcher
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Desktop Launcher  
 ### _skill-desktop-launcher.MycroftAI_  

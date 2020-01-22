@@ -1,6 +1,7 @@
----    
-description: Fallback using any offline AIML2.0 chatbot  
----    
+--- 
+description: Fallback using any offline AIML2.0 chatbot
+---
+
 ![](../.gitbook/assets/star.png)  
 # Fallback Chatbot  
 ### _fallback-chatbot.Fantailed_  

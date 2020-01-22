@@ -1,6 +1,7 @@
----    
-description: Tells you the status of your favorite Minecraft Servers  
----    
+--- 
+description: Tells you the status of your favorite Minecraft Servers
+---
+
 # Minecraft Server Status  
 ### _minecraft-server-status-skill.retrodaredevil_  
 ## About:  

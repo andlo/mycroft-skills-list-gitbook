@@ -1,6 +1,7 @@
----    
-description: Set single and repeating reminders for tasks  
----    
+--- 
+description: Set single and repeating reminders for tasks
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Set reminders  
 ### _skill-reminder.MycroftAI_  

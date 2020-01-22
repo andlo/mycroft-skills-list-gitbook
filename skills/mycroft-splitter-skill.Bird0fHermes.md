@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # YOUR SKILL NAME  
 ### _mycroft-splitter-skill.Bird0fHermes_  
 ## About:  

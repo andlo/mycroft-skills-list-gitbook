@@ -1,6 +1,7 @@
----    
-description: Reads out news headlines from r/worldnews on reddit  
----    
+--- 
+description: Reads out news headlines from r/worldnews on reddit
+---
+
 ![](../.gitbook/assets/star.png)  
 # Reddit News  
 ### _reddit-news-skill.makeworld-the-better-one_  

@@ -1,6 +1,7 @@
----    
-description: Aids you on your journey as a Pokemon Trainer  
----    
+--- 
+description: Aids you on your journey as a Pokemon Trainer
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Pokemon  
 ### _pokemon-skill.retrodaredevil_  

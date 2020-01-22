@@ -1,6 +1,7 @@
----    
-description: Play and stream youtube videos  
----    
+--- 
+description: Play and stream youtube videos
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Youtube Player  
 ### _youtube-skill.AIIX_  

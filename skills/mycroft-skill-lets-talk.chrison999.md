@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # mycroft-skill-lets-talk  
 ### _mycroft-skill-lets-talk.chrison999_  

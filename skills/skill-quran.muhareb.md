@@ -1,6 +1,7 @@
----    
-description: Mycroft sings lyrics to some popular songs  
----    
+--- 
+description: Mycroft sings lyrics to some popular songs
+---
+
 # Singing  
 ### _skill-quran.muhareb_  
 ## About:  

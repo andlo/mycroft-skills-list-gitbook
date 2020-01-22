@@ -1,6 +1,7 @@
----    
-description: Enables users to Lock Screen, Switch Users, Logout, Control Brightness, Control Panel Positions, Control Klipper, Control Workspaces, Control Compisitor, Add Widgets on Plasma Desktop  
----    
+--- 
+description: Enables users to Lock Screen, Switch Users, Logout, Control Brightness, Control Panel Positions, Control Klipper, Control Workspaces, Control Compisitor, Add Widgets on Plasma Desktop
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Plasma User Control  
 ### _plasma-user-control-skill.AIIX_  

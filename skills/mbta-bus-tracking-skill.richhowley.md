@@ -1,6 +1,7 @@
----    
-description: Announce arrivals of MBTA busses at your desired stop  
----    
+--- 
+description: Announce arrivals of MBTA busses at your desired stop
+---
+
 # MBTA Bus Tracking  
 ### _mbta-bus-tracking-skill.richhowley_  
 ## About:  

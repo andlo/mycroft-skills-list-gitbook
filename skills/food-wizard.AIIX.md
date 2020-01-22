@@ -1,6 +1,7 @@
----    
-description: Get Popular Food & Cooking Recipes On The Go  
----    
+--- 
+description: Get Popular Food & Cooking Recipes On The Go
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Food Wizard  
 ### _food-wizard.AIIX_  

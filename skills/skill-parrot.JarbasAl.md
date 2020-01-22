@@ -1,6 +1,7 @@
----    
-description:     Turn Mycroft into a echoing parrot!  
----    
+--- 
+description:     Turn Mycroft into a echoing parrot!
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Parrot  
 ### _skill-parrot.JarbasAl_  

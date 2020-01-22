@@ -1,6 +1,7 @@
----    
-description: Smart home device unification  
----    
+--- 
+description: Smart home device unification
+---
+
 ![](../.gitbook/assets/star.png)  
 # IoT Control  
 ### _skill-iot-control.MycroftAI_  

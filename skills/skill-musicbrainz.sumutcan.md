@@ -1,6 +1,7 @@
----    
-description: A skill that answers questions over LinkedBrainz data  
----    
+--- 
+description: A skill that answers questions over LinkedBrainz data
+---
+
 # Music Brains  
 ### _skill-musicbrainz.sumutcan_  
 ## About:  

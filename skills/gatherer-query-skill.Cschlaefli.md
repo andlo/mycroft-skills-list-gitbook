@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # YOUR SKILL NAME  
 ### _gatherer-query-skill.Cschlaefli_  
 ## About:  

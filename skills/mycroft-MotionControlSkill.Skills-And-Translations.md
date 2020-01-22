@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 #   
 ### _mycroft-MotionControlSkill.Skills-And-Translations_  
 ## About:  

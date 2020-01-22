@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # YOUR SKILL NAME  
 ### _skill-funny.Smoerble_  
 ## About:  

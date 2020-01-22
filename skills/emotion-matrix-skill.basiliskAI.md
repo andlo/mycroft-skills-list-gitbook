@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # Emotion Matrix  
 ### _emotion-matrix-skill.basiliskAI_  
 ## About:  

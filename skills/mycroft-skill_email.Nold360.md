@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # mycroft-skill_email  
 ### _mycroft-skill_email.Nold360_  

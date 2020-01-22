@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # systemSkill-Mycroft-core-Skill-  
 ### _systemSkill-Mycroft-core-Skill-.CloneMMDDCVII_  

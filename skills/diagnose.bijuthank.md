@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # diagnose  
 ### _diagnose.bijuthank_  
 ## About:  

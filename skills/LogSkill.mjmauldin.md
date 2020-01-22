@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # YOUR SKILL NAME  
 ### _LogSkill.mjmauldin_  
 ## About:  

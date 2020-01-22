@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # Dial Call Skill  
 ### _skill-dial-call.MycroftAI_  

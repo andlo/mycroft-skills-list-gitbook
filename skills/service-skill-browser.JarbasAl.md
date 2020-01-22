@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # Firefox Browser Service Skill  
 ### _service-skill-browser.JarbasAl_  

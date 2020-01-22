@@ -1,6 +1,7 @@
----    
-description: Generates random numbers for you  
----    
+--- 
+description: Generates random numbers for you
+---
+
 ![](../.gitbook/assets/star.png)  
 # Dice  
 ### _dice-skill.Dragoncraft89_  

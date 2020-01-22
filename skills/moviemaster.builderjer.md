@@ -1,6 +1,7 @@
----    
-description: Find information about movies, actors and production details  
----    
+--- 
+description: Find information about movies, actors and production details
+---
+
 ![](../.gitbook/assets/star.png)  
 # Movie Master  
 ### _moviemaster.builderjer_  

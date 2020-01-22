@@ -1,6 +1,7 @@
----    
-description: Send network pings (a.k.a. ICMP echo requests) to internet nodes  
----    
+--- 
+description: Send network pings (a.k.a. ICMP echo requests) to internet nodes
+---
+
 # Network Ping  
 ### _ping-skill.nogre_  
 ## About:  

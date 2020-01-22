@@ -1,6 +1,7 @@
----    
-description: Dismisses Mycroft  DON'T INSTALL THIS! The name doesn't play nice with STT right now, so you're going to have a hard time installing or removing it verbally. The skill has been renamed, and this repo will likely be deleted once the new repo is committed to the Marketplace.  If you're trying to fuss with the code, or to install the skill manually, use this repo instead:    
----    
+--- 
+description: Dismisses Mycroft  DON'T INSTALL THIS! The name doesn't play nice with STT right now, so you're going to have a hard time installing or removing it verbally. The skill has been renamed, and this repo will likely be deleted once the new repo is committed to the Marketplace.  If you're trying to fuss with the code, or to install the skill manually, use this repo instead:  
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # ~~Nevermind~~  
 ### _nevermind-skill.ChanceNCounter_  

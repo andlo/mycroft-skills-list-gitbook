@@ -1,6 +1,7 @@
----    
-description: Customize your Mark 1  
----    
+--- 
+description: Customize your Mark 1
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Mycroft Mark 1  
 ### _mycroft-mark-1.MycroftAI_  

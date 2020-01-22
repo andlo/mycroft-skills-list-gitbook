@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # Mqtt Automation Controller  
 ### _mqtt-automation-controller-skill.cliffordvandyk_  
 ## About:  

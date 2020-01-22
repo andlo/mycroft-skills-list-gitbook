@@ -1,6 +1,7 @@
----    
-description: Select a random number when provided a min and max value  
----    
+--- 
+description: Select a random number when provided a min and max value
+---
+
 # Pick Number  
 ### _skill-pick-number.pcwii_  
 ## About:  

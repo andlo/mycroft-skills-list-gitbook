@@ -1,6 +1,7 @@
----    
-description: Wikipedia  
----    
+--- 
+description: Wikipedia
+---
+
 ![](../.gitbook/assets/star.png)  
 # Wikipedia  
 ### _webmd-skill.Shivaabhai_  

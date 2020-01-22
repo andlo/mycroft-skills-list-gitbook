@@ -1,6 +1,7 @@
----    
-description: Synchronize your Device Settings with Home  
----    
+--- 
+description: Synchronize your Device Settings with Home
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Device Configuration  
 ### _skill-configuration.MycroftAI_  

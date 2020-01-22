@@ -1,6 +1,7 @@
----    
-description: Mycroft sings lyrics to some popular songs  
----    
+--- 
+description: Mycroft sings lyrics to some popular songs
+---
+
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 # Singing  
 ### _skill-singing.MycroftAI_  

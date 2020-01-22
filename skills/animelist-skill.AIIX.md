@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # Animelist-skill  
 ### _animelist-skill.AIIX_  
 ## About:  

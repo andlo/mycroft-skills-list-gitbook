@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 ![](../.gitbook/assets/star.png)  
 # Shopping skills for MyCroft  
 ### _shopping.ElliotTheRobot_  

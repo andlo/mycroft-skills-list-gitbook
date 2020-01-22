@@ -1,6 +1,7 @@
----    
-description: Run and control shairport-sync  
----    
+--- 
+description: Run and control shairport-sync
+---
+
 ![](../.gitbook/assets/star.png)  
 # Shairport  
 ### _shairport-skill.domcross_  

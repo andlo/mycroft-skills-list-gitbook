@@ -1,6 +1,7 @@
----    
-description: Mycroft skill to get sports results from open data sources  
----    
+--- 
+description: Mycroft skill to get sports results from open data sources
+---
+
 # Sports  
 ### _sports-skill.ldubost_  
 ## About:  

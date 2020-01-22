@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # image-ocr-skill  
 ### _image-ocr-skill.AIIX_  
 ## About:  

@@ -1,6 +1,7 @@
----    
-description: Mycroft plays the latest episode of your favorite podcast  
----    
+--- 
+description: Mycroft plays the latest episode of your favorite podcast
+---
+
 # Podcast Player  
 ### _podcast-player-skill.kalyaninagaraj_  
 ## About:  

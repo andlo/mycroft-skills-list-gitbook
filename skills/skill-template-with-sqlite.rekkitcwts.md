@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # YOUR SKILL NAME  
 ### _skill-template-with-sqlite.rekkitcwts_  
 ## About:  

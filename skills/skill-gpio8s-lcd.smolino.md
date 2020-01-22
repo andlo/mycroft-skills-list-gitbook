@@ -1,6 +1,7 @@
----    
-description:   
----    
+--- 
+description: 
+---
+
 # picroft 8 Switch Relay skill gpio and LCD Readme  
 ### _skill-gpio8s-lcd.smolino_  
 ## About:  
