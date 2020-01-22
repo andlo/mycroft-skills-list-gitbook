@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: uncategorized   
-tags:   
 ---
 
 # picroft 4 Switch Relay skill gpio Readme  
@@ -17,7 +15,7 @@ This will run a test to be sure you have access to the gpio be sure to test on t
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
 > G gpio mycroft.  
 > Get install rpi.gpio.  

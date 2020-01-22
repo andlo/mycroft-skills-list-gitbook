@@ -1,7 +1,5 @@
---- 
+---
 description: Check your email with Mycroft!
-categories: Productivity Daily Information   
-tags: email mail emails   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -18,7 +16,7 @@ To configure this skill go to the skill wiki
 **License:** | Apache License 2.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/email-skill)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#email \#mail \#emails   
 ## Examples:  
 > Check my email.  
@@ -27,11 +25,11 @@ To configure this skill go to the skill wiki
 > Tell me when I get new mail.  
 > Do I have any new mail?  
   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Email

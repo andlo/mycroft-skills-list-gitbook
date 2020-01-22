@@ -1,7 +1,5 @@
---- 
+---
 description: Listen to episodes of your favourite podcasts
-categories: Entertainment Information Media Music   
-tags: podcasts podcast listen play   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -19,7 +17,7 @@ You can now also scroll through all episodes of your chosen podcasts.
 **License:** | MIT License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#podcasts \#podcast \#listen \#play   
 ## Examples:  
 > Play the podcast linux unplugged.  
@@ -27,11 +25,11 @@ You can now also scroll through all episodes of your chosen podcasts.
 > Put on the podcast linux unplugged.  
 > What is the latest episode of late night linux?  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/JamesPoole/podcast-skill```

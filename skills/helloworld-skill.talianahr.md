@@ -1,7 +1,5 @@
---- 
+---
 description: Reminds you to feed your poor starving corgi
-categories: Daily Productivity   
-tags: Dogs   
 ---
 
 # Helloworld  
@@ -16,7 +14,7 @@ Every 1 minutes, mycroft will send you a reminder to feed your corgi, and thell 
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Dogs   
 ## Examples:  
 > Have i fed the corgi today.  

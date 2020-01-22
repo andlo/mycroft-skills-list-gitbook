@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: uncategorized   
-tags:   
 ---
 
 # Jokes  
@@ -22,7 +20,7 @@ WARNING:  Laughter is not guaranteed, but eye rolls are likely.
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
 > Make me laugh.  
 > Tell me a Chuck Norris joke.  

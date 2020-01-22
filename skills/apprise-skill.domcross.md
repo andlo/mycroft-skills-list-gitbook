@@ -1,7 +1,5 @@
---- 
+---
 description: Send push notification to almost every platform (using apprise lib)
-categories: Productivity Messaging   
-tags: Push Notify Apprise   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -20,16 +18,16 @@ For config file usage instructions please see the apprise config file manual.
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Push \#Notify \#Apprise   
 ## Examples:  
 > Apprise someone of something.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/domcross/apprise-skill```

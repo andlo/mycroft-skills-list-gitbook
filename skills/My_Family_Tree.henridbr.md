@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: uncategorized   
-tags:   
 ---
 
 # ![tree](https://github.com/henridbr/Skill_Family_Learning/blob/master/images/arbre1.jpg) My Family Tree  
@@ -18,7 +16,7 @@ Henri Debierre.
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
 > Who is my granddaughter ?  
 > How old is Joe ?  

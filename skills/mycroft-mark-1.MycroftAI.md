@@ -1,7 +1,5 @@
---- 
+---
 description: Customize your Mark 1
-categories: Configuration   
-tags: mark1 configuration settings system   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -25,7 +23,7 @@ its brightness level to dim at night.
 **License:** | Apache License 2.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-mark-1)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)   
 **Tags:** \#mark1 \#configuration \#settings \#system   
 ## Examples:  
 > Set your eye color to pink.  
@@ -35,11 +33,11 @@ its brightness level to dim at night.
 > Change to low brightness.  
 > Dim to 50%  
   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Mycroft Mark 1

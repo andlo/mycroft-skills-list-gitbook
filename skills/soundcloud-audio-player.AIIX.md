@@ -1,7 +1,5 @@
---- 
+---
 description: Play songs and music from soundcloud
-categories: Music   
-tags: Music Soundcloud Sound MusicStreaming Streaming Songs Music SongSearch MusicSearch GUI MusicPlayer Online   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -17,18 +15,18 @@ SoundCloud is a music and podcast streaming platform that lets you listen to mil
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1009 GUI required needs validation new  
 **Platform:**  
- ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Music \#Soundcloud \#Sound \#MusicStreaming \#Streaming \#Songs \#Music \#SongSearch \#MusicSearch \#GUI \#MusicPlayer \#Online   
 ## Examples:  
 > Soundcloud Metallica.  
 > Pause Soundcloud.  
 > Resume Soundcloud.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/AIIX/soundcloud-audio-player```

@@ -1,7 +1,5 @@
---- 
+---
 description: Give voice commands to Mycroft to control a MagicMirror
-categories: IoT   
-tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -25,7 +23,7 @@ to configure the MagicMirror config.js by SSH or VNC for the particular skill yo
 **License:** | Apache License 2.0  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-933 new override autotester waiting  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
 > : hide clock.  
 > Show clock.  
@@ -45,11 +43,11 @@ to configure the MagicMirror config.js by SSH or VNC for the particular skill yo
 > Swipe right.  
 > List installed modules.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/dmwilsonkc/magic-mirror-voice-control-skill```

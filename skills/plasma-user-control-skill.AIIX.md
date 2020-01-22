@@ -1,7 +1,5 @@
---- 
+---
 description: Enables users to Lock Screen, Switch Users, Logout, Control Brightness, Control Panel Positions, Control Klipper, Control Workspaces, Control Compisitor, Add Widgets on Plasma Desktop
-categories: Productivity   
-tags: desktop kde plasma brightness lockscreen panel widget system information clipboard   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ This skill integrates Plasma 5 Desktop Internals with Mycroft which enables user
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1039 needs validation new  
 **Platform:**  
- ![](../.gitbook/assets/kde.png)   
+ ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#desktop \#kde \#plasma \#brightness \#lockscreen \#panel \#widget \#system \#information \#clipboard   
 ## Examples:  
 > Lock screen.  
@@ -34,11 +32,11 @@ This skill integrates Plasma 5 Desktop Internals with Mycroft which enables user
 > Add panel to the top/bottom/left/right.  
 > Give me information about this system.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/AIIX/plasma-user-control-skill```

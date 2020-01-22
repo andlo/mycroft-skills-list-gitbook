@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: uncategorized   
-tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -26,7 +24,7 @@ Input: help me with skill
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
 > Help me with skill_name <- will give options for help about this skill <- do this before other commands!  
 > Help me with skill <- info about previous skill.  

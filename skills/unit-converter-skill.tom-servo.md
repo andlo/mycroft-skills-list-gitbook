@@ -1,7 +1,5 @@
---- 
+---
 description: Converts from one unit of measure to another
-categories: Information Productivity   
-tags: Units Conversion   
 ---
 
 # Unit Converter  
@@ -16,7 +14,7 @@ Allows mycroft to convert quantities in one physical unit of measure to another.
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Units \#Conversion   
 ## Examples:  
 > How many cups in 3 liters?  

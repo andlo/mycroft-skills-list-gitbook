@@ -1,7 +1,5 @@
---- 
+---
 description: Customize your Mark 2
-categories: Configuration   
-tags: mark2 configuration settings system   
 ---
 
 # Mycroft Mark 2  
@@ -20,18 +18,18 @@ its brightness level to dim at night.
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-2-icon.png)   
+ ![Mark II](../.gitbook/assets/mark-2-icon.png)   
 **Tags:** \#mark2 \#configuration \#settings \#system   
 ## Examples:  
 > Turn on auto brightness.  
 > Change to low brightness.  
 > Dim to 50%  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/AIIX/skill-remote-platform```

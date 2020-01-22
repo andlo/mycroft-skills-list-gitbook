@@ -1,7 +1,5 @@
---- 
+---
 description: Connect to your HomeSeer hub and control your smart-home devices using Mycroft
-categories: IoT   
-tags: homeseer homeautomation automation hub iot lights lighting smartlight smarthome smartbulb smartlock [submodule "homeseer-mycroft"] path = homeseer-mycroft-skill url = https://github.com/samclane/homeseer-mycroft.git   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -19,7 +17,7 @@ current status of any device.
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#homeseer \#homeautomation \#automation \#hub \#iot \#lights \#lighting \#smartlight \#smarthome \#smartbulb \#smartlock \#[submodule \#"homeseer-mycroft"] \#path \#= \#homeseer-mycroft-skill \#url \#= \#https://github.com/samclane/homeseer-mycroft.git   
 ## Examples:  
 > Turn on the first floor bathroom light.  
@@ -29,11 +27,11 @@ current status of any device.
 > Get the status of the first floor kitchen door lock.  
 > Run the Turn All Lights Off event.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/samclane/homeseer-mycroft```

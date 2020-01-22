@@ -1,7 +1,5 @@
---- 
+---
 description: Find information about movies, actors and production details
-categories: Entertainment   
-tags: TMDB Movies Actors Mark I   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ Easily find information about a movie with your voice.
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#TMDB \#Movies \#Actors \#Mark \#I   
 ## Examples:  
 > What is the movie _______ about?  
@@ -33,11 +31,11 @@ Easily find information about a movie with your voice.
 > How long is the movie _______?  
 > What are the highest rated movies out?  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/builderjer/moviemaster```

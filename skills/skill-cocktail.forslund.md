@@ -1,7 +1,5 @@
---- 
+---
 description: Get help mixing drinks
-categories: Information   
-tags: drinks recipies cocktails   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ Let Mycroft help you mix better and more fun drinks and cocktails. When asked My
 **License:** | No License  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/cocktails)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#drinks \#recipies \#cocktails   
 ## Examples:  
 > How do I mix a Moscow Mule.  

@@ -1,7 +1,5 @@
---- 
+---
 description: Mycroft plays the latest episode of your favorite podcast
-categories: & Music Audio Entertainment Media   
-tags: Podcast Mycroft AI   
 ---
 
 # Podcast Player  
@@ -17,7 +15,7 @@ Instead, this skill lets you to play a particular episode by identifying the sea
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Podcast \#Mycroft \#AI   
 ## Examples:  
 > *Play \*podcast-name\** (Plays the latest episode)  
@@ -25,11 +23,11 @@ Instead, this skill lets you to play a particular episode by identifying the sea
 > *Play episode 6 of \*podcast-name\** (Plays episode 6 of the latest season)  
 > *Play season 3 of \*podcast-name\** (Plays episode 1 of season 3)  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/kalyaninagaraj/podcast-player-skill```

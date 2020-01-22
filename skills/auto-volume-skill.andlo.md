@@ -1,7 +1,5 @@
---- 
+---
 description: Sets the volume depending on background noise level
-categories: Configuration Daily   
-tags: volume   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -20,18 +18,18 @@ The skill can be activated or deactivated using the command "Hey Mycroft, set au
 **License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/auto-volume)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/picroft-icon.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#volume   
 ## Examples:  
 > Set auto volume on.  
 > Set auto volume off.  
 > Clear auto volume measurements.  
   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Auto volume

@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: uncategorized   
-tags:   
 ---
 
 # Digikam-Control  
@@ -41,7 +39,7 @@ Python Dbus package is required and copying the Python Dbus folder and lib from 
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
 > In digicam next image.  
 > In digicam previous image.  

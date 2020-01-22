@@ -1,7 +1,5 @@
---- 
+---
 description: Check the status of your MyEpisodes.com show list
-categories: Information Entertainment   
-tags: tv episodes myepisodes.com series   
 ---
 
 # My Episodes  
@@ -18,7 +16,7 @@ Also you will be able to find out the unacquired seasons and episdes numbers.
 **License:** | MIT License  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1122 needs validation new waiting  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#tv \#episodes \#myepisodes.com \#series   
 ## Examples:  
 > Check my episodes.  
@@ -27,11 +25,11 @@ Also you will be able to find out the unacquired seasons and episdes numbers.
 > Any new episodes.  
 > Anything new on my episodes.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/brezuicabogdan/brezicode.myepisodes.mycroftai```

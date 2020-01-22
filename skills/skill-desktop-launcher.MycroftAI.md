@@ -1,7 +1,5 @@
---- 
+---
 description: Desktop Launcher
-categories: Productivity   
-tags: desktop desktop-launch desktop-launcher   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -17,18 +15,18 @@ Launch applications on the Linux desktop, and close them when done.
 **License:** | Apache License 2.0  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1120 needs validation new  
 **Platform:**  
- ![](../.gitbook/assets/kde.png)   
+ ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#desktop \#desktop-launch \#desktop-launcher   
 ## Examples:  
 > Open Firefox.  
 > Search Mycroft in Amazon.  
 > Close Firefox.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/MycroftAI/skill-desktop-launcher```

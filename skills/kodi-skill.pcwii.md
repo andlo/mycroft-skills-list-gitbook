@@ -1,7 +1,5 @@
---- 
+---
 description: Control KODI open source media center with Mycroft.ai
-categories: Media   
-tags: 'kodi, Krypton Leia, mycroft.ai, python, skills youtube'   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -18,7 +16,7 @@ The Kodi Skill uses conversational dialog to help you to control your KODI insta
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#'kodi, \#Krypton \#Leia, \#mycroft.ai, \#python, \#skills \#youtube'   
 ## Examples:  
 > Ask kodi to play the movie guardians of the galaxy.  
@@ -51,11 +49,11 @@ The Kodi Skill uses conversational dialog to help you to control your KODI insta
 > List kodi movies by actor.  
 > List all kodi movies.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/pcwii/kodi-skill```

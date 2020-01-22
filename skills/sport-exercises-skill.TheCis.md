@@ -1,7 +1,5 @@
---- 
+---
 description: Train your body parts
-categories: Daily Productivity   
-tags: Body parts Sport Workout   
 ---
 
 # Sport Exercises  
@@ -16,7 +14,7 @@ Mycroft will help you train your body parts with diffrent exercises.
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Body \#parts \#Sport \#Workout   
 ## Examples:  
 > Tell me an exercise.  

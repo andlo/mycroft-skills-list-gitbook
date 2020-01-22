@@ -1,7 +1,5 @@
---- 
+---
 description: This skill adds openHAB support to Mycroft
-categories: IoT   
-tags: openHAB smarthome IoT Automation opensource   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -38,7 +36,7 @@ If you've forgotten what items have been identified, you can ask Mycroft:
 **License:** | Eclipse Public License 2.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/openhab-skill)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#openHAB \#smarthome \#IoT \#Automation \#opensource   
 ## Examples:  
 > Turn on Diningroom Light.  
@@ -61,11 +59,11 @@ If you've forgotten what items have been identified, you can ask Mycroft:
 > What is Main Thermostat is regulated to?  
 > How the Main Thermostat tuned to?  
   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install openHAB

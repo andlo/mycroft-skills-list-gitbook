@@ -1,7 +1,5 @@
---- 
+---
 description: A skill that answers questions over LinkedBrainz data
-categories: Music Information   
-tags: music generalknowledge questionanswer   
 ---
 
 # Music Brains  
@@ -16,7 +14,7 @@ This skill answers questions like Who sings Let it be? This is just a simple ski
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#music \#generalknowledge \#questionanswer   
 ## Examples:  
 > Who sings Let it be?  

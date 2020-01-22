@@ -1,7 +1,5 @@
---- 
+---
 description: Control Your Plasmashell Activities
-categories: Productivity   
-tags: desktop kde activities control plasma switch   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ This skill integrates plasma-shell activities with mycroft which enables users t
 **License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/plasma-activities-skill)  
 **Platform:**  
- ![](../.gitbook/assets/kde.png)   
+ ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#desktop \#kde \#activities \#control \#plasma \#switch   
 ## Examples:  
 > Create new activity 'Activity Name.  
@@ -26,11 +24,11 @@ This skill integrates plasma-shell activities with mycroft which enables users t
 > Switch to activity 'Activity Name.  
 > Remove activity 'Activity Name.  
   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Plasma Activites

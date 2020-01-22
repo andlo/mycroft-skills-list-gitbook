@@ -1,7 +1,11 @@
 ---
-description: "Enables Google AIY voicekit" 
+description: Enables Google AIY voicekit
 ---
- 
+
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+# Google AIY voicekit  
+### _picroft-google-aiy-voicekit-skill.andlo_  
+## About:  
 This enables the led and button on the Google AIY voicekit.
 The button led turns on when Mycroft is listning. If button is pressed he begins to listen. If the button is pressed for a longer time he stops whatever he is dooing.
 
@@ -12,13 +16,13 @@ The button led turns on when Mycroft is listning. If button is pressed he begins
 **License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/picroft-google-aiy-voicekit)  
 **Platform:**  
- ![](../.gitbook/assets/picroft-icon.png)   
+ ![Picroft](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#googlevoicekit \#aiy \#Googleaiy \#voicekit \#voicehat   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Google AIY voicekit

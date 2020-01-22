@@ -1,7 +1,5 @@
---- 
+---
 description: Dismisses Mycroft  DON'T INSTALL THIS! The name doesn't play nice with STT right now, so you're going to have a hard time installing or removing it verbally. The skill has been renamed, and this repo will likely be deleted once the new repo is committed to the Marketplace.  If you're trying to fuss with the code, or to install the skill manually, use this repo instead:  
-categories: Configuration   
-tags: basic   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ Allows you to dismiss Mycroft verbally, in case of accidental activation, or if 
 **License:** | MIT License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#basic   
 ## Examples:  
 > Nevermind.  
@@ -25,11 +23,11 @@ Allows you to dismiss Mycroft verbally, in case of accidental activation, or if 
 > Forget it.  
 > Go away.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/ChanceNCounter/nevermind-skill```

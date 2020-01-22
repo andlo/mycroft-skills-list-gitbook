@@ -1,7 +1,5 @@
---- 
+---
 description: Get the time, date, day of the week
-categories: Daily   
-tags: date time clock world-time world-clock date-time   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -21,7 +19,7 @@ the Skill Setting.
 **License:** | Apache License 2.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-date-time)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#date \#time \#clock \#world-time \#world-clock \#date-time   
 ## Examples:  
 > What time is it?  
@@ -31,11 +29,11 @@ the Skill Setting.
 > Tell me the day of the week.  
 > What day is Memorial Day 2020?  
   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Date and Time

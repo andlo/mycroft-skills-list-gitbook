@@ -1,7 +1,5 @@
---- 
+---
 description: Orchestrates a automatic orchard with mycroft
-categories: IoT Daily   
-tags:   
 ---
 
 # Lahuertaderamiroskill  
@@ -16,7 +14,7 @@ This skill is intended to administrate 4 aspects of a orchard: soil moisture, te
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
 > How are my plants.  
 > How is my plant.  

@@ -1,7 +1,5 @@
---- 
+---
 description: Connect Nextcloud services to Mycroft
-categories: Productivity Information,   
-tags:   
 ---
 
 # Test  
@@ -18,7 +16,7 @@ You can now add a contact to Nextcloud in 15 seconds with your voice.
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
 > List my calendars.  
 > What is on the calendar today?  

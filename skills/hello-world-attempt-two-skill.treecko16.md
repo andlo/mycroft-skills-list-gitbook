@@ -1,7 +1,5 @@
---- 
+---
 description: Says "hello, world!"
-categories: Entertainment   
-tags: Test Helloworld Hello Hi Not final   
 ---
 
 # Hello World Attempt Two  
@@ -16,7 +14,7 @@ tags: Test Helloworld Hello Hi Not final
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Test \#Helloworld \#Hello \#Hi \#Not \#final   
 ## Examples:  
 > Hello world.  

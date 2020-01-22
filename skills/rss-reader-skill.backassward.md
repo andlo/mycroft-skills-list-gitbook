@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: uncategorized   
-tags: [JamesPoole](https://github.com/JamesPoole/) from whose [podcast-skill](https://github.com/JamesPoole/podcast-skill) brilliant skill I inherited many ideas.   
 ---
 
 # Rss Reader  
@@ -20,7 +18,7 @@ the main features are:
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#[JamesPoole](https://github.com/JamesPoole/) \#from \#whose \#[podcast-skill](https://github.com/JamesPoole/podcast-skill) \#brilliant \#skill \#I \#inherited \#many \#ideas.   
 ## Examples:  
 > Check for new feeds.  
@@ -28,11 +26,11 @@ the main features are:
 > Read my new feeds.  
 > Read my new feeds from Mycroft blog.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/backassward/rss-reader-skill```

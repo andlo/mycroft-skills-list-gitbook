@@ -1,7 +1,5 @@
---- 
+---
 description: Run and control shairport-sync
-categories: & Music Audio   
-tags: Airport   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -18,17 +16,17 @@ This is just a quick hack I made on a rainy day that "works for me" and comes wi
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Airport   
 ## Examples:  
 > Activate shairport.  
 > Disable shairport.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/domcross/shairport-skill```

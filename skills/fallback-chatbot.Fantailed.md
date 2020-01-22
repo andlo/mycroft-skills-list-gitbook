@@ -1,7 +1,5 @@
---- 
+---
 description: Fallback using any offline AIML2.0 chatbot
-categories: Entertainment Daily   
-tags: \chatbot \aiml \aiml2.0   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -37,11 +35,11 @@ ever doubt that it's even doing anything, open another terminal and run htop on 
 > My name is Dave.  
 > What is my name?  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/Fantailed/fallback-chatbot```

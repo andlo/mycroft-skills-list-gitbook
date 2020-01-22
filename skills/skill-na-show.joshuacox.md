@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: uncategorized   
-tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -20,7 +18,7 @@ Teaches Mycroft AI about the the best podcast in the universe "No Agenda Show".
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
 > Jack into the live No Agenda stream.  
 > What is the best podcast in the Universe?  
@@ -54,11 +52,11 @@ Teaches Mycroft AI about the the best podcast in the universe "No Agenda Show".
 > Fire up the fourteenth No Agenda show!  
 > Load the fifteenth No Agenda show!  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/joshuacox/skill-na-show```

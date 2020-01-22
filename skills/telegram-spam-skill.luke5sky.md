@@ -1,7 +1,5 @@
---- 
+---
 description: A skill to connect a telegram bot to MyCroft. This will send you everything that is happening, if you are looking for the "normal" telegram skill -> 
-categories: Productivity IoT   
-tags: messenger bot telegram-bot   
 ---
 
 # Telegram Spam Skill  
@@ -69,13 +67,13 @@ Your bot should send you this welcome message: Telegram-Skill on Mycroft Unit YO
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#messenger \#bot \#telegram-bot   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/luke5sky/telegram-spam-skill```

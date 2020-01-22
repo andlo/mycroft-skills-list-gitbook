@@ -1,7 +1,5 @@
---- 
+---
 description: Provides random answers to yes/no questions
-categories: Entertainment   
-tags: crystalball random   
 ---
 
 # Crystal Ball  
@@ -17,7 +15,7 @@ Please don't use this skill for any important questions.
 **License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/skill-crystal-ball)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#crystalball \#random   
 ## Examples:  
 > Crystal Ball, will the world end tomorrow?  
@@ -25,11 +23,11 @@ Please don't use this skill for any important questions.
 > What does the future hold? Will I become rich and famous?  
 > Tell me the future; will Mycroft become greater than Siri or Alexa?  
   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Crystal Ball

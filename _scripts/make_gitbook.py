@@ -13,18 +13,18 @@ skillsdata = json.load(json_data)
 def make_skillsfiles(skills):
     for skill in skills:
         txt = []
-        txt.append('--- \n')
+        txt.append('---\n')
         #of.write('titel: ' + skill["skill_info"]["title"] + '\n')
         short_desc = clean_txt(skill["skill_info"]["short_desc"])
         txt.append('description: ' + short_desc + '\n')
-        txt.append('categories: ')
-        for category in skill["skill_info"]["categories"]:
-            txt.append(category + ' ')
-        txt.append('  \n')
-        txt.append('tags: ')
-        for tag in skill["skill_info"]["tags"]:
-            txt.append(tag + ' ')
-        txt.append('  \n')
+        #txt.append('categories: ')
+        #for category in skill["skill_info"]["categories"]:
+        #    txt.append(category + ' ')
+        #txt.append('  \n')
+        #txt.append('tags: ')
+        #for tag in skill["skill_info"]["tags"]:
+        #    txt.append(tag + ' ')
+        #txt.append('  \n')
         txt.append('---\n\n')
         if not skill["stargazers_count"] == 0: 
             for x in range(skill["stargazers_count"]):
@@ -77,10 +77,10 @@ def make_skillsfiles(skills):
                 pass
         txt.append('  \n')
         try:
-            mk1 = ' ![](../.gitbook/assets/mark-1-icon.png) '
-            mk2 = ' ![](../.gitbook/assets/mark-2-icon.png) '
-            pi = ' ![](../.gitbook/assets/picroft-icon.png) '
-            kde = ' ![](../.gitbook/assets/kde.png) '
+            mk1 = ' ![Mark I](../.gitbook/assets/mark-1-icon.png) '
+            mk2 = ' ![Mark II](../.gitbook/assets/mark-2-icon.png) '
+            pi = ' ![Picroft](../.gitbook/assets/picroft-icon.png) '
+            kde = ' ![plasmoid](../.gitbook/assets/kde.png) '
             txt.append('**Platform:**  \n')
             for device in skill["skill_info"].get("platforms"):
                 if device == 'all':
@@ -119,11 +119,11 @@ def make_skillsfiles(skills):
             txt.append('nor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.\n')
             txt.append('{% endhint %}\n')
         if market and license and ast:
+            txt.append('## Installation:  \n')
             txt.append('{% hint style="info" %}\n')
-            txt.append('This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers\n')
+            txt.append('This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers\n')
             txt.append('{% endhint %}\n  ')
             txt.append('  \n')
-            txt.append('## Installation:  \n')
             txt.append('{% tabs %}\n')
             txt.append('{% tab title="Install by voice" %}\n' + 
                        '> Hey Mycroft - install ' + skill["skill_info"]["name"] + '\n')
@@ -133,11 +133,11 @@ def make_skillsfiles(skills):
             txt.append('{% endtab %}\n  ')
             txt.append('{% endtabs %}\n  ')
         if not market and license and ast:
+            txt.append('## Installation:  \n')
             txt.append('{% hint style="warning" %}\n')
             txt.append('This skill is not aproved by Mycroft skill tester.\n')
             txt.append('{% endhint %}\n  ')
             txt.append('  \n')
-            txt.append('## Installation:  \n')
             txt.append('{% tabs %}\n')
             txt.append('{% tab title="Install by mycroft-msm" %}\n' + 
                        '``` mycroft-msm install ' + skill["html_url"] + '```\n')

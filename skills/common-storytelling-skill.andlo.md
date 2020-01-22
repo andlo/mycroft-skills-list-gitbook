@@ -1,7 +1,5 @@
---- 
+---
 description: A common storytelling skill
-categories: Entertainment   
-tags: stories story tales fairy fairytale fairytales common-storytelling   
 ---
 
 # Common Storytelling  
@@ -25,7 +23,7 @@ Albert Einstein
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#stories \#story \#tales \#fairy \#fairytale \#fairytales \#common-storytelling   
 ## Examples:  
 > Tell a story.  

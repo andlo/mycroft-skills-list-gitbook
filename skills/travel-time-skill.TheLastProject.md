@@ -1,7 +1,5 @@
---- 
+---
 description: Get traffic information for your route
-categories: Transport Information   
-tags: Travel Car Traffic Waze OpenStreetMaps   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -18,7 +16,7 @@ This skill uses OpenStreetMap Nomatim to reverse geocode the location and WazeRo
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Travel \#Car \#Traffic \#Waze \#OpenStreetMaps   
 ## Examples:  
 > How long to work?  
@@ -27,11 +25,11 @@ This skill uses OpenStreetMap Nomatim to reverse geocode the location and WazeRo
 > What's the traffic like from amsterdam to brussels?  
 > How long to reach london?  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/TheLastProject/travel-time-skill```

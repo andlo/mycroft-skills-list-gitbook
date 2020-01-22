@@ -1,7 +1,5 @@
---- 
+---
 description: Krunner enables users to search their local desktop for files, images, recent documents, bookmarks and utilize other krunner plugins
-categories: Productivity   
-tags: desktop kde krunner control plasma search bookmarks recent documents   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ Search for files, images, music, documents locally using the powerful Krunner Pl
 **License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/krunner-search-skill)  
 **Platform:**  
- ![](../.gitbook/assets/kde.png)   
+ ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#desktop \#kde \#krunner \#control \#plasma \#search \#bookmarks \#recent \#documents   
 ## Examples:  
 > Search this computer for 'Filename/Application.  
@@ -25,11 +23,11 @@ Search for files, images, music, documents locally using the powerful Krunner Pl
 > Search the computer for bookmarks.  
 > Calculate 2 plus 2.  
   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Krunner Search

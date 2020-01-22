@@ -1,7 +1,5 @@
---- 
+---
 description: Common playback control system
-categories: Music   
-tags: music play playback pause resume next system   
 ---
 
 # Playback Control  
@@ -23,7 +21,7 @@ This capability is used by the Spotify and Pandora Skills, among others.
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#music \#play \#playback \#pause \#resume \#next \#system   
 ## Examples:  
 > Play my summer playlist.  
@@ -35,11 +33,11 @@ This capability is used by the Spotify and Pandora Skills, among others.
 > Previous track.  
 > Previous song.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/gras64/mycroft-navigaton-control```

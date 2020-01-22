@@ -1,7 +1,5 @@
---- 
+---
 description: Get Popular Food & Cooking Recipes On The Go
-categories: Information   
-tags: Food Recipes GUI Plasmoid KDE Ingredients Cooking   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -17,18 +15,18 @@ Get popular recipes and how to cook directions based on combination of Ingredien
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1038 GUI required needs validation new  
 **Platform:**  
- ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Food \#Recipes \#GUI \#Plasmoid \#KDE \#Ingredients \#Cooking   
 ## Examples:  
 > Show recipes with apple and honey.  
 > Show recipes with chicken, honey and lime.  
 > Read recipe mexican chicken lime soup.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/AIIX/food-wizard```

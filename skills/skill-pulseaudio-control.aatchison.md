@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: uncategorized   
-tags: * `listing devices should work just fine` * `setting devices speaks the device that was set, but setting hasn't been implemented just yet`   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ This skill is intended to allow a Mycroft user to list and set the default input
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#* \#`listing \#devices \#should \#work \#just \#fine` \#* \#`setting \#devices \#speaks \#the \#device \#that \#was \#set, \#but \#setting \#hasn't \#been \#implemented \#just \#yet`   
 ## Examples:  
 > Pulse source list.  
@@ -25,11 +23,11 @@ This skill is intended to allow a Mycroft user to list and set the default input
 > Pulse source set (integer)  
 > Pulse sink set (integer)  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/aatchison/skill-pulseaudio-control```

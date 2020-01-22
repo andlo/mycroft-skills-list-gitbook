@@ -1,7 +1,5 @@
---- 
+---
 description: Manage your Todoist tasks
-categories: Productivity Daily   
-tags: todoist todo todolist   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -18,18 +16,18 @@ To setup the skill you can either click on the Connect button in the skill setti
 **License:** | MIT License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#todoist \#todo \#todolist   
 ## Examples:  
 > What's on my todo list?  
 > Put buy groceries due tomorrow on my todos.  
 > Mark buy a new computer as complete.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/moritzgloeckl/todoist-skill```

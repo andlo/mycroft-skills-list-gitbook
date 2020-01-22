@@ -1,7 +1,5 @@
---- 
+---
 description: Lets you control your Xbox One by voice
-categories: uncategorized   
-tags:   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ This is a skill for the Mycroft AI voice assistant, which enables you to control
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
 > Power on the Xbox.  
 > Switch the Xbox off.  

@@ -1,7 +1,5 @@
---- 
+---
 description: Access your Calendar
-categories: Productivity Daily Information   
-tags: calendar ical server   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ With this skill, you can access your iCal server, or just use a local calendar o
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#calendar \#ical \#server   
 ## Examples:  
 > What's on my calendar?  

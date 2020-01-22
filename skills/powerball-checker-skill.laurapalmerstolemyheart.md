@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: Entertainment Daily Information   
-tags: powerball lottery lotto   
 ---
 
 # Powerball Checker  
@@ -16,18 +14,18 @@ This skill allows mycroft to tell you the last winning Powerball numbers.
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1119 needs validation new  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#powerball \#lottery \#lotto   
 ## Examples:  
 > What were the last Powerball numbers?  
 > What were the winning Powerball numbers?  
 > Powerball numbers.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/laurapalmerstolemyheart/powerball-checker-skill```

@@ -1,7 +1,5 @@
---- 
+---
 description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together
-categories: Configuration   
-tags: helloworld first-skill hello greeting   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -27,7 +25,7 @@ Mycroft Message Bus
 **License:** | No License  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-hello-world)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#helloworld \#first-skill \#hello \#greeting   
 ## Examples:  
 > Hello world.  

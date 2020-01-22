@@ -1,7 +1,5 @@
---- 
+---
 description: Allergy report for my husband David
-categories: Daily Information   
-tags: Allergy   
 ---
 
 # Allergy Level  
@@ -18,7 +16,7 @@ The skill uses the mycrofts IP Address to determining the zip code(if you use VP
 **License:** | No License  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1126 needs validation new  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Allergy   
 ## Examples:  
 > How are the allergies today.  

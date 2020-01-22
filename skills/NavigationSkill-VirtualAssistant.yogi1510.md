@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: Configuration   
-tags: navigate navigation   
 ---
 
 # About  
@@ -16,7 +14,7 @@ Testing Mycroft skill development - navigates from office to home.
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#navigate \#navigation   
 ## Examples:  
 > Home.  

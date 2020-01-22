@@ -1,7 +1,5 @@
---- 
+---
 description: Internal utterance testing tool
-categories: Configuration   
-tags: testing   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -30,7 +28,7 @@ Results will be uploaded to termbin.com in csv format and the link will be email
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#testing   
 ## Examples:  
 > Read all utterances.  

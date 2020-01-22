@@ -1,7 +1,5 @@
---- 
+---
 description: Control your mouse and keyboard by voice
-categories: Productivity   
-tags: desktop mouse keyboard screen   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ A skill that allows voice control over your mouse and keyboard using natural lan
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/kde.png)  ![](../.gitbook/assets/mark-2-icon.png)   
+ ![plasmoid](../.gitbook/assets/kde.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)   
 **Tags:** \#desktop \#mouse \#keyboard \#screen   
 ## Examples:  
 > Type Mycroft is awesome.  
@@ -33,11 +31,11 @@ A skill that allows voice control over your mouse and keyboard using natural lan
 > Select all.  
 > Select all and copy.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/TREE-Ind/desktop-control```

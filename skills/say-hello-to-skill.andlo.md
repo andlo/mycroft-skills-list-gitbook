@@ -1,7 +1,5 @@
---- 
+---
 description: Simple skill to let mycroft say hi to someone
-categories: Daily   
-tags: example   
 ---
 
 # Say hello to  
@@ -21,7 +19,7 @@ Mycroft will reply
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#example   
 ## Examples:  
 > Say hi to {name}  
@@ -29,11 +27,11 @@ Mycroft will reply
 > This is {name}  
 > Let me introduce you to {name}  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/andlo/say-hello-to-skill```

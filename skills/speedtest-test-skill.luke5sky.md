@@ -1,7 +1,5 @@
---- 
+---
 description: Ask MyCroft to run a simple speedtest
-categories: Daily Information IoT Productivity   
-tags: ínternet speed bandwith   
 ---
 
 # Speedtest  
@@ -17,16 +15,16 @@ This skill uses the speedtest-cli ( which runs an internet bandwidth test using 
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#ínternet \#speed \#bandwith   
 ## Examples:  
 > Run a speedtest.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/luke5sky/speedtest-test-skill```

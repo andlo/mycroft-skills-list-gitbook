@@ -1,7 +1,5 @@
---- 
+---
 description: A Mycroft Skill for Home Temperatures and more with Netatmo
-categories: Daily IoT   
-tags: Netatmo Weather Picroft   
 ---
 
 # Netatmo Weather  
@@ -18,7 +16,7 @@ What's new with Mycroft ? "Hey Mycroft, what's the room temperature ?", it's eas
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/picroft-icon.png)   
+ ![Picroft](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#Netatmo \#Weather \#Picroft   
 ## Examples:  
 > I need info from Netatmo.  

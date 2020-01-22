@@ -1,7 +1,5 @@
---- 
+---
 description: Mycroft skill to get sports results from open data sources
-categories: Information Sports   
-tags: Sports Tennis   
 ---
 
 # Sports  
@@ -19,7 +17,7 @@ You can hear a demo here
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Sports \#Tennis   
 ## Examples:  
 > <French open> results for <Djokovic>  

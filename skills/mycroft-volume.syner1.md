@@ -1,7 +1,5 @@
---- 
+---
 description: Control the volume of your system
-categories: Music   
-tags: volume volume-control sound   
 ---
 
 # Volume Control  
@@ -17,7 +15,7 @@ button on a Mark 1.
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)   
 **Tags:** \#volume \#volume-control \#sound   
 ## Examples:  
 > Turn up the volume.  
@@ -26,11 +24,11 @@ button on a Mark 1.
 > Set volume to 5.  
 > Set volume to 75 percent.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/syner1/mycroft-volume```

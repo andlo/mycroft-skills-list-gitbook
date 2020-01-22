@@ -1,7 +1,5 @@
---- 
+---
 description: Installs and setup THEIA IDE locally on your device. Real VS Code experience
-categories: Productivity   
-tags: theia IDE editor dev vscode   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -21,18 +19,18 @@ Theia provides Microsoft VS Code experience in the browser.
 **License:** | GNU General Public License v3.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/theia-ide)  
 **Platform:**  
- ![](../.gitbook/assets/picroft-icon.png)   
+ ![Picroft](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#theia \#IDE \#editor \#dev \#vscode   
 ## Examples:  
 > Activate IDE.  
 > Deactivate IDE.  
 > Restart IDE.  
   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install THEIA IDE

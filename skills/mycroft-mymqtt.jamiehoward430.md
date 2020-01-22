@@ -1,7 +1,5 @@
---- 
+---
 description: This is a skill written for mycroft to publish commands over an mqtt broker for home automation or any other purpose
-categories: IoT   
-tags: mqtt   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -19,18 +17,18 @@ Currently it will publish the action to a topic built from the commands said, fo
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#mqtt   
 ## Examples:  
 > Command vacuum to return home.  
 > Turn the light on.  
 > Switch the tv on.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/jamiehoward430/mycroft-mymqtt```

@@ -1,7 +1,5 @@
---- 
+---
 description: Barks like a dog
-categories: Daily   
-tags: Dog Bark   
 ---
 
 # Bark  
@@ -16,7 +14,7 @@ Ask mycroft to bark and it will say ruff.
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Dog \#Bark   
 ## Examples:  
 > Bark.  
@@ -24,11 +22,11 @@ Ask mycroft to bark and it will say ruff.
 > Look at that cat.  
 > Mailman is here.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/padresb/bark-skill```

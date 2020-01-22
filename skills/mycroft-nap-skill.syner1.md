@@ -1,7 +1,5 @@
---- 
+---
 description: Put Mycroft to sleep when you don't want to be disturbed
-categories: Daily Configuration   
-tags: nap naptime sleep donotdisturb do-not-disturb   
 ---
 
 # Naptime  
@@ -21,18 +19,18 @@ On a Mark 1 this also dims the eyes.
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#nap \#naptime \#sleep \#donotdisturb \#do-not-disturb   
 ## Examples:  
 > Go to sleep.  
 > Nap time.  
 > Wake up.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/syner1/mycroft-nap-skill```

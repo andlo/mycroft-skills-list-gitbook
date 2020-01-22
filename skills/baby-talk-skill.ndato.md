@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: Entertainment   
-tags: Baby talk Communication Simulation   
 ---
 
 # About  
@@ -16,7 +14,7 @@ Communicate to mycroft as if you're talking to a baby.
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Baby \#talk \#Communication \#Simulation   
 ## Examples:  
 > Beautiful eyes!  

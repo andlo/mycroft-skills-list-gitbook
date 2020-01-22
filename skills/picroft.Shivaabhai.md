@@ -1,7 +1,5 @@
---- 
+---
 description: Example of interacting with GPIO pins on a Raspberry Pi
-categories: IoT   
-tags: IoT GPIO RPi   
 ---
 
 # Raspberry Pi GPIO Demo  
@@ -44,7 +42,7 @@ Please use the below image as a guide to the circuit layout:
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/picroft-icon.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#IoT \#GPIO \#RPi   
 ## Examples:  
 > Turn LED on.  
@@ -52,11 +50,11 @@ Please use the below image as a guide to the circuit layout:
 > Blink LED.  
 > LED status.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/Shivaabhai/picroft```

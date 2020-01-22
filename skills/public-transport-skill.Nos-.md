@@ -1,7 +1,5 @@
---- 
+---
 description: Nahverkehrsauskunft für Dresden (dvb, vvo) per MyCroft-Sprachassistent
-categories: Transportation Daily Information   
-tags: DVB VVO Dresden ÖPNV Sachsen Nahverkehr   
 ---
 
 # Public Transport  
@@ -17,7 +15,7 @@ Entstanden beim opendatacamp2019.
 **License:** | No License  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#DVB \#VVO \#Dresden \#ÖPNV \#Sachsen \#Nahverkehr   
 ## Examples:  
 > Wie komme ich nach ... ?  

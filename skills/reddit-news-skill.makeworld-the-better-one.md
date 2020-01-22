@@ -1,7 +1,5 @@
---- 
+---
 description: Reads out news headlines from r/worldnews on reddit
-categories: Information   
-tags: news reddit headlines   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -17,18 +15,18 @@ This skill scrapes from r/worldnews using a GET request, and then has Mycroft re
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#news \#reddit \#headlines   
 ## Examples:  
 > Tell me the news from reddit.  
 > What's the news from reddit?  
 > Any phrase with news and reddit in it.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/makeworld-the-better-one/reddit-news-skill```

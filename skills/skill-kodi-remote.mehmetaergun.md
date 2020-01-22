@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: Media   
-tags:   
 ---
 
 # Kodi Remote Skill  
@@ -16,18 +14,18 @@ tags:
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/picroft-icon.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
 ## Examples:  
 > Pause Kodi.  
 > Resume Kodi.  
 > Stop Kodi.  
 > Set volume to 8 on Kodi.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/mehmetaergun/skill-kodi-remote```

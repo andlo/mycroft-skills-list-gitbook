@@ -1,7 +1,5 @@
---- 
+---
 description: Track your and your family's health related information
-categories: Information Daily Productivity   
-tags: mycroft skill health medical home voice assistant   
 ---
 
 # Health  
@@ -16,7 +14,7 @@ You can track health related information of your and your family's and generate 
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#mycroft \#skill \#health \#medical \#home \#voice \#assistant   
 ## Examples:  
 > Track health blood pressure  (Mycroft will prompt for 'Top', 'Bottom', 'For whom', 'confirm')  
@@ -26,11 +24,11 @@ You can track health related information of your and your family's and generate 
 > Track health heartbeat 75 (Mycroft will prompt for 'For whom', 'Confirm')  
 > Generate report for this month (Mycroft will prompt for 'Which category', 'For whom')  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/smearumi/mycroft-health```

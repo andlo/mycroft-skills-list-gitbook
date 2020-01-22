@@ -1,7 +1,5 @@
---- 
+---
 description: Ask Mycroft to run a simple speedtest
-categories: Productivity Daily Information IoT   
-tags: ínternet speed bandwith   
 ---
 
 # Speedtest  
@@ -22,16 +20,16 @@ If a Raspberry Pi 3 B - connected to WiFi - runs Mycroft you won't get more than
 **License:** | Apache License 2.0  
 **Market status:** | [In Market](https://market.mycroft.ai/skill/speedtest)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#ínternet \#speed \#bandwith   
 ## Examples:  
 > Run a speedtest.  
   
+## Installation:  
 {% hint style="info" %}
-This skill is in Mycroft Market. That means it is aproved by the Mycroft Skill testers
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by voice" %}
 > Hey Mycroft - install Speedtest

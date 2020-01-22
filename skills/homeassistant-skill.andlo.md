@@ -1,7 +1,5 @@
---- 
+---
 description: 
-categories: IoT   
-tags: homeautomation iot homeassistant smarthome hue smartbulb light lighting lights nest temperature thermostat lifx   
 ---
 
 # Home Assistant Skill for Mycroft  
@@ -16,7 +14,7 @@ Home Assistant is a open source project that lets you control all your smart dev
 **License:** | GNU Lesser General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#homeautomation \#iot \#homeassistant \#smarthome \#hue \#smartbulb \#light \#lighting \#lights \#nest \#temperature \#thermostat \#lifx   
 ## Examples:  
 > Turn on office light.  
@@ -25,11 +23,11 @@ Home Assistant is a open source project that lets you control all your smart dev
 > Home-assistant, spun off my own version since they seem to be inactive.  
 > Home-assistant-with-mycroft-ai-for-home-automation for a general overview of Mycroft AI and Home Assistant.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/andlo/homeassistant-skill```

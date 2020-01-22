@@ -1,7 +1,5 @@
---- 
+---
 description: Mycroft reports real-time pollutant levels in your city
-categories: Daily Information   
-tags: Air quality Pollutant level Mycroft AI   
 ---
 
 # Air Quality  
@@ -40,7 +38,7 @@ levels measured in micrograms per cubic meter.
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Air \#quality \#Pollutant \#level \#Mycroft \#AI   
 ## Examples:  
 > What is the air quality?  
@@ -49,11 +47,11 @@ levels measured in micrograms per cubic meter.
 > What's the ozone level in Dublin?  
 > What's the PM 10 level in Portland?  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/kalyaninagaraj/air-quality-skill```

@@ -1,7 +1,5 @@
---- 
+---
 description: Mycroft GUI Showcase Examples
-categories: Information   
-tags: gui sample example delegates mycroftgui mycroft-gui   
 ---
 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ Example skill to showcase Mycroft GUI supported delegates and skill displays.
 **License:** | GNU General Public License v3.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#gui \#sample \#example \#delegates \#mycroftgui \#mycroft-gui   
 ## Examples:  
 > Show Examples Menu.  
@@ -32,11 +30,11 @@ Example skill to showcase Mycroft GUI supported delegates and skill displays.
 > Show Event System Example.  
 > Show Audio Player Example.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/AIIX/Skill-Gui-Examples```

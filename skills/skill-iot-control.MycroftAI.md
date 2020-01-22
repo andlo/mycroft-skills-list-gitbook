@@ -1,7 +1,5 @@
---- 
+---
 description: Smart home device unification
-categories: IoT   
-tags: system iot   
 ---
 
 ![](../.gitbook/assets/star.png)  
@@ -17,7 +15,7 @@ This Skill doesn't do anything by itself, but it provides an important common la
 **License:** | No License  
 **Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1032 block or hold new  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#system \#iot   
 ## Examples:  
 > Turn on the lights.  

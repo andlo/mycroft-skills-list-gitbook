@@ -1,7 +1,5 @@
---- 
+---
 description: Set named timers for cooking, watering plants, brewing tea and more
-categories: Daily   
-tags: timer kitchen-timer   
 ---
 
 # Timer  
@@ -18,7 +16,7 @@ the top button to stop the beeping once a timer expires.
 **License:** | Apache License 2.0  
 **Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
 **Platform:**  
- ![](../.gitbook/assets/mark-1-icon.png)  ![](../.gitbook/assets/mark-2-icon.png)  ![](../.gitbook/assets/picroft-icon.png)  ![](../.gitbook/assets/kde.png)   
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#timer \#kitchen-timer   
 ## Examples:  
 > Start a timer for 30 seconds.  
@@ -30,11 +28,11 @@ the top button to stop the beeping once a timer expires.
 > How long is left on the turkey timer?  
 > Mute the timer.  
   
+## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
-## Installation:  
 {% tabs %}
 {% tab title="Install by mycroft-msm" %}
 ``` mycroft-msm install https://github.com/BenjaminDannegard/Dog_timer```
