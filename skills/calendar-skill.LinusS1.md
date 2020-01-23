@@ -2,18 +2,9 @@
 description: Access your Calendar
 ---
 
-![](../.gitbook/assets/star.png)  
-# Calendar  
 ### _calendar-skill.LinusS1_  
-## About:  
-With this skill, you can access your iCal server, or just use a local calendar on your device, that doesn't sync anywhere. This skill needs configuration if your use an iCal server. You can (if you're technical) use a local file and not store your server credentials with Mycroft Home, if you follow the instructions here.
-
-## Skill information:  
-**Github:** | [https://github.com/LinusS1/calendar-skill](https://github.com/LinusS1/calendar-skill)  
-**Owner:** | [@LinusS1](https://github.com/LinusS1)  
-**Created:** | 2018 Nov 19 03:01:05 UTC  **Last updated:** 2019 Nov 03 19:04:28 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+With this skill, you can access your iCal server, or just use a local calendar on your device, that doesn't sync anywhere. This skill needs configuration if your use an iCal server. You can (if you're technical) use a local file and not store your server credentials with Mycroft Home, if you follow the instructions here.  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#calendar \#ical \#server   
@@ -27,3 +18,10 @@ With this skill, you can access your iCal server, or just use a local calendar o
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/LinusS1/calendar-skill](https://github.com/LinusS1/calendar-skill)  
+**Owner:** | [@LinusS1](https://github.com/LinusS1)  
+**Created:** | 2018 Nov 19 03:01:05 UTC  **Last updated:** 2019 Nov 03 19:04:28 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

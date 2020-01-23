@@ -2,17 +2,8 @@
 description: 
 ---
 
-# Mycroft skill-radio-oe1  
 ### _skill-radio-oe1.SomePati_  
-## About:  
-Latest news from  from austria.
-
-## Skill information:  
-**Github:** | [https://github.com/SomePati/skill-radio-oe1](https://github.com/SomePati/skill-radio-oe1)  
-**Owner:** | [@SomePati](https://github.com/SomePati)  
-**Created:** | 2018 Mar 10 03:23:39 UTC  **Last updated:** 2018 Mar 10 03:38:58 UTC  
-**License:** | GNU Lesser General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Latest news from  from austria.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -30,4 +21,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/SomePati/skill-radio-oe1```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/SomePati/skill-radio-oe1](https://github.com/SomePati/skill-radio-oe1)  
+**Owner:** | [@SomePati](https://github.com/SomePati)  
+**Created:** | 2018 Mar 10 03:23:39 UTC  **Last updated:** 2018 Mar 10 03:38:58 UTC  
+**License:** | GNU Lesser General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

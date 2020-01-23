@@ -2,17 +2,8 @@
 description: 
 ---
 
-# Write to Google-Spreadsheets Skill  
 ### _skill-google-spreadsheet.Quinn2017_  
-## About:  
-
-
-## Skill information:  
-**Github:** | [https://github.com/Quinn2017/skill-google-spreadsheet](https://github.com/Quinn2017/skill-google-spreadsheet)  
-**Owner:** | [@Quinn2017](https://github.com/Quinn2017)  
-**Created:** | 2018 Mar 18 03:11:53 UTC  **Last updated:** 2018 Apr 06 00:23:56 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Installation:  
@@ -25,4 +16,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/Quinn2017/skill-google-spreadsheet```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/Quinn2017/skill-google-spreadsheet](https://github.com/Quinn2017/skill-google-spreadsheet)  
+**Owner:** | [@Quinn2017](https://github.com/Quinn2017)  
+**Created:** | 2018 Mar 18 03:11:53 UTC  **Last updated:** 2018 Apr 06 00:23:56 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

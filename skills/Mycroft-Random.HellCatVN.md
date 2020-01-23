@@ -2,17 +2,8 @@
 description: 
 ---
 
-# Mycroft-Random  
 ### _Mycroft-Random.HellCatVN_  
-## About:  
-This skill will let mycroft create n number from a to b.
-
-## Skill information:  
-**Github:** | [https://github.com/HellCatVN/Mycroft-Random](https://github.com/HellCatVN/Mycroft-Random)  
-**Owner:** | [@HellCatVN](https://github.com/HellCatVN)  
-**Created:** | 2018 May 15 04:18:31 UTC  **Last updated:** 2018 May 15 04:34:27 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+This skill will let mycroft create n number from a to b.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -29,4 +20,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/HellCatVN/Mycroft-Random```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/HellCatVN/Mycroft-Random](https://github.com/HellCatVN/Mycroft-Random)  
+**Owner:** | [@HellCatVN](https://github.com/HellCatVN)  
+**Created:** | 2018 May 15 04:18:31 UTC  **Last updated:** 2018 May 15 04:34:27 UTC  
+**License:** | MIT License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

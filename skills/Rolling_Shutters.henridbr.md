@@ -2,19 +2,10 @@
 description: 
 ---
 
-# Rolling_Shutters  
 ### _Rolling_Shutters.henridbr_  
-## About:  
 
 Henri Debierre.
-
-
-## Skill information:  
-**Github:** | [https://github.com/henridbr/Rolling_Shutters](https://github.com/henridbr/Rolling_Shutters)  
-**Owner:** | [@henridbr](https://github.com/henridbr)  
-**Created:** | 2018 Sep 26 19:56:19 UTC  **Last updated:** 2018 Oct 31 08:33:41 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -25,3 +16,10 @@ Henri Debierre.
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/henridbr/Rolling_Shutters](https://github.com/henridbr/Rolling_Shutters)  
+**Owner:** | [@henridbr](https://github.com/henridbr)  
+**Created:** | 2018 Sep 26 19:56:19 UTC  **Last updated:** 2018 Oct 31 08:33:41 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

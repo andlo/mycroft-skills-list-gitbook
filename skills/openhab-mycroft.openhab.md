@@ -2,10 +2,7 @@
 description: This skill adds openHAB support to Mycroft
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# openHAB  
 ### _openhab-mycroft.openhab_  
-## About:  
 This skill adds openHAB support to Mycroft.
 The skill takes advantage of the openHAB REST API, so it works both with the v1.x and v2.x of openHAB.
 In order to make openHAB Items accessible to Mycroft, they need to be tagged.
@@ -27,14 +24,8 @@ If items are modified in openHAB, a refresh in Mycroft is needed by the command:
 "Hey Mycroft, refresh openhab items"
 
 If you've forgotten what items have been identified, you can ask Mycroft:
-- "Hey Mycroft, list openhab items"
-
-## Skill information:  
-**Github:** | [https://github.com/openhab/openhab-mycroft](https://github.com/openhab/openhab-mycroft)  
-**Owner:** | [@openhab](https://github.com/openhab)  
-**Created:** | 2017 Sep 07 19:37:21 UTC  **Last updated:** 2019 Dec 20 15:45:08 UTC  
-**License:** | Eclipse Public License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/openhab-skill)  
+- "Hey Mycroft, list openhab items"  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#openHAB \#smarthome \#IoT \#Automation \#opensource   
@@ -72,4 +63,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ``` mycroft-msm install openHAB```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/openhab/openhab-mycroft](https://github.com/openhab/openhab-mycroft)  
+**Owner:** | [@openhab](https://github.com/openhab)  
+**Created:** | 2017 Sep 07 19:37:21 UTC  **Last updated:** 2019 Dec 20 15:45:08 UTC  
+**License:** | Eclipse Public License 2.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/openhab-skill)  

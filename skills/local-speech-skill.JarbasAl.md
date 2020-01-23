@@ -2,25 +2,23 @@
 description: Listens offline for wake words and pre-defined speech commands
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Local Speech  
 ### _local-speech-skill.JarbasAl_  
-## About:  
 Using kaldi it will perform offline speech recognition 24/7
 pre approved commands will be broadcast to messagebus
 also works as a wake word spotter, multiple wake words supported at the same time
 wake words will trigger mycroft's speech client
-edit your configuration at "~/.kaldi_spotter/kaldi_spotter.conf" or add/remove hotwords at home.mycroft.ai, see kaldi_spotter for configuration details.
-
-## Skill information:  
-**Github:** | [https://github.com/JarbasAl/local-speech-skill](https://github.com/JarbasAl/local-speech-skill)  
-**Owner:** | [@JarbasAl](https://github.com/JarbasAl)  
-**Created:** | 2019 Jun 06 15:14:27 UTC  **Last updated:** 2019 Nov 23 17:24:03 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+edit your configuration at "~/.kaldi_spotter/kaldi_spotter.conf" or add/remove hotwords at home.mycroft.ai, see kaldi_spotter for configuration details.  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#offline \#STT \#mic   
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/JarbasAl/local-speech-skill](https://github.com/JarbasAl/local-speech-skill)  
+**Owner:** | [@JarbasAl](https://github.com/JarbasAl)  
+**Created:** | 2019 Jun 06 15:14:27 UTC  **Last updated:** 2019 Nov 23 17:24:03 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

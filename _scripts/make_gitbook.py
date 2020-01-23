@@ -26,56 +26,23 @@ def make_skillsfiles(skills):
         #    txt.append(tag + ' ')
         #txt.append('  \n')
         txt.append('---\n\n')
-        if not skill["stargazers_count"] == 0: 
-            for x in range(skill["stargazers_count"]):
-                txt.append('![](../.gitbook/assets/star.png)')
-            txt.append('  \n')               
-        txt.append('# ' + skill["skill_info"]["name"] + '  \n')
+        #txt.append('# ' + skill["skill_info"]["name"] + '  \n')
         txt.append('### _' + skill["skill_info"]["id"] + '_  \n')
         
         #icon_img = '../img/' + skill["owner"]["login"] + '_icon.png'
         #get_img(skill["skill_info"]["icon_img"], icon_img)
         #resize_img(icon_img, 50)
         #txt.append(skill["skill_info"]["title"] + '\n\n')
-        txt.append('## About:  \n')
-        txt.append(clean_txt(skill["skill_info"]["description"]) + '\n\n')
+        #txt.append('## About:  \n')
+        txt.append(clean_txt(skill["skill_info"]["description"]) + '  \n')
         #avatar = '../img/' + skill["owner"]["login"] + '_avatar.png'
         #avatar = get_img(skill["owner"]["avatar_url"], avatar)
         #resize_img(avatar, 50)
+        if not skill["stargazers_count"] == 0: 
+            for x in range(skill["stargazers_count"]):
+                txt.append('![](../.gitbook/assets/star.png)')
+            txt.append('  \n')               
         
-        txt.append('## Skill information:  \n')
-        txt.append('**Github:** | [' + skill["html_url"] + ']' + '(' + skill["html_url"] + ')  \n') 
-        txt.append('**Owner:** | [@' + skill["owner"]["login"] + 
-                   '](' + skill["owner"]["html_url"] + 
-                   ')  \n')
-        txt.append('**Created:** | ' + nice_time(skill["created_at"]) + 
-                   '  **Last updated:** ' + nice_time(skill["updated_at"]) + '  \n')
-        
-
-        try:
-            txt.append('**License:** | ' + skill["license"]["name"] + '  \n')
-            license = True
-        except Exception:
-            txt.append('**License:** | No License  \n')
-            license = False
-        try:
-            txt.append('**Market status:** | ' + 
-                       '[' + skill["skill_info"].get("market_status") + ']' +
-                       '(' + skill["skill_info"]["market_url"] + ')')
-            if skill["skill_info"]["market_status"] == 'In Market':
-                market = True
-            else:
-                market = False
-        except Exception:
-            market = False
-            pass
-        if skill["skill_info"]["market_status"] == 'Pending Market':
-            try:
-                for label in skill["skill_info"]["market_pending"]:
-                    txt.append(' ' + label)
-            except Exception:
-                pass
-        txt.append('  \n')
         try:
             mk1 = ' ![Mark I](../.gitbook/assets/mark-1-icon.png) '
             mk2 = ' ![Mark II](../.gitbook/assets/mark-2-icon.png) '
@@ -109,6 +76,16 @@ def make_skillsfiles(skills):
             txt.append('  \n')
 
         ast = skill["skill_info"]["ast_passed"]
+        try:
+            skill["license"].get("name")
+            license = True
+        except Exception:
+            license = False
+        if skill["skill_info"]["market_status"] == 'In Market':
+            market = True
+        else:
+            market = False
+
         if not ast:
             txt.append('{% hint style="warning" %}\n')                
             txt.append('This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.\n')
@@ -143,7 +120,39 @@ def make_skillsfiles(skills):
                        '``` mycroft-msm install ' + skill["html_url"] + '```\n')
             txt.append('{% endtab %}\n  ')
             txt.append('{% endtabs %}\n  ')
-
+        txt.append('  \n')
+        txt.append('## Summary:  \n')
+        txt.append('**Github:** | [' + skill["html_url"] + ']' + '(' + skill["html_url"] + ')  \n') 
+        txt.append('**Owner:** | [@' + skill["owner"]["login"] + 
+                   '](' + skill["owner"]["html_url"] + 
+                   ')  \n')
+        txt.append('**Created:** | ' + nice_time(skill["created_at"]) + 
+                   '  **Last updated:** ' + nice_time(skill["updated_at"]) + '  \n')
+        try:
+            txt.append('**License:** | ' + skill["license"]["name"] + '  \n')
+            license = True
+        except Exception:
+            txt.append('**License:** | No License  \n')
+            license = False
+        try:
+            txt.append('**Market status:** | ' + 
+                       '[' + skill["skill_info"].get("market_status") + ']' +
+                       '(' + skill["skill_info"]["market_url"] + ')')
+            if skill["skill_info"]["market_status"] == 'In Market':
+                market = True
+            else:
+                market = False
+        except Exception:
+            market = False
+            pass
+        if skill["skill_info"]["market_status"] == 'Pending Market':
+            try:
+                for label in skill["skill_info"]["market_pending"]:
+                    txt.append(' ' + label)
+            except Exception:
+                pass
+        txt.append('  \n')
+      
         skillfile = '../skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
         of = open(skillfile, 'w')
         of.writelines(txt)
@@ -188,15 +197,14 @@ def make_categorylist(skills):
         if not skill["skill_info"].get("categories"):
             skill["skill_info"]["categories"] = ['uncategorized']
         for category in skill["skill_info"]["categories"]:
-            text = "    * [" + skill["skill_info"]["title"] + "](" + skillfile + ")\n"
-            #print(category)
+            if skill["skill_info"]["title"] == "YOUR SKILL NAME":
+                text = "    * [" + skill["name"] + "](" + skillfile + ")\n"
+            else:
+                text = "    * [" + skill["skill_info"]["title"] + "](" + skillfile + ")\n"
             categoryitem = [text]
             if categorylist.get(category):
-                #print(category)
                 cat =  categorylist.get(category)
                 cat.append(text)
-                #print(cat)
-                #print(cat.append(categoryitem))
                 categorylist[category] = cat
             else:
                 categorylist[category] = categoryitem

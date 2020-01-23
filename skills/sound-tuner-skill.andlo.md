@@ -2,10 +2,7 @@
 description: This skill plays a sound in the given note or an sound in the given guitar string
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Sound tuner  
 ### _sound-tuner-skill.andlo_  
-## About:  
 This skill plays a sound in the given note or an sound in the given guitar string.
 This can be used to tune a musical instruments.
 Mycroft is using the even tempered (aka equal tempered) scale, where an octave is a
@@ -14,14 +11,8 @@ twelfth root of two. In the real world however many different temperaments may b
 used - see en.wikipedia.org/wiki/Musical_temperament - and octaves too can vary in
 size, see  en.wikipedia.org/wiki/Stretched_octave.
 Also Mycroft call middle C for "C4" : this is the commonest octave numbering but some
-people call middle C for "C3" or even for "C5".
-
-## Skill information:  
-**Github:** | [https://github.com/andlo/sound-tuner-skill](https://github.com/andlo/sound-tuner-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018 Dec 08 20:51:57 UTC  **Last updated:** 2019 Dec 18 15:10:43 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+people call middle C for "C3" or even for "C5".  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#sound \#tuner   
@@ -40,3 +31,10 @@ people call middle C for "C3" or even for "C5".
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/andlo/sound-tuner-skill](https://github.com/andlo/sound-tuner-skill)  
+**Owner:** | [@andlo](https://github.com/andlo)  
+**Created:** | 2018 Dec 08 20:51:57 UTC  **Last updated:** 2019 Dec 18 15:10:43 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

@@ -2,17 +2,8 @@
 description: Train your body parts
 ---
 
-# Sport Exercises  
 ### _sport-exercises-skill.TheCis_  
-## About:  
-Mycroft will help you train your body parts with diffrent exercises.
-
-## Skill information:  
-**Github:** | [https://github.com/TheCis/sport-exercises-skill](https://github.com/TheCis/sport-exercises-skill)  
-**Owner:** | [@TheCis](https://github.com/TheCis)  
-**Created:** | 2019 Jul 30 08:04:15 UTC  **Last updated:** 2019 Jul 30 08:04:22 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Mycroft will help you train your body parts with diffrent exercises.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Body \#parts \#Sport \#Workout   
@@ -31,3 +22,10 @@ Mycroft will help you train your body parts with diffrent exercises.
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/TheCis/sport-exercises-skill](https://github.com/TheCis/sport-exercises-skill)  
+**Owner:** | [@TheCis](https://github.com/TheCis)  
+**Created:** | 2019 Jul 30 08:04:15 UTC  **Last updated:** 2019 Jul 30 08:04:22 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

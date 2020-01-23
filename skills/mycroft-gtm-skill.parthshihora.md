@@ -2,18 +2,9 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# mycroft-gtm-skill  
 ### _mycroft-gtm-skill.parthshihora_  
-## About:  
-
-
-## Skill information:  
-**Github:** | [https://github.com/parthshihora/mycroft-gtm-skill](https://github.com/parthshihora/mycroft-gtm-skill)  
-**Owner:** | [@parthshihora](https://github.com/parthshihora)  
-**Created:** | 2018 Sep 27 17:49:36 UTC  **Last updated:** 2019 Jan 22 00:10:35 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Installation:  
@@ -26,4 +17,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/parthshihora/mycroft-gtm-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/parthshihora/mycroft-gtm-skill](https://github.com/parthshihora/mycroft-gtm-skill)  
+**Owner:** | [@parthshihora](https://github.com/parthshihora)  
+**Created:** | 2018 Sep 27 17:49:36 UTC  **Last updated:** 2019 Jan 22 00:10:35 UTC  
+**License:** | Other  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

@@ -2,18 +2,9 @@
 description: Ask MyCroft to remember things for you
 ---
 
-# Remember  
 ### _test-remember-skill.waltk99_  
-## About:  
 You can ask MyCroft to remember and forget things.
-It will store everything in a list locally on your device.
-
-## Skill information:  
-**Github:** | [https://github.com/waltk99/test-remember-skill](https://github.com/waltk99/test-remember-skill)  
-**Owner:** | [@waltk99](https://github.com/waltk99)  
-**Created:** | 2019 Nov 10 22:49:55 UTC  **Last updated:** 2019 Nov 10 22:50:15 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+It will store everything in a list locally on your device.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#brain \#remember \#todo-list   
@@ -33,4 +24,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/waltk99/test-remember-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/waltk99/test-remember-skill](https://github.com/waltk99/test-remember-skill)  
+**Owner:** | [@waltk99](https://github.com/waltk99)  
+**Created:** | 2019 Nov 10 22:49:55 UTC  **Last updated:** 2019 Nov 10 22:50:15 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

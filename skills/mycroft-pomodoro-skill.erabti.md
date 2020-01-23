@@ -2,10 +2,7 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Pomodoro Skill  
 ### _mycroft-pomodoro-skill.erabti_  
-## About:  
 This skill is used to try to make Mycroft as your work companion.
 Pomodoro is a very good work technique used to manage time, by giving persistent break times.
 NOTES:
@@ -29,14 +26,8 @@ Ask to save the session each time finishes.
 Keep record of distractions during the session.
 Integrate with the enclosure.
 Switchable fun mode!
-
-
-## Skill information:  
-**Github:** | [https://github.com/erabti/mycroft-pomodoro-skill](https://github.com/erabti/mycroft-pomodoro-skill)  
-**Owner:** | [@erabti](https://github.com/erabti)  
-**Created:** | 2018 Jan 06 21:55:09 UTC  **Last updated:** 2018 Aug 27 15:35:39 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -62,3 +53,10 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/erabti/mycroft-pomodoro-skill](https://github.com/erabti/mycroft-pomodoro-skill)  
+**Owner:** | [@erabti](https://github.com/erabti)  
+**Created:** | 2018 Jan 06 21:55:09 UTC  **Last updated:** 2018 Aug 27 15:35:39 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

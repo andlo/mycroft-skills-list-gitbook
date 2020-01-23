@@ -2,17 +2,8 @@
 description: Control the flashcard program anki with your voice
 ---
 
-# Anki Interface  
 ### _anki-interface-skill.timo-a_  
-## About:  
-Control the flashcard program anki with your voice. mycroft navigates anki by sending key presses.
-
-## Skill information:  
-**Github:** | [https://github.com/timo-a/anki-interface-skill](https://github.com/timo-a/anki-interface-skill)  
-**Owner:** | [@timo-a](https://github.com/timo-a)  
-**Created:** | 2019 Dec 11 23:34:58 UTC  **Last updated:** 2019 Dec 13 13:37:48 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Control the flashcard program anki with your voice. mycroft navigates anki by sending key presses.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Spaced \#repetition \#Vocab \#Learning   
@@ -42,4 +33,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/timo-a/anki-interface-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/timo-a/anki-interface-skill](https://github.com/timo-a/anki-interface-skill)  
+**Owner:** | [@timo-a](https://github.com/timo-a)  
+**Created:** | 2019 Dec 11 23:34:58 UTC  **Last updated:** 2019 Dec 13 13:37:48 UTC  
+**License:** | MIT License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

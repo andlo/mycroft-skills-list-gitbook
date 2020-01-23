@@ -2,18 +2,9 @@
 description: A simple calculator skill for Mycroft AI
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Calculator  
 ### _calculator.gras64_  
-## About:  
-The skill enables simple computational tasks to be solved.
-
-## Skill information:  
-**Github:** | [https://github.com/gras64/calculator](https://github.com/gras64/calculator)  
-**Owner:** | [@gras64](https://github.com/gras64)  
-**Created:** | 2019 Jul 23 12:24:58 UTC  **Last updated:** 2019 Aug 18 12:53:36 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+The skill enables simple computational tasks to be solved.  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#'calculation   
@@ -37,4 +28,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/gras64/calculator```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/gras64/calculator](https://github.com/gras64/calculator)  
+**Owner:** | [@gras64](https://github.com/gras64)  
+**Created:** | 2019 Jul 23 12:24:58 UTC  **Last updated:** 2019 Aug 18 12:53:36 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

@@ -2,20 +2,11 @@
 description: 
 ---
 
-# Ask-Stack  
 ### _ask-stack.AIIX_  
-## About:  
 Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display and Interact with Results
 Find Questions on StackExchanged based channels.
 Done: StackOverFlow
-ToDo: Rest.
-
-## Skill information:  
-**Github:** | [https://github.com/AIIX/ask-stack](https://github.com/AIIX/ask-stack)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018 Mar 27 07:14:52 UTC  **Last updated:** 2018 Aug 22 16:10:52 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+ToDo: Rest.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -24,3 +15,10 @@ ToDo: Rest.
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/AIIX/ask-stack](https://github.com/AIIX/ask-stack)  
+**Owner:** | [@AIIX](https://github.com/AIIX)  
+**Created:** | 2018 Mar 27 07:14:52 UTC  **Last updated:** 2018 Aug 22 16:10:52 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

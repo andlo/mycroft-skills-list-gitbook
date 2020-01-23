@@ -2,19 +2,10 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# internet radio  
 ### _skill-internet-radio.normandmickey_  
-## About:  
 Play internet radio stations using Mycroft.
-Manage your station URLs at home.mycroft.ai -> Skills.
-
-## Skill information:  
-**Github:** | [https://github.com/normandmickey/skill-internet-radio](https://github.com/normandmickey/skill-internet-radio)  
-**Owner:** | [@normandmickey](https://github.com/normandmickey)  
-**Created:** | 2017 Nov 24 04:26:15 UTC  **Last updated:** 2019 May 25 14:26:49 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Manage your station URLs at home.mycroft.ai -> Skills.  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -53,3 +44,10 @@ Manage your station URLs at home.mycroft.ai -> Skills.
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/normandmickey/skill-internet-radio](https://github.com/normandmickey/skill-internet-radio)  
+**Owner:** | [@normandmickey](https://github.com/normandmickey)  
+**Created:** | 2017 Nov 24 04:26:15 UTC  **Last updated:** 2019 May 25 14:26:49 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

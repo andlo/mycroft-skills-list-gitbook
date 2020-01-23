@@ -2,17 +2,8 @@
 description: 
 ---
 
-# movie trivia  
 ### _movie_trivia.fandonov_  
-## About:  
-With self contained db from opendb project, this skill knows lets Mycroft knows all about who plays who in what movie, directors, screen writers, etc.
-
-## Skill information:  
-**Github:** | [https://github.com/fandonov/movie_trivia](https://github.com/fandonov/movie_trivia)  
-**Owner:** | [@fandonov](https://github.com/fandonov)  
-**Created:** | 2018 Dec 29 11:51:10 UTC  **Last updated:** 2018 Dec 30 16:58:32 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+With self contained db from opendb project, this skill knows lets Mycroft knows all about who plays who in what movie, directors, screen writers, etc.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -32,4 +23,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/fandonov/movie_trivia```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/fandonov/movie_trivia](https://github.com/fandonov/movie_trivia)  
+**Owner:** | [@fandonov](https://github.com/fandonov)  
+**Created:** | 2018 Dec 29 11:51:10 UTC  **Last updated:** 2018 Dec 30 16:58:32 UTC  
+**License:** | Other  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

@@ -2,10 +2,7 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# score  
 ### _skill-score.deejcunningham_  
-## About:  
 Skill-score is an application that enables Mycroft to answer user questions about Major League Baseball (MLB) scores. Mycroft is an open-source AI voice assistant. Skill-score uses panzarino's mlbgame API to report an MLB team's latest final scores, including live scores.
 User input has the format:
 "What is the {team}'s score?"
@@ -16,14 +13,8 @@ If a game is not in progress, Mycroft will respond:
 Next Goals
 The next goals for skill-score are the ability to:
 * give the time of the next MLB game; and
-* support more leagues (e.g., National Football League, National Basketball League), depending on available APIs.
-
-## Skill information:  
-**Github:** | [https://github.com/deejcunningham/skill-score](https://github.com/deejcunningham/skill-score)  
-**Owner:** | [@deejcunningham](https://github.com/deejcunningham)  
-**Created:** | 2018 May 17 23:56:07 UTC  **Last updated:** 2019 Oct 29 21:49:58 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+* support more leagues (e.g., National Football League, National Basketball League), depending on available APIs.  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -41,4 +32,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/deejcunningham/skill-score```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/deejcunningham/skill-score](https://github.com/deejcunningham/skill-score)  
+**Owner:** | [@deejcunningham](https://github.com/deejcunningham)  
+**Created:** | 2018 May 17 23:56:07 UTC  **Last updated:** 2019 Oct 29 21:49:58 UTC  
+**License:** | MIT License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

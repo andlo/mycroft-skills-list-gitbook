@@ -2,9 +2,7 @@
 description: A skill to connect a telegram bot to MyCroft. This will send you everything that is happening, if you are looking for the "normal" telegram skill -> 
 ---
 
-# Telegram Spam Skill  
 ### _telegram-spam-skill.luke5sky_  
-## About:  
 You need to create a telegram bot (via BotFather) and save the Bot Token, your ChatID and your MyCroft Device name on home.mycroft.ai under skill settings.
 After this restart your MyCroft Unit.
 You can now commmunicate with your MyCroft Unit via this bot.
@@ -58,14 +56,7 @@ reboot your device to trigger the sync
 
 Your bot should send you this welcome message: Telegram-Skill on Mycroft Unit YOURUNIT is loaded and ready to use.
 
-
-
-## Skill information:  
-**Github:** | [https://github.com/luke5sky/telegram-spam-skill](https://github.com/luke5sky/telegram-spam-skill)  
-**Owner:** | [@luke5sky](https://github.com/luke5sky)  
-**Created:** | 2019 Jan 04 10:25:15 UTC  **Last updated:** 2019 Jan 04 10:31:55 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#messenger \#bot \#telegram-bot   
@@ -79,4 +70,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/luke5sky/telegram-spam-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/luke5sky/telegram-spam-skill](https://github.com/luke5sky/telegram-spam-skill)  
+**Owner:** | [@luke5sky](https://github.com/luke5sky)  
+**Created:** | 2019 Jan 04 10:25:15 UTC  **Last updated:** 2019 Jan 04 10:31:55 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

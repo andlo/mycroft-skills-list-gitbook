@@ -2,21 +2,12 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# whats-nearby  
 ### _whats-nearby.AIIX_  
-## About:  
 Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display Results
 Permission Notice: This Skill makes use of Mozilla Location Services to determine your current location
 This skill requires you to setup your own HERE API Keys on  | Register for free HERE API Keys at: 
-To-Do: Improve Location Accuracy on Plasma-Mobile by utilizing nearby cell-tower information.
-
-## Skill information:  
-**Github:** | [https://github.com/AIIX/whats-nearby](https://github.com/AIIX/whats-nearby)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018 Jan 02 13:27:41 UTC  **Last updated:** 2018 Aug 22 15:22:13 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+To-Do: Improve Location Accuracy on Plasma-Mobile by utilizing nearby cell-tower information.  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -31,3 +22,10 @@ To-Do: Improve Location Accuracy on Plasma-Mobile by utilizing nearby cell-tower
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/AIIX/whats-nearby](https://github.com/AIIX/whats-nearby)  
+**Owner:** | [@AIIX](https://github.com/AIIX)  
+**Created:** | 2018 Jan 02 13:27:41 UTC  **Last updated:** 2018 Aug 22 15:22:13 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

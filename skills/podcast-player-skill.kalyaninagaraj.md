@@ -2,18 +2,9 @@
 description: Mycroft plays the latest episode of your favorite podcast
 ---
 
-# Podcast Player  
 ### _podcast-player-skill.kalyaninagaraj_  
-## About:  
 Unlike a typical podcast player, this skill does not maintain playlist.
-Instead, this skill lets you to play a particular episode by identifying the season and episode number to Mycroft.
-
-## Skill information:  
-**Github:** | [https://github.com/kalyaninagaraj/podcast-player-skill](https://github.com/kalyaninagaraj/podcast-player-skill)  
-**Owner:** | [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
-**Created:** | 2019 Dec 18 13:05:04 UTC  **Last updated:** 2019 Dec 27 14:11:54 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Instead, this skill lets you to play a particular episode by identifying the season and episode number to Mycroft.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Podcast \#Mycroft \#AI   
@@ -33,4 +24,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/kalyaninagaraj/podcast-player-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/kalyaninagaraj/podcast-player-skill](https://github.com/kalyaninagaraj/podcast-player-skill)  
+**Owner:** | [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
+**Created:** | 2019 Dec 18 13:05:04 UTC  **Last updated:** 2019 Dec 27 14:11:54 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

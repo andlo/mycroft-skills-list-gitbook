@@ -2,10 +2,7 @@
 description: Updates original Mark 1 devices so they can upgrade to the latest version of Mycroft
 ---
 
-![](../.gitbook/assets/star.png)  
-# Platform Patch  
 ### _skill-platform-patch.MycroftAI_  
-## About:  
 Some of the earliest shipping Mark 1 devices require this platform patch in order to begin automatically updating.
 You can tell if you need the patch by following this guide:
 Hey Mycroft, install version checker
@@ -13,14 +10,8 @@ Hey Mycroft, install version checker
 (wait a minute)
 Hey Mycroft, what version are you running?
 "I'm runing mycroft-core version 0.8.19"
-If your version is less than 0.9.0, you should install this platform patch.
-
-## Skill information:  
-**Github:** | [https://github.com/MycroftAI/skill-platform-patch](https://github.com/MycroftAI/skill-platform-patch)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Jul 03 16:24:57 UTC  **Last updated:** 2018 Aug 29 18:29:59 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+If your version is less than 0.9.0, you should install this platform patch.  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)   
 **Tags:** \#mark1 \#mycroft-mark1 \#platform-patch \#update \#patch   
@@ -37,4 +28,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/MycroftAI/skill-platform-patch```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/MycroftAI/skill-platform-patch](https://github.com/MycroftAI/skill-platform-patch)  
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** | 2017 Jul 03 16:24:57 UTC  **Last updated:** 2018 Aug 29 18:29:59 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

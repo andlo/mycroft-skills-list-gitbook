@@ -2,17 +2,8 @@
 description: 
 ---
 
-# mycroft-readfile  
 ### _mycroft-readfile.reaperjudge_  
-## About:  
-Reads every line of the programmed file.
-
-## Skill information:  
-**Github:** | [https://github.com/reaperjudge/mycroft-readfile](https://github.com/reaperjudge/mycroft-readfile)  
-**Owner:** | [@reaperjudge](https://github.com/reaperjudge)  
-**Created:** | 2019 Feb 27 00:04:18 UTC  **Last updated:** 2019 Feb 27 00:48:53 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Reads every line of the programmed file.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -23,3 +14,10 @@ Reads every line of the programmed file.
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/reaperjudge/mycroft-readfile](https://github.com/reaperjudge/mycroft-readfile)  
+**Owner:** | [@reaperjudge](https://github.com/reaperjudge)  
+**Created:** | 2019 Feb 27 00:04:18 UTC  **Last updated:** 2019 Feb 27 00:48:53 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

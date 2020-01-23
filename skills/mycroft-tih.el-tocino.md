@@ -2,18 +2,9 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# Mycroft Today in History - Event skill  
 ### _mycroft-tih.el-tocino_  
-## About:  
-
-
-## Skill information:  
-**Github:** | [https://github.com/el-tocino/mycroft-tih](https://github.com/el-tocino/mycroft-tih)  
-**Owner:** | [@el-tocino](https://github.com/el-tocino)  
-**Created:** | 2018 Jan 22 04:44:08 UTC  **Last updated:** 2019 Dec 19 02:44:45 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Installation:  
@@ -26,4 +17,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/el-tocino/mycroft-tih```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/el-tocino/mycroft-tih](https://github.com/el-tocino/mycroft-tih)  
+**Owner:** | [@el-tocino](https://github.com/el-tocino)  
+**Created:** | 2018 Jan 22 04:44:08 UTC  **Last updated:** 2019 Dec 19 02:44:45 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

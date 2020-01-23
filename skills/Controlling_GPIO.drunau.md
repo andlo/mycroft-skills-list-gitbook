@@ -2,9 +2,7 @@
 description: Example of interacting with GPIO pins on a Raspberry Pi
 ---
 
-# Raspberry Pi GPIO Demo  
 ### _Controlling_GPIO.drunau_  
-## About:  
 This Skill demonstrates how to interact with the Raspberry Pi GPIO pins using a Mycroft Skill. This Skill shows both reading data from a GPIO port (detecting a button press) and writing data to the port (illuminating an LED).
 Preparation
 You will need to first install the GPIO libraries for Picroft, and add some additional permissions.
@@ -33,14 +31,7 @@ Notes
 If the LED blinking is too fast, it will be difficult to get a command to execute because there will be a voice response when the the LED turns off and on. Turn the blinking to a lower frequency to be able to execute commands.
 Circuit
 Please use the below image as a guide to the circuit layout:
-
-
-## Skill information:  
-**Github:** | [https://github.com/drunau/Controlling_GPIO](https://github.com/drunau/Controlling_GPIO)  
-**Owner:** | [@drunau](https://github.com/drunau)  
-**Created:** | 2019 Aug 29 10:58:03 UTC  **Last updated:** 2019 Aug 29 10:58:14 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1081 needs validation new  
+  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#IoT \#GPIO \#RPi   
@@ -60,4 +51,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/drunau/Controlling_GPIO```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/drunau/Controlling_GPIO](https://github.com/drunau/Controlling_GPIO)  
+**Owner:** | [@drunau](https://github.com/drunau)  
+**Created:** | 2019 Aug 29 10:58:03 UTC  **Last updated:** 2019 Aug 29 10:58:14 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1081 needs validation new  

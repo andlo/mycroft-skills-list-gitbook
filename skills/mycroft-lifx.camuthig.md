@@ -2,17 +2,8 @@
 description: 
 ---
 
-# mycroft-lifx  
 ### _mycroft-lifx.camuthig_  
-## About:  
-
-
-## Skill information:  
-**Github:** | [https://github.com/camuthig/mycroft-lifx](https://github.com/camuthig/mycroft-lifx)  
-**Owner:** | [@camuthig](https://github.com/camuthig)  
-**Created:** | 2018 Jan 13 22:18:57 UTC  **Last updated:** 2018 Jan 13 22:19:57 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -31,4 +22,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/camuthig/mycroft-lifx```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/camuthig/mycroft-lifx](https://github.com/camuthig/mycroft-lifx)  
+**Owner:** | [@camuthig](https://github.com/camuthig)  
+**Created:** | 2018 Jan 13 22:18:57 UTC  **Last updated:** 2018 Jan 13 22:19:57 UTC  
+**License:** | Other  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

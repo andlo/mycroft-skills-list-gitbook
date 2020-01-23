@@ -2,10 +2,7 @@
 description: Add and remove Mycroft Skills
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Installer  
 ### _skill-installer.MycroftAI_  
-## About:  
 Add and remove Skills using your voice or from the Marketplace.
 You can also assist skill authors in testing new versions of their skills by
 using "install prevew version" to gain access to skills still under development
@@ -14,14 +11,8 @@ unstable development state and report issues to the author appropriately.
 You can also install Skills that are not officially released by entering the
 Skill's GitHub repository URL in the Installer's web user interface.
 Skills are ultimately installed using the Mycroft Skill Manager (msm).  If verbally installing, Mycroft will speak a list of possible matches for
-ambiguous names -- just pick the skill you want from the list read to you.
-
-## Skill information:  
-**Github:** | [https://github.com/MycroftAI/skill-installer](https://github.com/MycroftAI/skill-installer)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 05 22:57:26 UTC  **Last updated:** 2019 Nov 15 13:45:26 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-installer)  
+ambiguous names -- just pick the skill you want from the list read to you.  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#install \#installer \#download \#add-skill \#skill \#skills \#msm \#system   
@@ -45,4 +36,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ``` mycroft-msm install Installer```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/MycroftAI/skill-installer](https://github.com/MycroftAI/skill-installer)  
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** | 2017 Apr 05 22:57:26 UTC  **Last updated:** 2019 Nov 15 13:45:26 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-installer)  

@@ -2,17 +2,8 @@
 description: 
 ---
 
-# Nanoleaf  
 ### _nanoleaf-skill.abowerman_  
-## About:  
-Robots and blinky lights, oh my.
-
-## Skill information:  
-**Github:** | [https://github.com/abowerman/nanoleaf-skill](https://github.com/abowerman/nanoleaf-skill)  
-**Owner:** | [@abowerman](https://github.com/abowerman)  
-**Created:** | 2019 Aug 21 07:44:45 UTC  **Last updated:** 2019 Sep 07 02:27:46 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Robots and blinky lights, oh my.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -29,4 +20,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/abowerman/nanoleaf-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/abowerman/nanoleaf-skill](https://github.com/abowerman/nanoleaf-skill)  
+**Owner:** | [@abowerman](https://github.com/abowerman)  
+**Created:** | 2019 Aug 21 07:44:45 UTC  **Last updated:** 2019 Sep 07 02:27:46 UTC  
+**License:** | MIT License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

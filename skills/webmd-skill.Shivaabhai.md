@@ -2,19 +2,10 @@
 description: Wikipedia
 ---
 
-![](../.gitbook/assets/star.png)  
-# Wikipedia  
 ### _webmd-skill.Shivaabhai_  
-## About:  
 Query Wikipedia for answers to all your questions.  Get just a summary, or ask for more to get in-depth information.
-This Skill uses the Wikimedia API.
-
-## Skill information:  
-**Github:** | [https://github.com/Shivaabhai/webmd-skill](https://github.com/Shivaabhai/webmd-skill)  
-**Owner:** | [@Shivaabhai](https://github.com/Shivaabhai)  
-**Created:** | 2019 Mar 10 09:16:40 UTC  **Last updated:** 2019 Dec 19 02:53:34 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+This Skill uses the Wikimedia API.  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#wikipedia \#encyclopedia \#general-knowledge \#wiki \#question \#query   
@@ -38,4 +29,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/Shivaabhai/webmd-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/Shivaabhai/webmd-skill](https://github.com/Shivaabhai/webmd-skill)  
+**Owner:** | [@Shivaabhai](https://github.com/Shivaabhai)  
+**Created:** | 2019 Mar 10 09:16:40 UTC  **Last updated:** 2019 Dec 19 02:53:34 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

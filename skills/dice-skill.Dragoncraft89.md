@@ -2,20 +2,11 @@
 description: Generates random numbers for you
 ---
 
-![](../.gitbook/assets/star.png)  
-# Dice  
 ### _dice-skill.Dragoncraft89_  
-## About:  
 This skill enables mycroft to generate random numbers for you.
 You either need to specify a range or type of dice (e.g. d20).
-Perfect whenever you need to generate a random number, but don't have a dice nearby.
-
-## Skill information:  
-**Github:** | [https://github.com/Dragoncraft89/dice-skill](https://github.com/Dragoncraft89/dice-skill)  
-**Owner:** | [@Dragoncraft89](https://github.com/Dragoncraft89)  
-**Created:** | 2018 Dec 13 17:15:12 UTC  **Last updated:** 2019 Nov 01 12:52:00 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/dice-skill)  
+Perfect whenever you need to generate a random number, but don't have a dice nearby.  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#dice \#random \#dnd   
@@ -37,4 +28,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ``` mycroft-msm install Dice```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/Dragoncraft89/dice-skill](https://github.com/Dragoncraft89/dice-skill)  
+**Owner:** | [@Dragoncraft89](https://github.com/Dragoncraft89)  
+**Created:** | 2018 Dec 13 17:15:12 UTC  **Last updated:** 2019 Nov 01 12:52:00 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/dice-skill)  

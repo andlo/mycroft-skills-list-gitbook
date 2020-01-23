@@ -2,19 +2,10 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# Roku  
 ### _skill-roku.scherererer_  
-## About:  
 This is a mycroft skill for controlling your roku. It uses the Roku External Control API found here: 
-When you ask your mycroft to play a show, this skill will do a search at the "roku" level for the show. If it finds what you are looking for on the correct provider (e.g. netflix, amazon, etc.) then it will launch it automatically. If it doesn't, you'll end up with some search results on your screen.
-
-## Skill information:  
-**Github:** | [https://github.com/scherererer/skill-roku](https://github.com/scherererer/skill-roku)  
-**Owner:** | [@scherererer](https://github.com/scherererer)  
-**Created:** | 2018 May 11 01:52:54 UTC  **Last updated:** 2018 Sep 10 16:28:23 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+When you ask your mycroft to play a show, this skill will do a search at the "roku" level for the show. If it finds what you are looking for on the correct provider (e.g. netflix, amazon, etc.) then it will launch it automatically. If it doesn't, you'll end up with some search results on your screen.  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -30,4 +21,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/scherererer/skill-roku```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/scherererer/skill-roku](https://github.com/scherererer/skill-roku)  
+**Owner:** | [@scherererer](https://github.com/scherererer)  
+**Created:** | 2018 May 11 01:52:54 UTC  **Last updated:** 2018 Sep 10 16:28:23 UTC  
+**License:** | MIT License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

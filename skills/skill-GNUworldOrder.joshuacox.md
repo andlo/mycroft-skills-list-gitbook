@@ -2,20 +2,11 @@
 description: 
 ---
 
-# [GNU World Order](http://gnuworldorder.info/)  
 ### _skill-GNUworldOrder.joshuacox_  
-## About:  
 Teaches Mycroft AI about the the GNU World Order "GNU World Order".
 
 "Hey Mycroft, Who is the GNU World Order?"
-
-
-## Skill information:  
-**Github:** | [https://github.com/joshuacox/skill-GNUworldOrder](https://github.com/joshuacox/skill-GNUworldOrder)  
-**Owner:** | [@joshuacox](https://github.com/joshuacox)  
-**Created:** | 2018 Jun 20 13:27:26 UTC  **Last updated:** 2018 Jun 22 14:27:41 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -48,4 +39,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/joshuacox/skill-GNUworldOrder```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/joshuacox/skill-GNUworldOrder](https://github.com/joshuacox/skill-GNUworldOrder)  
+**Owner:** | [@joshuacox](https://github.com/joshuacox)  
+**Created:** | 2018 Jun 20 13:27:26 UTC  **Last updated:** 2018 Jun 22 14:27:41 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

@@ -2,22 +2,13 @@
 description: Get the time, date, day of the week
 ---
 
-![](../.gitbook/assets/star.png)  
-# Date and Time  
 ### _skill-date-time.MycroftAI_  
-## About:  
 Get the local time or time for major cities around the world.  Times
 are given in 12-hour (2:30 pm) or 24-hour format (14:30) based on the
 Time Format setting at Home
 Time can optionally be shown on a display, like a digital clock.  See
-the Skill Setting.
-
-## Skill information:  
-**Github:** | [https://github.com/MycroftAI/skill-date-time](https://github.com/MycroftAI/skill-date-time)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 04 17:45:00 UTC  **Last updated:** 2019 Nov 20 21:49:08 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-date-time)  
+the Skill Setting.  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#date \#time \#clock \#world-time \#world-clock \#date-time   
@@ -42,4 +33,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ``` mycroft-msm install Date and Time```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/MycroftAI/skill-date-time](https://github.com/MycroftAI/skill-date-time)  
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** | 2017 Apr 04 17:45:00 UTC  **Last updated:** 2019 Nov 20 21:49:08 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-date-time)  

@@ -2,21 +2,12 @@
 description: Sets the volume depending on background noise level
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Auto volume  
 ### _auto-volume-skill.andlo_  
-## About:  
 This skill lets Mycroft decide when to use high, normal, or low volume. Mycrofts keeps monitoring the background sound levels using the microphone, using which it decides what volume level is the right one to use.
 As it is not easy to know what is high and what is low noise level, the skill will adapt over time. The skill notices the highest and lowest measured levels over time and adjusts its settings according to those measurements.
 The skill stops adjusting the volume if another skill is using the speaker or if Mycroft himself is talking.
-The skill can be activated or deactivated using the command "Hey Mycroft, set auto volume off" or "Hey Mycroft, set auto volume on".
-
-## Skill information:  
-**Github:** | [https://github.com/andlo/auto-volume-skill](https://github.com/andlo/auto-volume-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018 Oct 16 18:13:54 UTC  **Last updated:** 2019 Dec 27 21:20:39 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/auto-volume)  
+The skill can be activated or deactivated using the command "Hey Mycroft, set auto volume off" or "Hey Mycroft, set auto volume on".  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#volume   
@@ -38,4 +29,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ``` mycroft-msm install Auto volume```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/andlo/auto-volume-skill](https://github.com/andlo/auto-volume-skill)  
+**Owner:** | [@andlo](https://github.com/andlo)  
+**Created:** | 2018 Oct 16 18:13:54 UTC  **Last updated:** 2019 Dec 27 21:20:39 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/auto-volume)  

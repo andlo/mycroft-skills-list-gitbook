@@ -2,18 +2,9 @@
 description: 
 ---
 
-# Sonos Control  
 ### _sonos-control-skill.snow2k9_  
-## About:  
 currently only chooses random device
-Control your Sonos with Mycroft
-
-## Skill information:  
-**Github:** | [https://github.com/snow2k9/sonos-control-skill](https://github.com/snow2k9/sonos-control-skill)  
-**Owner:** | [@snow2k9](https://github.com/snow2k9)  
-**Created:** | 2019 May 18 17:41:00 UTC  **Last updated:** 2019 May 20 18:39:54 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Control your Sonos with Mycroft  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -32,4 +23,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/snow2k9/sonos-control-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/snow2k9/sonos-control-skill](https://github.com/snow2k9/sonos-control-skill)  
+**Owner:** | [@snow2k9](https://github.com/snow2k9)  
+**Created:** | 2019 May 18 17:41:00 UTC  **Last updated:** 2019 May 20 18:39:54 UTC  
+**License:** | MIT License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

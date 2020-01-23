@@ -2,19 +2,10 @@
 description: A Mycroft Skill for Home Temperatures and more with Netatmo
 ---
 
-# Netatmo Weather  
 ### _Netatmo-Weather.henridbr_  
-## About:  
 Netatmo weather device is part of your home network using wifi and you can look at some parameters from Netatmo website on your desktop, or apps on smartphones and tablets.
 
-What's new with Mycroft ? "Hey Mycroft, what's the room temperature ?", it's easier and faster.
-
-## Skill information:  
-**Github:** | [https://github.com/henridbr/Netatmo-Weather](https://github.com/henridbr/Netatmo-Weather)  
-**Owner:** | [@henridbr](https://github.com/henridbr)  
-**Created:** | 2018 Nov 05 17:48:01 UTC  **Last updated:** 2018 Nov 05 17:58:06 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+What's new with Mycroft ? "Hey Mycroft, what's the room temperature ?", it's easier and faster.  
 **Platform:**  
  ![Picroft](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#Netatmo \#Weather \#Picroft   
@@ -29,3 +20,10 @@ What's new with Mycroft ? "Hey Mycroft, what's the room temperature ?", it's eas
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/henridbr/Netatmo-Weather](https://github.com/henridbr/Netatmo-Weather)  
+**Owner:** | [@henridbr](https://github.com/henridbr)  
+**Created:** | 2018 Nov 05 17:48:01 UTC  **Last updated:** 2018 Nov 05 17:58:06 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

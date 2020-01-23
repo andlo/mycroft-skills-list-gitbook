@@ -2,18 +2,9 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# CryptoSkill  
 ### _skill-CryptoSkill.Gobbenobber_  
-## About:  
-
-
-## Skill information:  
-**Github:** | [https://github.com/Gobbenobber/skill-CryptoSkill](https://github.com/Gobbenobber/skill-CryptoSkill)  
-**Owner:** | [@Gobbenobber](https://github.com/Gobbenobber)  
-**Created:** | 2018 Jan 19 00:51:10 UTC  **Last updated:** 2018 Feb 08 17:38:08 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Installation:  
@@ -26,4 +17,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/Gobbenobber/skill-CryptoSkill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/Gobbenobber/skill-CryptoSkill](https://github.com/Gobbenobber/skill-CryptoSkill)  
+**Owner:** | [@Gobbenobber](https://github.com/Gobbenobber)  
+**Created:** | 2018 Jan 19 00:51:10 UTC  **Last updated:** 2018 Feb 08 17:38:08 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

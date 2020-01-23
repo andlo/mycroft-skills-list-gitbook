@@ -2,10 +2,7 @@
 description: Give voice commands to Mycroft to control a MagicMirror
 ---
 
-![](../.gitbook/assets/star.png)  
-# Magic Mirror Voice Control  
 ### _magic-mirror-voice-control-skill.dmwilsonkc_  
-## About:  
 This mycroft skill passes commands to an accessible MagicMirror installed anywhere on the same network as Mycroft. It requires a working install of MagicMirror and the MMM-Remote-Control module. It must be installed AND ACCESSIBLE ON THE SAME NETWORK AS MYCROFT.
 This skill requires MMM-Remote-Control be installed and working properly on the MagicMirror.
 You must configure the MagicMirror's config.js file to properly whitelist the ip address of your Mycroft.
@@ -14,14 +11,8 @@ Replace: address: "localhost", With: address: "0.0.0.0", and
 Replace: ipWhitelist: ["127.0.0.1", "::ffff:127.0.0.1", "::1"], with ipWhitelist: ["127.0.0.1", "192.168.X.1/24"],
 You can use this skill to hide or show modules, update the mirror or individual modules,
 refresh or restart the mirror, list installed modules, install modules by name (will still require you
-to configure the MagicMirror config.js by SSH or VNC for the particular skill you install), change pages of modules by either swipe commands or telling mycroft to "go to page [number]"(requires that MMM-pages be installed), restart or reboot the Raspberry Pi.
-
-## Skill information:  
-**Github:** | [https://github.com/dmwilsonkc/magic-mirror-voice-control-skill](https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)  
-**Owner:** | [@dmwilsonkc](https://github.com/dmwilsonkc)  
-**Created:** | 2018 May 30 02:09:43 UTC  **Last updated:** 2019 Dec 28 22:46:02 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-933 new override autotester waiting  
+to configure the MagicMirror config.js by SSH or VNC for the particular skill you install), change pages of modules by either swipe commands or telling mycroft to "go to page [number]"(requires that MMM-pages be installed), restart or reboot the Raspberry Pi.  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -53,4 +44,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/dmwilsonkc/magic-mirror-voice-control-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/dmwilsonkc/magic-mirror-voice-control-skill](https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)  
+**Owner:** | [@dmwilsonkc](https://github.com/dmwilsonkc)  
+**Created:** | 2018 May 30 02:09:43 UTC  **Last updated:** 2019 Dec 28 22:46:02 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-933 new override autotester waiting  

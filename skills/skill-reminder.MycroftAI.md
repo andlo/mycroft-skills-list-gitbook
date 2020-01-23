@@ -2,18 +2,9 @@
 description: Set single and repeating reminders for tasks
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Set reminders  
 ### _skill-reminder.MycroftAI_  
-## About:  
-Flexible reminder Skill, allowing you to set single and repeating reminders for tasks. The reminders are set on the Device, and have no external dependencies.
-
-## Skill information:  
-**Github:** | [https://github.com/MycroftAI/skill-reminder](https://github.com/MycroftAI/skill-reminder)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 04 17:48:05 UTC  **Last updated:** 2019 Nov 15 13:39:33 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-reminder)  
+Flexible reminder Skill, allowing you to set single and repeating reminders for tasks. The reminders are set on the Device, and have no external dependencies.  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#reminder \#reminders   
@@ -37,4 +28,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ``` mycroft-msm install Set reminders```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/MycroftAI/skill-reminder](https://github.com/MycroftAI/skill-reminder)  
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** | 2017 Apr 04 17:48:05 UTC  **Last updated:** 2019 Nov 15 13:39:33 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-reminder)  

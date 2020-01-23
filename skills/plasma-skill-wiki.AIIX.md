@@ -2,18 +2,9 @@
 description: 
 ---
 
-# Wikipedia  
 ### _plasma-skill-wiki.AIIX_  
-## About:  
 Query Wikipedia for answers to all your questions!  Get just the
-summary, or ask for more to get in-depth information.
-
-## Skill information:  
-**Github:** | [https://github.com/AIIX/plasma-skill-wiki](https://github.com/AIIX/plasma-skill-wiki)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2019 Feb 12 11:15:14 UTC  **Last updated:** 2019 Feb 12 11:16:44 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+summary, or ask for more to get in-depth information.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -32,4 +23,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/AIIX/plasma-skill-wiki```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/AIIX/plasma-skill-wiki](https://github.com/AIIX/plasma-skill-wiki)  
+**Owner:** | [@AIIX](https://github.com/AIIX)  
+**Created:** | 2019 Feb 12 11:15:14 UTC  **Last updated:** 2019 Feb 12 11:16:44 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

@@ -2,18 +2,9 @@
 description: 
 ---
 
-# internet radio  
 ### _skill-streaming-radio.aussieW_  
-## About:  
 Play internet radio stations using Mycroft.
-Manage your station URLs at home.mycroft.ai -> Skills.
-
-## Skill information:  
-**Github:** | [https://github.com/aussieW/skill-streaming-radio](https://github.com/aussieW/skill-streaming-radio)  
-**Owner:** | [@aussieW](https://github.com/aussieW)  
-**Created:** | 2018 Jan 19 01:23:13 UTC  **Last updated:** 2018 Jul 02 20:15:19 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Manage your station URLs at home.mycroft.ai -> Skills.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -42,3 +33,10 @@ Manage your station URLs at home.mycroft.ai -> Skills.
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/aussieW/skill-streaming-radio](https://github.com/aussieW/skill-streaming-radio)  
+**Owner:** | [@aussieW](https://github.com/aussieW)  
+**Created:** | 2018 Jan 19 01:23:13 UTC  **Last updated:** 2018 Jul 02 20:15:19 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

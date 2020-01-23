@@ -2,20 +2,11 @@
 description: 
 ---
 
-# Weather  
 ### _weather.Cathalb28345_  
-## About:  
 Get weather conditions, forecasts, expected precipitation and more!  By default it will tell
 you about your default location, or you can ask for other cities around the world.  Current
 conditions and weather forecasts come from Open Weather Map.
-For devices with screen support, conditions are briefly shown.
-
-## Skill information:  
-**Github:** | [https://github.com/Cathalb28345/weather](https://github.com/Cathalb28345/weather)  
-**Owner:** | [@Cathalb28345](https://github.com/Cathalb28345)  
-**Created:** | 2019 Apr 10 07:51:18 UTC  **Last updated:** 2019 Apr 16 11:13:29 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+For devices with screen support, conditions are briefly shown.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -37,4 +28,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/Cathalb28345/weather```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/Cathalb28345/weather](https://github.com/Cathalb28345/weather)  
+**Owner:** | [@Cathalb28345](https://github.com/Cathalb28345)  
+**Created:** | 2019 Apr 10 07:51:18 UTC  **Last updated:** 2019 Apr 16 11:13:29 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

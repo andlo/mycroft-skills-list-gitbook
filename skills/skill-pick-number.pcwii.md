@@ -2,18 +2,9 @@
 description: Select a random number when provided a min and max value
 ---
 
-# Pick Number  
 ### _skill-pick-number.pcwii_  
-## About:  
 Mycroft.AI will select a random number between a min and max value.
-The minimum and maximum value may be in any order and any value.
-
-## Skill information:  
-**Github:** | [https://github.com/pcwii/skill-pick-number](https://github.com/pcwii/skill-pick-number)  
-**Owner:** | [@pcwii](https://github.com/pcwii)  
-**Created:** | 2018 May 05 15:37:04 UTC  **Last updated:** 2019 Jan 10 03:03:10 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/pick-number)  
+The minimum and maximum value may be in any order and any value.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#random \#dice \#decisionmaker   
@@ -36,4 +27,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ``` mycroft-msm install Pick Number```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/pcwii/skill-pick-number](https://github.com/pcwii/skill-pick-number)  
+**Owner:** | [@pcwii](https://github.com/pcwii)  
+**Created:** | 2018 May 05 15:37:04 UTC  **Last updated:** 2019 Jan 10 03:03:10 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/pick-number)  

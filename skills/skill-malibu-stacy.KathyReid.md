@@ -2,18 +2,9 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# skill-malibu-stacey  
 ### _skill-malibu-stacy.KathyReid_  
-## About:  
-
-
-## Skill information:  
-**Github:** | [https://github.com/KathyReid/skill-malibu-stacy](https://github.com/KathyReid/skill-malibu-stacy)  
-**Owner:** | [@KathyReid](https://github.com/KathyReid)  
-**Created:** | 2018 Feb 10 05:26:01 UTC  **Last updated:** 2019 May 07 23:00:37 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -30,4 +21,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/KathyReid/skill-malibu-stacy```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/KathyReid/skill-malibu-stacy](https://github.com/KathyReid/skill-malibu-stacy)  
+**Owner:** | [@KathyReid](https://github.com/KathyReid)  
+**Created:** | 2018 Feb 10 05:26:01 UTC  **Last updated:** 2019 May 07 23:00:37 UTC  
+**License:** | Other  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

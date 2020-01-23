@@ -2,17 +2,8 @@
 description: 
 ---
 
-# Wemo Controller Using Wit  
 ### _skill-wemo-controller-using-wit.avimeens_  
-## About:  
-Mycroft skill to controll WeMo switches that are not on the same network as Mycroft.
-
-## Skill information:  
-**Github:** | [https://github.com/avimeens/skill-wemo-controller-using-wit](https://github.com/avimeens/skill-wemo-controller-using-wit)  
-**Owner:** | [@avimeens](https://github.com/avimeens)  
-**Created:** | 2018 Jun 28 20:18:10 UTC  **Last updated:** 2018 Jun 28 20:18:54 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Mycroft skill to controll WeMo switches that are not on the same network as Mycroft.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -33,4 +24,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/avimeens/skill-wemo-controller-using-wit```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/avimeens/skill-wemo-controller-using-wit](https://github.com/avimeens/skill-wemo-controller-using-wit)  
+**Owner:** | [@avimeens](https://github.com/avimeens)  
+**Created:** | 2018 Jun 28 20:18:10 UTC  **Last updated:** 2018 Jun 28 20:18:54 UTC  
+**License:** | MIT License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

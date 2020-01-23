@@ -2,18 +2,9 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# Deutschlandfunk player  
 ### _deutschlandfunk-skill.ofosos_  
-## About:  
-Play Deutschlandfunk streams and query schedule.
-
-## Skill information:  
-**Github:** | [https://github.com/ofosos/deutschlandfunk-skill](https://github.com/ofosos/deutschlandfunk-skill)  
-**Owner:** | [@ofosos](https://github.com/ofosos)  
-**Created:** | 2017 Nov 11 22:47:05 UTC  **Last updated:** 2018 May 18 06:49:22 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Play Deutschlandfunk streams and query schedule.  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -32,4 +23,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/ofosos/deutschlandfunk-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/ofosos/deutschlandfunk-skill](https://github.com/ofosos/deutschlandfunk-skill)  
+**Owner:** | [@ofosos](https://github.com/ofosos)  
+**Created:** | 2017 Nov 11 22:47:05 UTC  **Last updated:** 2018 May 18 06:49:22 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

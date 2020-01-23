@@ -2,17 +2,8 @@
 description: 
 ---
 
-# decora-smart-wifi-skill  
 ### _decora-smart-wifi-skill.pcwii_  
-## About:  
-Mycroft.AI will have control over the smart wifi dimmer switch.
-
-## Skill information:  
-**Github:** | [https://github.com/pcwii/decora-smart-wifi-skill](https://github.com/pcwii/decora-smart-wifi-skill)  
-**Owner:** | [@pcwii](https://github.com/pcwii)  
-**Created:** | 2018 Jun 28 02:02:49 UTC  **Last updated:** 2018 Dec 08 23:52:57 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Mycroft.AI will have control over the smart wifi dimmer switch.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -24,3 +15,10 @@ Mycroft.AI will have control over the smart wifi dimmer switch.
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/pcwii/decora-smart-wifi-skill](https://github.com/pcwii/decora-smart-wifi-skill)  
+**Owner:** | [@pcwii](https://github.com/pcwii)  
+**Created:** | 2018 Jun 28 02:02:49 UTC  **Last updated:** 2018 Dec 08 23:52:57 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

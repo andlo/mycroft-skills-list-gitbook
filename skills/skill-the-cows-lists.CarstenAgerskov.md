@@ -2,10 +2,7 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# The Cows Lists  
 ### _skill-the-cows-lists.CarstenAgerskov_  
-## About:  
 This skill adds Remember The Milk support to Mycroft.
 The skill use Remember The Milk's rest interface.
 The purpose if the skill is to allow operations suited for a voice interface. It is not an attempt to cover all functionality of remember the milk.
@@ -105,14 +102,8 @@ Report an error
 In case of a technical error, the cows lists will ask you if you want a mail with the details. Answer yes, and you will receive a mail from Mycroft with further details on how to report the issue, and all the details about the error.
 You receive the mail, it is not sent the skill developer. The mail contains detalis about how to report the error to the skill developer,
 and you decide what information to put in the issue report.
-Other issues that are not caught as describe above, can be reported as well, on 
-
-## Skill information:  
-**Github:** | [https://github.com/CarstenAgerskov/skill-the-cows-lists](https://github.com/CarstenAgerskov/skill-the-cows-lists)  
-**Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
-**Created:** | 2017 Nov 26 15:48:44 UTC  **Last updated:** 2019 May 10 00:51:51 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/carstena-the-cows-lists)  
+Other issues that are not caught as describe above, can be reported as well, on   
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -132,4 +123,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ``` mycroft-msm install The Cows Lists```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/CarstenAgerskov/skill-the-cows-lists](https://github.com/CarstenAgerskov/skill-the-cows-lists)  
+**Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
+**Created:** | 2017 Nov 26 15:48:44 UTC  **Last updated:** 2019 May 10 00:51:51 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/carstena-the-cows-lists)  

@@ -2,18 +2,9 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# Open News Skill (for Mycroft AI)  
 ### _skill-open-news.akailash_  
-## About:  
-
-
-## Skill information:  
-**Github:** | [https://github.com/akailash/skill-open-news](https://github.com/akailash/skill-open-news)  
-**Owner:** | [@akailash](https://github.com/akailash)  
-**Created:** | 2017 Jul 18 00:38:39 UTC  **Last updated:** 2017 Jul 20 03:25:25 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -25,3 +16,10 @@ description:
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/akailash/skill-open-news](https://github.com/akailash/skill-open-news)  
+**Owner:** | [@akailash](https://github.com/akailash)  
+**Created:** | 2017 Jul 18 00:38:39 UTC  **Last updated:** 2017 Jul 20 03:25:25 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

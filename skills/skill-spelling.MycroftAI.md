@@ -2,18 +2,9 @@
 description: Let Mycroft help you spell words
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Spelling  
 ### _skill-spelling.MycroftAI_  
-## About:  
-Mycroft can spell any word which is understood by speech-to-text.  The proper spelling is pronounced on all platforms, as well as displayed by devices such as the Mark 1.
-
-## Skill information:  
-**Github:** | [https://github.com/MycroftAI/skill-spelling](https://github.com/MycroftAI/skill-spelling)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 04 17:48:56 UTC  **Last updated:** 2019 Nov 15 13:38:19 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-spelling)  
+Mycroft can spell any word which is understood by speech-to-text.  The proper spelling is pronounced on all platforms, as well as displayed by devices such as the Mark 1.  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#spell \#spelling   
@@ -36,4 +27,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ``` mycroft-msm install Spelling```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/MycroftAI/skill-spelling](https://github.com/MycroftAI/skill-spelling)  
+**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** | 2017 Apr 04 17:48:56 UTC  **Last updated:** 2019 Nov 15 13:38:19 UTC  
+**License:** | Apache License 2.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-spelling)  

@@ -2,17 +2,8 @@
 description: 
 ---
 
-# FortuneSkill  
 ### _mycroft-fortuneskill.jaevans_  
-## About:  
-
-
-## Skill information:  
-**Github:** | [https://github.com/jaevans/mycroft-fortuneskill](https://github.com/jaevans/mycroft-fortuneskill)  
-**Owner:** | [@jaevans](https://github.com/jaevans)  
-**Created:** | 2016 May 26 00:29:22 UTC  **Last updated:** 2016 May 26 00:34:38 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -31,4 +22,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/jaevans/mycroft-fortuneskill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/jaevans/mycroft-fortuneskill](https://github.com/jaevans/mycroft-fortuneskill)  
+**Owner:** | [@jaevans](https://github.com/jaevans)  
+**Created:** | 2016 May 26 00:29:22 UTC  **Last updated:** 2016 May 26 00:34:38 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

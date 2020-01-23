@@ -2,10 +2,7 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# mycroft-skill-HelpMe  
 ### _mycroft-skill-HelpMe.chrison999_  
-## About:  
 Input: help me with jokeskill
 2017-05-26 17:42:30,332 - CLIClient - INFO - Speak: I can help you with the following things. 1 - Description of this skill,  2 - Intent Description, 3 - Commands for this skill, 4 - Contact
 Input: help me with commands
@@ -15,14 +12,8 @@ Input: help me with intents
 2017-05-26 17:42:45,122 - CLIClient - INFO - Speak: The following intents are available
 2017-05-26 17:42:45,127 - CLIClient - INFO - Speak: JokingIntent, , to activate this intent you can use the following keywords JokingKeyword,
 Input: help me with skill
-2017-05-26 17:42:52,210 - CLIClient - INFO - Speak: skill_joke , no description provided for this skill.
-
-## Skill information:  
-**Github:** | [https://github.com/chrison999/mycroft-skill-HelpMe](https://github.com/chrison999/mycroft-skill-HelpMe)  
-**Owner:** | [@chrison999](https://github.com/chrison999)  
-**Created:** | 2017 Apr 25 18:31:21 UTC  **Last updated:** 2017 May 18 06:53:23 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+2017-05-26 17:42:52,210 - CLIClient - INFO - Speak: skill_joke , no description provided for this skill.  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -35,3 +26,10 @@ Input: help me with skill
 {% hint style="warning" %}
 This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not work in current state.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/chrison999/mycroft-skill-HelpMe](https://github.com/chrison999/mycroft-skill-HelpMe)  
+**Owner:** | [@chrison999](https://github.com/chrison999)  
+**Created:** | 2017 Apr 25 18:31:21 UTC  **Last updated:** 2017 May 18 06:53:23 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

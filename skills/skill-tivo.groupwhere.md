@@ -2,9 +2,7 @@
 description: 
 ---
 
-# skill-tivo  
 ### _skill-tivo.groupwhere_  
-## About:  
 Based on ideas from the following sites:
 
 
@@ -36,14 +34,7 @@ Mycroft will respond with, e.g.:
 * "Bob's Tivo is currently watching channel 231"
 * "Bob's Tivo is currently watching channel 231 Raiders of the Lost Ark" (with your zap2it account setup and with the correct lineup selected with their service)
 * "Bob's Tivo is off"
-* "Bob's Tivo is playing"
-
-## Skill information:  
-**Github:** | [https://github.com/groupwhere/skill-tivo](https://github.com/groupwhere/skill-tivo)  
-**Owner:** | [@groupwhere](https://github.com/groupwhere)  
-**Created:** | 2018 Mar 17 16:20:08 UTC  **Last updated:** 2018 Aug 09 16:55:23 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+* "Bob's Tivo is playing"  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Installation:  
@@ -56,4 +47,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/groupwhere/skill-tivo```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/groupwhere/skill-tivo](https://github.com/groupwhere/skill-tivo)  
+**Owner:** | [@groupwhere](https://github.com/groupwhere)  
+**Created:** | 2018 Mar 17 16:20:08 UTC  **Last updated:** 2018 Aug 09 16:55:23 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

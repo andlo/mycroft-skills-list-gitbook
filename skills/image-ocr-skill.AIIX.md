@@ -2,17 +2,8 @@
 description: 
 ---
 
-# image-ocr-skill  
 ### _image-ocr-skill.AIIX_  
-## About:  
-
-
-## Skill information:  
-**Github:** | [https://github.com/AIIX/image-ocr-skill](https://github.com/AIIX/image-ocr-skill)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018 Mar 20 13:22:21 UTC  **Last updated:** 2018 Mar 20 13:27:17 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Installation:  
@@ -25,4 +16,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/AIIX/image-ocr-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/AIIX/image-ocr-skill](https://github.com/AIIX/image-ocr-skill)  
+**Owner:** | [@AIIX](https://github.com/AIIX)  
+**Created:** | 2018 Mar 20 13:22:21 UTC  **Last updated:** 2018 Mar 20 13:27:17 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

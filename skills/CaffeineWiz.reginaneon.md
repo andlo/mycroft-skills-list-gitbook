@@ -2,10 +2,7 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# CaffeineWiz  
 ### _CaffeineWiz.reginaneon_  
-## About:  
 The skill provides the functionality to inform the user of the caffeine content of the requested
 drink. Multiple drinks in a row are possible.
 Sample skill flow:
@@ -20,14 +17,8 @@ or -
 
 How about caffeine content of drink?
 The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_size}} ounces.
-
-
-## Skill information:  
-**Github:** | [https://github.com/reginaneon/CaffeineWiz](https://github.com/reginaneon/CaffeineWiz)  
-**Owner:** | [@reginaneon](https://github.com/reginaneon)  
-**Created:** | 2017 Oct 17 23:38:17 UTC  **Last updated:** 2018 Jun 12 10:23:27 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -37,3 +28,10 @@ The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_s
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/reginaneon/CaffeineWiz](https://github.com/reginaneon/CaffeineWiz)  
+**Owner:** | [@reginaneon](https://github.com/reginaneon)  
+**Created:** | 2017 Oct 17 23:38:17 UTC  **Last updated:** 2018 Jun 12 10:23:27 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

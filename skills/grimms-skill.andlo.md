@@ -2,22 +2,13 @@
 description: Mycroft tells H. C. Andersen's Fairy Tales
 ---
 
-# Andersen's Fairy Tales  
 ### _grimms-skill.andlo_  
-## About:  
 This skill enables Mycroft to tell H. C. Andersen's Fairy Tales. So enjoy these good stories from the famious Danish auhtor.
 Content is from andersenstories.com, so please go visit there if you like the stories and want them in text to read.
 
 “If you want your children to be intelligent, read them fairy tales. If you want them to be more
 intelligent, read them more fairy tales.”
-Albert Einstein
-
-## Skill information:  
-**Github:** | [https://github.com/andlo/grimms-skill](https://github.com/andlo/grimms-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2019 Feb 17 09:27:50 UTC  **Last updated:** 2019 Feb 17 09:28:09 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Albert Einstein  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#stories \#story \#tales \#fairy \#fairytale \#fairytales \#andersen \#hca   
@@ -36,4 +27,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/andlo/grimms-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/andlo/grimms-skill](https://github.com/andlo/grimms-skill)  
+**Owner:** | [@andlo](https://github.com/andlo)  
+**Created:** | 2019 Feb 17 09:27:50 UTC  **Last updated:** 2019 Feb 17 09:28:09 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

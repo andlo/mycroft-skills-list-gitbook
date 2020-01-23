@@ -2,19 +2,10 @@
 description: Connect Nextcloud services to Mycroft
 ---
 
-# Test  
 ### _Mycroft-Nextcloud-Skill.Extarys_  
-## About:  
 Control your contacts and your calendar with Mycroft!
 Ability to create appointments in any calendars.
-You can now add a contact to Nextcloud in 15 seconds with your voice.
-
-## Skill information:  
-**Github:** | [https://github.com/Extarys/Mycroft-Nextcloud-Skill](https://github.com/Extarys/Mycroft-Nextcloud-Skill)  
-**Owner:** | [@Extarys](https://github.com/Extarys)  
-**Created:** | 2019 Jul 27 20:28:37 UTC  **Last updated:** 2019 Jul 28 17:22:17 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+You can now add a contact to Nextcloud in 15 seconds with your voice.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -32,3 +23,10 @@ You can now add a contact to Nextcloud in 15 seconds with your voice.
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/Extarys/Mycroft-Nextcloud-Skill](https://github.com/Extarys/Mycroft-Nextcloud-Skill)  
+**Owner:** | [@Extarys](https://github.com/Extarys)  
+**Created:** | 2019 Jul 27 20:28:37 UTC  **Last updated:** 2019 Jul 28 17:22:17 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

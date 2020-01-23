@@ -2,21 +2,12 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# [No Agenda Show](http://www.noagendashow.com/)  
 ### _skill-na-show.joshuacox_  
-## About:  
 Teaches Mycroft AI about the the best podcast in the universe "No Agenda Show".
 
 "Hey Mycroft, Who is the best podcast in the Universe?"
-
-
-## Skill information:  
-**Github:** | [https://github.com/joshuacox/skill-na-show](https://github.com/joshuacox/skill-na-show)  
-**Owner:** | [@joshuacox](https://github.com/joshuacox)  
-**Created:** | 2018 Jun 18 14:39:57 UTC  **Last updated:** 2018 Jun 28 14:05:20 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -62,4 +53,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/joshuacox/skill-na-show```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/joshuacox/skill-na-show](https://github.com/joshuacox/skill-na-show)  
+**Owner:** | [@joshuacox](https://github.com/joshuacox)  
+**Created:** | 2018 Jun 18 14:39:57 UTC  **Last updated:** 2018 Jun 28 14:05:20 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

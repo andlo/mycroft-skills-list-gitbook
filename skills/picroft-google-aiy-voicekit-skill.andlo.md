@@ -2,19 +2,10 @@
 description: Enables Google AIY voicekit
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Google AIY voicekit  
 ### _picroft-google-aiy-voicekit-skill.andlo_  
-## About:  
 This enables the led and button on the Google AIY voicekit.
-The button led turns on when Mycroft is listning. If button is pressed he begins to listen. If the button is pressed for a longer time he stops whatever he is dooing.
-
-## Skill information:  
-**Github:** | [https://github.com/andlo/picroft-google-aiy-voicekit-skill](https://github.com/andlo/picroft-google-aiy-voicekit-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018 Oct 19 21:03:35 UTC  **Last updated:** 2019 Dec 28 20:31:07 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/picroft-google-aiy-voicekit)  
+The button led turns on when Mycroft is listning. If button is pressed he begins to listen. If the button is pressed for a longer time he stops whatever he is dooing.  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Picroft](../.gitbook/assets/picroft-icon.png)   
 **Tags:** \#googlevoicekit \#aiy \#Googleaiy \#voicekit \#voicehat   
@@ -31,4 +22,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ``` mycroft-msm install Google AIY voicekit```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/andlo/picroft-google-aiy-voicekit-skill](https://github.com/andlo/picroft-google-aiy-voicekit-skill)  
+**Owner:** | [@andlo](https://github.com/andlo)  
+**Created:** | 2018 Oct 19 21:03:35 UTC  **Last updated:** 2019 Dec 28 20:31:07 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [In Market](https://market.mycroft.ai/skill/picroft-google-aiy-voicekit)  

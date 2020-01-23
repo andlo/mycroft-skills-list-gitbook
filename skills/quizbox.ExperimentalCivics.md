@@ -2,18 +2,9 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)  
-# Quizbox  
 ### _quizbox.ExperimentalCivics_  
-## About:  
-
-
-## Skill information:  
-**Github:** | [https://github.com/ExperimentalCivics/quizbox](https://github.com/ExperimentalCivics/quizbox)  
-**Owner:** | [@ExperimentalCivics](https://github.com/ExperimentalCivics)  
-**Created:** | 2018 Jun 17 20:20:10 UTC  **Last updated:** 2018 Jun 29 01:08:45 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
+![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -30,4 +21,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/ExperimentalCivics/quizbox```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/ExperimentalCivics/quizbox](https://github.com/ExperimentalCivics/quizbox)  
+**Owner:** | [@ExperimentalCivics](https://github.com/ExperimentalCivics)  
+**Created:** | 2018 Jun 17 20:20:10 UTC  **Last updated:** 2018 Jun 29 01:08:45 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

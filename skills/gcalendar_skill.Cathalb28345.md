@@ -2,17 +2,8 @@
 description: 
 ---
 
-# pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib  
 ### _gcalendar_skill.Cathalb28345_  
-## About:  
-Fetches scheduled events from Google Calendar and allows adding events to your calendar.
-
-## Skill information:  
-**Github:** | [https://github.com/Cathalb28345/gcalendar_skill](https://github.com/Cathalb28345/gcalendar_skill)  
-**Owner:** | [@Cathalb28345](https://github.com/Cathalb28345)  
-**Created:** | 2019 Apr 09 10:28:38 UTC  **Last updated:** 2019 Apr 16 11:14:03 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+Fetches scheduled events from Google Calendar and allows adding events to your calendar.  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -23,3 +14,10 @@ Fetches scheduled events from Google Calendar and allows adding events to your c
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
+  
+## Summary:  
+**Github:** | [https://github.com/Cathalb28345/gcalendar_skill](https://github.com/Cathalb28345/gcalendar_skill)  
+**Owner:** | [@Cathalb28345](https://github.com/Cathalb28345)  
+**Created:** | 2019 Apr 09 10:28:38 UTC  **Last updated:** 2019 Apr 16 11:14:03 UTC  
+**License:** | No License  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

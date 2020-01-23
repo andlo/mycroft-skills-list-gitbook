@@ -2,9 +2,7 @@
 description: Mycroft reports real-time pollutant levels in your city
 ---
 
-# Air Quality  
 ### _air-quality-skill.kalyaninagaraj_  
-## About:  
 Get real-time air quality data for more than 1000 cities from
 the World Air Quality Index (WAQI) project.
 By default, Mycroft reports real-time (most recent,
@@ -29,14 +27,7 @@ Different government agencies have different air quality standards,
 resulting in different nations using different air quality indices. To
 standardize the reporting, this skill reports raw concentration
 levels measured in micrograms per cubic meter.
-
-
-## Skill information:  
-**Github:** | [https://github.com/kalyaninagaraj/air-quality-skill](https://github.com/kalyaninagaraj/air-quality-skill)  
-**Owner:** | [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
-**Created:** | 2019 Dec 09 16:34:56 UTC  **Last updated:** 2019 Dec 27 14:13:06 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 **Tags:** \#Air \#quality \#Pollutant \#level \#Mycroft \#AI   
@@ -57,4 +48,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/kalyaninagaraj/air-quality-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/kalyaninagaraj/air-quality-skill](https://github.com/kalyaninagaraj/air-quality-skill)  
+**Owner:** | [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
+**Created:** | 2019 Dec 09 16:34:56 UTC  **Last updated:** 2019 Dec 27 14:13:06 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

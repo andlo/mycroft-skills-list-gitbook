@@ -2,22 +2,13 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Plasma-KDE-Connect-Skill  
 ### _plasma-kde-connect-skill.AIIX_  
-## About:  
 Control your KDE-Connect connected devices with actions such as:
 - Find My Phone
 - Ping My Phone
 - Browse Phone Files
-- Dictate and Send an SMS to Your Google Contacts.
-
-## Skill information:  
-**Github:** | [https://github.com/AIIX/plasma-kde-connect-skill](https://github.com/AIIX/plasma-kde-connect-skill)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2017 Jan 31 06:19:30 UTC  **Last updated:** 2019 Jul 04 11:34:56 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+- Dictate and Send an SMS to Your Google Contacts.  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -36,4 +27,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/AIIX/plasma-kde-connect-skill```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/AIIX/plasma-kde-connect-skill](https://github.com/AIIX/plasma-kde-connect-skill)  
+**Owner:** | [@AIIX](https://github.com/AIIX)  
+**Created:** | 2017 Jan 31 06:19:30 UTC  **Last updated:** 2019 Jul 04 11:34:56 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  

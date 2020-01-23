@@ -2,10 +2,7 @@
 description: 
 ---
 
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-# Mosquito Speak  
 ### _skill-mosquito-speak.CarstenAgerskov_  
-## About:  
 This skill has two purposes:
 1) Instead of triggering a skill by asking Mycroft a question, this skill triggers when a text message is received on mqtt.
 It can be used for notifications. For instance, a smart home server could publish the text "Somebody is at the door", if the doorbell is pressed.
@@ -36,14 +33,8 @@ Example underscore: Convert "Kitchen_window is open" to "Kitchen Window is open"
 * Retain characters in matched string until index: 0
 * Retain characters in matched string from index: 1
 What happens: The regex match "" in "Kitchen_window is open".  We retain the characters until index 0 of "", which is no characters.
-We retain the characters after index 1 of "_", which is no characters. And we put a space in the middle.
-
-## Skill information:  
-**Github:** | [https://github.com/CarstenAgerskov/skill-mosquito-speak](https://github.com/CarstenAgerskov/skill-mosquito-speak)  
-**Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
-**Created:** | 2018 Jan 06 09:08:31 UTC  **Last updated:** 2019 Jul 31 14:47:01 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+We retain the characters after index 1 of "_", which is no characters. And we put a space in the middle.  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 **Platform:**  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Examples:  
@@ -66,4 +57,10 @@ This skill is not aproved by Mycroft skill tester.
 ``` mycroft-msm install https://github.com/CarstenAgerskov/skill-mosquito-speak```
 {% endtab %}
   {% endtabs %}
-  
+    
+## Summary:  
+**Github:** | [https://github.com/CarstenAgerskov/skill-mosquito-speak](https://github.com/CarstenAgerskov/skill-mosquito-speak)  
+**Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
+**Created:** | 2018 Jan 06 09:08:31 UTC  **Last updated:** 2019 Jul 31 14:47:01 UTC  
+**License:** | GNU General Public License v3.0  
+**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
