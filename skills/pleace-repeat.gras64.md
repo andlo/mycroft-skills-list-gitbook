@@ -3,10 +3,12 @@ description: You did not understand anything and want mycroft to repeat itself
 ---
 
 ### _pleace-repeat.gras64_  
+## Description:  
 You can always repeat the last sentence if you did not understand it.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Repeat   
+  
+###Tags: \#Repeat   
 ## Examples:  
 > Please repeat.  
 > Can you repeat that.  

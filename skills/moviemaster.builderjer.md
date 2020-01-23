@@ -3,11 +3,13 @@ description: Find information about movies, actors and production details
 ---
 
 ### _moviemaster.builderjer_  
+## Description:  
 Easily find information about a movie with your voice.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#TMDB \#Movies \#Actors \#Mark \#I   
+  
+###Tags: \#TMDB \#Movies \#Actors \#Mark \#I   
 ## Examples:  
 > What is the movie _______ about?  
 > Tell me about the movie _______  

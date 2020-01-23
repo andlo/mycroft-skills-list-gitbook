@@ -3,6 +3,7 @@ description: Let Mycroft brighten your day with a little humor
 ---
 
 ### _skill-joke.MycroftAI_  
+## Description:  
 Brighten your day with a little humor.  This draws on the jokes collected by the PyJokes project to give you a chuckle.
 The joke categories are:
 * Neutral -- jokes that are safe for work, kids or your grandmother
@@ -11,9 +12,10 @@ The joke categories are:
 By default it will give you clean and/or geeky jokes, but you can ask a little adult humor if you feel that way.
 WARNING:  Laughter is not guaranteed, but eye rolls are likely.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#joke \#jokes \#humor \#humour \#funny   
+  
+###Tags: \#joke \#jokes \#humor \#humour \#funny   
 ## Examples:  
 > Make me laugh.  
 > Tell me a joke.  

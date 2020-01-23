@@ -3,6 +3,7 @@ description:
 ---
 
 ### _skill-mosquito-speak.CarstenAgerskov_  
+## Description:  
 This skill has two purposes:
 1) Instead of triggering a skill by asking Mycroft a question, this skill triggers when a text message is received on mqtt.
 It can be used for notifications. For instance, a smart home server could publish the text "Somebody is at the door", if the doorbell is pressed.
@@ -35,8 +36,9 @@ Example underscore: Convert "Kitchen_window is open" to "Kitchen Window is open"
 What happens: The regex match "" in "Kitchen_window is open".  We retain the characters until index 0 of "", which is no characters.
 We retain the characters after index 1 of "_", which is no characters. And we put a space in the middle.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Out/text.  
 > You, at a linux command prompt: mosquitto_pub -h mqttserver -t my-out/text -m.  

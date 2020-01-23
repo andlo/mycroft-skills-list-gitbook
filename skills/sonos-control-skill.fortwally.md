@@ -3,11 +3,13 @@ description: Control Sonos speakers from Mycroft
 ---
 
 ### _sonos-control-skill.fortwally_  
+## Description:  
 Allow control of Sonos speakers from Mycroft.
 Assumes all speakers are in one group.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Sonos   
+  
+###Tags: \#Sonos   
 ## Examples:  
 > Sonos play.  
 > Sonos pause.  

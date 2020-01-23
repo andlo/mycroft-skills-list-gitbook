@@ -3,6 +3,7 @@ description: Fallback using any offline AIML2.0 chatbot
 ---
 
 ### _fallback-chatbot.Fantailed_  
+## Description:  
 WARNING: Do NOT install this skill if you aren't at least somewhat familiar with linux as it WILL break your Picroft installation!!!
 Because of the mere size of Program-Y, there are a few incompatibilities and installation difficulties that have to be manually resolved.
 Please read the whole description before proceeding.
@@ -19,9 +20,10 @@ sudo pip3 install lxml
 Note that the installation of lxml can be very slow on low RAM devices like the Raspberry Pi (I am talking in the order of 10min+!). If you
 ever doubt that it's even doing anything, open another terminal and run htop on it.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
   
-**Tags:** \#\chatbot \#\aiml \#\aiml2.0   
+  
+###Tags: \#\chatbot \#\aiml \#\aiml2.0   
 ## Examples:  
 > My name is Dave.  
 > What is my name?  

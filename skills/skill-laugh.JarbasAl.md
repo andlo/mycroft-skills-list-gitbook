@@ -3,11 +3,13 @@ description:     Makes Mycroft laugh like a maniac
 ---
 
 ### _skill-laugh.JarbasAl_  
+## Description:  
 Laugh randomly or when requested, gender configurable on home.mycroft.ai.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#laugh \#funny \#entertainment \#repeating   
+  
+###Tags: \#laugh \#funny \#entertainment \#repeating   
 ## Examples:  
 > Laugh like Alexa.  
 > Random laughter.  

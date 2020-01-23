@@ -3,6 +3,7 @@ description: Customize your Mark 1
 ---
 
 ### _mycroft-mark-1.MycroftAI_  
+## Description:  
 The Mycroft Mark 1 has several unique capabilities which this Skill lets you control.
 Eye Color
 The Mark 1 has beautiful eyes -- and you get to pick their color!  Set them to
@@ -13,9 +14,10 @@ Faceplate Brightness
 Set the faceplate to a specific brightness, or allow it to automatically adjust
 its brightness level to dim at night.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)   
-**Tags:** \#mark1 \#configuration \#settings \#system   
+  
+###Tags: \#mark1 \#configuration \#settings \#system   
 ## Examples:  
 > Set your eye color to pink.  
 > Change your eye color to the default.  

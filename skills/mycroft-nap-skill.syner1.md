@@ -3,15 +3,17 @@ description: Put Mycroft to sleep when you don't want to be disturbed
 ---
 
 ### _mycroft-nap-skill.syner1_  
+## Description:  
 Tell Mycroft to sleep when you don't want to be disturbed in any way.
 This stops all calls to Speech to Text system, guaranteeing your voice won't
 be sent anywhere on an accidental activation.
 When sleeping, Mycroft will only listen locally for the phrase "Hey Mycroft,
 wake up". Otherwise the system will be totally silent and won't bother you.
 On a Mark 1 this also dims the eyes.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#nap \#naptime \#sleep \#donotdisturb \#do-not-disturb   
+  
+###Tags: \#nap \#naptime \#sleep \#donotdisturb \#do-not-disturb   
 ## Examples:  
 > Go to sleep.  
 > Nap time.  

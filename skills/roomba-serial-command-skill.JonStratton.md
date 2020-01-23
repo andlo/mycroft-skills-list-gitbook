@@ -3,10 +3,12 @@ description: Talks to a roomba that is connected to something running roomba-ser
 ---
 
 ### _roomba-serial-command-skill.JonStratton_  
+## Description:  
 This skill is to be used with a roomba with a serial connection to a small single board computer running the roomba-serial-command-service. This device must also be connected to the same local network that mycroft is running from. The mycoft skill will use zeroconf to try to locate the service.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#roomba   
+  
+###Tags: \#roomba   
 ## Examples:  
 > List robots.  
 > Tell roomba to clean.  

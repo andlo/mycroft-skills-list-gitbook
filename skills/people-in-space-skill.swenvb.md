@@ -3,9 +3,11 @@ description:
 ---
 
 ### _people-in-space-skill.swenvb_  
+## Description:  
 Ever wondered how many people are in space right now? just ask mycroft, and you will get the answer!  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > How many people are in space?  
   

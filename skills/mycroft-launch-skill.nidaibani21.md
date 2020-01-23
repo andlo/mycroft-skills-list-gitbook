@@ -3,9 +3,11 @@ description:
 ---
 
 ### _mycroft-launch-skill.nidaibani21_  
+## Description:  
 The word used after the trigger word should be taken as action and that word app should be launched on device.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Launch app.  
 > Please launch.  

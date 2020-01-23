@@ -3,9 +3,11 @@ description: Use the Respeaker Mic Array v2 (usb) with Mycroft A.I
 ---
 
 ### _mycroft-respeaker-usb-pixel-ring.arraylabs_  
+## Description:  
 This skills supports the led pixel ring of seeedstudio Respeaker Mic Array v2 (usb).  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Enable pixel ring.  
 > Disable pixel ring.  

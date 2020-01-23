@@ -3,10 +3,12 @@ description: Barks like a dog
 ---
 
 ### _bark-skill.padresb_  
+## Description:  
 Ask mycroft to bark and it will say ruff.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Dog \#Bark   
+  
+###Tags: \#Dog \#Bark   
 ## Examples:  
 > Bark.  
 > What does a dog say?  

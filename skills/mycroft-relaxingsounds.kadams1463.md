@@ -3,6 +3,7 @@ description:
 ---
 
 ### _mycroft-relaxingsounds.kadams1463_  
+## Description:  
 Play various sounds on a loop through Mycroft. The sounds help with sleep, relaxing, or meditating.
 Here is a list of sounds:
 
@@ -11,9 +12,10 @@ Waves
 Rain.
   
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#health, \#sleep \#Development \#and \#Contributing \#If \#you \#find \#something \#that \#this \#skill \#can \#improve, \#please \#feel \#free \#to \#make \#edits \#and \#contributions.   
+  
+###Tags: \#health, \#sleep \#Development \#and \#Contributing \#If \#you \#find \#something \#that \#this \#skill \#can \#improve, \#please \#feel \#free \#to \#make \#edits \#and \#contributions.   
 ## Examples:  
 > Play white noise.  
 > Play waves.  

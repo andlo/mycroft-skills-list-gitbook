@@ -3,10 +3,12 @@ description:
 ---
 
 ### _skill-pick-up-lines.JarbasAl_  
+## Description:  
   
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Looking.  
   

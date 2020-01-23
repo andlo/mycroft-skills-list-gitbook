@@ -3,6 +3,7 @@ description: Internal utterance testing tool
 ---
 
 ### _skill-testing-skill.krisgesling_  
+## Description:  
 "read all utterances"
 Enter a list of phrases in Skill settings to verify which Skill and intent handler is triggered. Phrase list should be in format:
 
@@ -18,9 +19,10 @@ Additional options include:
 - delay - the period in seconds between each phrase - default 30
 Results will be uploaded to termbin.com in csv format and the link will be emailed to you. A csv file of the results will also be saved on the device at: ~/.mycroft/skills/SkillTesting/reading-output/{test_identifier}.csv. Note that when creating the filename, characters not in [a-z, A-Z, 0-9, [._-]] will be removed eg "weather phrases" will become "weatherphrases.csv". This file can be used to generate integration tests for all phrases.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#testing   
+  
+###Tags: \#testing   
 ## Examples:  
 > Read all utterances.  
 > Generate integration tests.  

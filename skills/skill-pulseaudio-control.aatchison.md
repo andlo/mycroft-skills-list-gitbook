@@ -3,11 +3,13 @@ description:
 ---
 
 ### _skill-pulseaudio-control.aatchison_  
+## Description:  
 This skill is intended to allow a Mycroft user to list and set the default input and output devices. This should work both by voice and by cli for an initial setup.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#* \#`listing \#devices \#should \#work \#just \#fine` \#* \#`setting \#devices \#speaks \#the \#device \#that \#was \#set, \#but \#setting \#hasn't \#been \#implemented \#just \#yet`   
+  
+###Tags: \#* \#`listing \#devices \#should \#work \#just \#fine` \#* \#`setting \#devices \#speaks \#the \#device \#that \#was \#set, \#but \#setting \#hasn't \#been \#implemented \#just \#yet`   
 ## Examples:  
 > Pulse source list.  
 > Pulse sink list.  

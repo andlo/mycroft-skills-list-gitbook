@@ -3,11 +3,13 @@ description: Provides random answers to yes/no questions
 ---
 
 ### _Crystal-Ball-Mycroft-Skill.Arc676_  
+## Description:  
 Ask Mycroft any yes/no question and receive a randomly chosen answer.
 Please don't use this skill for any important questions.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#crystalball \#random   
+  
+###Tags: \#crystalball \#random   
 ## Examples:  
 > Crystal Ball, will the world end tomorrow?  
 > Mirror mirror on the wall, am I the fairest of them all?  

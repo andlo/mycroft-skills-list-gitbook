@@ -3,9 +3,11 @@ description:
 ---
 
 ### _skill-ppt-controller-using-rasa.avimeens_  
+## Description:  
 Infer actions to control power point presentation. E.g. 'start a presentation', 'next slide', 'previous slide', 'end presentation'  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Open file with name mycroft.  
 > Open file padatious.  

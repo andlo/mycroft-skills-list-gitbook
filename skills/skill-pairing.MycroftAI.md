@@ -3,14 +3,16 @@ description: Connect your device to the Mycroft server - Home
 ---
 
 ### _skill-pairing.MycroftAI_  
+## Description:  
 The default backend to provide services for Mycroft users is
 Home.  Pairing a device with Home provides access
 to privacy-protecting Speech to Text, Wolfram Alpha and other such services,
 as well as easy configuration for all your Mycroft devices.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#pair \#pairing \#connectivity \#system   
+  
+###Tags: \#pair \#pairing \#connectivity \#system   
 ## Examples:  
 > Pair my device.  
   

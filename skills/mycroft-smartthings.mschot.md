@@ -3,6 +3,7 @@ description:
 ---
 
 ### _mycroft-smartthings.mschot_  
+## Description:  
 Add a block to your ~/.mycroft/mycroft.conf file like this:
 "HomeAssistantSkill": {
 "host": "hass.mylan.net",
@@ -14,8 +15,9 @@ NOTE: portnum is for the port number you have Home Assistant running on. 8123 is
 NOTE: SSL support is currently secure as it does verify the cert.
 You will then need to restart mycroft.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.

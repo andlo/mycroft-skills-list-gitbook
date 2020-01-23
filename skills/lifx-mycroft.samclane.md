@@ -3,11 +3,13 @@ description: A mycroft skill to control LIFX brand smart-bulbs
 ---
 
 ### _lifx-mycroft.samclane_  
+## Description:  
 Allows users to interact with the LIFX-brand smartbulbs on their home network through Mycroft. Can change power, brightness, color, and color-temperature of individual Lights and predefined Groups.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#lifx \#smartbulb \#smartlight \#home-automation   
+  
+###Tags: \#lifx \#smartbulb \#smartlight \#home-automation   
 ## Examples:  
 > Turn off the bedroom light.  
 > Set the bedroom light yellow.  

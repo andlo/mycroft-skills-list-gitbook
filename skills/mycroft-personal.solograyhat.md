@@ -3,9 +3,11 @@ description:
 ---
 
 ### _mycroft-personal.solograyhat_  
+## Description:  
 Skill will answer some of the personality questions of mycroft.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > What are you?  
 > Where are you born?  

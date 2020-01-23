@@ -3,11 +3,13 @@ description: Control the volume of your system
 ---
 
 ### _mycroft-volume.syner1_  
+## Description:  
 Control the volume of Mycroft with verbal commands or by spinning the physical
 button on a Mark 1.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)   
-**Tags:** \#volume \#volume-control \#sound   
+  
+###Tags: \#volume \#volume-control \#sound   
 ## Examples:  
 > Turn up the volume.  
 > Decrease the audio.  

@@ -3,10 +3,12 @@ description:
 ---
 
 ### _skill-protocol.marcfunston_  
+## Description:  
 Currently undefined functions
 Omega will shut MyCroft and the computer.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Protocol Gamma.  
 > Tell me merge sort running time.  

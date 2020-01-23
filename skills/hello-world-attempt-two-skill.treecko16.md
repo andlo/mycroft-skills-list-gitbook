@@ -3,10 +3,12 @@ description: Says "hello, world!"
 ---
 
 ### _hello-world-attempt-two-skill.treecko16_  
+## Description:  
   
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Test \#Helloworld \#Hello \#Hi \#Not \#final   
+  
+###Tags: \#Test \#Helloworld \#Hello \#Hi \#Not \#final   
 ## Examples:  
 > Hello world.  
 > Hello.  

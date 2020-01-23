@@ -3,9 +3,11 @@ description:
 ---
 
 ### _mycroft-ai-skill.ITISEnricoFermi_  
+## Description:  
 Reprehenderit proident sunt ea non occaecat veniam. Ipsum sit cupidatat anim ea. Incididunt aute consequat eu incididunt magna ut mollit cupidatat culpa. Exercitation proident sunt in Lorem incididunt laboris magna. Quis et est ex ut sint velit est quis dolore cillum. Veniam fugiat velit amet nulla quis sint aliqua et ad eu duis magna nostrud elit. Commodo enim laboris Lorem enim reprehenderit ex excepteur dolore deserunt.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Turn on the lights.  
 > Switch on the light.  

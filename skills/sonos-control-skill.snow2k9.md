@@ -3,10 +3,12 @@ description:
 ---
 
 ### _sonos-control-skill.snow2k9_  
+## Description:  
 currently only chooses random device
 Control your Sonos with Mycroft  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Sonos play.  
 > Sonos pause.  

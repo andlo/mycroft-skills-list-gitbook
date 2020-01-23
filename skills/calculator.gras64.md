@@ -3,11 +3,13 @@ description: A simple calculator skill for Mycroft AI
 ---
 
 ### _calculator.gras64_  
+## Description:  
 The skill enables simple computational tasks to be solved.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#'calculation   
+  
+###Tags: \#'calculation   
 ## Examples:  
 > What is 1 and 2?  
 > Addiere 4 and 5.  

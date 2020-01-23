@@ -3,9 +3,11 @@ description:
 ---
 
 ### _heart-rate.tiagochiavericosta_  
+## Description:  
 Say the command to mycroft and place a finger on the webcam lens.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > What is my heart rate?  
 > What my heart rate?  

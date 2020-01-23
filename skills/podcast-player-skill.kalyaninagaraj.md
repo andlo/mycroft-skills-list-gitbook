@@ -3,11 +3,13 @@ description: Mycroft plays the latest episode of your favorite podcast
 ---
 
 ### _podcast-player-skill.kalyaninagaraj_  
+## Description:  
 Unlike a typical podcast player, this skill does not maintain playlist.
 Instead, this skill lets you to play a particular episode by identifying the season and episode number to Mycroft.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Podcast \#Mycroft \#AI   
+  
+###Tags: \#Podcast \#Mycroft \#AI   
 ## Examples:  
 > *Play \*podcast-name\** (Plays the latest episode)  
 > *Play season 2 episode 5 of \*podcast-name\** (Plays episode 5 of season 2)  

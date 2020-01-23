@@ -3,11 +3,13 @@ description: Network connection information
 ---
 
 ### _skill-ip.MycroftAI_  
+## Description:  
 Retrieve the IP address, also known as the "network address" of the Device and respond verbally to the user, and if the Device supports it, display the IP address.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#IP-address \#IPaddress \#network-address \#network \#system   
+  
+###Tags: \#IP-address \#IPaddress \#network-address \#network \#system   
 ## Examples:  
 > What's your network address?  
 > What's your IP address?  

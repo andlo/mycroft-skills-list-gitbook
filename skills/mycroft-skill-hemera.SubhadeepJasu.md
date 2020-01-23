@@ -3,10 +3,12 @@ description:
 ---
 
 ### _mycroft-skill-hemera.SubhadeepJasu_  
+## Description:  
 This skill lets Mycroft send special bus messages to Hemera, a digital personal
 assistant for elementary OS.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Launch Melody.  
 > Open the app called Firefox.  

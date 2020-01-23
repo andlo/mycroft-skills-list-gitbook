@@ -3,6 +3,7 @@ description: Ask Mycroft to run a simple speedtest
 ---
 
 ### _speedtest-skill.luke5sky_  
+## Description:  
 Run a speedtest with Mycroft.
 This skill uses the speedtest-cli ( which runs an internet bandwidth test using speedtest.net.
 Be aware that this speedtest relies on the capability of the network-adapter of your Mycroft device.
@@ -10,9 +11,10 @@ Examples for Raspberry Pi:
 - Raspberry Pi 3 B  onboard WiFi: max. ~40 Mbit/s, onboard LAN: max. ~100 Mbit/s
 - Raspberry Pi 3 B+ onboard WiFi: max. ~100 Mbit/s, onboard LAN: max. ~225 Mbit/s
 If a Raspberry Pi 3 B - connected to WiFi - runs Mycroft you won't get more than 40 Mbit/s from the speedtest despite your internet connection may have more bandwith.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#ínternet \#speed \#bandwith   
+  
+###Tags: \#ínternet \#speed \#bandwith   
 ## Examples:  
 > Run a speedtest.  
   

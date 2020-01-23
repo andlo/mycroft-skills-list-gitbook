@@ -3,6 +3,7 @@ description: Updates original Mark 1 devices so they can upgrade to the latest v
 ---
 
 ### _skill-platform-patch.MycroftAI_  
+## Description:  
 Some of the earliest shipping Mark 1 devices require this platform patch in order to begin automatically updating.
 You can tell if you need the patch by following this guide:
 Hey Mycroft, install version checker
@@ -12,9 +13,10 @@ Hey Mycroft, what version are you running?
 "I'm runing mycroft-core version 0.8.19"
 If your version is less than 0.9.0, you should install this platform patch.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)   
-**Tags:** \#mark1 \#mycroft-mark1 \#platform-patch \#update \#patch   
+  
+###Tags: \#mark1 \#mycroft-mark1 \#platform-patch \#update \#patch   
 ## Examples:  
 > Install platform patch.  
   

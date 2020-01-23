@@ -3,9 +3,11 @@ description:
 ---
 
 ### _inflacao-skill.thiagodchen_  
+## Description:  
 Utilizando os dados do IPCA através do sistema do IBGE, a skill Inflação permite que consulte taxa de variação do IPCA.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Quanto está a variação do IPCA hoje?  
 > Quero saber a variação mensal do ipca de março de 2017.  

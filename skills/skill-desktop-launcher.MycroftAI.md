@@ -3,11 +3,13 @@ description: Desktop Launcher
 ---
 
 ### _skill-desktop-launcher.MycroftAI_  
+## Description:  
 Launch applications on the Linux desktop, and close them when done.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#desktop \#desktop-launch \#desktop-launcher   
+  
+###Tags: \#desktop \#desktop-launch \#desktop-launcher   
 ## Examples:  
 > Open Firefox.  
 > Search Mycroft in Amazon.  

@@ -3,10 +3,12 @@ description:
 ---
 
 ### _powerball-checker-skill.laurapalmerstolemyheart_  
+## Description:  
 This skill allows mycroft to tell you the last winning Powerball numbers.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#powerball \#lottery \#lotto   
+  
+###Tags: \#powerball \#lottery \#lotto   
 ## Examples:  
 > What were the last Powerball numbers?  
 > What were the winning Powerball numbers?  

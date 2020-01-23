@@ -3,6 +3,7 @@ description:
 ---
 
 ### _directions-skill.luke5sky_  
+## Description:  
 A skill to get simple directions (time and distance) via MyCroft.
 You need to create an account at  and create an API-KEY/API-TOKEN put this on home.mycroft.ai under skill settings.
 After this restart your MyCroft Unit or give mycroft some time to sync the settings.
@@ -12,8 +13,9 @@ Settings:
 HowToUse:
 "Hey mycroft, give me directions from Richmond Hill Road New York to 39th street kansas city"  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.

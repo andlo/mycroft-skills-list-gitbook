@@ -3,10 +3,12 @@ description: Converts from one unit of measure to another
 ---
 
 ### _unit-converter-skill.tom-servo_  
+## Description:  
 Allows mycroft to convert quantities in one physical unit of measure to another.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Units \#Conversion   
+  
+###Tags: \#Units \#Conversion   
 ## Examples:  
 > How many cups in 3 liters?  
   

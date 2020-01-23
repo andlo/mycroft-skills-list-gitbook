@@ -3,6 +3,7 @@ description:
 ---
 
 ### _node-light-controller.neoscreenager_  
+## Description:  
 This skills allows to turn on/off, the Red/Green LEDs attached with NodeMCU microcontroller.
 It is using Thinger.io ( server installed on local machine to control the
 LEDs through REST API calls. Thinger.io server provides an interface to manage all the IoT resources
@@ -19,8 +20,9 @@ Demo videos on YouTube:
 2.     Demo to query room temperature
 3.     Screencast walkthrough under the hood.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Turn red light on.  
 > Turn green light off.  

@@ -3,6 +3,7 @@ description:
 ---
 
 ### _kodi-controller-skill.who-is-matt_  
+## Description:  
 The Kodi Controller Skill allows Mycroft to control Kodi, whether locally installed
 or on another device on the local network.  It will allow a high degree of control
 over Kodi, including the ability for the user to specify a device IP for the Kodi
@@ -10,8 +11,9 @@ player (allowing the skill to control Kodi on multiple different devices without
 requiring the user to manually edit the skill's settings), to search for videos and
 music, and to control playback.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Connect to Kodi at &lt;IP address&gt;  
 > Pause Kodi.  

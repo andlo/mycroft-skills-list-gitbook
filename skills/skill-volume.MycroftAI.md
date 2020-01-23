@@ -3,12 +3,14 @@ description: Control the volume of your system
 ---
 
 ### _skill-volume.MycroftAI_  
+## Description:  
 Control the volume of Mycroft with verbal commands or by spinning the physical
 button on a Mark 1.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#volume \#volume-control \#sound \#system   
+  
+###Tags: \#volume \#volume-control \#sound \#system   
 ## Examples:  
 > Turn up the volume.  
 > Decrease the audio.  

@@ -3,9 +3,11 @@ description:
 ---
 
 ### _recipe-skill.ajwkc_  
+## Description:  
 Uses the Yummly API to search the recipe database, and then reads the ingredients one by one.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > I want to cook vegetarian chili.  
 > How do I make buffalo wings?  

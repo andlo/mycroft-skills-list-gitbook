@@ -3,11 +3,13 @@ description: Just train a new wakeword
 ---
 
 ### _wake-word-skill.gras64_  
+## Description:  
 Wakeword is only a few times spoken and bad detection sorted out. you could not do that through speech. i have thought about it and make a skill.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Wake \#word   
+  
+###Tags: \#Wake \#word   
 ## Examples:  
 > I want to call you christopher.  
 > Install wakeword source.  

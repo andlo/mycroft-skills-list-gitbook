@@ -3,10 +3,12 @@ description:
 ---
 
 ### _skill-subsonic-media.ejstacey_  
+## Description:  
 This module plays streaming content from a Subsonic Media Server (  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Play something i can never have by nine inch nails.  
 > Play pretty hate machine.  

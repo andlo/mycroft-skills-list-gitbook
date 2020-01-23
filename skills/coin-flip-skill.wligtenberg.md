@@ -3,6 +3,7 @@ description:
 ---
 
 ### _coin-flip-skill.wligtenberg_  
+## Description:  
 Flip a virtual coin by saying "hey Mycroft, flip a coin".
 It will then randomly choose between heads and tails.
 To get this done we need
@@ -10,8 +11,9 @@ To get this done we need
 - Randomly pick between heads or tails
 - Speak the result.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Flip a coin.  
   

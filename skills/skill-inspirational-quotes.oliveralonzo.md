@@ -3,10 +3,12 @@ description:
 ---
 
 ### _skill-inspirational-quotes.oliveralonzo_  
+## Description:  
 Inspirational quotes for when you need a lift-up or just want to hear some wisdom. Quotes from Forismatic.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Inspire me.  
 > Read me a quote.  

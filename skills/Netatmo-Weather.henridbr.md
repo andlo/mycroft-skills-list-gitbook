@@ -3,12 +3,14 @@ description: A Mycroft Skill for Home Temperatures and more with Netatmo
 ---
 
 ### _Netatmo-Weather.henridbr_  
+## Description:  
 Netatmo weather device is part of your home network using wifi and you can look at some parameters from Netatmo website on your desktop, or apps on smartphones and tablets.
 
 What's new with Mycroft ? "Hey Mycroft, what's the room temperature ?", it's easier and faster.  
-**Platform:**  
+### Platform:  
  ![Picroft](../.gitbook/assets/picroft-icon.png)   
-**Tags:** \#Netatmo \#Weather \#Picroft   
+  
+###Tags: \#Netatmo \#Weather \#Picroft   
 ## Examples:  
 > I need info from Netatmo.  
 > What's home temperature ?  

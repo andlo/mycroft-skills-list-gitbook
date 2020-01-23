@@ -3,6 +3,7 @@ description: This skill adds openHAB support to Mycroft
 ---
 
 ### _openhab-mycroft.openhab_  
+## Description:  
 This skill adds openHAB support to Mycroft.
 The skill takes advantage of the openHAB REST API, so it works both with the v1.x and v2.x of openHAB.
 In order to make openHAB Items accessible to Mycroft, they need to be tagged.
@@ -26,9 +27,10 @@ If items are modified in openHAB, a refresh in Mycroft is needed by the command:
 If you've forgotten what items have been identified, you can ask Mycroft:
 - "Hey Mycroft, list openhab items"  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#openHAB \#smarthome \#IoT \#Automation \#opensource   
+  
+###Tags: \#openHAB \#smarthome \#IoT \#Automation \#opensource   
 ## Examples:  
 > Turn on Diningroom Light.  
 > Switch off Kitchen Light.  

@@ -3,6 +3,7 @@ description: Checks your national weather service and notifies you when there ar
 ---
 
 ### _severe-weather-information-skill.domcross_  
+## Description:  
 The severe weather information skills can connect to dozens of weather alerting servic
 among them many from following lists:
 severe weather information center
@@ -13,9 +14,10 @@ list on the skills configuration page.
 ask "are there weather alerts?" to check for new alerts.
 you can also set a "watchdog" that automatically checks for new alerts and notifies you...  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Weather \#alert \#Severe \#weather   
+  
+###Tags: \#Weather \#alert \#Severe \#weather   
 ## Examples:  
 > Are there weather alerts.  
   

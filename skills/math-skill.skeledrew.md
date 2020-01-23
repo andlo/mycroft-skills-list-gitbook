@@ -3,9 +3,11 @@ description:
 ---
 
 ### _math-skill.skeledrew_  
+## Description:  
 A calculator that can be "infinitely" extended, using the abilities template.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Calculate three plus twenty.  
 > Calculate the square root of 100.  

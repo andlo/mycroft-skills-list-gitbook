@@ -3,9 +3,11 @@ description:
 ---
 
 ### _Mycroft-Coffee-Warmer.tony1661_  
+## Description:  
 A custom Mycroft skill I created to turn my sonoff on and off for my coffee mug warmer. Included is the custom sonoff firmware I got from another website which I slightly modified for my needs. You can find that firmware in the sonoff.cfg file. I am using a Sonoff Basic.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Turn on my coffee warmer.  
 > Turn off my coffee warmer.  

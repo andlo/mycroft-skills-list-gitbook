@@ -3,9 +3,11 @@ description: Orchestrates a automatic orchard with mycroft
 ---
 
 ### _LaHuertaDeRamiroSkill.jandrovins_  
+## Description:  
 This skill is intended to administrate 4 aspects of a orchard: soil moisture, temperature, brightness and athmomspheric pressure. this variables will me measure a few times a day, and depending on the data collected mycroft will alert the user to water the plant.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > How are my plants.  
 > How is my plant.  

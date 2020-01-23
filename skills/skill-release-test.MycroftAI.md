@@ -3,14 +3,16 @@ description: Tool used by Mycroft  internal Quality Assurance team when validati
 ---
 
 ### _skill-release-test.MycroftAI_  
+## Description:  
 When a new release is being tested, this skill is installed to verify the
 installation mechanism functions properly.  Additionally, the following line
 is edited to verify that the skill update process occurs as intended.
 Test line:  2018/10/23 23:14.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#release \#release-test \#quality-assurance \#testing \#qa \#ci \#cd   
+  
+###Tags: \#release \#release-test \#quality-assurance \#testing \#qa \#ci \#cd   
 ## Examples:  
 > Run the release test (should respond with 'Test passed')  
 > Release test.  

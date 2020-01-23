@@ -3,9 +3,11 @@ description:
 ---
 
 ### _skill-kodi-remote.mehmetaergun_  
+## Description:  
   
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
+  
 ## Examples:  
 > Pause Kodi.  
 > Resume Kodi.  

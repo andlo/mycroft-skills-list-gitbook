@@ -3,6 +3,7 @@ description: Common playback control system
 ---
 
 ### _skill-playback-control.MycroftAI_  
+## Description:  
 This Skill doesn't do anything by itself, but it provides an important common
 language for audio playback skills.  By handling simple phrases like
 'pause', this one Skill can turn around and rebroadcast the messagebus
@@ -12,9 +13,10 @@ Additionally, this implements the common Play handler.  This allows playback
 services to negotiate which is best suited to play back a specific request.
 This capability is used by the Spotify and Pandora Skills, among others.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#music \#play \#playback \#pause \#resume \#next \#system   
+  
+###Tags: \#music \#play \#playback \#pause \#resume \#next \#system   
 ## Examples:  
 > Play my summer playlist.  
 > Play Pandora.  

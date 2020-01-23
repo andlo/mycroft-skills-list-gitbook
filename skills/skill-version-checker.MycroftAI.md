@@ -3,14 +3,16 @@ description: Report the version of your Mycroft
 ---
 
 ### _skill-version-checker.MycroftAI_  
+## Description:  
 Report the version of your Mycroft install (mycroft-core) and of the platform you are running on - ie
 
 Mycroft Mark 1, version 18.2.13 beta.
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#version \#build \#platform \#versioning \#system   
+  
+###Tags: \#version \#build \#platform \#versioning \#system   
 ## Examples:  
 > Check version.  
 > What version are you running?  

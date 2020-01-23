@@ -3,10 +3,12 @@ description: Play Number Guess with Mycroft
 ---
 
 ### _Number-Guess-Mycroft-Skill.Arc676_  
+## Description:  
 In Number Guess, you provide a lower and upper bound, then try to guess the randomly generated number between those bounds. With this skill, Mycroft can play with you! Ask Mycroft to generate a random number, try to guess, and Mycroft will tell you if your guess is too high, too low, or spot on.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#numberguess \#game \#number \#random \#guessing   
+  
+###Tags: \#numberguess \#game \#number \#random \#guessing   
 ## Examples:  
 > Let's play Number Guess.  
 > Play Number Guess.  

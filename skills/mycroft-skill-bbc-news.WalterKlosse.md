@@ -3,10 +3,12 @@ description:
 ---
 
 ### _mycroft-skill-bbc-news.WalterKlosse_  
+## Description:  
 This Mycroft skill is a modification of the npr-skill by jdorleans. Basically, all I have done is changed the URL from the latest NPR news feed to BBC Radio's latest news feed.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > I want listen to bbc news.  
 > Tell me bbc news.  

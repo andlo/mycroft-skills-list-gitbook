@@ -3,11 +3,13 @@ description: Provides current stock prices
 ---
 
 ### _skill-stock.MycroftAI_  
+## Description:  
 Using the MarkitOnDemand API, you can ask Mycroft to get the current price of stocks.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#stocks \#stock-market \#stock-prices \#financial   
+  
+###Tags: \#stocks \#stock-market \#stock-prices \#financial   
 ## Examples:  
 > Stock price of Google.  
 > Trading at Google.  

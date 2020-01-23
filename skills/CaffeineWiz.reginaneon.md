@@ -3,6 +3,7 @@ description:
 ---
 
 ### _CaffeineWiz.reginaneon_  
+## Description:  
 The skill provides the functionality to inform the user of the caffeine content of the requested
 drink. Multiple drinks in a row are possible.
 Sample skill flow:
@@ -19,8 +20,9 @@ How about caffeine content of drink?
 The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_size}} ounces.
   
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Tell me caffeine content of *drink*?  
 > How much caffeine is in *drink*?  

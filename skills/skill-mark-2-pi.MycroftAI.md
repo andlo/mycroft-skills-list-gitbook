@@ -3,14 +3,16 @@ description: Customize your Mark 2
 ---
 
 ### _skill-mark-2-pi.MycroftAI_  
+## Description:  
 The Mycroft Mark 2 has several unique capabilities which this Skill lets you
 control.
 Faceplate Brightness
 Set the faceplate to a specific brightness, or allow it to automatically adjust
 its brightness level to dim at night.  
-**Platform:**  
+### Platform:  
  ![Mark II](../.gitbook/assets/mark-2-icon.png)   
-**Tags:** \#mark2 \#configuration \#settings \#system   
+  
+###Tags: \#mark2 \#configuration \#settings \#system   
 ## Examples:  
 > Turn on auto brightness.  
 > Change to low brightness.  

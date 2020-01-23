@@ -3,6 +3,7 @@ description:
 ---
 
 ### _skill-the-cows-lists.CarstenAgerskov_  
+## Description:  
 This skill adds Remember The Milk support to Mycroft.
 The skill use Remember The Milk's rest interface.
 The purpose if the skill is to allow operations suited for a voice interface. It is not an attempt to cover all functionality of remember the milk.
@@ -104,8 +105,9 @@ You receive the mail, it is not sent the skill developer. The mail contains deta
 and you decide what information to put in the issue report.
 Other issues that are not caught as describe above, can be reported as well, on   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Add milk to my grocery list.  
 > Add remember to call home tomorrow at 9 to list Inbox.  

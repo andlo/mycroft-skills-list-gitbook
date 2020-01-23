@@ -3,10 +3,12 @@ description: Allows Mycroft to repeat the most recent thing it said
 ---
 
 ### _repeat-skill.ChanceNCounter_  
+## Description:  
 Enables Mycroft to repeat whatever it said most recently. Useful when Mycroft speaks too fast, or when you aren't paying close attention.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#basic   
+  
+###Tags: \#basic   
 ## Examples:  
 > Repeat that.  
 > What did you say?  

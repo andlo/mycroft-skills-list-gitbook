@@ -3,10 +3,12 @@ description: Mycroft whitenoise
 ---
 
 ### _test-skill.MaxGolden_  
+## Description:  
 Mycroft will play the whitenoise by using text to speech.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#sing \#singing \#lyrics \#song \#music \#texttospeech   
+  
+###Tags: \#sing \#singing \#lyrics \#song \#music \#texttospeech   
 ## Examples:  
 > Play some whitenoise.  
   

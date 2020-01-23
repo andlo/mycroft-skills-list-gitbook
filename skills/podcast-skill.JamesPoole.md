@@ -3,13 +3,15 @@ description: Listen to episodes of your favourite podcasts
 ---
 
 ### _podcast-skill.JamesPoole_  
+## Description:  
 With this skill, you can add your favorite podcasts an
 Select your favourite podcasts  and listen to episodes from those podcasts. You can also check with Mycroft if there are any new episodes available from your chosen podcasts.
 You can now also scroll through all episodes of your chosen podcasts.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#podcasts \#podcast \#listen \#play   
+  
+###Tags: \#podcasts \#podcast \#listen \#play   
 ## Examples:  
 > Play the podcast linux unplugged.  
 > Check for new episodes.  

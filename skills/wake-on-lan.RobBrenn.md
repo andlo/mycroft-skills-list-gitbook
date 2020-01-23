@@ -3,10 +3,12 @@ description:
 ---
 
 ### _wake-on-lan.RobBrenn_  
+## Description:  
 A skill that uses the Wake On Lan protocol to wake up a device.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#wake-on-lan \#wake   
+  
+###Tags: \#wake-on-lan \#wake   
 ## Examples:  
 > Wake up Desktop.  
 > Turn On Kodi.  

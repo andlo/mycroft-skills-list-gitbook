@@ -3,6 +3,7 @@ description:
 ---
 
 ### _PFE1718-skill-listener.PFE1718_  
+## Description:  
 This skill is made to work with the full Habits Automation project 
 Its role is to log mycroft intents when the user launches a skill. It runs continuously in the background and calls the other two skills of the project by utterance when necessary.
 Different cases :
@@ -11,8 +12,9 @@ Different cases :
 - Habit completed for the first time (calls the automation handler skill)
 - Inactivity for more than 5 minutes after last command (calls the data mining skill)  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}

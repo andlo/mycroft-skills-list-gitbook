@@ -3,11 +3,13 @@ description: Learn history and personality of Mycroft
 ---
 
 ### _skill-personal-18.08.solograyhat_  
+## Description:  
 Ask about the "birth" and parentage of Mycroft and get a taste of the community
 who is fostering this open source artificial intelligence.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#personality \#persona   
+  
+###Tags: \#personality \#persona   
 ## Examples:  
 > When were you created?  
 > What are you?  

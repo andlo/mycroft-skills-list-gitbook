@@ -3,6 +3,7 @@ description: An intercom, (and soon to be) messaging, and (video) calling skill 
 ---
 
 ### _communications-skill.LinusS1_  
+## Description:  
 Use this skill to broadcast messages across your home.
 When this skill is installed on two or more of your devices, the devices will automatically find and connect to each other.
 After they connect, you can say something like "Announce dinner's ready" and all your devices will say that message.
@@ -19,9 +20,10 @@ The future includes:
 - Not having to allow ports in (this will be done automatically)
 - Calling and video calling!  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#intercom \#intercoms \#communication \#communications \#broadcast \#broadcasting \#connect \#devices \#video \#calling \#call   
+  
+###Tags: \#intercom \#intercoms \#communication \#communications \#broadcast \#broadcasting \#connect \#devices \#video \#calling \#call   
 ## Examples:  
 > Announce that.  
 > Announce.  

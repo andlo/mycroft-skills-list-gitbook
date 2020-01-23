@@ -3,6 +3,7 @@ description:
 ---
 
 ### _mycroft-skill-simple-media-controls.the7erm_  
+## Description:  
 I've written a couple of scripts to get you started.  Keep in mind these might not work if the screen saver is on.
 
 samples/fmp - fmp
@@ -10,8 +11,9 @@ samples/xdotool - xdotool - emulates XF86AudioPlay, XF86AudioPrev, and XF86Audio
 
 If you write your owns scripts, please feel free to fork the project, add them to the samples/ and create a pull request.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > [  
 > [  

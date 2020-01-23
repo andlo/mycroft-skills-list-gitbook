@@ -3,10 +3,12 @@ description: Manage a shopping list
 ---
 
 ### _shopping-list-skill.vraedac_  
+## Description:  
 Manage a shopping list as a Todoist project.  you can add or remove items, query specific items or have mycroft read the whole list to you.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Shopping \#List \#Grocery \#Todoist   
+  
+###Tags: \#Shopping \#List \#Grocery \#Todoist   
 ## Examples:  
 > Add cookies to my shopping list.  
 > Remove string cheese from the grocery list.  

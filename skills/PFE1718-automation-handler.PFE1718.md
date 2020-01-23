@@ -3,14 +3,16 @@ description:
 ---
 
 ### _PFE1718-automation-handler.PFE1718_  
+## Description:  
 The automation-handler skill is part of the habits automation system that aims to detect the user habits when using Mycroft, and to offer automation of these identified habits. You can find a detailed definition of a habit on the project page.
 This skill allows you to automate some of the habits that Mycroft has detected and it handles their automation. When you first reproduce a detected habit, Mycroft will ask you if this habit should be automatized.
 The habit detection is done by two other complementary skills:
 1. The skill-listener, that logs the user activity. It is also  responsible for launching the 2 other skills when needed.
 2. The habit-miner, that extracts the habits of the user from the logs.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > List my habits.  
   

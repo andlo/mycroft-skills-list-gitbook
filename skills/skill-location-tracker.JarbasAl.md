@@ -3,6 +3,7 @@ description:
 ---
 
 ### _skill-location-tracker.JarbasAl_  
+## Description:  
 Updates device location, the mycroft home location configuration remains
 unchanged
 
@@ -17,8 +18,9 @@ ip api -
 local ip database - 
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Current location.  
 > Activate location tracking.  

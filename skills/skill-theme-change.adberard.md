@@ -3,9 +3,11 @@ description:
 ---
 
 ### _skill-theme-change.adberard_  
+## Description:  
 Change the wallpaper them call themer to change the theme colors.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Change wallpaper.  
 > Change theme.  

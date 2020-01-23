@@ -3,9 +3,11 @@ description:
 ---
 
 ### _nanoleaf-skill.abowerman_  
+## Description:  
 Robots and blinky lights, oh my.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Turn on the nanoleaf.  
 > Turn off the nanoleaf.  

@@ -3,11 +3,13 @@ description:
 ---
 
 ### _mycroft-skill-darth-plagueis.chadwallacehart_  
+## Description:  
 Recreate the Star Wars Revenge of the Sith scene where Palpatine explains the Tragedy of Darth Plaguies to Anakin.
 You must start the skill by asking about "Darth Plaguies". After that you can navigate via any of Anakin's dialog
 in that scene and the app will respond as Palpatine.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Who was Darth Plagueis?  
 > He could actuall save people from death?  

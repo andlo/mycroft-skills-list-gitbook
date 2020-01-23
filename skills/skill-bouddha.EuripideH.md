@@ -3,10 +3,12 @@ description:
 ---
 
 ### _skill-bouddha.EuripideH_  
+## Description:  
 Mycroft can tell several famous quotes from Buddha.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Tell me a quote from Buddha.  
 > What is your favorite quote of Buddha?  

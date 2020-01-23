@@ -3,10 +3,12 @@ description: Skill to determine when Mycroft AI has finished booting up
 ---
 
 ### _skill-finished-booting.zelmon64_  
+## Description:  
 With this skill Mycroft will say when the boot up period has finished and is ready to receive commands.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Installation:  
 {% hint style="info" %}
 This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers

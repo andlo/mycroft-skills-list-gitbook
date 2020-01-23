@@ -3,9 +3,11 @@ description:
 ---
 
 ### _launch-skill.nidaibani21_  
+## Description:  
 When the trigger words are given the target app specified should open.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Launch.  
 > Launch app.  

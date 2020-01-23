@@ -33,7 +33,7 @@ def make_skillsfiles(skills):
         #get_img(skill["skill_info"]["icon_img"], icon_img)
         #resize_img(icon_img, 50)
         #txt.append(skill["skill_info"]["title"] + '\n\n')
-        #txt.append('## About:  \n')
+        txt.append('## Description:  \n')
         txt.append(clean_txt(skill["skill_info"]["description"]) + '  \n')
         #avatar = '../img/' + skill["owner"]["login"] + '_avatar.png'
         #avatar = get_img(skill["owner"]["avatar_url"], avatar)
@@ -48,7 +48,7 @@ def make_skillsfiles(skills):
             mk2 = ' ![Mark II](../.gitbook/assets/mark-2-icon.png) '
             pi = ' ![Picroft](../.gitbook/assets/picroft-icon.png) '
             kde = ' ![plasmoid](../.gitbook/assets/kde.png) '
-            txt.append('**Platform:**  \n')
+            txt.append('### Platform:  \n')
             for device in skill["skill_info"].get("platforms"):
                 if device == 'all':
                     txt.append(mk1 + mk2 + pi + kde)
@@ -61,8 +61,9 @@ def make_skillsfiles(skills):
                 if device == 'platform_picroft':
                     txt.append(pi)
             txt.append('  \n')
+            txt.append('  \n')
             if not skill["skill_info"]["tags"] == []:
-                txt.append('**Tags:** ')
+                txt.append('###Tags: ')
                 for tag in skill["skill_info"]["tags"]:
                     txt.append('\#' + tag + ' ')
                 txt.append('  \n')

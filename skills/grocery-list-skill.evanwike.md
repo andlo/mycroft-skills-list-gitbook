@@ -3,9 +3,11 @@ description:
 ---
 
 ### _grocery-list-skill.evanwike_  
+## Description:  
 Mycroft will keep track of and update your grocery list!  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > What's on my grocery list?  
 > Add hot pockets to my grocery list.  

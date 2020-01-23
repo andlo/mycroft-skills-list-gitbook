@@ -3,6 +3,7 @@ description: Announce arrivals of MBTA busses at your desired stop
 ---
 
 ### _mbta-bus-tracking-skill.richhowley_  
+## Description:  
 Mycroft will announce estimated arrival times of MBTA busses  at your stop so you never leave the house before you have to.  All data and arrival predictions used by this skill are provided by the MBTA.
 See below for full documentation, including how to track busses traveling toward your stop, but to get started just say "Hey Mycroft, T Bus Arrivals".  You will be prompted for the bus route, direction and stop name.  Mycroft will respond with all estimated arrival times at your stop.
 View Sample dialog
@@ -65,9 +66,10 @@ T bus remove shortcut rat race
 allow you to list and delete saved shortcuts.
 API Key
 When installed this skill does not use an API key when getting data from the MBTA servers.  Using a key allows a higher rate limit when requesting data.  It should not be necessary to use an API key but if you like you may obtain one on the MBTA website. In the skill settings on Mycroft Home check the box next to "Use my API key" and enter your key in the text field.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#MBTA,Boston   
+  
+###Tags: \#MBTA,Boston   
 ## Examples:  
 > T Bus Arrivals.  
 > T Bus Tracking.  

@@ -3,13 +3,15 @@ description:
 ---
 
 ### _mycroft-angrybeanie.purserj_  
+## Description:  
 Installing
 Go to your skills directory (ie /opt/mycroft/skills)
 git clone 
 cd into mycroft-angrybeanie
 pip -r requirements.txt.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Get Angry Beanie shows or Get Angry Beanie podcasts - Returns list of podcasts available.  
 > Angry beanie list episodes for [SHOW_NAME] - list last 10 episodes of the show.  

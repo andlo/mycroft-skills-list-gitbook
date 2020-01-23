@@ -3,12 +3,14 @@ description:
 ---
 
 ### _mycroft-skill-lets-talk.chrison999_  
+## Description:  
 This Mycroft skill is based on the "helloworld" skill
 by eward.  Basically, it implements intents for "Good
 Morning," "Good Afternoon," "Good Evening," and "Good Night."  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Good morning.  
 > Good afternoon.  

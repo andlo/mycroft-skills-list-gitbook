@@ -3,11 +3,13 @@ description: Basic Mycroft GUI screen support
 ---
 
 ### _skill-standard-gui.MycroftAI_  
+## Description:  
 Manage standard screen events, not specific to any particular implementation of the Mycroft GUI.  This includes support for the Mark 1 face plate display events on the Mycroft GUI.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#gui \#system   
+  
+###Tags: \#gui \#system   
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.

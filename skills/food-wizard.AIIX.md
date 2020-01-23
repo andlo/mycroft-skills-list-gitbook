@@ -3,11 +3,13 @@ description: Get Popular Food & Cooking Recipes On The Go
 ---
 
 ### _food-wizard.AIIX_  
+## Description:  
 Get popular recipes and how to cook directions based on combination of Ingredient keywords.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Food \#Recipes \#GUI \#Plasmoid \#KDE \#Ingredients \#Cooking   
+  
+###Tags: \#Food \#Recipes \#GUI \#Plasmoid \#KDE \#Ingredients \#Cooking   
 ## Examples:  
 > Show recipes with apple and honey.  
 > Show recipes with chicken, honey and lime.  

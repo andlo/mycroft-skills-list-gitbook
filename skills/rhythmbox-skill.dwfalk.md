@@ -3,11 +3,13 @@ description:
 ---
 
 ### _rhythmbox-skill.dwfalk_  
+## Description:  
 Let Mycroft help you control Rhythmbox. When asked Mycroft interfaces with Rhythmbox to play selections from your music library.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#songs \#music \#rhythmbox \#mycroft \#skill   
+  
+###Tags: \#songs \#music \#rhythmbox \#mycroft \#skill   
 ## Examples:  
 > Play **  
 > Play ** playlist.  

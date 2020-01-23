@@ -3,11 +3,13 @@ description: Select a random number when provided a min and max value
 ---
 
 ### _skill-pick-number.pcwii_  
+## Description:  
 Mycroft.AI will select a random number between a min and max value.
 The minimum and maximum value may be in any order and any value.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#random \#dice \#decisionmaker   
+  
+###Tags: \#random \#dice \#decisionmaker   
 ## Examples:  
 > Select a number between 1 and 10.  
 > Choose a number between 100 and 199.  

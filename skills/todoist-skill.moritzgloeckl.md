@@ -3,12 +3,14 @@ description: Manage your Todoist tasks
 ---
 
 ### _todoist-skill.moritzgloeckl_  
+## Description:  
 Add new tasks to your Todoist todo-list, complete tasks or check what's on your todos for a specific day/date or project. Works with or without a Todoist premium membership.
 To setup the skill you can either click on the Connect button in the skill settings in home.mycroft.ai or enter your Todoist API key.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#todoist \#todo \#todolist   
+  
+###Tags: \#todoist \#todo \#todolist   
 ## Examples:  
 > What's on my todo list?  
 > Put buy groceries due tomorrow on my todos.  

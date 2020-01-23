@@ -3,6 +3,7 @@ description: This skill plays a sound in the given note or an sound in the given
 ---
 
 ### _sound-tuner-skill.andlo_  
+## Description:  
 This skill plays a sound in the given note or an sound in the given guitar string.
 This can be used to tune a musical instruments.
 Mycroft is using the even tempered (aka equal tempered) scale, where an octave is a
@@ -13,9 +14,10 @@ size, see  en.wikipedia.org/wiki/Stretched_octave.
 Also Mycroft call middle C for "C4" : this is the commonest octave numbering but some
 people call middle C for "C3" or even for "C5".  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#sound \#tuner   
+  
+###Tags: \#sound \#tuner   
 ## Examples:  
 > Gime me an C note.  
 > Give me an guitar Low E string.  

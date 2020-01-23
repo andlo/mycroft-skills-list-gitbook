@@ -3,6 +3,7 @@ description:
 ---
 
 ### _cmd_skill.forslund_  
+## Description:  
 This is a very old skill so it uses the now depricated skill config in mycroft.conf.
 The skill can be configured to run scripts from easily pronouncable human utterances, such as "generate report" by adding the following to the ~/.mycroft/mycroft.conf
 json
@@ -14,8 +15,9 @@ json
 (The config needs to be valid json so be careful). The config usually contains a
 The configuration above will launch /home/forslund/scripts/generate_report.sh when the second utterance under usage is invoked.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Launch command echo TEST*  
 >   

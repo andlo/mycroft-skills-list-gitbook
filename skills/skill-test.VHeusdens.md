@@ -3,11 +3,13 @@ description:
 ---
 
 ### _skill-test.VHeusdens_  
+## Description:  
 A more verbose description, including any extra instructions or
 information that didn't fit in the one line.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Hello world.  
 > Greetings planet earth.  

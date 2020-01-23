@@ -3,11 +3,13 @@ description: Record and playback audio
 ---
 
 ### _skill-audio-record.MycroftAI_  
+## Description:  
 This Skill records audio from the microphone and allows you to play back that recording. This Skill is particularly useful when trying to diagnose microphone issues, because it allows you to "hear" what Mycroft is hearing.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#audio \#record \#record-audio \#microphone \#configuration   
+  
+###Tags: \#audio \#record \#record-audio \#microphone \#configuration   
 ## Examples:  
 > Start recording.  
 > Start recording for 40 minutes.  

@@ -3,14 +3,16 @@ description:
 ---
 
 ### _mycroft-skill-dirtytalk.maxpivo_  
+## Description:  
 
 "Talk Dirty" - Run of the mill dirty talk
 "Filthy" - A little more X rated
 "Nasty" - X Rated and intended to be offensive
 "Filthy Joke" - Will tell you a one-liner.
   
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.

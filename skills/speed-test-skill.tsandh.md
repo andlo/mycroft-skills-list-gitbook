@@ -3,10 +3,12 @@ description:
 ---
 
 ### _speed-test-skill.tsandh_  
+## Description:  
 Finds closest Speedtest server and runs an upload and download test and reports
 server and upload and download speeds im Megabits per second.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Run Speed Test.  
   

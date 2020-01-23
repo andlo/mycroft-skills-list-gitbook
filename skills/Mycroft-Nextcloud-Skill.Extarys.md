@@ -3,11 +3,13 @@ description: Connect Nextcloud services to Mycroft
 ---
 
 ### _Mycroft-Nextcloud-Skill.Extarys_  
+## Description:  
 Control your contacts and your calendar with Mycroft!
 Ability to create appointments in any calendars.
 You can now add a contact to Nextcloud in 15 seconds with your voice.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > List my calendars.  
 > What is on the calendar today?  

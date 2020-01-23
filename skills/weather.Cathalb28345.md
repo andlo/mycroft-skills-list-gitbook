@@ -3,12 +3,14 @@ description:
 ---
 
 ### _weather.Cathalb28345_  
+## Description:  
 Get weather conditions, forecasts, expected precipitation and more!  By default it will tell
 you about your default location, or you can ask for other cities around the world.  Current
 conditions and weather forecasts come from Open Weather Map.
 For devices with screen support, conditions are briefly shown.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > What is the weather?  
 > What is the forecast tommorow?  

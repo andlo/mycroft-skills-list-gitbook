@@ -3,12 +3,14 @@ description:
 ---
 
 ### _mycroft-youtube-mpv.Shadowsith_  
+## Description:  
 Youtube Mpv is a powerful tool on base of the mpv player that uses the mpv unix
 socket to play and control youtube videos only with help of voice commands.
 It also checks if mpv is running to avoid not wanted simultaneous mpv sessions.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Youtube arianna grande 7 rings.  
 > Youtube cancel|exit.  

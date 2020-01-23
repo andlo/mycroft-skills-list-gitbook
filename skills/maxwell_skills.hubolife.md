@@ -3,6 +3,7 @@ description: Skills to intergrate to Myscroft platform , Maxwell is the project 
 ---
 
 ### _maxwell_skills.hubolife_  
+## Description:  
 This is a AltSearch for acroymyns skill that takes an Utterance from the user and provides a voice response - a Dialog. This Skill demonstrates the basic directory and file structure of a Mycroft Skill platform good in developing Skills for the Mycroft ecosystem.
 If you want to write Skills for Mycroft, Documentation is available:
 
@@ -14,9 +15,10 @@ Skill Acceptance Process
 Mycroft Skills Manager
 Mycroft Message Bus
   
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#altsearch \#acronym \#catagory   
+  
+###Tags: \#altsearch \#acronym \#catagory   
 ## Examples:  
 > AltSearch.  
 > Link status?  

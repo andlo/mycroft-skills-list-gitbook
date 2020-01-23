@@ -3,10 +3,12 @@ description:
 ---
 
 ### _help-skill.pcwii_  
+## Description:  
 This skill will provide conversational help for the installed skills by scraping the Readme files for any examples.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Help.  
 > What can you do?  

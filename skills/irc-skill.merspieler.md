@@ -3,11 +3,13 @@ description:
 ---
 
 ### _irc-skill.merspieler_  
+## Description:  
 Mycroft skill that lets you use IRC via voice commands.
 This skill is not considered done.
 NOTE: Developent has been currently stoped due to personal reasons. Merge Requests will still be accepted.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Connect to irc.  
 > Join irc channel.  

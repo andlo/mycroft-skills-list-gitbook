@@ -3,6 +3,7 @@ description:
 ---
 
 ### _PFE1718-habit-miner.PFE1718_  
+## Description:  
 This skill is made to work with the full Habits Automation project 
 Its role is to go through user logs and analyse them. By implementing machine learning algorithms, it can then detect most frequent user habits. They are then passed to the habits-automation skill.
 It can detect two types of habits :
@@ -11,8 +12,9 @@ Time based habits (i.e launching the same skill regularly at the same time of th
 Group based habits (i.e launching a group of skills very frequently)
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Start habit mining.  
   

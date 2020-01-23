@@ -3,10 +3,12 @@ description:
 ---
 
 ### _NavigateSkill-VirtualAssistant.yogi1510_  
+## Description:  
 Testing Mycroft skill development - navigates from office to home.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#navigate \#navigation \#direction   
+  
+###Tags: \#navigate \#navigation \#direction   
 ## Examples:  
 > Navigate from place1 to place2.  
 > What is the distance from place1 to place2?  

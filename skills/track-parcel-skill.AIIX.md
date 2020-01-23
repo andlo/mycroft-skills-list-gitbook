@@ -3,6 +3,7 @@ description:
 ---
 
 ### _track-parcel-skill.AIIX_  
+## Description:  
 Installation of skill:
 
 Download or Clone Git (git clone 
@@ -15,8 +16,9 @@ Dependency requirements:
 This skill requires the installation of aftership.
   
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Track a package.  
 > Enter Your Courier Service Name.  

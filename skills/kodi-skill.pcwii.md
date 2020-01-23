@@ -3,12 +3,14 @@ description: Control KODI open source media center with Mycroft.ai
 ---
 
 ### _kodi-skill.pcwii_  
+## Description:  
 Utilize the kodi API and Python library for controlling the KODI open source media center with Mycroft.ai. The control is mostly geared towards videos/movies but is capable of handling cursor navigation as well.
 The Kodi Skill uses conversational dialog to help you to control your KODI instance more naturally.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#'kodi, \#Krypton \#Leia, \#mycroft.ai, \#python, \#skills \#youtube'   
+  
+###Tags: \#'kodi, \#Krypton \#Leia, \#mycroft.ai, \#python, \#skills \#youtube'   
 ## Examples:  
 > Ask kodi to play the movie guardians of the galaxy.  
 > Ask kodi to play the film planet of the apes.  

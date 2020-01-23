@@ -3,12 +3,14 @@ description: Check the status of your MyEpisodes.com show list
 ---
 
 ### _brezicode.myepisodes.mycroftai.brezuicabogdan_  
+## Description:  
 You will be able to ask Mycroft to check the status of your shows list handled by MyEpisodes.com.
 Mycroft will be able to give you the number of episodes not acquired and optionally the number of episodes acquired but not watched.
 Also you will be able to find out the unacquired seasons and episdes numbers.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#tv \#episodes \#myepisodes.com \#series   
+  
+###Tags: \#tv \#episodes \#myepisodes.com \#series   
 ## Examples:  
 > Check my episodes.  
 > Any new episodes.  

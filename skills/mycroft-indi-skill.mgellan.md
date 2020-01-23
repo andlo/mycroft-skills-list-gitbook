@@ -3,10 +3,12 @@ description: Voice interface to control a telescope using the indi protocol
 ---
 
 ### _mycroft-indi-skill.mgellan_  
+## Description:  
 Telescopes using the indi (instrument nuetral device interface www.indilib.org) can be controlled using this skill.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Astronomy \#telescope \#indi   
+  
+###Tags: \#Astronomy \#telescope \#indi   
 ## Examples:  
 > Goto.  
 > What am i looking at?  

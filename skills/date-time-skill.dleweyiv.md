@@ -3,13 +3,15 @@ description:
 ---
 
 ### _date-time-skill.dleweyiv_  
+## Description:  
 Get the local time or time for major cities around the world.  Times
 are given in 12-hour (2:30 pm) or 24-hour format (14:30) based on the
 Time Format setting at Home
 Time can optionally be shown on a display, like a digital clock.  See
 the skill setting.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > What time is it?  
 > What time is it in Paris?  

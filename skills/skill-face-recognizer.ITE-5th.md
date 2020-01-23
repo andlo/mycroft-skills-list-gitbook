@@ -3,9 +3,11 @@ description:
 ---
 
 ### _skill-face-recognizer.ITE-5th_  
+## Description:  
 Recognise known people and unknown from connected camera using remote server.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Face.  
 > Add john.  

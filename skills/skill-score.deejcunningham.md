@@ -3,6 +3,7 @@ description:
 ---
 
 ### _skill-score.deejcunningham_  
+## Description:  
 Skill-score is an application that enables Mycroft to answer user questions about Major League Baseball (MLB) scores. Mycroft is an open-source AI voice assistant. Skill-score uses panzarino's mlbgame API to report an MLB team's latest final scores, including live scores.
 User input has the format:
 "What is the {team}'s score?"
@@ -15,8 +16,9 @@ The next goals for skill-score are the ability to:
 * give the time of the next MLB game; and
 * support more leagues (e.g., National Football League, National Basketball League), depending on available APIs.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > What is the Royals score?  
 > What is the Angels score?  

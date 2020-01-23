@@ -3,6 +3,7 @@ description: Mycroft tells H. C. Andersen's Fairy Tales
 ---
 
 ### _hcandersen-skill.andlo_  
+## Description:  
 This skill enables Mycroft to tell H. C. Andersen's Fairy Tales. So enjoy these good stories from the famious Danish auhtor.
 Content is from andersenstories.com, so please go visit there if you like the stories and want them in text to read.
 
@@ -10,9 +11,10 @@ Content is from andersenstories.com, so please go visit there if you like the st
 intelligent, read them more fairy tales.”
 Albert Einstein  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#stories \#story \#tales \#fairy \#fairytale \#fairytales \#andersen \#hca   
+  
+###Tags: \#stories \#story \#tales \#fairy \#fairytale \#fairytales \#andersen \#hca   
 ## Examples:  
 > Tell a H. C. Andersen storie.  
 > Tell me the H. C. Andersen story The Little Match Girl.  

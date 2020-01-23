@@ -3,10 +3,12 @@ description: Lets you control your Xbox One by voice
 ---
 
 ### _xbox-control-skill.tgru_  
+## Description:  
 This is a skill for the Mycroft AI voice assistant, which enables you to control your Xbox One with voice commands.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Power on the Xbox.  
 > Switch the Xbox off.  

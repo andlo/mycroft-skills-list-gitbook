@@ -3,11 +3,13 @@ description: Control your mouse and keyboard by voice
 ---
 
 ### _desktop-control.TREE-Ind_  
+## Description:  
 A skill that allows voice control over your mouse and keyboard using natural language.  This skill should be compatible with any Mycroft instance that is installed on a system with display drivers / screen.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![plasmoid](../.gitbook/assets/kde.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)   
-**Tags:** \#desktop \#mouse \#keyboard \#screen   
+  
+###Tags: \#desktop \#mouse \#keyboard \#screen   
 ## Examples:  
 > Type Mycroft is awesome.  
 > Press the enter key.  

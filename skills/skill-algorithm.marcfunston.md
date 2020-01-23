@@ -3,9 +3,11 @@ description:
 ---
 
 ### _skill-algorithm.marcfunston_  
+## Description:  
 Tells you the running time of merge sort and other algorithms.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Merge Sort running time.  
 > Tell me merge sort running time.  

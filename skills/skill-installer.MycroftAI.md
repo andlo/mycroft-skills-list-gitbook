@@ -3,6 +3,7 @@ description: Add and remove Mycroft Skills
 ---
 
 ### _skill-installer.MycroftAI_  
+## Description:  
 Add and remove Skills using your voice or from the Marketplace.
 You can also assist skill authors in testing new versions of their skills by
 using "install prevew version" to gain access to skills still under development
@@ -13,9 +14,10 @@ Skill's GitHub repository URL in the Installer's web user interface.
 Skills are ultimately installed using the Mycroft Skill Manager (msm).  If verbally installing, Mycroft will speak a list of possible matches for
 ambiguous names -- just pick the skill you want from the list read to you.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#install \#installer \#download \#add-skill \#skill \#skills \#msm \#system   
+  
+###Tags: \#install \#installer \#download \#add-skill \#skill \#skills \#msm \#system   
 ## Examples:  
 > Install coin flip.  
 > Install the preview version of coin flip.  

@@ -3,11 +3,13 @@ description: Play songs and music from soundcloud
 ---
 
 ### _soundcloud-audio-player.AIIX_  
+## Description:  
 SoundCloud is a music and podcast streaming platform that lets you listen to millions of songs from around the world, This skill enables you to stream and search for your favorite soundcloud tracks on your device.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Music \#Soundcloud \#Sound \#MusicStreaming \#Streaming \#Songs \#Music \#SongSearch \#MusicSearch \#GUI \#MusicPlayer \#Online   
+  
+###Tags: \#Music \#Soundcloud \#Sound \#MusicStreaming \#Streaming \#Songs \#Music \#SongSearch \#MusicSearch \#GUI \#MusicPlayer \#Online   
 ## Examples:  
 > Soundcloud Metallica.  
 > Pause Soundcloud.  

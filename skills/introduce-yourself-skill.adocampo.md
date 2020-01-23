@@ -3,9 +3,11 @@ description:
 ---
 
 ### _introduce-yourself-skill.adocampo_  
+## Description:  
 With this skill, you can let mycroft to introduce itself, super cool to let your friends astonished.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > What's your name?  
 > Introduce yourself.  

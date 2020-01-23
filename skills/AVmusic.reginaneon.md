@@ -3,6 +3,7 @@ description:
 ---
 
 ### _AVmusic.reginaneon_  
+## Description:  
 The skill provides the functionality to playback the video of any music band/album/playlist
 or specific song requested by the user. No need to specify the location of the files or register any accounts.
 Just say what you would like to listen to and enjoy.
@@ -26,8 +27,9 @@ Actually, go ahead
 Say stop when you are done.
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Play some imagine dragons music.  
 > Av play study music playlist.  

@@ -3,9 +3,11 @@ description:
 ---
 
 ### _mastadon-social-skill.AIIX_  
+## Description:  
 Interact with mastadon, toot and get latest toots.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Toot hey!  
 > Get latest toot.  

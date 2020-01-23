@@ -3,10 +3,12 @@ description: A skill that answers questions over LinkedBrainz data
 ---
 
 ### _skill-musicbrainz.sumutcan_  
+## Description:  
 This skill answers questions like Who sings Let it be? This is just a simple skill to demonstrate the usage of mycroft over linked data.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#music \#generalknowledge \#questionanswer   
+  
+###Tags: \#music \#generalknowledge \#questionanswer   
 ## Examples:  
 > Who sings Let it be?  
   

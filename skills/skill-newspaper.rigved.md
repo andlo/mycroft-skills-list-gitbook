@@ -3,14 +3,16 @@ description:
 ---
 
 ### _skill-newspaper.rigved_  
+## Description:  
 This skill reads aloud full text or summary of any given web page (URL).
 To get this done, the following Python modules are used:
 
 newpaper
 nltk
   
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Read full text https://insights.ubuntu.com/2016/07/07/mycroft-the-open-source-answer-to-natural-language.  
 > Read summary https://insights.ubuntu.com/2016/07/07/mycroft-the-open-source-answer-to-natural-language-platforms/  

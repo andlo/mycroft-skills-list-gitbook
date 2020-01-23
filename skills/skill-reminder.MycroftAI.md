@@ -3,11 +3,13 @@ description: Set single and repeating reminders for tasks
 ---
 
 ### _skill-reminder.MycroftAI_  
+## Description:  
 Flexible reminder Skill, allowing you to set single and repeating reminders for tasks. The reminders are set on the Device, and have no external dependencies.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#reminder \#reminders   
+  
+###Tags: \#reminder \#reminders   
 ## Examples:  
 > Set a reminder every day to take my vitamin pill.  
 > Remind me to put the garbage out at 8pm.  

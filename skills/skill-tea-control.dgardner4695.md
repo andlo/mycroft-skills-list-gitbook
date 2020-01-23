@@ -3,9 +3,11 @@ description:
 ---
 
 ### _skill-tea-control.dgardner4695_  
+## Description:  
   
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > What is the status of the check engine light?  
 > Please tell me how much gas I have left.  

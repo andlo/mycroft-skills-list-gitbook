@@ -3,10 +3,12 @@ description:
 ---
 
 ### _plasma-skill-wiki.AIIX_  
+## Description:  
 Query Wikipedia for answers to all your questions!  Get just the
 summary, or ask for more to get in-depth information.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Tell me about Elon Musk.  
 > Tell me about beans.  

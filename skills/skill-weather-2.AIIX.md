@@ -3,14 +3,16 @@ description: Weather conditions and forecasts
 ---
 
 ### _skill-weather-2.AIIX_  
+## Description:  
 Get weather conditions, forecasts, expected precipitation and more!  By default it will tell
 you about your default location, or you can ask for other cities around the world.
 Current conditions and weather forecasts come from Open Weather Map.
 For enclosures with screen support, conditions are briefly shown using visemes.
 The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your  account.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#weather \#forecast \#rain \#humidity \#snow \#temperature   
+  
+###Tags: \#weather \#forecast \#rain \#humidity \#snow \#temperature   
 ## Examples:  
 > What is the weather?  
 > What is the forecast tomorrow?  

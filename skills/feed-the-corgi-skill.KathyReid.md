@@ -3,9 +3,11 @@ description:
 ---
 
 ### _feed-the-corgi-skill.KathyReid_  
+## Description:  
 Every 24 hours, mycroft will send you a reminder to feed your corgi, and tell you what your corgi was fed the previous day, so you can provide a different delicious meal for your precious corgi.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Have i fed the corgi today.  
 > What did i feed the corgi yesterday?  

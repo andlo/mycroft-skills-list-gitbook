@@ -3,14 +3,16 @@ description:
 ---
 
 ### _rss-reader-skill.backassward_  
+## Description:  
 This skill is a simple tool to get updates from your favorite news sources.
 the main features are:
 * manage your feed subscriptions from your dashboard,
 * ask Mycroft to check if new articles have been published,
 * ask Mycroft to read the titles and other information for you.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#[JamesPoole](https://github.com/JamesPoole/) \#from \#whose \#[podcast-skill](https://github.com/JamesPoole/podcast-skill) \#brilliant \#skill \#I \#inherited \#many \#ideas.   
+  
+###Tags: \#[JamesPoole](https://github.com/JamesPoole/) \#from \#whose \#[podcast-skill](https://github.com/JamesPoole/podcast-skill) \#brilliant \#skill \#I \#inherited \#many \#ideas.   
 ## Examples:  
 > Check for new feeds.  
 > Check for new feeds from Mycroft blog.  

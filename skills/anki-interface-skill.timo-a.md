@@ -3,10 +3,12 @@ description: Control the flashcard program anki with your voice
 ---
 
 ### _anki-interface-skill.timo-a_  
+## Description:  
 Control the flashcard program anki with your voice. mycroft navigates anki by sending key presses.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Spaced \#repetition \#Vocab \#Learning   
+  
+###Tags: \#Spaced \#repetition \#Vocab \#Learning   
 ## Examples:  
 > Open anki.  
 > Start vocabulary review.  

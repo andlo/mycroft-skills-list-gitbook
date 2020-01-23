@@ -3,14 +3,16 @@ description: Send push notification to almost every platform (using apprise lib)
 ---
 
 ### _apprise-skill.domcross_  
+## Description:  
 With this skill you can send push notifications to a large number of notifications services including pushbullet, pushover, twitter, email and many many more - using the fantastic apprise lib...
 Configure up to three services and/or use a configuration file (e.g. when you do not want to upload your username and password to home.mycroft.ai)
 Please refer to the apprise lib wiki for detailed information on service url configuration.
 For config file usage instructions please see the apprise config file manual.  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Push \#Notify \#Apprise   
+  
+###Tags: \#Push \#Notify \#Apprise   
 ## Examples:  
 > Apprise someone of something.  
   

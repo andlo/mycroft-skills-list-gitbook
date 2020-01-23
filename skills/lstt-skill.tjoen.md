@@ -3,6 +3,7 @@ description:
 ---
 
 ### _lstt-skill.tjoen_  
+## Description:  
 This skill uses mycrofts pocketsphinx STT with a small dict.
 It uses a localstt.dic (dictionary) and localstt.lm (language model) in the res folder.
 It shuts now down the speech recognition with naptime when the skill starts, and wakes it up when ending it.
@@ -15,8 +16,9 @@ Translations might be a problem with this method, but this skill uses questions 
 JarbasAI just made a very nice local listener that will be implemented in the near future.
 More info on that here  
 ![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Start local speech.  
 > Play trivia.  

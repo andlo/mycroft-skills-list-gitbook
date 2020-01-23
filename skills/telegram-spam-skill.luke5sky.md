@@ -3,6 +3,7 @@ description: A skill to connect a telegram bot to MyCroft. This will send you ev
 ---
 
 ### _telegram-spam-skill.luke5sky_  
+## Description:  
 You need to create a telegram bot (via BotFather) and save the Bot Token, your ChatID and your MyCroft Device name on home.mycroft.ai under skill settings.
 After this restart your MyCroft Unit.
 You can now commmunicate with your MyCroft Unit via this bot.
@@ -57,9 +58,10 @@ reboot your device to trigger the sync
 Your bot should send you this welcome message: Telegram-Skill on Mycroft Unit YOURUNIT is loaded and ready to use.
 
   
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#messenger \#bot \#telegram-bot   
+  
+###Tags: \#messenger \#bot \#telegram-bot   
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.

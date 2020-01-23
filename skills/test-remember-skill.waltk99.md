@@ -3,11 +3,13 @@ description: Ask MyCroft to remember things for you
 ---
 
 ### _test-remember-skill.waltk99_  
+## Description:  
 You can ask MyCroft to remember and forget things.
 It will store everything in a list locally on your device.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#brain \#remember \#todo-list   
+  
+###Tags: \#brain \#remember \#todo-list   
 ## Examples:  
 > Remember take the trash out.  
 > What did you remember?  

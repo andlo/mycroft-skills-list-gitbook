@@ -3,12 +3,14 @@ description:
 ---
 
 ### _skill-GNUworldOrder.joshuacox_  
+## Description:  
 Teaches Mycroft AI about the the GNU World Order "GNU World Order".
 
 "Hey Mycroft, Who is the GNU World Order?"
   
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Play the GNU World Order!  
 > Random GNU World Order!  

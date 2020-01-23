@@ -3,11 +3,13 @@ description:
 ---
 
 ### _Rolling_Shutters.henridbr_  
+## Description:  
 
 Henri Debierre.
   
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > To shut the rolling shutters : close shutters or close window or shutters down.  
 > To open the rolling shutters : open shutters or open windows or lift shutters.  

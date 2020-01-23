@@ -3,11 +3,13 @@ description: Mycroft GUI Showcase Examples
 ---
 
 ### _Skill-Gui-Examples.AIIX_  
+## Description:  
 Example skill to showcase Mycroft GUI supported delegates and skill displays.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#gui \#sample \#example \#delegates \#mycroftgui \#mycroft-gui   
+  
+###Tags: \#gui \#sample \#example \#delegates \#mycroftgui \#mycroft-gui   
 ## Examples:  
 > Show Examples Menu.  
 > Show Simple Text Example.  

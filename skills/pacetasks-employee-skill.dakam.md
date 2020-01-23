@@ -3,10 +3,12 @@ description: A skill for pacetasks
 ---
 
 ### _pacetasks-employee-skill.dakam_  
+## Description:  
 This is a test skill for connecting mycroft to erp system.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#Pacetasks \#Erp \#Human \#resource \#Mysql \#Database   
+  
+###Tags: \#Pacetasks \#Erp \#Human \#resource \#Mysql \#Database   
 ## Examples:  
 > How is pacetasks employee.  
 > How many employees are in pacetasks.  

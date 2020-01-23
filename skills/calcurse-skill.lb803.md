@@ -3,9 +3,11 @@ description:
 ---
 
 ### _calcurse-skill.lb803_  
+## Description:  
 This skill is a calcurse wrapper for Mycroft.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > What's on my calendar?  
   

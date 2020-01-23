@@ -3,15 +3,17 @@ description: Installs and setup THEIA IDE locally on your device. Real VS Code e
 ---
 
 ### _theia-ide-skill.andlo_  
+## Description:  
 This skill installs Theia IDE on your Mycroft device. This is an easy way to make and edit skills
 with integratio to Github, and tools like mycroft-msm and mycroft-msk directly from the integrated
 shell.
 Theia provides Microsoft VS Code experience in the browser.
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Picroft](../.gitbook/assets/picroft-icon.png)   
-**Tags:** \#theia \#IDE \#editor \#dev \#vscode   
+  
+###Tags: \#theia \#IDE \#editor \#dev \#vscode   
 ## Examples:  
 > Activate IDE.  
 > Deactivate IDE.  

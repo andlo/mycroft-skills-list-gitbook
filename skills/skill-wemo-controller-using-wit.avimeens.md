@@ -3,9 +3,11 @@ description:
 ---
 
 ### _skill-wemo-controller-using-wit.avimeens_  
+## Description:  
 Mycroft skill to controll WeMo switches that are not on the same network as Mycroft.  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+  
 ## Examples:  
 > Find WeMo devices.  
 > Discover WeMo devices.  

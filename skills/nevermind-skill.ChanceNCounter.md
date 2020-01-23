@@ -1,13 +1,15 @@
 ---
-
+description: Dismisses Mycroft  DON'T INSTALL THIS! 
 ---
 
 ### _nevermind-skill.ChanceNCounter_  
+## Description:  
 Allows you to dismiss Mycroft verbally, in case of accidental activation, or if you change your mind. By default, Mycroft will confirm this action, but there is a setting to disable verbal feedback, accessible over the web interface.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
-**Platform:**  
+### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-**Tags:** \#basic   
+  
+###Tags: \#basic   
 ## Examples:  
 > Nevermind.  
 > Dismissed.  
