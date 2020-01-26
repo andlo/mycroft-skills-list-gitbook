@@ -188,7 +188,7 @@ def clean_txt(txt):
     result = result.replace(')', "")
     result = result.replace('~', "")
     result = result.replace('/', "")
-
+    result = result.replace(':', "")
     return result     
 
 def get_img(url, filename):
