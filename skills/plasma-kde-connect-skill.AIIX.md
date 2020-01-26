@@ -1,10 +1,10 @@
 ---
-description: Control your KDE-Connect connected devices with actions such as:
+description: Control your KDE-Connect connected devices with actions such as
 ---
 
 ### _plasma-kde-connect-skill.AIIX_  
 ## Description:  
-Control your KDE-Connect connected devices with actions such as:
+Control your KDE-Connect connected devices with actions such as
 - Find My Phone
 - Ping My Phone
 - Browse Phone Files

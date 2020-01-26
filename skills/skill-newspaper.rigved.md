@@ -5,7 +5,7 @@ description: This skill reads aloud full text or summary of any given web page U
 ### _skill-newspaper.rigved_  
 ## Description:  
 This skill reads aloud full text or summary of any given web page URL.
-To get this done, the following Python modules are used:
+To get this done, the following Python modules are used
 
 newpaper
 nltk

@@ -1,19 +1,19 @@
 ---
-description: Add a block to your .mycroftmycroft.conf file like this:
+description: Add a block to your .mycroftmycroft.conf file like this
 ---
 
 ### _mycroft-traffic.BongoEADGC6_  
 ## Description:  
-Add a block to your .mycroftmycroft.conf file like this:
-"TrafficSkill": {
-"api_key": "REPLACETHISWITHKEYFROMGOOGLE",
-"pois": {
-"default": {
-"destinations": {
-"work": "1 Main Street, Beverly Hills, CA 90210"
+Add a block to your .mycroftmycroft.conf file like this
+"TrafficSkill" {
+"api_key" "REPLACETHISWITHKEYFROMGOOGLE",
+"pois" {
+"default" {
+"destinations" {
+"work" "1 Main Street, Beverly Hills, CA 90210"
 },
-"origins": {
-"home": "350 5th Ave, New York, NY 10118"
+"origins" {
+"home" "350 5th Ave, New York, NY 10118"
 }
 }
 }

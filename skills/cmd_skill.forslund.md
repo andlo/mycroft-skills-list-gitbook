@@ -7,9 +7,9 @@ description: This is a very old skill so it uses the now depricated skill config
 This is a very old skill so it uses the now depricated skill config in mycroft.conf.
 The skill can be configured to run scripts from easily pronouncable human utterances, such as "generate report" by adding the following to the .mycroftmycroft.conf
 json
-"CmdSkill": {
-"alias": {
-"generate report": "homeforslundscriptsgenerate_report.sh"
+"CmdSkill" {
+"alias" {
+"generate report" "homeforslundscriptsgenerate_report.sh"
 }
 }
 The config needs to be valid json so be careful. The config usually contains a

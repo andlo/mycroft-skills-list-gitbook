@@ -16,7 +16,7 @@ Installing from the makefile
 Change the Makefile IP address for the RPi installation to the IP address of your RPi.
 
 That is, edit the file makefile using your favorite editor like nano or vi.
-The line you will need to change is scp -r * pi@192.168.205.115:optmycroftskillsskill-gpio.
+The line you will need to change is scp -r * pi@192.168.205.115optmycroftskillsskill-gpio.
 Change this to have the IP address of your RPi.
 
 Create the folder optmycroftskillsskill-gpio on the RPi for the installer.
@@ -31,7 +31,7 @@ This will run a test to be sure you have access to the GPIO and will report any 
 Notes
 If the LED blinking is too fast, it will be difficult to get a command to execute because there will be a voice response when the the LED turns off and on. Turn the blinking to a lower frequency to be able to execute commands.
 Circuit
-Please use the below image as a guide to the circuit layout:
+Please use the below image as a guide to the circuit layout
   
   
 ### Platform:  

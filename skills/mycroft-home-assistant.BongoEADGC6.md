@@ -1,16 +1,16 @@
 ---
-description: Add a block to your .mycroftmycroft.conf file like this:
+description: Add a block to your .mycroftmycroft.conf file like this
 ---
 
 ### _mycroft-home-assistant.BongoEADGC6_  
 ## Description:  
-Add a block to your .mycroftmycroft.conf file like this:
-"HomeAssistantSkill": {
-"host": "hass.mylan.net",
-"password": "mysupersecrethasspass",
-"ssl": true|false
+Add a block to your .mycroftmycroft.conf file like this
+"HomeAssistantSkill" {
+"host" "hass.mylan.net",
+"password" "mysupersecrethasspass",
+"ssl" true|false
 }
-NOTE: SSL support is currently insecure as it does not verify the cert. This means it will
+NOTE SSL support is currently insecure as it does not verify the cert. This means it will
 work with a self signed cert, but shouldn't be used accross the internet.
 You will then need to restart mycroft.  
 ![](../.gitbook/assets/star.png)  

@@ -5,7 +5,7 @@ description: Set alarms with Mycroft
 ### _skill-alarm.MycroftAI_  
 ## Description:  
 Set a single use alarm, daily alarms, or weekly recurring alarms.
-You can choose from five different alarm sounds:
+You can choose from five different alarm sounds
 * Constant Beep
 * Four rapid beeps
 * Escalating beeps

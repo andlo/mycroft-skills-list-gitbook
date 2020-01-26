@@ -5,7 +5,7 @@ description: When asked what kind of lecture there is today, mycroft answers wit
 ### _lecture-skill.Habanossi_  
 ## Description:  
 When asked what kind of lecture there is today, mycroft answers with the right subject. this works as a teaching example for home assistants.
-In "dates.txt" the user puts dates for upcoming lectures with some requirements:
+In "dates.txt" the user puts dates for upcoming lectures with some requirements
 
 
 one date per line

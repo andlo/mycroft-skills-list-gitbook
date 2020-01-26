@@ -1,14 +1,14 @@
 ---
-description: "EmailSkill": {
+description: "EmailSkill" {
 ---
 
 ### _mycroft-skill_email.Nold360_  
 ## Description:  
-"EmailSkill": {
-"server": "imap.example.com",
-"username": "InsertUsernameHere!",
-"password": "InsertPasswordHere!",
-"inbox": "Inbox",
+"EmailSkill" {
+"server" "imap.example.com",
+"username" "InsertUsernameHere!",
+"password" "InsertPasswordHere!",
+"inbox" "Inbox",
 }  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   

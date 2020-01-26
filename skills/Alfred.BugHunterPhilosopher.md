@@ -1,10 +1,10 @@
 ---
-description: Trigger Jeedom scenarios and actions using plain old English. If you are able to send a request to:
+description: Trigger Jeedom scenarios and actions using plain old English. If you are able to send a request to
 ---
 
 ### _Alfred.BugHunterPhilosopher_  
 ## Description:  
-Trigger Jeedom scenarios and actions using plain old English. If you are able to send a request to:
+Trigger Jeedom scenarios and actions using plain old English. If you are able to send a request to
  then it should work.  
   
 ### Platform:  

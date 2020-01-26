@@ -9,8 +9,8 @@ or specific song requested by the user. No need to specify the location of the f
 Just say what you would like to listen to and enjoy.
 Make sure to follow the pattern of "AV play artist or song name" or "play some artist or song name" and
 add "music" or "playlist" at the end of your request.
-For example:
-Sample skill flow:
+For example
+Sample skill flow
 
 Hey Mycroft, play some skillet album
 Would you like me to play it now?

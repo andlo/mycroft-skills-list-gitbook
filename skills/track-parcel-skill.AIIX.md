@@ -1,17 +1,17 @@
 ---
-description: Installation of skill:
+description: Installation of skill
 ---
 
 ### _track-parcel-skill.AIIX_  
 ## Description:  
-Installation of skill:
+Installation of skill
 
 Download or Clone Git git clone 
 Create optmycroftskills folder if it does not exist
 Extract Downloaded Skill into a folder. "track-parcel-skill". Clone does not require this step
 Copy the track-parcel-skill folder to optmycroftskills folder
 
-Dependency requirements:
+Dependency requirements
 
 This skill requires the installation of aftership.
   

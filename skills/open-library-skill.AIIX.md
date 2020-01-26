@@ -1,12 +1,12 @@
 ---
-description: Installation of skill:
+description: Installation of skill
 ---
 
 ### _open-library-skill.AIIX_  
 ## Description:  
-Installation of skill:
+Installation of skill
 
-Download or Clone Git run: git clone  inside optmycroftskills
+Download or Clone Git run git clone  inside optmycroftskills
 Create optmycroftskills folder if it does not exist
 Extract Downloaded Skill into a folder. "open-library-skill". Clone does not require this step
 Copy the open-library-skill folder to optmycroftskills folder.

@@ -5,7 +5,7 @@ description: Introductory Skill so that Skill Authors can see how a Mycroft Skil
 ### _mycroft_history_skill.SandeepRamesh_  
 ## Description:  
 This is a basic Hello Word Skill that takes an Utterance from the user and provides a voice response - a Dialog. This Skill demonstrates the basic directory and file structure of a Mycroft Skill, and is a good first Skill to study if you are interested in developing Skills for the Mycroft ecosystem.
-If you want to write Skills for Mycroft, Documentation is available:
+If you want to write Skills for Mycroft, Documentation is available
 
 Mycroft Skills Kit
 Developing a new Skill

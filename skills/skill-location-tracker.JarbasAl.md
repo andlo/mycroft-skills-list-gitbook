@@ -11,7 +11,7 @@ gives you privacy regarding mycroft.home
 skills that need location still work  date time and weather correct by default, unified new selects correct feed
 fully configurable
 
-Current localization sources:
+Current localization sources
 
 wifi geo - google geolocation service
 ip api - 

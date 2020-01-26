@@ -1,34 +1,34 @@
 ---
-description: Installation of skill:
+description: Installation of skill
 ---
 
 ### _amarok-player-skill.AIIX_  
 ## Description:  
-Installation of skill:
+Installation of skill
 
 Download or Clone Git
 Create optmycroftskills folder if it does not exist
 Extract Downloaded Skill into a folder. "amarok-player-skill". Clone does not require this step
 Copy the amarok-player-skill folder to optmycroftskills folder
 
-Installation of requirements:
-Fedora:
+Installation of requirements
+Fedora
 
 sudo dnf install dbus-python
 sudo dnf install python-psutil
-From terminal: cp -R usrlib64python2.7site-packagesdbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
-From terminal: cp usrlib64python2.7site-packages_dbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
+From terminal cp -R usrlib64python2.7site-packagesdbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
+From terminal cp usrlib64python2.7site-packages_dbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
 
-Kubuntu  KDE Neon:
+Kubuntu  KDE Neon
 
 sudo apt install python-psutil
 sudo apt install python-dbus
-From terminal: cp -R usrlibpython2.7dist-packagesdbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
+From terminal cp -R usrlibpython2.7dist-packagesdbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
 
-From terminal: cp usrlibpython2.7dist-packages_dbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
+From terminal cp usrlibpython2.7dist-packages_dbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
 
 
-For other distributions:
+For other distributions
 
 Python Dbus and Python Psutil package is required and copying the Python Dbus folder and lib from your system python install over to home$USER.virtualenvsmycroftlibpython2.7site-packages.
   

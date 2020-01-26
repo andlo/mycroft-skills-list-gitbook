@@ -6,21 +6,21 @@ description: This skill is used to try to make Mycroft as your work companion.
 ## Description:  
 This skill is used to try to make Mycroft as your work companion.
 Pomodoro is a very good work technique used to manage time, by giving persistent break times.
-NOTES:
+NOTES
 
 The default work time is 25 minutes, the default break time is 5 minutes and the default long break time is 15 minutes.
 If you want to change the work time or the break time in speech, say the work time first.
 Not recommended to put the break time longer than the work time.
 Not recommended to put the work and break time too short below 10 seconds.
 
-Terminology:
+Terminology
 
 A cycle is one finished work and one finished break.
 A run is four finished cycles.
 A long break is a duration taken each run.
 A session is all works and breaks taken after stopping pomodoro.
 
-TODO:
+TODO
 
 Make a record to store the sessions.
 Ask to save the session each time finishes.

@@ -1,13 +1,13 @@
 ---
-description: Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop  Plasma-Mobile To Display a
+description: Note This Mycroft Skill Requires The Mycroft Plasmoid for Desktop  Plasma-Mobile To Display a
 ---
 
 ### _ask-stack.AIIX_  
 ## Description:  
-Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop  Plasma-Mobile To Display and Interact with Results
+Note This Mycroft Skill Requires The Mycroft Plasmoid for Desktop  Plasma-Mobile To Display and Interact with Results
 Find Questions on StackExchanged based channels.
-Done: StackOverFlow
-ToDo: Rest.  
+Done StackOverFlow
+ToDo Rest.  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

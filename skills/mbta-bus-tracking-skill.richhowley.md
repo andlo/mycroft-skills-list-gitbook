@@ -14,7 +14,7 @@ Are you going outbound toward Harvard or Inbound toward Dudley?
 Inbound
 Which stop?
 Mount Auburn Street at Putnam Ave
-Route One service to Dudley arrivals for Mount Auburn Street at Putnam Avenue:
+Route One service to Dudley arrivals for Mount Auburn Street at Putnam Avenue
 Arriving in 11 minutes
 Arriving in 21 minutes
 Arriving in 34 minutes
@@ -22,11 +22,11 @@ View Full Documentation
 T bus or Transit
 Wherever this documentation calls for saying "T bus" to Mycroft it can be replaced with "transit", and vice versa.  If Mycroft is having difficulty understanding  one, try the other.
 Arrival Times
-To provide bus arrival times the skill requires three pieces of information:  bus route, traveling direction and bus stop.  If you do not provide all information needed the skill will prompt you for the rest.  For example, saying
+To provide bus arrival times the skill requires three pieces of information  bus route, traveling direction and bus stop.  If you do not provide all information needed the skill will prompt you for the rest.  For example, saying
 
 T bus arrivals route 57 going inbound stop Brighton Ave and Linden Street
 
-will retrieve all arrival times predicted for the stop.  The arrival times could also be retrieved by any of the following:
+will retrieve all arrival times predicted for the stop.  The arrival times could also be retrieved by any of the following
 
 T bus arrivals route 57 going inbound
 T bus arrivals route 57

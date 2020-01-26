@@ -8,23 +8,23 @@ This skill adds openHAB support to Mycroft.
 The skill takes advantage of the openHAB REST API, so it works both with the v1.x and v2.x of openHAB.
 In order to make openHAB Items accessible to Mycroft, they need to be tagged.
 Device names recognized by Mycroft are matched against openHAB Item Labels.
-The above examples would all work with the following set of openHAB Item definitons:
+The above examples would all work with the following set of openHAB Item definitons
 ```java
-Color DiningroomLight "Diningroom Light"  gKitchen  "Lighting"  {channel="hue:0200:1:bloom1:color"}
-Color KitchenLight "Kitchen Light"  gKitchen  "Lighting"  {channel="hue:0200:1:bloom1:color"}
+Color DiningroomLight "Diningroom Light"  gKitchen  "Lighting"  {channel="hue02001bloom1color"}
+Color KitchenLight "Kitchen Light"  gKitchen  "Lighting"  {channel="hue02001bloom1color"}
 Switch GoodNight "Good Night"    "Switchable" 
-Number MqttID1Temperature "Bedroom Temperature"   "CurrentTemperature"  {mqtt="<mosquitto:mysensorsSI11100:state:default"}
-Number MqttID1Humidity "Bedroom Humidity"  "CurrentHumidity"  {mqtt="<mosquitto:mysensorsSI10101:state:default"}
+Number MqttID1Temperature "Bedroom Temperature"   "CurrentTemperature"  {mqtt="<mosquittomysensorsSI11100statedefault"}
+Number MqttID1Humidity "Bedroom Humidity"  "CurrentHumidity"  {mqtt="<mosquittomysensorsSI10101statedefault"}
 Group gThermostat "Main Thermostat"  "gMainThermostat" 
 Number MainThermostatCurrentTemp "Main Thermostat Current Temperature" gMainThermostat  "CurrentTemperature" 
 Number MainThermostatTargetTemperature "Main Thermostat Target Temperature" gMainThermostat  "TargetTemperature" 
-String MainThermostatHeatingCoolingMode "Main Thermostat HeatingCooling Mode" gMainThermostat  "homekit:HeatingCoolingMode" 
+String MainThermostatHeatingCoolingMode "Main Thermostat HeatingCooling Mode" gMainThermostat  "homekitHeatingCoolingMode" 
 ```
-If items are modified in openHAB, a refresh in Mycroft is needed by the command:
+If items are modified in openHAB, a refresh in Mycroft is needed by the command
 
 "Hey Mycroft, refresh openhab items"
 
-If you've forgotten what items have been identified, you can ask Mycroft:
+If you've forgotten what items have been identified, you can ask Mycroft
 - "Hey Mycroft, list openhab items"  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   

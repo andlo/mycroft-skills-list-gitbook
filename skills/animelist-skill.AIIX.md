@@ -1,12 +1,12 @@
 ---
-description: Installation of skill:
+description: Installation of skill
 ---
 
 ### _animelist-skill.AIIX_  
 ## Description:  
-Installation of skill:
+Installation of skill
 
-Download or Clone Git run: git clone  inside optmycroftskills
+Download or Clone Git run git clone  inside optmycroftskills
 Create optmycroftskills folder if it does not exist
 Extract Downloaded Skill into a folder. "Animelist-skill". Clone does not require this step
 Copy the Animelist-skill folder to optmycroftskills folder.

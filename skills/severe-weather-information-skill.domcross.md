@@ -5,7 +5,7 @@ description: Checks your national weather service and notifies you when there ar
 ### _severe-weather-information-skill.domcross_  
 ## Description:  
 The severe weather information skills can connect to dozens of weather alerting servic
-among them many from following lists:
+among them many from following lists
 severe weather information center
 alerting world weather
 meteoalarm

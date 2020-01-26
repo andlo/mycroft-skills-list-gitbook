@@ -11,11 +11,11 @@ and automatically creates REST APIs with secure authentication mechanism to cont
 This skill at present only providing voice control for turning RedGreen led ON of OFF.
 But it could be extended or new skills can be created using same tools to give Mycroft more capabilities to
 control IoT devices via voice. As an example, room temperature sensor could be added to the NodeMCU board  L35 analog temperature sensor is used here, check this article for
-tutorial on how to connect it with NodeMCU :   and with few code addition, this skill allows Mycroft to fetch room temperature reading using voice command.
+tutorial on how to connect it with NodeMCU    and with few code addition, this skill allows Mycroft to fetch room temperature reading using voice command.
 This skill has not yet been submitted to Mycroft skill set, as some code modifications  like reading the authentication headers from config files need to be done.
 The sketch is also provided with this code NodeMCUThinger.ino which can be flashed into a NodeMCU unit.
 Also, this repository contains a PDF file with overview of components required for creating and using this skill.
-Demo videos on YouTube:
+Demo videos on YouTube
 1.     Demo to turn LEDs ONOFF
 2.     Demo to query room temperature
 3.     Screencast walkthrough under the hood.  

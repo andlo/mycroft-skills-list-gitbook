@@ -1,32 +1,32 @@
 ---
-description: Installation of skill:
+description: Installation of skill
 ---
 
 ### _kde-kate-control.AIIX_  
 ## Description:  
-Installation of skill:
+Installation of skill
 
-Download or Clone Git run: git clone  inside optmycroftskills
+Download or Clone Git run git clone  inside optmycroftskills
 Create optmycroftskills folder if it does not exist
 Extract Downloaded Skill into a folder. "kde-kate-control". Clone does not require this step
 Copy the kde-kate-control folder to optmycroftskills folder
 
-Installation of requirements:
-Fedora:
+Installation of requirements
+Fedora
 
 sudo dnf install dbus-python
-From terminal: cp -R usrlib64python2.7site-packagesdbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
-From terminal: cp usrlib64python2.7site-packages_dbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
+From terminal cp -R usrlib64python2.7site-packagesdbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
+From terminal cp usrlib64python2.7site-packages_dbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
 
-Ubuntu  KDE Neon:
+Ubuntu  KDE Neon
 
 sudo apt install python-dbus
-From terminal: cp -R usrlibpython2.7dist-packagesdbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
+From terminal cp -R usrlibpython2.7dist-packagesdbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
 
-From terminal: cp usrlibpython2.7dist-packages_dbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
+From terminal cp usrlibpython2.7dist-packages_dbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
 
 
-For other distributions:
+For other distributions
 
 Python Dbus package is required and copying the Python Dbus folder and lib from your system python install over to home$USER.virtualenvsmycroftlibpython2.7site-packages.
   

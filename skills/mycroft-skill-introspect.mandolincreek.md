@@ -1,10 +1,10 @@
 ---
-description: This skill will allow interactive discovery of Mycroft's capabilities:
+description: This skill will allow interactive discovery of Mycroft's capabilities
 ---
 
 ### _mycroft-skill-introspect.mandolincreek_  
 ## Description:  
-This skill will allow interactive discovery of Mycroft's capabilities:
+This skill will allow interactive discovery of Mycroft's capabilities
 
 skills
 intents

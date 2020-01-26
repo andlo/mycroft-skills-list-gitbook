@@ -5,7 +5,7 @@ description: Updates original Mark 1 devices so they can upgrade to the latest v
 ### _skill-platform-patch.MycroftAI_  
 ## Description:  
 Some of the earliest shipping Mark 1 devices require this platform patch in order to begin automatically updating.
-You can tell if you need the patch by following this guide:
+You can tell if you need the patch by following this guide
 Hey Mycroft, install version checker
 "Attempting to install"
 wait a minute

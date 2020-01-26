@@ -4,7 +4,7 @@ description: Essentially Tasker for Mycroft AI, to help au
 
 ### _brain-skill.skeledrew_  
 ## Description:  
-Essentially Tasker for Mycroft AI, to help automate ALL THE THINGS. 'nuff said. NB: This is an early work in progress.  
+Essentially Tasker for Mycroft AI, to help automate ALL THE THINGS. 'nuff said. NB This is an early work in progress.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

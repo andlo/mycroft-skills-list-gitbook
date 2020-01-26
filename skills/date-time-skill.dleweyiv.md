@@ -5,7 +5,7 @@ description: Get the local time or time for major cities around the world.  Time
 ### _date-time-skill.dleweyiv_  
 ## Description:  
 Get the local time or time for major cities around the world.  Times
-are given in 12-hour 2:30 pm or 24-hour format 14:30 based on the
+are given in 12-hour 230 pm or 24-hour format 1430 based on the
 Time Format setting at Home
 Time can optionally be shown on a display, like a digital clock.  See
 the skill setting.  

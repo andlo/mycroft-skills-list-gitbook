@@ -1,12 +1,12 @@
 ---
-description: Add a block to your .mycroftmycroft.conf file like this:
+description: Add a block to your .mycroftmycroft.conf file like this
 ---
 
 ### _skill-pollen.eClarity_  
 ## Description:  
-Add a block to your .mycroftmycroft.conf file like this:
-"PollenSkill": {
-"zipcode": yourziphere
+Add a block to your .mycroftmycroft.conf file like this
+"PollenSkill" {
+"zipcode" yourziphere
 }  
 ![](../.gitbook/assets/star.png)  
   

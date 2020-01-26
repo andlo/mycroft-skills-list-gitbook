@@ -6,7 +6,7 @@ description: The skill provides the functionality to inform the user of the caff
 ## Description:  
 The skill provides the functionality to inform the user of the caffeine content of the requested
 drink. Multiple drinks in a row are possible.
-Sample skill flow:
+Sample skill flow
 
 Hey Mycroft, tell me caffeine content of drink?  how much caffeine is in drink?
 The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_size}} ounces.

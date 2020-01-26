@@ -7,7 +7,7 @@ description: Tool used by Mycroft  internal Quality Assurance team when validati
 When a new release is being tested, this skill is installed to verify the
 installation mechanism functions properly.  Additionally, the following line
 is edited to verify that the skill update process occurs as intended.
-Test line:  20181023 23:14.  
+Test line  20181023 2314.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

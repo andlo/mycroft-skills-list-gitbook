@@ -6,14 +6,14 @@ description: Control lights and switches connected to a Wink Hub
 ## Description:  
 Interact with your smart home using the Wink system.  Wink hubs can work with virtually any brand of lights, including Philips Hue, GE, Sylvania, Cree, and many more.  Use Mycroft to easily interact with nearby lights and light groups you create within the Wink ecosystem.
 Your can easily find the right light or lights based on the names of lights and groups.  The Mycroft device's Name set at Home
-can be used to find lights andor groups with begin with that same name. For example, if your Mycroft device's location is set to 'Kitchen' and you say "Turn on the light", lights with the following names would be turned on:
+can be used to find lights andor groups with begin with that same name. For example, if your Mycroft device's location is set to 'Kitchen' and you say "Turn on the light", lights with the following names would be turned on
 
 Kitchen
 Kitchen sink
 Kitchen fan group consisting of 'Fan 1', 'Fan 2', 'Fan 3'
 It will NOT turn on a light called "Porch off the kitchen".
 
-You can also include the lightgroup name in your request, along with intensity words, such as: bright, dim, full, half, completely, partially  
+You can also include the lightgroup name in your request, along with intensity words, such as bright, dim, full, half, completely, partially  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

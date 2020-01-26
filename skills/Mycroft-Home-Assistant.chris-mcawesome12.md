@@ -1,16 +1,16 @@
 ---
-description: Add a block to your .mycroftmycroft.conf file like this:
+description: Add a block to your .mycroftmycroft.conf file like this
 ---
 
 ### _Mycroft-Home-Assistant.chris-mcawesome12_  
 ## Description:  
-Add a block to your .mycroftmycroft.conf file like this:
-"HomeAssistantSkill": {
-"host": "hass.mylan.net",
-"password": "mysupersecrethasspass",
-"ssl": true|false
+Add a block to your .mycroftmycroft.conf file like this
+"HomeAssistantSkill" {
+"host" "hass.mylan.net",
+"password" "mysupersecrethasspass",
+"ssl" true|false
 }
-NOTE: SSL support is currently secure as it does verify the cert.
+NOTE SSL support is currently secure as it does verify the cert.
 You will then need to restart mycroft.  
   
 ### Platform:  
