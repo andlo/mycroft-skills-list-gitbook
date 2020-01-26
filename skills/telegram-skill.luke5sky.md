@@ -25,7 +25,7 @@ Install this skill on your Mycroft Device
 Create a telegram bot:
 Open Telegram App on your smartphone, click on the search symbol in the upper right corner
 Search for BotFather and click on it
-Now type /newbot hit enter
+Now type newbot hit enter
 Botfather should reply with: Alright, a new bot. How are we going to call it? please chosse a name for your bot.
 Give your bot a displayname like Mycroft
 Botfather should reply with: Good. Now let's choose a username for your bot. It must end in bot. Like this, for example: TetrisBot or tetris-bot.
@@ -40,10 +40,10 @@ Telegram documentation on botfather:
 Go to home.mycroft.ai - skills and search for the telegram-skills settings
 
 
-Copy/paste your token botfather gave you in the field BOT TOKEN MANDATORY
+Copypaste your token botfather gave you in the field BOT TOKEN MANDATORY
 
 
-Copy/paste your device name from home.mycroft.ai - devices in MYCROFT DEVICE NAME MANDATORY
+Copypaste your device name from home.mycroft.ai - devices in MYCROFT DEVICE NAME MANDATORY
 
 
 SAVE and wait till the settings are synced to your Mycroft Unit or reboot your device to trigger the sync
@@ -53,7 +53,7 @@ Open Telegram App on your smartphone and search upper right corner for your bot 
 It should respond with: This is your ChatID: YOURCHATID
 
 
-Copy/paste this under CHAT ID 1 MANDATORY
+Copypaste this under CHAT ID 1 MANDATORY
 
 
 reboot your device to trigger the sync

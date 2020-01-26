@@ -9,7 +9,7 @@ The joke categories are:
 * Neutral -- jokes that are safe for work, kids or your grandmother
 * Adult -- nothing horrible, but be ready to cover some ears
 * Chuck Norris -- jokes only a geek can love
-By default it will give you clean and/or geeky jokes, but you can ask a little adult humor if you feel that way.
+By default it will give you clean andor geeky jokes, but you can ask a little adult humor if you feel that way.
 WARNING:  Laughter is not guaranteed, but eye rolls are likely.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   

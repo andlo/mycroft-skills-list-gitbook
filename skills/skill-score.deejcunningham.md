@@ -8,9 +8,9 @@ Skill-score is an application that enables Mycroft to answer user questions abou
 User input has the format:
 "What is the {team}'s score?"
 If a game is in progress, Mycroft will respond:
-"The {team} are winning/losing {score} to {score} against the {opponent} in the top/middle/bottom/end of the {inning}."
+"The {team} are winninglosing {score} to {score} against the {opponent} in the topmiddlebottomend of the {inning}."
 If a game is not in progress, Mycroft will respond:
-"The {team} won/lost {score} to {score} against the {opponent} {number-of-days} ago."
+"The {team} wonlost {score} to {score} against the {opponent} {number-of-days} ago."
 Next Goals
 The next goals for skill-score are the ability to:
 * give the time of the next MLB game; and

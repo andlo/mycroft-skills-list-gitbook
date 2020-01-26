@@ -6,10 +6,10 @@ description: I've written a couple of scripts to get you started.  Keep in mind 
 ## Description:  
 I've written a couple of scripts to get you started.  Keep in mind these might not work if the screen saver is on.
 
-samples/fmp - fmp
-samples/xdotool - xdotool - emulates XF86AudioPlay, XF86AudioPrev, and XF86AudioNext being pressed.
+samplesfmp - fmp
+samplesxdotool - xdotool - emulates XF86AudioPlay, XF86AudioPrev, and XF86AudioNext being pressed.
 
-If you write your owns scripts, please feel free to fork the project, add them to the samples/ and create a pull request.  
+If you write your owns scripts, please feel free to fork the project, add them to the samples and create a pull request.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

@@ -1,10 +1,10 @@
 ---
-description: Add a block to your ~/.mycroft/mycroft.conf file like this:
+description: Add a block to your .mycroftmycroft.conf file like this:
 ---
 
 ### _mycroft-traffic.BongoEADGC6_  
 ## Description:  
-Add a block to your ~/.mycroft/mycroft.conf file like this:
+Add a block to your .mycroftmycroft.conf file like this:
 "TrafficSkill": {
 "api_key": "REPLACETHISWITHKEYFROMGOOGLE",
 "pois": {

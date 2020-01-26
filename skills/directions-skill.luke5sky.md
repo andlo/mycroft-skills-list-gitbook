@@ -5,7 +5,7 @@ description: A skill to get simple directions time and distance via MyCroft.
 ### _directions-skill.luke5sky_  
 ## Description:  
 A skill to get simple directions time and distance via MyCroft.
-You need to create an account at  and create an API-KEY/API-TOKEN put this on home.mycroft.ai under skill settings.
+You need to create an account at  and create an API-KEYAPI-TOKEN put this on home.mycroft.ai under skill settings.
 After this restart your MyCroft Unit or give mycroft some time to sync the settings.
 Settings:
 - OPENROUTESERVICE-APIKEY: API-Key from OpenRouteService

@@ -1,10 +1,10 @@
 ---
-description: Find out the definition/meaning of a specific word from dictionary
+description: Find out the definitionmeaning of a specific word from dictionary
 ---
 
 ### _mycroft-dictionary.smearumi_  
 ## Description:  
-You can find out the definition/meaning of a specific word from dictionary using Oxford Dictionaries API.  
+You can find out the definitionmeaning of a specific word from dictionary using Oxford Dictionaries API.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

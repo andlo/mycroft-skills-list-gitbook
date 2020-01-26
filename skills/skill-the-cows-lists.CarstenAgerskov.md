@@ -12,7 +12,7 @@ done, see section Configuration
 Some advice on installation can be found in section Installation
 The dialog
 The cows lists work with lists and tasks. When you mention a list or a task in a command to the cows lists,
-it will be remenbered for a short time 2 minutes. The task or list is said to be in context. Whthin this time, further commands to the cows list will refer to the list and/or task in context.
+it will be remenbered for a short time 2 minutes. The task or list is said to be in context. Whthin this time, further commands to the cows list will refer to the list andor task in context.
 For instance:
 
 You: "Hey Mycroft, find bananas on the grocery list"

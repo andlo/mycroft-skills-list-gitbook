@@ -4,7 +4,7 @@ description: This skill allows the user to modify their audio and text recording
 
 ### _skill-keep-transcriptions.NeonGeckoCom_  
 ## Description:  
-This skill allows the user to modify their audio and text recording permissions. Audio and text files are written to /var/log/mycroft.  
+This skill allows the user to modify their audio and text recording permissions. Audio and text files are written to varlogmycroft.  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

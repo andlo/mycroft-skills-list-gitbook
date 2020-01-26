@@ -1,10 +1,10 @@
 ---
-description: Add the following section to your mycroft-core/mycroft/configuration/mycroft.ini file
+description: Add the following section to your mycroft-coremycroftconfigurationmycroft.ini file
 ---
 
 ### _kodi-skill.cbenning_  
 ## Description:  
-Add the following section to your mycroft-core/mycroft/configuration/mycroft.ini file
+Add the following section to your mycroft-coremycroftconfigurationmycroft.ini file
 KodiSkill
 protocol = "
 host = ""

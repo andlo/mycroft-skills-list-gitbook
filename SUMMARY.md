@@ -589,7 +589,7 @@
   * Configuration
     * [Platform Patch](skills/skill-platform-patch.MycroftAI.md)
     * [Mycroft Mark 2](skills/skill-mark-2.MycroftAI.md)
-    * [~~Nevermind~~](skills/nevermind-skill.ChanceNCounter.md)
+    * [Nevermind](skills/nevermind-skill.ChanceNCounter.md)
     * [Dismissal](skills/dismissal-skill.ChanceNCounter.md)
     * [Local Speech](skills/local-speech-skill.JarbasAl.md)
     * [Wake Word](skills/wake-word-skill.gras64.md)

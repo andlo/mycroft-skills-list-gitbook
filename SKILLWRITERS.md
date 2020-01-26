@@ -385,7 +385,7 @@
 * brezuicabogdan
     * [My Episodes](skills/brezicode.myepisodes.mycroftai.brezuicabogdan.md)
 * ChanceNCounter
-    * [~~Nevermind~~](skills/nevermind-skill.ChanceNCounter.md)
+    * [Nevermind](skills/nevermind-skill.ChanceNCounter.md)
     * [Dismissal](skills/dismissal-skill.ChanceNCounter.md)
     * [Repeat That](skills/repeat-skill.ChanceNCounter.md)
 * BhavikKatyal

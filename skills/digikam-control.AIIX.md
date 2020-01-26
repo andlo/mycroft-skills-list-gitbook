@@ -6,29 +6,29 @@ description: Installation of skill:
 ## Description:  
 Installation of skill:
 
-Download or Clone Git run: git clone  inside /opt/mycroft/skills
-Create /opt/mycroft/skills folder if it does not exist
+Download or Clone Git run: git clone  inside optmycroftskills
+Create optmycroftskills folder if it does not exist
 Extract Downloaded Skill into a folder. "DigiKam-control". Clone does not require this step
-Copy the DigiKam-control folder to /opt/mycroft/skills/ folder
+Copy the DigiKam-control folder to optmycroftskills folder
 
 Installation of requirements:
 Fedora:
 
 sudo dnf install dbus-python
-From terminal: cp -R /usr/lib64/python2.7/site-packages/dbus* /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/
-From terminal: cp /usr/lib64/python2.7/site-packages/_dbus* /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/
+From terminal: cp -R usrlib64python2.7site-packagesdbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
+From terminal: cp usrlib64python2.7site-packages_dbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
 
-Ubuntu / KDE Neon:
+Ubuntu  KDE Neon:
 
 sudo apt install python-dbus
-From terminal: cp -R /usr/lib/python2.7/dist-packages/dbus* /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/
+From terminal: cp -R usrlibpython2.7dist-packagesdbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
 
-From terminal: cp /usr/lib/python2.7/dist-packages/_dbus* /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/
+From terminal: cp usrlibpython2.7dist-packages_dbus* home$USER.virtualenvsmycroftlibpython2.7site-packages
 
 
 For other distributions:
 
-Python Dbus package is required and copying the Python Dbus folder and lib from your system python install over to /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/.
+Python Dbus package is required and copying the Python Dbus folder and lib from your system python install over to home$USER.virtualenvsmycroftlibpython2.7site-packages.
   
   
 ### Platform:  

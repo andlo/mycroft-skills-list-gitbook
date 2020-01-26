@@ -1,10 +1,10 @@
 ---
-description: Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display a
+description: Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop  Plasma-Mobile To Display a
 ---
 
 ### _ask-stack.AIIX_  
 ## Description:  
-Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display and Interact with Results
+Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop  Plasma-Mobile To Display and Interact with Results
 Find Questions on StackExchanged based channels.
 Done: StackOverFlow
 ToDo: Rest.  

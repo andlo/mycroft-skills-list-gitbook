@@ -10,18 +10,18 @@ You will need to first install the GPIO libraries for Picroft, and add some addi
 Generation
 The documentation is done using Sphinx, which picks up comments from the code.  The following will generate the html docs.
 make docs
-You can then find the generated html in docs/build/html/index.html.  Open that file in your browser and you should be able to navigate to the docs.
+You can then find the generated html in docsbuildhtmlindex.html.  Open that file in your browser and you should be able to navigate to the docs.
 Installing from the makefile
 
 Change the Makefile IP address for the RPi installation to the IP address of your RPi.
 
 That is, edit the file makefile using your favorite editor like nano or vi.
-The line you will need to change is scp -r * pi@192.168.205.115:/opt/mycroft/skills/skill-gpio.
+The line you will need to change is scp -r * pi@192.168.205.115:optmycroftskillsskill-gpio.
 Change this to have the IP address of your RPi.
 
-Create the folder /opt/mycroft/skills/skill-gpio on the RPi for the installer.
+Create the folder optmycroftskillsskill-gpio on the RPi for the installer.
 
-You can do this by using the command mkdir /opt/mycroft/skills/skill-gpio
+You can do this by using the command mkdir optmycroftskillsskill-gpio
 
 Build the code using the makefile.  make install.pi
 

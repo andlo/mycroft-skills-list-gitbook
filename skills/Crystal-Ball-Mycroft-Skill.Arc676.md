@@ -1,10 +1,10 @@
 ---
-description: Provides random answers to yes/no questions
+description: Provides random answers to yesno questions
 ---
 
 ### _Crystal-Ball-Mycroft-Skill.Arc676_  
 ## Description:  
-Ask Mycroft any yes/no question and receive a randomly chosen answer.
+Ask Mycroft any yesno question and receive a randomly chosen answer.
 Please don't use this skill for any important questions.  
   
 ### Platform:  
