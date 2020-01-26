@@ -298,10 +298,10 @@ def make_summary(skills):
         summary.write('  * ' + category + '\n')
         summary.writelines(categorylist[category])
 
-    summary.write('## [Skill Writers](SKILLWRITERS.md.md\n')
+    summary.write('## Skill Writers  \n')
 
 def make_skillwritermd(skills):
-    txt = open('../SKILLWRITERS.md', 'w')
+    txt = open('../SUMMARY.md', 'a')
     skillwriters = {}
     for skill in skills:
         if not skillwriters.get(skill["owner"]["login"]):
