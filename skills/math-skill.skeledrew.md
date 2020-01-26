@@ -1,5 +1,5 @@
 ---
-description: A calculator that can be "infinitely" extended, using the abilities template.
+description: 
 ---
 
 ### _math-skill.skeledrew_  

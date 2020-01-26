@@ -1,5 +1,5 @@
 ---
-description: This skill is made to work with the full Habits Automation project 
+description: 
 ---
 
 ### _PFE1718-skill-listener.PFE1718_  

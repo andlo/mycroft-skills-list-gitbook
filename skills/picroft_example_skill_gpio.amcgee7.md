@@ -1,5 +1,5 @@
 ---
-description: make test.pi
+description: 
 ---
 
 ### _picroft_example_skill_gpio.amcgee7_  

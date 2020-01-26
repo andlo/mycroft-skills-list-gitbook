@@ -1,5 +1,5 @@
 ---
-description: Creating javascript experience.
+description: 
 ---
 
 ### _skill-learn-javascript.anshumanpatil_  

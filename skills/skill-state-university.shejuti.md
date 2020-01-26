@@ -1,5 +1,5 @@
 ---
-description: A more verbose description, including any extra instructions or
+description: 
 ---
 
 ### _skill-state-university.shejuti_  

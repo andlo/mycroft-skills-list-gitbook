@@ -1,5 +1,5 @@
 ---
-description: Change the wallpaper them call themer to change the theme colors.
+description: 
 ---
 
 ### _skill-theme-change.adberard_  

@@ -1,5 +1,5 @@
 ---
-description: Brighten your day with a little humor.  This draws on the jokes collected by the PyJokes projecth
+description: 
 ---
 
 ### _joke-skill.dleweyiv_  

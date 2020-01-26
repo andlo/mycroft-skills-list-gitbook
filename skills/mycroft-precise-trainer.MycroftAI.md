@@ -1,5 +1,5 @@
 ---
-description: This skill uses tranfer learning to train a precise model that is tuned to one or multiple people's 
+description: 
 ---
 
 ### _mycroft-precise-trainer.MycroftAI_  

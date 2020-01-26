@@ -1,5 +1,5 @@
 ---
-description: Installation of skill
+description: 
 ---
 
 ### _kde-kate-control.AIIX_  

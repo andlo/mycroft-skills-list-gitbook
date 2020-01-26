@@ -1,5 +1,5 @@
 ---
-description: It tells you what you can do with Mycroft some examples
+description: 
 ---
 
 ### _what-can-you-do-skill.luke5sky_  

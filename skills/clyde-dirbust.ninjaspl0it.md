@@ -1,5 +1,5 @@
 ---
-description: Execute simple nmap scans.
+description: 
 ---
 
 ### _clyde-dirbust.ninjaspl0it_  

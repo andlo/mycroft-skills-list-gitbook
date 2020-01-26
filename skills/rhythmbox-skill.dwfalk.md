@@ -1,5 +1,5 @@
 ---
-description: Let Mycroft help you control Rhythmbox. When asked Mycroft interfaces with Rhythmbox to play selecti
+description: 
 ---
 
 ### _rhythmbox-skill.dwfalk_  

@@ -1,5 +1,5 @@
 ---
-description: Skill to have a mode so i can run blender operators the guis buttons so that i can quickly create 
+description: 
 ---
 
 ### _mycroft-blender-control-skill.FruityWelsh_  

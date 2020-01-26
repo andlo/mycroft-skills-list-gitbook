@@ -1,5 +1,5 @@
 ---
-description: This skill reads aloud full text or summary of any given web page URL.
+description: 
 ---
 
 ### _skill-newspaper.rigved_  

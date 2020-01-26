@@ -1,5 +1,5 @@
 ---
-description: Retrieve the IP address, also known as the "network addr
+description: 
 ---
 
 ### _naga-mycroft-test.nagamanikandank_  

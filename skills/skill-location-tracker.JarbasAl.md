@@ -1,5 +1,5 @@
 ---
-description: Updates device location, the mycroft home location configuration remains
+description: 
 ---
 
 ### _skill-location-tracker.JarbasAl_  

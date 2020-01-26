@@ -1,5 +1,5 @@
 ---
-description: When Mycroft is wake up with a talk word, then it will repeat what you said except if you ask him ab
+description: 
 ---
 
 ### _first-talk-skill.Ishimaru17_  

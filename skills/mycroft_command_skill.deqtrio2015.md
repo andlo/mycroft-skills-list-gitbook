@@ -1,5 +1,5 @@
 ---
-description: A more verbose description, including any extra instructions or
+description: 
 ---
 
 ### _mycroft_command_skill.deqtrio2015_  

@@ -1,5 +1,5 @@
 ---
-description: Mycroft.AI will have control over the smart wifi dimmer switch.
+description: 
 ---
 
 ### _nanoleaf-skill.pcwii_  

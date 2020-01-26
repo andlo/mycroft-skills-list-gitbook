@@ -1,5 +1,5 @@
 ---
-description: A skill for telling Knock Knock jokes.
+description: 
 ---
 
 ### _knock-knock-jokes-skill.aussieW_  

@@ -1,5 +1,5 @@
 ---
-description: This skill will provide conversational help for the installed skills by scraping the Readme files fo
+description: 
 ---
 
 ### _help-skill.pcwii_  

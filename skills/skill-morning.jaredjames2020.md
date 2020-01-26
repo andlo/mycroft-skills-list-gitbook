@@ -1,5 +1,5 @@
 ---
-description: A more verbose description, including any extra instructions or
+description: 
 ---
 
 ### _skill-morning.jaredjames2020_  

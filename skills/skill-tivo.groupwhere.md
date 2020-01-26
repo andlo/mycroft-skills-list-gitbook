@@ -1,5 +1,5 @@
 ---
-description: Based on ideas from the following sites
+description: 
 ---
 
 ### _skill-tivo.groupwhere_  

@@ -1,5 +1,5 @@
 ---
-description: Flip a virtual coin by saying "hey Mycroft, flip a coin".
+description: 
 ---
 
 ### _coin-flip-skill.wligtenberg_  

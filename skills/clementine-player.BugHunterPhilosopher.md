@@ -1,5 +1,5 @@
 ---
-description: Control Clementine audio player using plain old English. For Linux.
+description: 
 ---
 
 ### _clementine-player.BugHunterPhilosopher_  

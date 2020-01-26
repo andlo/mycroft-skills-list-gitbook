@@ -1,5 +1,5 @@
 ---
-description: The package Rasa is a nice fit for Mycroft, as it allows you to build conversational agents without 
+description: 
 ---
 
 ### _skill-rasa-chat.jamesmf_  

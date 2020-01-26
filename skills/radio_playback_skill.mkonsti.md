@@ -1,5 +1,5 @@
 ---
-description: Play Deutschlandfunk streams and query schedule.
+description: 
 ---
 
 ### _radio_playback_skill.mkonsti_  

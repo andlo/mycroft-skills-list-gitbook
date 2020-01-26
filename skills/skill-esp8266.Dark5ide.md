@@ -1,5 +1,5 @@
 ---
-description: This Skill has been created for the makers and hackers who want to build their own home automation s
+description: 
 ---
 
 ### _skill-esp8266.Dark5ide_  

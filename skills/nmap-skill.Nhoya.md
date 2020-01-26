@@ -1,5 +1,5 @@
 ---
-description: Execute simple nmap scans.
+description: 
 ---
 
 ### _nmap-skill.Nhoya_  

@@ -1,5 +1,5 @@
 ---
-description: This skill allows using the knobs on the radio to control various
+description: 
 ---
 
 ### _skill-antique-radio.benklop_  

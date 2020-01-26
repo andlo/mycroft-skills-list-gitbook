@@ -1,5 +1,5 @@
 ---
-description: Start a story by saying "Mycroft, tell me a story."
+description: 
 ---
 
 ### _storytime-skill.Siltstorm_  

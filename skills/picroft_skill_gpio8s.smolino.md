@@ -1,5 +1,5 @@
 ---
-description: make test.pi
+description: 
 ---
 
 ### _picroft_skill_gpio8s.smolino_  

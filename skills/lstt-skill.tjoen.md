@@ -1,5 +1,5 @@
 ---
-description: This skill uses mycrofts pocketsphinx STT with a small dict.
+description: 
 ---
 
 ### _lstt-skill.tjoen_  

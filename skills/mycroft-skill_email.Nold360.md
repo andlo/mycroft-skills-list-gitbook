@@ -1,5 +1,5 @@
 ---
-description: "EmailSkill" {
+description: 
 ---
 
 ### _mycroft-skill_email.Nold360_  

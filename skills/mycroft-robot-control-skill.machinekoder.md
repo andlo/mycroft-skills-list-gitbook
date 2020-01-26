@@ -1,5 +1,5 @@
 ---
-description: This is a basic Hello Word Skill that takes an Utterance from the user and provides a voice respon
+description: 
 ---
 
 ### _mycroft-robot-control-skill.machinekoder_  

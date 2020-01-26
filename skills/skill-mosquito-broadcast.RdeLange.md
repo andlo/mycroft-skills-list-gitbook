@@ -1,5 +1,5 @@
 ---
-description: This skill has three purposes
+description: 
 ---
 
 ### _skill-mosquito-broadcast.RdeLange_  

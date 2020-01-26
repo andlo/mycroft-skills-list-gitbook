@@ -1,5 +1,5 @@
 ---
-description: Some funny things for mycroft, mostly quotes from movies.
+description: 
 ---
 
 ### _skill_easter_eggs.JarbasAl_  

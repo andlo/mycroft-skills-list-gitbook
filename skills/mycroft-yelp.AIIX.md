@@ -1,5 +1,5 @@
 ---
-description: Finds restaurantsbarsand other locations via the Yelp API.
+description: 
 ---
 
 ### _mycroft-yelp.AIIX_  

@@ -1,5 +1,5 @@
 ---
-description: Youtube Mpv is a powerful tool on base of the mpv player that uses the mpv unix
+description: 
 ---
 
 ### _mycroft-youtube-mpv.Shadowsith_  

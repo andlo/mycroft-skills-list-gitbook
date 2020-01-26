@@ -1,5 +1,5 @@
 ---
-description: A fun game created with Akinator the Genie, 
+description: 
 ---
 
 ### _mycroftinator.Tyler-The-App-Creator_  

@@ -1,5 +1,5 @@
 ---
-description: Tells you the running time of merge sort and other algorithms.
+description: 
 ---
 
 ### _skill-algorithm.marcfunston_  

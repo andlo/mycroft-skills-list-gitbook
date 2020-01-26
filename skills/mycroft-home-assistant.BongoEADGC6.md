@@ -1,5 +1,5 @@
 ---
-description: Add a block to your .mycroftmycroft.conf file like this
+description: 
 ---
 
 ### _mycroft-home-assistant.BongoEADGC6_  

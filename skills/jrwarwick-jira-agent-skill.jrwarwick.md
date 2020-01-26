@@ -1,5 +1,5 @@
 ---
-description: Once configured to connect to your on-premises Atlassian JIRA server with Service Desk installed and
+description: 
 ---
 
 ### _jrwarwick-jira-agent-skill.jrwarwick_  

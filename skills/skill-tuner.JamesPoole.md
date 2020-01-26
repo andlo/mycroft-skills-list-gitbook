@@ -1,5 +1,5 @@
 ---
-description: Ask Mycroft to play a tuning or to play an individual note.
+description: 
 ---
 
 ### _skill-tuner.JamesPoole_  

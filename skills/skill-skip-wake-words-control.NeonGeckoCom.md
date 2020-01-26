@@ -1,5 +1,5 @@
 ---
-description: Skill, which works using Mycroft-core with NeonGeckoCom modifications, provides the user with the fu
+description: 
 ---
 
 ### _skill-skip-wake-words-control.NeonGeckoCom_  

@@ -1,5 +1,5 @@
 ---
-description: Looks up a random event from today in history API.
+description: 
 ---
 
 ### _tinh.avellent_  

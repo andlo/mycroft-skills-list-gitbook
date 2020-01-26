@@ -1,5 +1,5 @@
 ---
-description: The skill provides the functionality to inform the user of the caffeine content of the requested
+description: 
 ---
 
 ### _CaffeineWiz.reginaneon_  

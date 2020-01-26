@@ -1,5 +1,5 @@
 ---
-description: This skill lets Mycroft send special bus messages to Hemera, a digital personal
+description: 
 ---
 
 ### _mycroft-skill-hemera.SubhadeepJasu_  

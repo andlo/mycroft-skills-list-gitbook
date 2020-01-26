@@ -1,5 +1,5 @@
 ---
-description: When the trigger words are given the target app specified should open.
+description: 
 ---
 
 ### _launch-skill.nidaibani21_  

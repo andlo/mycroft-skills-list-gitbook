@@ -1,5 +1,5 @@
 ---
-description: Turn your Phillips Hue lights onoff, activate scenes, adjust brightnesscolor temperature, etc.
+description: 
 ---
 
 ### _mycroft-hue.ChristopherRogers1991_  

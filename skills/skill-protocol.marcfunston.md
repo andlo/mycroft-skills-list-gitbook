@@ -1,5 +1,5 @@
 ---
-description: Currently undefined functions
+description: 
 ---
 
 ### _skill-protocol.marcfunston_  

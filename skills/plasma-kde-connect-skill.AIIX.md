@@ -1,5 +1,5 @@
 ---
-description: Control your KDE-Connect connected devices with actions such as
+description: 
 ---
 
 ### _plasma-kde-connect-skill.AIIX_  

@@ -1,5 +1,5 @@
 ---
-description: J'ai modifié le Skill mycroft-weather-skill utilisant l'API Open Weather Map afin de récupérer la mé
+description: 
 ---
 
 ### _weather-test-skill.vozotem_  

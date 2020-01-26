@@ -1,5 +1,5 @@
 ---
-description: Get the latest KDE News and DOT stories read to you by mycroft.
+description: 
 ---
 
 ### _kde-news-skill.AIIX_  

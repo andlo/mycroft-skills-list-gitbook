@@ -1,5 +1,5 @@
 ---
-description: A Data Fair Quiz.
+description: 
 ---
 
 ### _DataFair_Quiz.Mennu_  

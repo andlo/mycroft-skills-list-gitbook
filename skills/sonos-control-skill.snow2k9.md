@@ -1,5 +1,5 @@
 ---
-description: currently only chooses random device
+description: 
 ---
 
 ### _sonos-control-skill.snow2k9_  

@@ -1,5 +1,5 @@
 ---
-description: This skill allows the user to turn off, start, restart Magic Mirror tested on Rpi gracefully, with
+description: 
 ---
 
 ### _mycroft-mm-boot.syner1_  

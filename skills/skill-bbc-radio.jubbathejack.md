@@ -1,5 +1,5 @@
 ---
-description: A Mycroft skill to play BBC radio stations. I intend to implement a feature to allow for dynamic
+description: 
 ---
 
 ### _skill-bbc-radio.jubbathejack_  

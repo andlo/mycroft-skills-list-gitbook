@@ -1,5 +1,5 @@
 ---
-description: This line executes the ros command "rostopic pub -1 turtle1cmd_vel geometry_msgstwist -- '2.0, 0
+description: 
 ---
 
 ### _turtleleft-skill.ImprezaRSC_  

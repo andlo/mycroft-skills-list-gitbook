@@ -1,5 +1,5 @@
 ---
-description: This is a very old skill so it uses the now depricated skill config in mycroft.conf.
+description: 
 ---
 
 ### _cmd_skill.forslund_  

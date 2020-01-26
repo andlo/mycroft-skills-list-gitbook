@@ -1,5 +1,5 @@
 ---
-description: Installation of skill
+description: 
 ---
 
 ### _digikam-control.AIIX_  

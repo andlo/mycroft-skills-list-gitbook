@@ -1,5 +1,5 @@
 ---
-description: With self contained db from opendb project, this skill knows lets Mycroft knows all about who plays 
+description: 
 ---
 
 ### _movie_trivia.fandonov_  

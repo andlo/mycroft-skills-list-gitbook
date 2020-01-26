@@ -1,5 +1,5 @@
 ---
-description: My first hellow world skill for Mycroft.
+description: 
 ---
 
 ### _hello-world.tony1661_  

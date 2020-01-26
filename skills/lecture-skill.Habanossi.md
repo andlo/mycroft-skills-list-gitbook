@@ -1,5 +1,5 @@
 ---
-description: When asked what kind of lecture there is today, mycroft answers with the right subject. this works a
+description: 
 ---
 
 ### _lecture-skill.Habanossi_  

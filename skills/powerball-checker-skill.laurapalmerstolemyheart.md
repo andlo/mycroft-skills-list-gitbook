@@ -1,5 +1,5 @@
 ---
-description: This skill allows mycroft to tell you the last winning Powerball numbers.
+description: 
 ---
 
 ### _powerball-checker-skill.laurapalmerstolemyheart_  

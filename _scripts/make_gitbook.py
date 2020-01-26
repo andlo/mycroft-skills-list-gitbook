@@ -17,8 +17,6 @@ def make_skillsfiles(skills):
         txt.append('---\n')
         #of.write('titel: ' + skill["skill_info"]["title"] + '\n')
         short_desc = clean_txt(skill["skill_info"]["short_desc"][:100])
-        if short_desc == '':
-            short_desc = clean_txt(skill["skill_info"]["description"][:100].split('\n', 1)[0])
         txt.append('description: ' + short_desc + '\n')
         #txt.append('categories: ')
         #for category in skill["skill_info"]["categories"]:

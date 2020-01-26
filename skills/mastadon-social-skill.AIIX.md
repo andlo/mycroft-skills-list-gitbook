@@ -1,5 +1,5 @@
 ---
-description: Interact with mastadon, toot and get latest toots.
+description: 
 ---
 
 ### _mastadon-social-skill.AIIX_  

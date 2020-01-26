@@ -1,5 +1,5 @@
 ---
-description: Create named rountines, which are lists of Mycroft commands, that can be run by name, and scheduled 
+description: 
 ---
 
 ### _mycroft_routine_skill.ChristopherRogers1991_  

@@ -1,5 +1,5 @@
 ---
-description: Teaches Mycroft AI about the the best podcast in the universe "No Agenda Show".
+description: 
 ---
 
 ### _skill-na-show.joshuacox_  

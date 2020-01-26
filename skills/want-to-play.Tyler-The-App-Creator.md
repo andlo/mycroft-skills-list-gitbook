@@ -1,5 +1,5 @@
 ---
-description: Ask mycroft if it would like to play something and it will start any of the game skills.
+description: 
 ---
 
 ### _want-to-play.Tyler-The-App-Creator_  

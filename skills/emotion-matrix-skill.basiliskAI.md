@@ -1,5 +1,5 @@
 ---
-description: Give mycroft emotions! using a simple vad matrix, mycroft can remember what emotion he has and chang
+description: 
 ---
 
 ### _emotion-matrix-skill.basiliskAI_  

@@ -1,5 +1,5 @@
 ---
-description: This Mycroft skill is a modification of the npr-skill by jdorleans.
+description: 
 ---
 
 ### _mycroft-skill-cbc-news.chrison999_  

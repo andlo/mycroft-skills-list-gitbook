@@ -1,5 +1,5 @@
 ---
-description: Pandora provides dynamically generated internet radio streams.  Streams are
+description: 
 ---
 
 ### _pianobar-skill.ethanaward_  

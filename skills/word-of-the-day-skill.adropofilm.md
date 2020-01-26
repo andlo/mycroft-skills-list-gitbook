@@ -1,5 +1,5 @@
 ---
-description: This skill dynamically provides Mycroft users with the "word of the day" and definition. Current wor
+description: 
 ---
 
 ### _word-of-the-day-skill.adropofilm_  

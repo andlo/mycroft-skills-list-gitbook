@@ -1,5 +1,5 @@
 ---
-description: Mostly this is an exercise to learn about the differences that Mycroft has from Alexa in handling in
+description: 
 ---
 
 ### _myvis.magicaltrevor_  

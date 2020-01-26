@@ -1,5 +1,5 @@
 ---
-description: This skill is intended to allow a Mycroft user to list and set the default input and output devices.
+description: 
 ---
 
 ### _skill-pulseaudio-control.aatchison_  

@@ -1,5 +1,5 @@
 ---
-description: This skills allows to turn onoff, the RedGreen LEDs attached with NodeMCU microcontroller.
+description: 
 ---
 
 ### _node-light-controller.neoscreenager_  

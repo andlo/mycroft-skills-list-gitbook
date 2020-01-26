@@ -1,5 +1,5 @@
 ---
-description: This skill turns onoff the garage light via lifx.
+description: 
 ---
 
 ### _MycroftGarageLight.taitleaney_  

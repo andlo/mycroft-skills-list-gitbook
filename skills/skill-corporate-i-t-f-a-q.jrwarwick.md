@@ -1,5 +1,5 @@
 ---
-description: Every corporation will have a different answer to "what is the wifi password", and this is also a ve
+description: 
 ---
 
 ### _skill-corporate-i-t-f-a-q.jrwarwick_  

@@ -1,5 +1,5 @@
 ---
-description: A list of tech events happening in Birmingham UK over the next few days. Powered by the Birmingham.
+description: 
 ---
 
 ### _bio-calendar-mycroft.stuartlangridge_  

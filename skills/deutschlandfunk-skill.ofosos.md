@@ -1,5 +1,5 @@
 ---
-description: Play Deutschlandfunk streams and query schedule.
+description: 
 ---
 
 ### _deutschlandfunk-skill.ofosos_  

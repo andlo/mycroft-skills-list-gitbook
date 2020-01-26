@@ -1,5 +1,5 @@
 ---
-description: This is a demo script to activate GPIO pins in a Raspberry Pi using a verbal command in Picroft inst
+description: 
 ---
 
 ### _gpio-pins-skill.ImprezaRSC_  

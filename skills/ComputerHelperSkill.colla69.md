@@ -1,5 +1,5 @@
 ---
-description: You can use this skill as an example to what you can do .. basically anything you can do in python o
+description: 
 ---
 
 ### _ComputerHelperSkill.colla69_  

@@ -1,5 +1,5 @@
 ---
-description: Play internet radio stations using Mycroft.
+description: 
 ---
 
 ### _skill-internet-radio.normandmickey_  

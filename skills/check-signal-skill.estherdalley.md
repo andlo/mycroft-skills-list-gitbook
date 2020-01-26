@@ -1,5 +1,5 @@
 ---
-description: Mycroft skill for checking the signal strength of a connected IOTBit.
+description: 
 ---
 
 ### _check-signal-skill.estherdalley_  

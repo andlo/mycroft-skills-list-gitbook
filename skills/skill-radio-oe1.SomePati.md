@@ -1,5 +1,5 @@
 ---
-description: Latest news from  from austria.
+description: 
 ---
 
 ### _skill-radio-oe1.SomePati_  

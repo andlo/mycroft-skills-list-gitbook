@@ -1,5 +1,5 @@
 ---
-description: "Hey Mycroft, start parrot"
+description: 
 ---
 
 ### _skill-parrot.JarbasAl_  

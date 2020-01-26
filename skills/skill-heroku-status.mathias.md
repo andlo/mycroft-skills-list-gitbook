@@ -1,5 +1,5 @@
 ---
-description: Fetches Heroku platform status from the status site.
+description: 
 ---
 
 ### _skill-heroku-status.mathias_  

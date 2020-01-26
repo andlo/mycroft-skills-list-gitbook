@@ -1,7 +1,5 @@
 ---
 description: 
-Henri Debierre.
-
 ---
 
 ### _My_Family_Tree.henridbr_  

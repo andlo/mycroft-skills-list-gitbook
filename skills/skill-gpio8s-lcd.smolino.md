@@ -1,5 +1,5 @@
 ---
-description: make test.pi
+description: 
 ---
 
 ### _skill-gpio8s-lcd.smolino_  

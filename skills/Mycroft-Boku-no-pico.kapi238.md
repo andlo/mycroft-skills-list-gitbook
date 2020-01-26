@@ -1,5 +1,5 @@
 ---
-description: Tells you what the best anime is.
+description: 
 ---
 
 ### _Mycroft-Boku-no-pico.kapi238_  

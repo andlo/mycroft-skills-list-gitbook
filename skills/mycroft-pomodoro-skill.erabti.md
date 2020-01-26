@@ -1,5 +1,5 @@
 ---
-description: This skill is used to try to make Mycroft as your work companion.
+description: 
 ---
 
 ### _mycroft-pomodoro-skill.erabti_  

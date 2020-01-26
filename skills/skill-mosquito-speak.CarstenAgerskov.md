@@ -1,5 +1,5 @@
 ---
-description: This skill has two purposes
+description: 
 ---
 
 ### _skill-mosquito-speak.CarstenAgerskov_  

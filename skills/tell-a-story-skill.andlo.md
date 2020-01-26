@@ -1,5 +1,5 @@
 ---
-description: This skill tells small stories.
+description: 
 ---
 
 ### _tell-a-story-skill.andlo_  

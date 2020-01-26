@@ -1,5 +1,5 @@
 ---
-description: Input help me with jokeskill
+description: 
 ---
 
 ### _mycroft-skill-HelpMe.chrison999_  

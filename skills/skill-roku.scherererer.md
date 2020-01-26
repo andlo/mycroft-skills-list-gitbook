@@ -1,5 +1,5 @@
 ---
-description: This is a mycroft skill for controlling your roku. It uses the Roku External Control API found here
+description: 
 ---
 
 ### _skill-roku.scherererer_  

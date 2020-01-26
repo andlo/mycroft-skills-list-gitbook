@@ -1,5 +1,5 @@
 ---
-description: Based on a configurable static stop, this skill retrieves the number of minutes until the next stree
+description: 
 ---
 
 ### _wally-kc-streetcar.bw3740_  

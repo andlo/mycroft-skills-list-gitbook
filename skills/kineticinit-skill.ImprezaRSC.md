@@ -1,5 +1,5 @@
 ---
-description: This command passes 'roscore' to the command line, nested into a subprocess.call"" Python functi
+description: 
 ---
 
 ### _kineticinit-skill.ImprezaRSC_  

@@ -1,5 +1,5 @@
 ---
-description: Mycroft skill to provide integration to Kodi XBMC. Enables
+description: 
 ---
 
 ### _mycroft-skill-kodi.k3yb0ardn1nja_  

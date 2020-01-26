@@ -1,7 +1,5 @@
 ---
 description: 
-"Talk Dirty" - Run of the mill dirty talk
-
 ---
 
 ### _mycroft-skill-dirtytalk.maxpivo_  

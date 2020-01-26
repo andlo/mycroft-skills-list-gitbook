@@ -1,5 +1,5 @@
 ---
-description: A Mycroft skill for finding, listing, and controlling wemo devices.
+description: 
 ---
 
 ### _bwn-wemo-skill.ErdMutter92_  

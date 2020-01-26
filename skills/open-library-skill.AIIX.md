@@ -1,5 +1,5 @@
 ---
-description: Installation of skill
+description: 
 ---
 
 ### _open-library-skill.AIIX_  

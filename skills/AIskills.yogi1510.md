@@ -1,5 +1,5 @@
 ---
-description: Testing Mycroft skill development - reveals yogesh's true nature.
+description: 
 ---
 
 ### _AIskills.yogi1510_  

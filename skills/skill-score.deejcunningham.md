@@ -1,5 +1,5 @@
 ---
-description: Skill-score is an application that enables Mycroft to answer user questions about Major League Baseb
+description: 
 ---
 
 ### _skill-score.deejcunningham_  

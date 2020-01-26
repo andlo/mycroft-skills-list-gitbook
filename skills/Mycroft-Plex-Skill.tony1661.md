@@ -1,5 +1,5 @@
 ---
-description: A custom Mycroft skill I created to control my plex server.
+description: 
 ---
 
 ### _Mycroft-Plex-Skill.tony1661_  

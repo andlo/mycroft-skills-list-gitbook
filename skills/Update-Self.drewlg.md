@@ -1,5 +1,5 @@
 ---
-description: A Simple task to use the msm manager to update the skills installed.
+description: 
 ---
 
 ### _Update-Self.drewlg_  

@@ -1,5 +1,5 @@
 ---
-description: Utilizando os dados do IPCA através do sistema do IBGE, a skill Inflação permite que consulte taxa d
+description: 
 ---
 
 ### _inflacao-skill.thiagodchen_  

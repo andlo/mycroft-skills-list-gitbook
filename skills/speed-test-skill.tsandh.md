@@ -1,5 +1,5 @@
 ---
-description: Finds closest Speedtest server and runs an upload and download test and reports
+description: 
 ---
 
 ### _speed-test-skill.tsandh_  

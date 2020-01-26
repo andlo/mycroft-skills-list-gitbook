@@ -1,5 +1,5 @@
 ---
-description: Add a block to your Mycroft configuration file like this
+description: 
 ---
 
 ### _skill-chromecast.eClarity_  
