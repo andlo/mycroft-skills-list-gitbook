@@ -211,9 +211,9 @@ def make_categorylist(skills):
             skill["skill_info"]["categories"] = ['uncategorized']
         for category in skill["skill_info"]["categories"]:
             if (skill["skill_info"]["title"] == "YOUR SKILL NAME") or (skill["skill_info"]["title"] == ""):
-                text = "  * [" + clean_txt(skill["name"]) + "](" + skillfile + ")\n"
+                text = "    * [" + clean_txt(skill["name"]) + "](" + skillfile + ")\n"
             else:
-                text = "  * [" + clean_txt(skill["skill_info"]["title"]) + "](" + skillfile + ")\n"
+                text = "    * [" + clean_txt(skill["skill_info"]["title"]) + "](" + skillfile + ")\n"
             categoryitem = [text]
             if categorylist.get(category):
                 cat =  categorylist.get(category)
@@ -271,7 +271,7 @@ def make_summary(skills):
 
 
     skillslist = []
-    summary.write('## In Market  \n')
+    summary.write('* In Market  \n')
     for skill in skills:
         if skill["skill_info"].get("market_status") == 'In Market':
             skillslist.append(skill)
@@ -279,7 +279,7 @@ def make_summary(skills):
     for category in categorylist:
         summary.write('* ' + category + '\n')
         summary.writelines(categorylist[category])
-    summary.write('## Pending Market \n')
+    summary.write('* Pending Market \n')
     skillslist = []
     for skill in skills:
         if skill["skill_info"].get("market_status") == 'Pending Market':
@@ -288,7 +288,7 @@ def make_summary(skills):
     for category in categorylist:
         summary.write('* ' + category + '\n')
         summary.writelines(categorylist[category])
-    summary.write('## Not in Market  \n')
+    summary.write('* Not in Market  \n')
     skillslist = []
     for skill in skills:
         if skill["skill_info"].get("market_status") == 'Not in Market':
@@ -298,7 +298,7 @@ def make_summary(skills):
         summary.write('* ' + category + '\n')
         summary.writelines(categorylist[category])
 
-    summary.write('## Skill Writers  \n')
+    summary.write('* Skill Writers  \n')
 
 def make_skillwritermd(skills):
     txt = open('../SUMMARY.md', 'a')
@@ -309,14 +309,14 @@ def make_skillwritermd(skills):
     skillfile = 'skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
 
     for writer in skillwriters:
-        txt.write('* @' + writer + '  \n')
+        txt.write('  * @' + writer + '  \n')
         for skill in skills:
             if writer == skill["owner"]["login"]:
                 skillfile = 'skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
                 if (skill["skill_info"]["title"] == "YOUR SKILL NAME") or (skill["skill_info"]["title"] == ""):
-                    text = "  * [" + clean_txt(skill["name"]) + "](" + skillfile + ")\n"
+                    text = "    * [" + clean_txt(skill["name"]) + "](" + skillfile + ")\n"
                 else:
-                    text = "  * [" + clean_txt(skill["skill_info"]["title"]) + "](" + skillfile + ")\n"
+                    text = "    * [" + clean_txt(skill["skill_info"]["title"]) + "](" + skillfile + ")\n"
                 txt.write(text)
     print(len(skillwriters))
 
