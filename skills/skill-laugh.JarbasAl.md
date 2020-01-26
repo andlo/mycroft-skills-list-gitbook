@@ -1,5 +1,5 @@
 ---
-description:     Makes Mycroft laugh like a maniac
+description: [](
 ---
 
 ### _skill-laugh.JarbasAl_  

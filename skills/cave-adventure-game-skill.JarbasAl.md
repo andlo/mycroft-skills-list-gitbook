@@ -1,5 +1,5 @@
 ---
-description:     skill for Adventure game by Crowther and Woods
+description: [](
 ---
 
 ### _cave-adventure-game-skill.JarbasAl_  

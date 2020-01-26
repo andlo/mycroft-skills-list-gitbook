@@ -5,6 +5,7 @@ from PIL import Image
 from bs4 import BeautifulSoup
 from markdown import markdown
 import re
+import datetime
 
 
 json_data = open('../_data/skills.json')
@@ -15,7 +16,7 @@ def make_skillsfiles(skills):
         txt = []
         txt.append('---\n')
         #of.write('titel: ' + skill["skill_info"]["title"] + '\n')
-        short_desc = clean_txt(skill["skill_info"]["short_desc"])
+        short_desc = clean_txt(skill["skill_info"]["short_desc"][:100])
         txt.append('description: ' + short_desc + '\n')
         #txt.append('categories: ')
         #for category in skill["skill_info"]["categories"]:
@@ -247,7 +248,7 @@ def make_readme(skills):
     readme.write('the specific skills github page.  \n')
     readme.write('The Mycroft market can be found at [mycroft.market.ai](http://mycroft.market.ai)  \n')
     readme.write('  \n')
-    readme.write('This list is generated and updated at [DATE and TIME] and has been made by searching github ')
+    readme.write('This list is generated and updated at ' + str(datetime.datetime.now().date()) + ' and has been made by searching github ')
     readme.write('looking throu more than 1250 reposotories that look like mycroft skills. Form those there were found ')
     readme.write(str(num_of_skills) + ' by ' + str(num_of_writers) + ' skill writers. Right now ')
     readme.write(str(num_in_market) + ' is in Mycroft Market aproved by Mycroft skill tester team. There are ')

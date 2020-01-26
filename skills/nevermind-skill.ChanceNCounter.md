@@ -1,5 +1,5 @@
 ---
-description: Dismisses Mycroft  DON'T INSTALL THIS! 
+description: Dismisses Mycroft  DON'T INSTALL THIS! The name doesn't play nice with STT right now, so you're 
 ---
 
 ### _nevermind-skill.ChanceNCounter_  

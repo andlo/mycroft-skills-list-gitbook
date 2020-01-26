@@ -1,5 +1,5 @@
 ---
-description:     Turn Mycroft into a echoing parrot!
+description: [](
 ---
 
 ### _skill-parrot.JarbasAl_  

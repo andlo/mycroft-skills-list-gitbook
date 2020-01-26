@@ -1,5 +1,5 @@
 ---
-description: This is a skill written for mycroft to publish commands over an mqtt broker for home automation or any other purpose
+description: This is a skill written for mycroft to publish commands over an mqtt broker for home automation or a
 ---
 
 ### _mycroft-mymqtt.jamiehoward430_  

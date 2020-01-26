@@ -1,5 +1,5 @@
 ---
-description: The Mycroft Chat allows you to interact with other community users. This skill allows you to monitor Mycroft Chat and find out if you have been mentioned or if there are unread messages. The messages can be read to you by Mycroft as well
+description: The Mycroft Chat allows you to interact with other community users. This 
 ---
 
 ### _mycroft-chat-skill.domcross_  

@@ -1,5 +1,5 @@
 ---
-description: A skill to connect a telegram bot to MyCroft. This will send you everything that is happening, if you are looking for the "normal" telegram skill -> 
+description: A skill to connect a telegram bot to MyCroft. This will send you everything that is happening, if yo
 ---
 
 ### _telegram-spam-skill.luke5sky_  
