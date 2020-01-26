@@ -1,5 +1,5 @@
 ---
-description: 
+description: Laugh randomly or when requested, gender configurable on home.mycroft.ai.
 ---
 
 ### _skill-laugh.JarbasAl_  

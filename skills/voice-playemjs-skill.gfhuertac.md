@@ -1,5 +1,5 @@
 ---
-description: 
+description: There are some music providers that require a ui to work, making them hard to control from audio-onl
 ---
 
 ### _voice-playemjs-skill.gfhuertac_  

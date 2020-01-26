@@ -1,5 +1,5 @@
 ---
-description: 
+description: Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display a
 ---
 
 ### _ask-stack.AIIX_  

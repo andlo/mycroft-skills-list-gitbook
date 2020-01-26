@@ -1,5 +1,5 @@
 ---
-description: 
+description: Play internet radio station using Mycroft.
 ---
 
 ### _play-music.whohlfeld_  

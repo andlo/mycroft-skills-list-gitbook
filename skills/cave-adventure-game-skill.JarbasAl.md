@@ -1,5 +1,5 @@
 ---
-description: 
+description: This is a faithful port of the “Adventure” game to a Mycroft Skill from the original 1977 FORTRAN co
 ---
 
 ### _cave-adventure-game-skill.JarbasAl_  

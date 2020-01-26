@@ -1,5 +1,5 @@
 ---
-description: 
+description: Mycroft will keep track of and update your grocery list!
 ---
 
 ### _grocery-list-skill.evanwike_  

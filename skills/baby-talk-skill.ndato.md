@@ -1,5 +1,5 @@
 ---
-description: 
+description: Communicate to mycroft as if you're talking to a baby.
 ---
 
 ### _baby-talk-skill.ndato_  

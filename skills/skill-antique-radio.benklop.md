@@ -1,5 +1,6 @@
 ---
-description: 
+description: This skill allows using the knobs on the radio to control various
+mycroft functions, and allows the 
 ---
 
 ### _skill-antique-radio.benklop_  

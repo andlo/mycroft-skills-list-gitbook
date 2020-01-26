@@ -1,5 +1,6 @@
 ---
-description: 
+description: Customer wants to be connected to an employee
+after specifying a name or phone number, mycroft conn
 ---
 
 ### _employees-skill.SamG486_  

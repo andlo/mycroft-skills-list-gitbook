@@ -1,5 +1,5 @@
 ---
-description: 
+description: Play various sounds on a loop through Mycroft. The sounds help with sleep, relaxing, or meditating.
 ---
 
 ### _mycroft-relaxingsounds.kadams1463_  

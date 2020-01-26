@@ -1,5 +1,5 @@
 ---
-description: 
+description: Fetches scheduled events from Google Calendar and allows adding events to your calendar.
 ---
 
 ### _gcalendar_skill.Cathalb28345_  

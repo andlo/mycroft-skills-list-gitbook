@@ -1,5 +1,13 @@
 ---
-description: 
+description: "Hey Mycroft, start parrot"
+"hello"
+hello
+"what"
+what
+"who are you"
+who are you
+"Stop parrot"
+NOTE:
 ---
 
 ### _skill-parrot.JarbasAl_  

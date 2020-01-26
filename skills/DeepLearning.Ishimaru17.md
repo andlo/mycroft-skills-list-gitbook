@@ -1,5 +1,5 @@
 ---
-description: 
+description: Mycroft will be able to have a conversation with an human, about medecine.
 ---
 
 ### _DeepLearning.Ishimaru17_  

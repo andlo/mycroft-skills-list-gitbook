@@ -1,5 +1,5 @@
 ---
-description: 
+description: Every 24 hours, mycroft will send you a reminder to feed your corgi, and tell you what your corgi wa
 ---
 
 ### _feed-the-corgi-skill.KathyReid_  

@@ -1,5 +1,5 @@
 ---
-description: 
+description: Infer actions to control power point presentation. E.g. 'start a presentation', 'next slide', 'previ
 ---
 
 ### _skill-ppt-controller-using-rasa.avimeens_  

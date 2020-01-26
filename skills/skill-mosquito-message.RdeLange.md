@@ -1,5 +1,6 @@
 ---
-description: 
+description: This skill has two purposes:
+1 Instead of triggering a skill by asking Mycroft a question, this ski
 ---
 
 ### _skill-mosquito-message.RdeLange_  

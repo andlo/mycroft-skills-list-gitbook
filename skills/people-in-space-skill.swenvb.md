@@ -1,5 +1,5 @@
 ---
-description: 
+description: Ever wondered how many people are in space right now? just ask mycroft, and you will get the answer!
 ---
 
 ### _people-in-space-skill.swenvb_  

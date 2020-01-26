@@ -1,5 +1,6 @@
 ---
-description: 
+description: The Kodi Controller Skill allows Mycroft to control Kodi, whether locally installed
+or on another de
 ---
 
 ### _kodi-controller-skill.who-is-matt_  

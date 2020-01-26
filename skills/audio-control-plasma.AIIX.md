@@ -1,5 +1,8 @@
 ---
-description: 
+description: Installation of skill:
+
+Download or Clone Git run: git clone 
+
 ---
 
 ### _audio-control-plasma.AIIX_  

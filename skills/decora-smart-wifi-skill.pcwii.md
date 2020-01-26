@@ -1,5 +1,5 @@
 ---
-description: 
+description: Mycroft.AI will have control over the smart wifi dimmer switch.
 ---
 
 ### _decora-smart-wifi-skill.pcwii_  

@@ -1,5 +1,5 @@
 ---
-description: 
+description: The automation-handler skill is part of the habits automation system
 ---
 
 ### _PFE1718-automation-handler.PFE1718_  

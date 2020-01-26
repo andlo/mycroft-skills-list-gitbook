@@ -1,5 +1,5 @@
 ---
-description: 
+description: Recreate the Star Wars Revenge of the Sith scene where Palpatine explains the Tragedy of Darth Plagu
 ---
 
 ### _mycroft-skill-darth-plagueis.chadwallacehart_  

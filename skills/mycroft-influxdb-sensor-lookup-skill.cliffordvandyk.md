@@ -1,5 +1,5 @@
 ---
-description: 
+description: When queried, the skill fetches the last sensor reading recorded in a local influxdb database. for e
 ---
 
 ### _mycroft-influxdb-sensor-lookup-skill.cliffordvandyk_  

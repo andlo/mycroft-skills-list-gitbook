@@ -1,5 +1,5 @@
 ---
-description: 
+description: This skill has been created for the makers and hackers who want to build their own home automation s
 ---
 
 ### _espy-skill.Dark5ide_  

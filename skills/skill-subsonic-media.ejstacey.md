@@ -1,5 +1,5 @@
 ---
-description: 
+description: This module plays streaming content from a Subsonic Media Server 
 ---
 
 ### _skill-subsonic-media.ejstacey_  

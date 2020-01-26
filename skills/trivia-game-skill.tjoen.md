@@ -1,5 +1,6 @@
 ---
-description: 
+description: This skill uses mycrofts pocketsphinx STT with a small dict.
+It uses a localstt.dic dictionary an
 ---
 
 ### _trivia-game-skill.tjoen_  

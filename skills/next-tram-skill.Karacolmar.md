@@ -1,5 +1,5 @@
 ---
-description: 
+description: Configure one tram station close to your home. your mycroft device will be able to tell you how long
 ---
 
 ### _next-tram-skill.Karacolmar_  

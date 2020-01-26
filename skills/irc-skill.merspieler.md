@@ -1,5 +1,7 @@
 ---
-description: 
+description: Mycroft skill that lets you use IRC via voice commands.
+This skill is not considered done.
+NOTE: 
 ---
 
 ### _irc-skill.merspieler_  

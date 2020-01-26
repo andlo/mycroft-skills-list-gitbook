@@ -1,5 +1,5 @@
 ---
-description: 
+description: Config options coming soon.  Not currently needed for API key.
 ---
 
 ### _skill-openstates.eClarity_  

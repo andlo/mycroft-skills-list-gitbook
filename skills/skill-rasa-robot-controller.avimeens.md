@@ -1,5 +1,5 @@
 ---
-description: 
+description: In order to provide voice interance for controlling a robot on Mycroft, this skill provides intent p
 ---
 
 ### _skill-rasa-robot-controller.avimeens_  

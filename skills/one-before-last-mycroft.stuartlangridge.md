@@ -1,5 +1,5 @@
 ---
-description: 
+description: Answer true or false trivia questions, but with a twist: you have to answer not the question you've 
 ---
 
 ### _one-before-last-mycroft.stuartlangridge_  

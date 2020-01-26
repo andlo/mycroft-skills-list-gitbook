@@ -1,5 +1,5 @@
 ---
-description: 
+description: A Mycroft skill for controlling Li
 ---
 
 ### _skill-lifx.GotTheNumbers_  

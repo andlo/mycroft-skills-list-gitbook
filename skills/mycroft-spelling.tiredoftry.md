@@ -1,5 +1,5 @@
 ---
-description: 
+description: Mycroft can spell any word which is understood by speech-to-text.  The proper spelling is pronounced
 ---
 
 ### _mycroft-spelling.tiredoftry_  

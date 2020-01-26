@@ -1,5 +1,5 @@
 ---
-description: 
+description: Char-rnn auto complete for human + machine writing included.
 ---
 
 ### _skill-dictation.JarbasAl_  

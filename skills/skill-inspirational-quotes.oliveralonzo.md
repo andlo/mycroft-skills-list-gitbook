@@ -1,5 +1,5 @@
 ---
-description: 
+description: Inspirational quotes for when you need a lift-up or just want to hear some wisdom. Quotes from Foris
 ---
 
 ### _skill-inspirational-quotes.oliveralonzo_  

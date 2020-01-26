@@ -1,5 +1,5 @@
 ---
-description: 
+description: Shodan search skill for Mycroft AI.
 ---
 
 ### _clyde-shodan.ninjaspl0it_  

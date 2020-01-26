@@ -1,5 +1,7 @@
 ---
-description: 
+description: Add the following section to your mycroft-core/mycroft/configuration/mycroft.ini file
+```
+KodiSkill
 ---
 
 ### _kodi-skill.cbenning_  

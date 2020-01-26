@@ -1,5 +1,7 @@
 ---
-description: 
+description: Based on ideas from the following sites:
+```
+
 ---
 
 ### _skill-tivo.groupwhere_  

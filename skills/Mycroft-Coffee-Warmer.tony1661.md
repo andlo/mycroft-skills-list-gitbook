@@ -1,5 +1,5 @@
 ---
-description: 
+description: A custom Mycroft skill I created to turn my sonoff on and off for my coffee mug warmer. Included is 
 ---
 
 ### _Mycroft-Coffee-Warmer.tony1661_  

@@ -1,5 +1,5 @@
 ---
-description: 
+description: This skill is a calcurse wrapper for Mycroft
 ---
 
 ### _calcurse-skill.lb803_  

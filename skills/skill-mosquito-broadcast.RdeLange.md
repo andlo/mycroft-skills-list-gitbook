@@ -1,5 +1,7 @@
 ---
-description: 
+description: This skill has three purposes:
+1 Broadcast messages to other mycroft devices
+2 Receive broadcast m
 ---
 
 ### _skill-mosquito-broadcast.RdeLange_  

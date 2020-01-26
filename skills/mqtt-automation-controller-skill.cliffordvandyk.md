@@ -1,5 +1,5 @@
 ---
-description: 
+description: Allows control of mqtt-interfaced automation by converting requests to suitable mqtt messages to an 
 ---
 
 ### _mqtt-automation-controller-skill.cliffordvandyk_  

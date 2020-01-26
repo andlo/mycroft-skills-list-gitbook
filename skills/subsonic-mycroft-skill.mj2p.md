@@ -1,5 +1,5 @@
 ---
-description: 
+description: Subsonic  is a media streaming server. this skill will interface with a precon
 ---
 
 ### _subsonic-mycroft-skill.mj2p_  

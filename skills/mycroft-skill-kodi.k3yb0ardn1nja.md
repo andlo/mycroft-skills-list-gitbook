@@ -1,5 +1,6 @@
 ---
-description: 
+description: Mycroft skill to provide integration to Kodi XBMC. Enables
+the user to Play or Pause the currently
 ---
 
 ### _mycroft-skill-kodi.k3yb0ardn1nja_  

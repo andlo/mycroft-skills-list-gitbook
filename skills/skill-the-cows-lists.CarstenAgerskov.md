@@ -1,5 +1,5 @@
 ---
-description: 
+description: This skill adds Remember The Milk support to Mycroft
 ---
 
 ### _skill-the-cows-lists.CarstenAgerskov_  

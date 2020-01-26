@@ -1,5 +1,5 @@
 ---
-description: 
+description: Looks up information about a person.
 ---
 
 ### _whois-skill.tsandh_  

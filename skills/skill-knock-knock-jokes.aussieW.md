@@ -1,5 +1,6 @@
 ---
-description: 
+description: In this skill a user interacts with Mycroft to tell a Knock Knock joke.
+Here is a sample interactio
 ---
 
 ### _skill-knock-knock-jokes.aussieW_  

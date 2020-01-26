@@ -1,5 +1,5 @@
 ---
-description: 
+description: Use mycroft to query pages from pdf with spoken keywords.
 ---
 
 ### _skill-pdf.sofwerx_  

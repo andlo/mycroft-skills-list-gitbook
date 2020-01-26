@@ -1,5 +1,5 @@
 ---
-description: 
+description: Play Radio Channels and switch between them.
 ---
 
 ### _radio_channel_skill.whohlfeld_  

@@ -1,5 +1,5 @@
 ---
-description: 
+description: This skill queries Kickstarter for the current pledge amount.
 ---
 
 ### _skill-kickstarter-tracker.MatthewScholefield_  

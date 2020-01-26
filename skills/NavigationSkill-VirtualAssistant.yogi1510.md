@@ -1,5 +1,5 @@
 ---
-description: 
+description: Testing Mycroft skill development - navigates from office to home.
 ---
 
 ### _NavigationSkill-VirtualAssistant.yogi1510_  

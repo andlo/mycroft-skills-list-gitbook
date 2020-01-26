@@ -1,5 +1,5 @@
 ---
-description: 
+description: Reads every line of the programmed file.
 ---
 
 ### _mycroft-readfile.reaperjudge_  

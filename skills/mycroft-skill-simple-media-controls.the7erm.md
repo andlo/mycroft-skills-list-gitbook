@@ -1,5 +1,5 @@
 ---
-description: 
+description: I've written a couple of scripts to get you started.  Keep in mind these might not work if the scree
 ---
 
 ### _mycroft-skill-simple-media-controls.the7erm_  

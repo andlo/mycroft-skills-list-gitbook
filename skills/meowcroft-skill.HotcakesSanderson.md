@@ -1,5 +1,5 @@
 ---
-description: 
+description: Mycroft will play audio sounds of a cat.
 ---
 
 ### _meowcroft-skill.HotcakesSanderson_  

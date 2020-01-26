@@ -1,5 +1,5 @@
 ---
-description: 
+description: Home Assistant is a open source project that lets you control all your smart devices in a single eas
 ---
 
 ### _homeassistant-skill.andlo_  

@@ -1,5 +1,6 @@
 ---
-description: 
+description: Get the local time or time for major cities around the world.  Times
+are given in 12-hour 2:30 pm 
 ---
 
 ### _date-time-skill.dleweyiv_  

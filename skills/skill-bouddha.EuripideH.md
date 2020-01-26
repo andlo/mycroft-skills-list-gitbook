@@ -1,5 +1,5 @@
 ---
-description: 
+description: Mycroft can tell several famous quotes from Buddha.
 ---
 
 ### _skill-bouddha.EuripideH_  

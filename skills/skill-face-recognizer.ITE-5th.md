@@ -1,5 +1,5 @@
 ---
-description: 
+description: Recognise known people and unknown from connected camera using remote server.
 ---
 
 ### _skill-face-recognizer.ITE-5th_  

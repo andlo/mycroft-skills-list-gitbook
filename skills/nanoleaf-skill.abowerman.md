@@ -1,5 +1,5 @@
 ---
-description: 
+description: Robots and blinky lights, oh my.
 ---
 
 ### _nanoleaf-skill.abowerman_  

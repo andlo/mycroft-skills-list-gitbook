@@ -1,5 +1,5 @@
 ---
-description: 
+description: This skill allows the user to modify their audio and text recording permissions. Audio and text file
 ---
 
 ### _skill-keep-transcriptions.NeonGeckoCom_  

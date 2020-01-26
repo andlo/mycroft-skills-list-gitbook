@@ -1,5 +1,6 @@
 ---
-description: 
+description: A skill to get simple directions time and distance via MyCroft.
+You need to create an account at 
 ---
 
 ### _directions-skill.luke5sky_  

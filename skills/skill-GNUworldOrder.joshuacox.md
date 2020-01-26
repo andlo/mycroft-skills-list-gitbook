@@ -1,5 +1,6 @@
 ---
-description: 
+description: Teaches Mycroft AI about the the GNU World Order "GNU World Order".
+*
 ---
 
 ### _skill-GNUworldOrder.joshuacox_  

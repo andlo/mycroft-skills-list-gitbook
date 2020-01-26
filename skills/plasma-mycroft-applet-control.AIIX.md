@@ -1,5 +1,5 @@
 ---
-description: 
+description: Control and Navigate Plasma-Mycroft Plasmoid and Additional Internal Functions.
 ---
 
 ### _plasma-mycroft-applet-control.AIIX_  

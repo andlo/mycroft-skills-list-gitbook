@@ -1,5 +1,7 @@
 ---
-description: 
+description: Installing
+Go to your skills directory ie /opt/mycroft/skills
+git clone 
 ---
 
 ### _mycroft-angrybeanie.purserj_  

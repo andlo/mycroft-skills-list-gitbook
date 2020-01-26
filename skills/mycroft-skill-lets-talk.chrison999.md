@@ -1,5 +1,6 @@
 ---
-description: 
+description: This Mycroft skill is based on the "helloworld" skill
+by eward.  Basically, it implements intents fo
 ---
 
 ### _mycroft-skill-lets-talk.chrison999_  

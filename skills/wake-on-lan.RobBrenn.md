@@ -1,5 +1,5 @@
 ---
-description: 
+description: A skill that uses the Wake On Lan protocol to wake up a device.
 ---
 
 ### _wake-on-lan.RobBrenn_  

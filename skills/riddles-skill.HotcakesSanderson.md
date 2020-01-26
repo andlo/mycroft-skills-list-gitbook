@@ -1,5 +1,5 @@
 ---
-description: 
+description: Mycroft will ask you riddles.
 ---
 
 ### _riddles-skill.HotcakesSanderson_  
