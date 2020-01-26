@@ -9,8 +9,7 @@ To start a chat, say "chat with bot" and to end it, say "stop"
 Once you're chatting, this skill will override most Mycroft functionality, and you will be in a conversation with the Rasa bot until you end the chat or are silent too long.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Chat with bot.  
 > Talk to rasa.  
 > Stop.  
@@ -27,8 +26,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/idusertbs/mycroft-skill-banorte-demo](https://github.com/idusertbs/mycroft-skill-banorte-demo)  
-**Owner:** | [@idusertbs](https://github.com/idusertbs)  
-**Created:** | 2019 Dec 12 19:25:22 UTC  **Last updated:** 2019 Dec 12 20:11:09 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/idusertbs/mycroft-skill-banorte-demo](https://github.com/idusertbs/mycroft-skill-banorte-demo)  
+**Owner:** [@idusertbs](https://github.com/idusertbs)  
+**Created:** 2019 Dec 12 19:25:22 UTC  **Last updated:** 2019 Dec 12 20:11:09 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

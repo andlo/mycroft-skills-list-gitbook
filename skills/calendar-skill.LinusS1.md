@@ -8,9 +8,7 @@ With this skill, you can access your iCal server, or just use a local calendar o
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#calendar \#ical \#server   
-## Examples:  
+### Examples:  
 > What's on my calendar?  
 > Add a event.  
 > How many events do I have?  
@@ -22,8 +20,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/LinusS1/calendar-skill](https://github.com/LinusS1/calendar-skill)  
-**Owner:** | [@LinusS1](https://github.com/LinusS1)  
-**Created:** | 2018 Nov 19 03:01:05 UTC  **Last updated:** 2019 Nov 03 19:04:28 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/LinusS1/calendar-skill](https://github.com/LinusS1/calendar-skill)  
+**Owner:** [@LinusS1](https://github.com/LinusS1)  
+**Created:** 2018 Nov 19 03:01:05 UTC  **Last updated:** 2019 Nov 03 19:04:28 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Productivity ] [ Daily ] [ Information ]   
+**Tags:** \#calendar \#ical \#server   

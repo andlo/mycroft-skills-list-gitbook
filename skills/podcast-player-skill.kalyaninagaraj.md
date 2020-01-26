@@ -8,9 +8,7 @@ Unlike a typical podcast player, this skill does not maintain playlist.
 Instead, this skill lets you to play a particular episode by identifying the season and episode number to Mycroft.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Podcast \#Mycroft \#AI   
-## Examples:  
+### Examples:  
 > *Play \*podcast-name\** (Plays the latest episode)  
 > *Play season 2 episode 5 of \*podcast-name\** (Plays episode 5 of season 2)  
 > *Play episode 6 of \*podcast-name\** (Plays episode 6 of the latest season)  
@@ -28,8 +26,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/kalyaninagaraj/podcast-player-skill](https://github.com/kalyaninagaraj/podcast-player-skill)  
-**Owner:** | [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
-**Created:** | 2019 Dec 18 13:05:04 UTC  **Last updated:** 2019 Dec 27 14:11:54 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/kalyaninagaraj/podcast-player-skill](https://github.com/kalyaninagaraj/podcast-player-skill)  
+**Owner:** [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
+**Created:** 2019 Dec 18 13:05:04 UTC  **Last updated:** 2019 Dec 27 14:11:54 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ & ] [ Music ] [ Audio ] [ Entertainment ] [ Media ]   
+**Tags:** \#Podcast \#Mycroft \#AI   

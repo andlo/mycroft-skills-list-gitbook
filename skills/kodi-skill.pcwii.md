@@ -9,9 +9,7 @@ The Kodi Skill uses conversational dialog to help you to control your KODI insta
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#'kodi, \#Krypton \#Leia, \#mycroft.ai, \#python, \#skills \#youtube'   
-## Examples:  
+### Examples:  
 > Ask kodi to play the movie guardians of the galaxy.  
 > Ask kodi to play the film planet of the apes.  
 > Ask kodi to play a random movie.  
@@ -54,8 +52,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/pcwii/kodi-skill](https://github.com/pcwii/kodi-skill)  
-**Owner:** | [@pcwii](https://github.com/pcwii)  
-**Created:** | 2018 Jul 08 22:08:21 UTC  **Last updated:** 2019 Dec 19 19:13:45 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/pcwii/kodi-skill](https://github.com/pcwii/kodi-skill)  
+**Owner:** [@pcwii](https://github.com/pcwii)  
+**Created:** 2018 Jul 08 22:08:21 UTC  **Last updated:** 2019 Dec 19 19:13:45 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Media ]   
+**Tags:** \#'kodi, \#Krypton \#Leia, \#mycroft.ai, \#python, \#skills \#youtube'   

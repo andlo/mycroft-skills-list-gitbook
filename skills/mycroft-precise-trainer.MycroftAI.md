@@ -7,8 +7,7 @@ description:
 This skill uses tranfer learning to train a precise model that is tuned to one or multiple people's voice.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Train precise for my voice.  
 > Make a custom precise model for my voice.  
   
@@ -24,8 +23,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/mycroft-precise-trainer](https://github.com/MycroftAI/mycroft-precise-trainer)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2019 May 20 06:21:22 UTC  **Last updated:** 2019 Aug 14 22:23:21 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/MycroftAI/mycroft-precise-trainer](https://github.com/MycroftAI/mycroft-precise-trainer)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2019 May 20 06:21:22 UTC  **Last updated:** 2019 Aug 14 22:23:21 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

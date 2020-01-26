@@ -29,8 +29,7 @@ Say stop when you are done.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Play some imagine dragons music.  
 > Av play study music playlist.  
   
@@ -39,8 +38,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/reginaneon/AVmusic](https://github.com/reginaneon/AVmusic)  
-**Owner:** | [@reginaneon](https://github.com/reginaneon)  
-**Created:** | 2018 Jun 01 22:33:50 UTC  **Last updated:** 2018 Nov 16 19:15:08 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/reginaneon/AVmusic](https://github.com/reginaneon/AVmusic)  
+**Owner:** [@reginaneon](https://github.com/reginaneon)  
+**Created:** 2018 Jun 01 22:33:50 UTC  **Last updated:** 2018 Nov 16 19:15:08 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

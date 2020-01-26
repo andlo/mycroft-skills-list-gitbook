@@ -18,8 +18,7 @@ More info on that here
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Start local speech.  
 > Play trivia.  
 > Game of trivia.  
@@ -32,8 +31,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/tjoen/lstt-skill](https://github.com/tjoen/lstt-skill)  
-**Owner:** | [@tjoen](https://github.com/tjoen)  
-**Created:** | 2018 Feb 17 13:59:42 UTC  **Last updated:** 2018 Mar 23 16:18:55 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/tjoen/lstt-skill](https://github.com/tjoen/lstt-skill)  
+**Owner:** [@tjoen](https://github.com/tjoen)  
+**Created:** 2018 Feb 17 13:59:42 UTC  **Last updated:** 2018 Mar 23 16:18:55 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

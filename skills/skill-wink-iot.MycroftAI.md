@@ -17,9 +17,7 @@ You can also include the light/group name in your request, along with intensity 
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#wink \#winkhub \#iot \#home-automation \#smarthome \#smart-home \#LED \#light \#lightbulb \#lighting   
-## Examples:  
+### Examples:  
 > Flip on the light.  
 > Turn on the bedroom lights dimly.  
 > Dim the lights.  
@@ -43,8 +41,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-wink-iot](https://github.com/MycroftAI/skill-wink-iot)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Dec 10 10:04:12 UTC  **Last updated:** 2019 Feb 11 09:16:47 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-wink-iot)  
+**Github:** [https://github.com/MycroftAI/skill-wink-iot](https://github.com/MycroftAI/skill-wink-iot)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Dec 10 10:04:12 UTC  **Last updated:** 2019 Feb 11 09:16:47 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-wink-iot)  
+**Categories:** [ IoT ]   
+**Tags:** \#wink \#winkhub \#iot \#home-automation \#smarthome \#smart-home \#LED \#light \#lightbulb \#lighting   

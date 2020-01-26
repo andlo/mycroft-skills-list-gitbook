@@ -8,9 +8,7 @@ This skill lets Mycroft do counting to a number or and countdown from a number.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#count \#countdown   
-## Examples:  
+### Examples:  
 > Count to 10.  
 > Countdown from 10.  
   
@@ -29,8 +27,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/andlo/count-skill](https://github.com/andlo/count-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018 Oct 05 19:13:32 UTC  **Last updated:** 2019 Sep 04 14:02:36 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/count)  
+**Github:** [https://github.com/andlo/count-skill](https://github.com/andlo/count-skill)  
+**Owner:** [@andlo](https://github.com/andlo)  
+**Created:** 2018 Oct 05 19:13:32 UTC  **Last updated:** 2019 Sep 04 14:02:36 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/count)  
+**Categories:** [ Daily ]   
+**Tags:** \#count \#countdown   

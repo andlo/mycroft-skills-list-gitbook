@@ -13,8 +13,7 @@ vocabulary.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > What can you do?  
 > What are your skills?  
 > How can I use <skill>?  
@@ -32,8 +31,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/mandolincreek/mycroft-skill-introspect](https://github.com/mandolincreek/mycroft-skill-introspect)  
-**Owner:** | [@mandolincreek](https://github.com/mandolincreek)  
-**Created:** | 2018 Feb 26 06:48:24 UTC  **Last updated:** 2018 Feb 26 13:27:30 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/mandolincreek/mycroft-skill-introspect](https://github.com/mandolincreek/mycroft-skill-introspect)  
+**Owner:** [@mandolincreek](https://github.com/mandolincreek)  
+**Created:** 2018 Feb 26 06:48:24 UTC  **Last updated:** 2018 Feb 26 13:27:30 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

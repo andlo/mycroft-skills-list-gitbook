@@ -9,9 +9,7 @@ who is fostering this open source artificial intelligence.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#personality \#persona   
-## Examples:  
+### Examples:  
 > When were you created?  
 > What are you?  
 > Where were you born?  
@@ -33,8 +31,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-personal](https://github.com/MycroftAI/skill-personal)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 04 17:47:50 UTC  **Last updated:** 2019 Nov 28 11:00:30 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-personal)  
+**Github:** [https://github.com/MycroftAI/skill-personal](https://github.com/MycroftAI/skill-personal)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Apr 04 17:47:50 UTC  **Last updated:** 2019 Nov 28 11:00:30 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-personal)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#personality \#persona   

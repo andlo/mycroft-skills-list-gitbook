@@ -15,9 +15,7 @@ This capability is used by the Spotify and Pandora Skills, among others.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#music \#play \#playback \#pause \#resume \#next \#system   
-## Examples:  
+### Examples:  
 > Play my summer playlist.  
 > Play Pandora.  
 > Pause.  
@@ -42,8 +40,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-playback-control](https://github.com/MycroftAI/skill-playback-control)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Jun 14 11:25:44 UTC  **Last updated:** 2019 Nov 29 16:20:35 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-playback-control)  
+**Github:** [https://github.com/MycroftAI/skill-playback-control](https://github.com/MycroftAI/skill-playback-control)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Jun 14 11:25:44 UTC  **Last updated:** 2019 Nov 29 16:20:35 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-playback-control)  
+**Categories:** [ Music ]   
+**Tags:** \#music \#play \#playback \#pause \#resume \#next \#system   

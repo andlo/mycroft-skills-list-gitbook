@@ -16,8 +16,7 @@ Mycroft: "says me, that's who"
 User: rotfl.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Tell me a knock knock joke.  
   
 {% hint style="danger" %}
@@ -25,8 +24,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/aussieW/knock-knock-jokes-skill](https://github.com/aussieW/knock-knock-jokes-skill)  
-**Owner:** | [@aussieW](https://github.com/aussieW)  
-**Created:** | 2018 Jul 16 19:56:03 UTC  **Last updated:** 2018 Jul 18 05:02:44 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/aussieW/knock-knock-jokes-skill](https://github.com/aussieW/knock-knock-jokes-skill)  
+**Owner:** [@aussieW](https://github.com/aussieW)  
+**Created:** 2018 Jul 16 19:56:03 UTC  **Last updated:** 2018 Jul 18 05:02:44 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

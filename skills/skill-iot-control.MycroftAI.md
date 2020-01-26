@@ -8,9 +8,7 @@ This Skill doesn't do anything by itself, but it provides an important common la
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#system \#iot   
-## Examples:  
+### Examples:  
 > Turn on the lights.  
 > Turn down the heat.  
 > Unlock the front door.  
@@ -20,8 +18,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-iot-control](https://github.com/MycroftAI/skill-iot-control)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2019 Feb 26 01:42:23 UTC  **Last updated:** 2019 Sep 10 21:22:15 UTC  
-**License:** | No License  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1032 block or hold new  
+**Github:** [https://github.com/MycroftAI/skill-iot-control](https://github.com/MycroftAI/skill-iot-control)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2019 Feb 26 01:42:23 UTC  **Last updated:** 2019 Sep 10 21:22:15 UTC  
+**License:** No License  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1032 ] [ block or hold ] [ new ]  
+**Categories:** [ IoT ]   
+**Tags:** \#system \#iot   

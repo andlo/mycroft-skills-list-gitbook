@@ -8,9 +8,7 @@ Easily find information about a movie with your voice.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#TMDB \#Movies \#Actors \#Mark \#I   
-## Examples:  
+### Examples:  
 > What is the movie _______ about?  
 > Tell me about the movie _______  
 > Who plays in the movie _______?  
@@ -36,8 +34,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/builderjer/moviemaster](https://github.com/builderjer/moviemaster)  
-**Owner:** | [@builderjer](https://github.com/builderjer)  
-**Created:** | 2019 Jan 28 13:41:45 UTC  **Last updated:** 2019 Jul 15 01:58:41 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/builderjer/moviemaster](https://github.com/builderjer/moviemaster)  
+**Owner:** [@builderjer](https://github.com/builderjer)  
+**Created:** 2019 Jan 28 13:41:45 UTC  **Last updated:** 2019 Jul 15 01:58:41 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#TMDB \#Movies \#Actors \#Mark \#I   

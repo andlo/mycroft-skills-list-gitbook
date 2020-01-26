@@ -16,8 +16,7 @@ User: rotfl.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Tell a knock knock.  
 > Tell a knock knock joke.  
   
@@ -26,8 +25,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/aussieW/skill-knock-knock-jokes](https://github.com/aussieW/skill-knock-knock-jokes)  
-**Owner:** | [@aussieW](https://github.com/aussieW)  
-**Created:** | 2018 Jan 30 01:11:21 UTC  **Last updated:** 2018 Feb 13 16:18:11 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/aussieW/skill-knock-knock-jokes](https://github.com/aussieW/skill-knock-knock-jokes)  
+**Owner:** [@aussieW](https://github.com/aussieW)  
+**Created:** 2018 Jan 30 01:11:21 UTC  **Last updated:** 2018 Feb 13 16:18:11 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

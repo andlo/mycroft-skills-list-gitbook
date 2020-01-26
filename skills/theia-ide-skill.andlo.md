@@ -12,9 +12,7 @@ Theia provides Microsoft VS Code experience in the browser.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Picroft](../.gitbook/assets/picroft-icon.png)   
-  
-###Tags: \#theia \#IDE \#editor \#dev \#vscode   
-## Examples:  
+### Examples:  
 > Activate IDE.  
 > Deactivate IDE.  
 > Restart IDE.  
@@ -34,8 +32,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/andlo/theia-ide-skill](https://github.com/andlo/theia-ide-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018 Nov 05 20:34:10 UTC  **Last updated:** 2019 Aug 12 16:00:26 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/theia-ide)  
+**Github:** [https://github.com/andlo/theia-ide-skill](https://github.com/andlo/theia-ide-skill)  
+**Owner:** [@andlo](https://github.com/andlo)  
+**Created:** 2018 Nov 05 20:34:10 UTC  **Last updated:** 2019 Aug 12 16:00:26 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/theia-ide)  
+**Categories:** [ Productivity ]   
+**Tags:** \#theia \#IDE \#editor \#dev \#vscode   

@@ -29,9 +29,7 @@ If you've forgotten what items have been identified, you can ask Mycroft:
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#openHAB \#smarthome \#IoT \#Automation \#opensource   
-## Examples:  
+### Examples:  
 > Turn on Diningroom Light.  
 > Switch off Kitchen Light.  
 > Put on Good Night.  
@@ -67,8 +65,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/openhab/openhab-mycroft](https://github.com/openhab/openhab-mycroft)  
-**Owner:** | [@openhab](https://github.com/openhab)  
-**Created:** | 2017 Sep 07 19:37:21 UTC  **Last updated:** 2019 Dec 20 15:45:08 UTC  
-**License:** | Eclipse Public License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/openhab-skill)  
+**Github:** [https://github.com/openhab/openhab-mycroft](https://github.com/openhab/openhab-mycroft)  
+**Owner:** [@openhab](https://github.com/openhab)  
+**Created:** 2017 Sep 07 19:37:21 UTC  **Last updated:** 2019 Dec 20 15:45:08 UTC  
+**License:** Eclipse Public License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/openhab-skill)  
+**Categories:** [ IoT ]   
+**Tags:** \#openHAB \#smarthome \#IoT \#Automation \#opensource   

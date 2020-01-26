@@ -7,9 +7,7 @@ description:
 Retrieve the IP address, also known as the "network address" of the Device and respond verbally to the user, and if the Device supports it, display the IP address.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#IP-address \#IPaddress \#network-address \#network \#system   
-## Examples:  
+### Examples:  
 > What Naga Address?  
   
 ## Installation:  
@@ -24,8 +22,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/nagamanikandank/naga-mycroft-test](https://github.com/nagamanikandank/naga-mycroft-test)  
-**Owner:** | [@nagamanikandank](https://github.com/nagamanikandank)  
-**Created:** | 2018 Oct 05 20:41:02 UTC  **Last updated:** 2018 Oct 05 21:33:20 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/nagamanikandank/naga-mycroft-test](https://github.com/nagamanikandank/naga-mycroft-test)  
+**Owner:** [@nagamanikandank](https://github.com/nagamanikandank)  
+**Created:** 2018 Oct 05 20:41:02 UTC  **Last updated:** 2018 Oct 05 21:33:20 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Configuration ]   
+**Tags:** \#IP-address \#IPaddress \#network-address \#network \#system   

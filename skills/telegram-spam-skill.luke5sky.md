@@ -60,8 +60,6 @@ Your bot should send you this welcome message: Telegram-Skill on Mycroft Unit YO
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#messenger \#bot \#telegram-bot   
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -74,8 +72,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/luke5sky/telegram-spam-skill](https://github.com/luke5sky/telegram-spam-skill)  
-**Owner:** | [@luke5sky](https://github.com/luke5sky)  
-**Created:** | 2019 Jan 04 10:25:15 UTC  **Last updated:** 2019 Jan 04 10:31:55 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/luke5sky/telegram-spam-skill](https://github.com/luke5sky/telegram-spam-skill)  
+**Owner:** [@luke5sky](https://github.com/luke5sky)  
+**Created:** 2019 Jan 04 10:25:15 UTC  **Last updated:** 2019 Jan 04 10:31:55 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Productivity ] [ IoT ]   
+**Tags:** \#messenger \#bot \#telegram-bot   

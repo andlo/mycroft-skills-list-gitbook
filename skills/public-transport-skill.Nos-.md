@@ -8,9 +8,7 @@ Auskunft über Bus- und Bahnverbindungen im Bereich der DVB (Dresdner Verkehrsbe
 Entstanden beim opendatacamp2019.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#DVB \#VVO \#Dresden \#ÖPNV \#Sachsen \#Nahverkehr   
-## Examples:  
+### Examples:  
 > Wie komme ich nach ... ?  
 > Wie komme ich von ... nach ... ?  
 > Wann fährt der nächste Bus?  
@@ -23,8 +21,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/Nos-/public-transport-skill](https://github.com/Nos-/public-transport-skill)  
-**Owner:** | [@Nos-](https://github.com/Nos-)  
-**Created:** | 2019 Nov 09 19:46:14 UTC  **Last updated:** 2019 Nov 10 22:50:38 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Nos-/public-transport-skill](https://github.com/Nos-/public-transport-skill)  
+**Owner:** [@Nos-](https://github.com/Nos-)  
+**Created:** 2019 Nov 09 19:46:14 UTC  **Last updated:** 2019 Nov 10 22:50:38 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Transportation ] [ Daily ] [ Information ]   
+**Tags:** \#DVB \#VVO \#Dresden \#ÖPNV \#Sachsen \#Nahverkehr   

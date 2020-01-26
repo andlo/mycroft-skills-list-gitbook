@@ -7,8 +7,7 @@ description:
 A custom Mycroft skill I created to control my plex server.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Refresh Plex.  
 > How many movies do I have downloaded?  
 > Count my movies.  
@@ -28,8 +27,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/tony1661/Mycroft-Plex-Skill](https://github.com/tony1661/Mycroft-Plex-Skill)  
-**Owner:** | [@tony1661](https://github.com/tony1661)  
-**Created:** | 2019 Apr 24 04:14:02 UTC  **Last updated:** 2019 May 14 17:07:51 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/tony1661/Mycroft-Plex-Skill](https://github.com/tony1661/Mycroft-Plex-Skill)  
+**Owner:** [@tony1661](https://github.com/tony1661)  
+**Created:** 2019 Apr 24 04:14:02 UTC  **Last updated:** 2019 May 14 17:07:51 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

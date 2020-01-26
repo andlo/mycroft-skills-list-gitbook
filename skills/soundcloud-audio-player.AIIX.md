@@ -8,9 +8,7 @@ SoundCloud is a music and podcast streaming platform that lets you listen to mil
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Music \#Soundcloud \#Sound \#MusicStreaming \#Streaming \#Songs \#Music \#SongSearch \#MusicSearch \#GUI \#MusicPlayer \#Online   
-## Examples:  
+### Examples:  
 > Soundcloud Metallica.  
 > Pause Soundcloud.  
 > Resume Soundcloud.  
@@ -27,8 +25,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/AIIX/soundcloud-audio-player](https://github.com/AIIX/soundcloud-audio-player)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018 Oct 16 15:03:26 UTC  **Last updated:** 2019 Dec 23 16:29:52 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1009 GUI required needs validation new  
+**Github:** [https://github.com/AIIX/soundcloud-audio-player](https://github.com/AIIX/soundcloud-audio-player)  
+**Owner:** [@AIIX](https://github.com/AIIX)  
+**Created:** 2018 Oct 16 15:03:26 UTC  **Last updated:** 2019 Dec 23 16:29:52 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1009 ] [ GUI required ] [ needs validation ] [ new ]  
+**Categories:** [ Music ]   
+**Tags:** \#Music \#Soundcloud \#Sound \#MusicStreaming \#Streaming \#Songs \#Music \#SongSearch \#MusicSearch \#GUI \#MusicPlayer \#Online   

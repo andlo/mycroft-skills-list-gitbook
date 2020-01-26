@@ -22,8 +22,7 @@ The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_s
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Tell me caffeine content of *drink*?  
 > How much caffeine is in *drink*?  
   
@@ -32,8 +31,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/reginaneon/CaffeineWiz](https://github.com/reginaneon/CaffeineWiz)  
-**Owner:** | [@reginaneon](https://github.com/reginaneon)  
-**Created:** | 2017 Oct 17 23:38:17 UTC  **Last updated:** 2018 Jun 12 10:23:27 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/reginaneon/CaffeineWiz](https://github.com/reginaneon/CaffeineWiz)  
+**Owner:** [@reginaneon](https://github.com/reginaneon)  
+**Created:** 2017 Oct 17 23:38:17 UTC  **Last updated:** 2018 Jun 12 10:23:27 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

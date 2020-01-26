@@ -17,8 +17,7 @@ Input: help me with skill
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Help me with skill_name <- will give options for help about this skill <- do this before other commands!  
 > Help me with skill <- info about previous skill.  
 > Help me with commands <- info about previous skill's commands/ keywords.  
@@ -30,8 +29,9 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/chrison999/mycroft-skill-HelpMe](https://github.com/chrison999/mycroft-skill-HelpMe)  
-**Owner:** | [@chrison999](https://github.com/chrison999)  
-**Created:** | 2017 Apr 25 18:31:21 UTC  **Last updated:** 2017 May 18 06:53:23 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/chrison999/mycroft-skill-HelpMe](https://github.com/chrison999/mycroft-skill-HelpMe)  
+**Owner:** [@chrison999](https://github.com/chrison999)  
+**Created:** 2017 Apr 25 18:31:21 UTC  **Last updated:** 2017 May 18 06:53:23 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

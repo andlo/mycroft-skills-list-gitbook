@@ -7,9 +7,7 @@ description: A skill for pacetasks
 This is a test skill for connecting mycroft to erp system.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Pacetasks \#Erp \#Human \#resource \#Mysql \#Database   
-## Examples:  
+### Examples:  
 > How is pacetasks employee.  
 > How many employees are in pacetasks.  
 > Pacetasks.  
@@ -19,8 +17,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/dakam/pacetasks-employee-skill](https://github.com/dakam/pacetasks-employee-skill)  
-**Owner:** | [@dakam](https://github.com/dakam)  
-**Created:** | 2019 Oct 12 19:57:16 UTC  **Last updated:** 2019 Oct 12 19:57:24 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/dakam/pacetasks-employee-skill](https://github.com/dakam/pacetasks-employee-skill)  
+**Owner:** [@dakam](https://github.com/dakam)  
+**Created:** 2019 Oct 12 19:57:16 UTC  **Last updated:** 2019 Oct 12 19:57:24 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Information ] [ Productivity ]   
+**Tags:** \#Pacetasks \#Erp \#Human \#resource \#Mysql \#Database   

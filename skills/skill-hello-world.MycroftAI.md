@@ -18,9 +18,7 @@ Mycroft Message Bus
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#helloworld \#first-skill \#hello \#greeting   
-## Examples:  
+### Examples:  
 > Hello world.  
 > How are you?  
 > Thank you.  
@@ -30,8 +28,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-hello-world](https://github.com/MycroftAI/skill-hello-world)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 05 22:56:27 UTC  **Last updated:** 2019 Nov 15 10:48:24 UTC  
-**License:** | No License  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-hello-world)  
+**Github:** [https://github.com/MycroftAI/skill-hello-world](https://github.com/MycroftAI/skill-hello-world)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Apr 05 22:56:27 UTC  **Last updated:** 2019 Nov 15 10:48:24 UTC  
+**License:** No License  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-hello-world)  
+**Categories:** [ Configuration ]   
+**Tags:** \#helloworld \#first-skill \#hello \#greeting   

@@ -8,8 +8,7 @@ description:
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Call Mycroft.  
   
 {% hint style="danger" %}
@@ -17,8 +16,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-dial-call](https://github.com/MycroftAI/skill-dial-call)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 04 17:45:40 UTC  **Last updated:** 2018 Nov 19 21:13:49 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/MycroftAI/skill-dial-call](https://github.com/MycroftAI/skill-dial-call)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Apr 04 17:45:40 UTC  **Last updated:** 2018 Nov 19 21:13:49 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

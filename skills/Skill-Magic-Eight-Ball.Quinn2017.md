@@ -8,8 +8,7 @@ description:
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > No question about the future].  
   
 ## Installation:  
@@ -24,8 +23,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Quinn2017/Skill-Magic-Eight-Ball](https://github.com/Quinn2017/Skill-Magic-Eight-Ball)  
-**Owner:** | [@Quinn2017](https://github.com/Quinn2017)  
-**Created:** | 2018 Apr 14 19:27:42 UTC  **Last updated:** 2018 Aug 27 11:05:49 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Quinn2017/Skill-Magic-Eight-Ball](https://github.com/Quinn2017/Skill-Magic-Eight-Ball)  
+**Owner:** [@Quinn2017](https://github.com/Quinn2017)  
+**Created:** 2018 Apr 14 19:27:42 UTC  **Last updated:** 2018 Aug 27 11:05:49 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

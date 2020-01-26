@@ -16,8 +16,7 @@ to configure the MagicMirror config.js by SSH or VNC for the particular skill yo
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > : hide clock.  
 > Show clock.  
 > Turn on weather.  
@@ -48,8 +47,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/dmwilsonkc/magic-mirror-voice-control-skill](https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)  
-**Owner:** | [@dmwilsonkc](https://github.com/dmwilsonkc)  
-**Created:** | 2018 May 30 02:09:43 UTC  **Last updated:** 2019 Dec 28 22:46:02 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-933 new override autotester waiting  
+**Github:** [https://github.com/dmwilsonkc/magic-mirror-voice-control-skill](https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)  
+**Owner:** [@dmwilsonkc](https://github.com/dmwilsonkc)  
+**Created:** 2018 May 30 02:09:43 UTC  **Last updated:** 2019 Dec 28 22:46:02 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-933 ] [ new ] [ override autotester ] [ waiting ]  
+**Categories:** [ IoT ]   

@@ -8,9 +8,7 @@ This Skill records audio from the microphone and allows you to play back that re
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#audio \#record \#record-audio \#microphone \#configuration   
-## Examples:  
+### Examples:  
 > Start recording.  
 > Start recording for 40 minutes.  
 > Play the recording.  
@@ -31,8 +29,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-audio-record](https://github.com/MycroftAI/skill-audio-record)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 04 17:44:41 UTC  **Last updated:** 2019 Nov 15 12:55:19 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-audio-record)  
+**Github:** [https://github.com/MycroftAI/skill-audio-record](https://github.com/MycroftAI/skill-audio-record)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Apr 04 17:44:41 UTC  **Last updated:** 2019 Nov 15 12:55:19 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-audio-record)  
+**Categories:** [ Configuration ]   
+**Tags:** \#audio \#record \#record-audio \#microphone \#configuration   

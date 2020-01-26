@@ -8,8 +8,7 @@ Skill, which works using Mycroft-core with NeonGeckoCom modifications, provides 
 Note: This skill would not proceed without the clear confirmation of the command from the user by asking "Should I stop skipping wake words?" and expecting a positive answer.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Start skipping wake words.  
 > Stop skipping wake words.  
   
@@ -18,8 +17,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/NeonGeckoCom/skill-skip-wake-words-control](https://github.com/NeonGeckoCom/skill-skip-wake-words-control)  
-**Owner:** | [@NeonGeckoCom](https://github.com/NeonGeckoCom)  
-**Created:** | 2017 Nov 10 21:24:39 UTC  **Last updated:** 2017 Nov 10 21:39:18 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/NeonGeckoCom/skill-skip-wake-words-control](https://github.com/NeonGeckoCom/skill-skip-wake-words-control)  
+**Owner:** [@NeonGeckoCom](https://github.com/NeonGeckoCom)  
+**Created:** 2017 Nov 10 21:24:39 UTC  **Last updated:** 2017 Nov 10 21:39:18 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

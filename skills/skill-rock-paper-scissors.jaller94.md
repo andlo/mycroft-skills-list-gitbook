@@ -7,8 +7,7 @@ description:
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > I choose rock.  
 > I choose paper.  
 > I choose scissors.  
@@ -25,8 +24,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/jaller94/skill-rock-paper-scissors](https://github.com/jaller94/skill-rock-paper-scissors)  
-**Owner:** | [@jaller94](https://github.com/jaller94)  
-**Created:** | 2018 Jan 20 09:47:20 UTC  **Last updated:** 2018 Jan 20 09:49:11 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/jaller94/skill-rock-paper-scissors](https://github.com/jaller94/skill-rock-paper-scissors)  
+**Owner:** [@jaller94](https://github.com/jaller94)  
+**Created:** 2018 Jan 20 09:47:20 UTC  **Last updated:** 2018 Jan 20 09:49:11 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

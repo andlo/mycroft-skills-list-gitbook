@@ -8,9 +8,7 @@ This skill integrates Plasma 5 Desktop Internals with Mycroft which enables user
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#desktop \#kde \#plasma \#brightness \#lockscreen \#panel \#widget \#system \#information \#clipboard   
-## Examples:  
+### Examples:  
 > Lock screen.  
 > Switch current user.  
 > Logout of the current session.  
@@ -37,8 +35,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/AIIX/plasma-user-control-skill](https://github.com/AIIX/plasma-user-control-skill)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2017 Jan 21 15:38:30 UTC  **Last updated:** 2019 Sep 23 08:44:58 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1039 needs validation new  
+**Github:** [https://github.com/AIIX/plasma-user-control-skill](https://github.com/AIIX/plasma-user-control-skill)  
+**Owner:** [@AIIX](https://github.com/AIIX)  
+**Created:** 2017 Jan 21 15:38:30 UTC  **Last updated:** 2019 Sep 23 08:44:58 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1039 ] [ needs validation ] [ new ]  
+**Categories:** [ Productivity ]   
+**Tags:** \#desktop \#kde \#plasma \#brightness \#lockscreen \#panel \#widget \#system \#information \#clipboard   

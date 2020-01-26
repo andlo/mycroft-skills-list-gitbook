@@ -9,7 +9,6 @@ mycroft functions, and allows the screen on the radio to display
 status information.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -22,8 +21,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/benklop/skill-antique-radio](https://github.com/benklop/skill-antique-radio)  
-**Owner:** | [@benklop](https://github.com/benklop)  
-**Created:** | 2019 Apr 10 02:57:09 UTC  **Last updated:** 2019 Aug 22 23:49:50 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/benklop/skill-antique-radio](https://github.com/benklop/skill-antique-radio)  
+**Owner:** [@benklop](https://github.com/benklop)  
+**Created:** 2019 Apr 10 02:57:09 UTC  **Last updated:** 2019 Aug 22 23:49:50 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

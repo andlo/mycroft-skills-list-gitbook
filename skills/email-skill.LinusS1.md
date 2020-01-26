@@ -9,9 +9,7 @@ To configure this skill go to the skill wiki
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#email \#mail \#emails   
-## Examples:  
+### Examples:  
 > Check my email.  
 > Do I have any new emails?  
 > Do I have any email from Bob?  
@@ -33,8 +31,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/LinusS1/email-skill](https://github.com/LinusS1/email-skill)  
-**Owner:** | [@LinusS1](https://github.com/LinusS1)  
-**Created:** | 2018 Aug 09 16:57:42 UTC  **Last updated:** 2019 Oct 01 01:12:52 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/email-skill)  
+**Github:** [https://github.com/LinusS1/email-skill](https://github.com/LinusS1/email-skill)  
+**Owner:** [@LinusS1](https://github.com/LinusS1)  
+**Created:** 2018 Aug 09 16:57:42 UTC  **Last updated:** 2019 Oct 01 01:12:52 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/email-skill)  
+**Categories:** [ Productivity ] [ Daily ] [ Information ]   
+**Tags:** \#email \#mail \#emails   

@@ -8,8 +8,7 @@ A more verbose description, including any extra instructions or
 information that didn't fit in the one line.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Hello world.  
 > Greetings planet earth.  
 > Count up.  
@@ -27,8 +26,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Julia3107/arduino-control-skill](https://github.com/Julia3107/arduino-control-skill)  
-**Owner:** | [@Julia3107](https://github.com/Julia3107)  
-**Created:** | 2019 Aug 29 10:03:55 UTC  **Last updated:** 2019 Sep 14 12:26:50 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Julia3107/arduino-control-skill](https://github.com/Julia3107/arduino-control-skill)  
+**Owner:** [@Julia3107](https://github.com/Julia3107)  
+**Created:** 2019 Aug 29 10:03:55 UTC  **Last updated:** 2019 Sep 14 12:26:50 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

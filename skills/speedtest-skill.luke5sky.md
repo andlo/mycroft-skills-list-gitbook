@@ -13,9 +13,7 @@ Examples for Raspberry Pi:
 If a Raspberry Pi 3 B - connected to WiFi - runs Mycroft you won't get more than 40 Mbit/s from the speedtest despite your internet connection may have more bandwith.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#ínternet \#speed \#bandwith   
-## Examples:  
+### Examples:  
 > Run a speedtest.  
   
 ## Installation:  
@@ -33,8 +31,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/luke5sky/speedtest-skill](https://github.com/luke5sky/speedtest-skill)  
-**Owner:** | [@luke5sky](https://github.com/luke5sky)  
-**Created:** | 2019 Jan 03 15:37:35 UTC  **Last updated:** 2019 Jan 24 10:07:17 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/speedtest)  
+**Github:** [https://github.com/luke5sky/speedtest-skill](https://github.com/luke5sky/speedtest-skill)  
+**Owner:** [@luke5sky](https://github.com/luke5sky)  
+**Created:** 2019 Jan 03 15:37:35 UTC  **Last updated:** 2019 Jan 24 10:07:17 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/speedtest)  
+**Categories:** [ Productivity ] [ Daily ] [ Information ] [ IoT ]   
+**Tags:** \#ínternet \#speed \#bandwith   

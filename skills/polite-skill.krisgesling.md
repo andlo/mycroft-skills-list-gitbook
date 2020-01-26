@@ -10,8 +10,7 @@ For more details see the technical documentation on converse.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > You are stupid.  
 > Will you shut up.  
   
@@ -20,8 +19,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/krisgesling/polite-skill](https://github.com/krisgesling/polite-skill)  
-**Owner:** | [@krisgesling](https://github.com/krisgesling)  
-**Created:** | 2019 Sep 27 05:37:59 UTC  **Last updated:** 2019 Oct 02 07:51:45 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/krisgesling/polite-skill](https://github.com/krisgesling/polite-skill)  
+**Owner:** [@krisgesling](https://github.com/krisgesling)  
+**Created:** 2019 Sep 27 05:37:59 UTC  **Last updated:** 2019 Oct 02 07:51:45 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Example ]   

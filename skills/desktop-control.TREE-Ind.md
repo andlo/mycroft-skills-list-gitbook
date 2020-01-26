@@ -8,9 +8,7 @@ A skill that allows voice control over your mouse and keyboard using natural lan
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![plasmoid](../.gitbook/assets/kde.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)   
-  
-###Tags: \#desktop \#mouse \#keyboard \#screen   
-## Examples:  
+### Examples:  
 > Type Mycroft is awesome.  
 > Press the enter key.  
 > Move mouse to 400 and 100.  
@@ -36,8 +34,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/TREE-Ind/desktop-control](https://github.com/TREE-Ind/desktop-control)  
-**Owner:** | [@TREE-Ind](https://github.com/TREE-Ind)  
-**Created:** | 2018 Jun 14 20:55:15 UTC  **Last updated:** 2019 Jun 13 16:14:34 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/TREE-Ind/desktop-control](https://github.com/TREE-Ind/desktop-control)  
+**Owner:** [@TREE-Ind](https://github.com/TREE-Ind)  
+**Created:** 2018 Jun 14 20:55:15 UTC  **Last updated:** 2019 Jun 13 16:14:34 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Productivity ]   
+**Tags:** \#desktop \#mouse \#keyboard \#screen   

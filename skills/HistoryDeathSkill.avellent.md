@@ -7,7 +7,6 @@ description:
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -20,8 +19,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/avellent/HistoryDeathSkill](https://github.com/avellent/HistoryDeathSkill)  
-**Owner:** | [@avellent](https://github.com/avellent)  
-**Created:** | 2018 Sep 04 08:49:51 UTC  **Last updated:** 2018 Sep 04 08:50:18 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/avellent/HistoryDeathSkill](https://github.com/avellent/HistoryDeathSkill)  
+**Owner:** [@avellent](https://github.com/avellent)  
+**Created:** 2018 Sep 04 08:49:51 UTC  **Last updated:** 2018 Sep 04 08:50:18 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

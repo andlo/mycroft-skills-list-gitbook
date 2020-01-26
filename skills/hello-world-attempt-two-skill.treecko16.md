@@ -7,9 +7,7 @@ description: Says "hello, world!"
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Test \#Helloworld \#Hello \#Hi \#Not \#final   
-## Examples:  
+### Examples:  
 > Hello world.  
 > Hello.  
 > Hi.  
@@ -22,8 +20,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/treecko16/hello-world-attempt-two-skill](https://github.com/treecko16/hello-world-attempt-two-skill)  
-**Owner:** | [@treecko16](https://github.com/treecko16)  
-**Created:** | 2019 Nov 16 00:51:45 UTC  **Last updated:** 2019 Nov 16 01:21:44 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/treecko16/hello-world-attempt-two-skill](https://github.com/treecko16/hello-world-attempt-two-skill)  
+**Owner:** [@treecko16](https://github.com/treecko16)  
+**Created:** 2019 Nov 16 00:51:45 UTC  **Last updated:** 2019 Nov 16 01:21:44 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#Test \#Helloworld \#Hello \#Hi \#Not \#final   

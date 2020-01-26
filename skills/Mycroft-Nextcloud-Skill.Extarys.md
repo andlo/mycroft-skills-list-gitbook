@@ -9,8 +9,7 @@ Ability to create appointments in any calendars.
 You can now add a contact to Nextcloud in 15 seconds with your voice.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > List my calendars.  
 > What is on the calendar today?  
 > Do I have anything for tomorrow.  
@@ -27,8 +26,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/Extarys/Mycroft-Nextcloud-Skill](https://github.com/Extarys/Mycroft-Nextcloud-Skill)  
-**Owner:** | [@Extarys](https://github.com/Extarys)  
-**Created:** | 2019 Jul 27 20:28:37 UTC  **Last updated:** 2019 Jul 28 17:22:17 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Extarys/Mycroft-Nextcloud-Skill](https://github.com/Extarys/Mycroft-Nextcloud-Skill)  
+**Owner:** [@Extarys](https://github.com/Extarys)  
+**Created:** 2019 Jul 27 20:28:37 UTC  **Last updated:** 2019 Jul 28 17:22:17 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Productivity ] [ Information, ]   

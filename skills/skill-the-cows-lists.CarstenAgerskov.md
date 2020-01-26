@@ -107,8 +107,7 @@ Other issues that are not caught as describe above, can be reported as well, on
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Add milk to my grocery list.  
 > Add remember to call home tomorrow at 9 to list Inbox.  
   
@@ -127,8 +126,9 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/CarstenAgerskov/skill-the-cows-lists](https://github.com/CarstenAgerskov/skill-the-cows-lists)  
-**Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
-**Created:** | 2017 Nov 26 15:48:44 UTC  **Last updated:** 2019 May 10 00:51:51 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/carstena-the-cows-lists)  
+**Github:** [https://github.com/CarstenAgerskov/skill-the-cows-lists](https://github.com/CarstenAgerskov/skill-the-cows-lists)  
+**Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
+**Created:** 2017 Nov 26 15:48:44 UTC  **Last updated:** 2019 May 10 00:51:51 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/carstena-the-cows-lists)  
+**Categories:** [ uncategorized ]   

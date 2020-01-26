@@ -9,9 +9,7 @@ Whether these are titles of books to read, the specs of your new bike, or random
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Notes \#Note-taking   
-## Examples:  
+### Examples:  
 > What lists do I have?  
 > What's on my important list?  
 > Add a new list called travel plans.  
@@ -31,8 +29,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/lb803/list-manager-skill](https://github.com/lb803/list-manager-skill)  
-**Owner:** | [@lb803](https://github.com/lb803)  
-**Created:** | 2019 Apr 04 18:34:10 UTC  **Last updated:** 2019 Jun 08 23:08:07 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/lb803/list-manager-skill](https://github.com/lb803/list-manager-skill)  
+**Owner:** [@lb803](https://github.com/lb803)  
+**Created:** 2019 Apr 04 18:34:10 UTC  **Last updated:** 2019 Jun 08 23:08:07 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Productivity ]   
+**Tags:** \#Notes \#Note-taking   

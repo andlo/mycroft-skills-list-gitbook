@@ -8,9 +8,7 @@ Query Wikipedia for answers to all your questions.  Get just a summary, or ask f
 This Skill uses the Wikimedia API.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#wikipedia \#encyclopedia \#general-knowledge \#wiki \#question \#query   
-## Examples:  
+### Examples:  
 > Tell me about Elon Musk.  
 > Tell me about beans.  
 > Check Wikipedia for beans.  
@@ -31,8 +29,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/einstalek/ru-wiki](https://github.com/einstalek/ru-wiki)  
-**Owner:** | [@einstalek](https://github.com/einstalek)  
-**Created:** | 2018 Nov 09 17:36:50 UTC  **Last updated:** 2018 Nov 13 13:53:03 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/einstalek/ru-wiki](https://github.com/einstalek/ru-wiki)  
+**Owner:** [@einstalek](https://github.com/einstalek)  
+**Created:** 2018 Nov 09 17:36:50 UTC  **Last updated:** 2018 Nov 13 13:53:03 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Information ]   
+**Tags:** \#wikipedia \#encyclopedia \#general-knowledge \#wiki \#question \#query   

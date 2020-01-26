@@ -13,8 +13,7 @@ Copy the Animelist-skill folder to /opt/mycroft/skills/ folder.
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Search anime %some-anime-name or $some-anime-keywords.  
   
 {% hint style="danger" %}
@@ -22,8 +21,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/AIIX/animelist-skill](https://github.com/AIIX/animelist-skill)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018 Apr 03 07:56:17 UTC  **Last updated:** 2018 Aug 22 16:12:12 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/AIIX/animelist-skill](https://github.com/AIIX/animelist-skill)  
+**Owner:** [@AIIX](https://github.com/AIIX)  
+**Created:** 2018 Apr 03 07:56:17 UTC  **Last updated:** 2018 Aug 22 16:12:12 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

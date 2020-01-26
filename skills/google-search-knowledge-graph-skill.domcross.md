@@ -10,9 +10,7 @@ that you have to enter in the skill settings section of home.mycroft.ai.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Google \#Search   
-## Examples:  
+### Examples:  
 > Google.  
 > Graph search.  
   
@@ -21,8 +19,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/domcross/google-search-knowledge-graph-skill](https://github.com/domcross/google-search-knowledge-graph-skill)  
-**Owner:** | [@domcross](https://github.com/domcross)  
-**Created:** | 2019 Oct 14 18:12:48 UTC  **Last updated:** 2019 Oct 15 09:58:00 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/domcross/google-search-knowledge-graph-skill](https://github.com/domcross/google-search-knowledge-graph-skill)  
+**Owner:** [@domcross](https://github.com/domcross)  
+**Created:** 2019 Oct 14 18:12:48 UTC  **Last updated:** 2019 Oct 15 09:58:00 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Information ] [ Daily ]   
+**Tags:** \#Google \#Search   

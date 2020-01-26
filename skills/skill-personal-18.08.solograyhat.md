@@ -8,9 +8,7 @@ Ask about the "birth" and parentage of Mycroft and get a taste of the community
 who is fostering this open source artificial intelligence.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#personality \#persona   
-## Examples:  
+### Examples:  
 > When were you created?  
 > What are you?  
 > Where were you born?  
@@ -29,8 +27,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/solograyhat/skill-personal-18.08](https://github.com/solograyhat/skill-personal-18.08)  
-**Owner:** | [@solograyhat](https://github.com/solograyhat)  
-**Created:** | 2018 Sep 23 21:04:48 UTC  **Last updated:** 2018 Sep 23 21:04:58 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/solograyhat/skill-personal-18.08](https://github.com/solograyhat/skill-personal-18.08)  
+**Owner:** [@solograyhat](https://github.com/solograyhat)  
+**Created:** 2018 Sep 23 21:04:48 UTC  **Last updated:** 2018 Sep 23 21:04:58 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#personality \#persona   

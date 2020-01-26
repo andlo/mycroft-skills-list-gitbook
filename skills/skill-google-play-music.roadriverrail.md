@@ -8,8 +8,7 @@ description:
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > You will need to register a Google Play Music username and password with the Mycroft.  
 > Factor auth on your Google account, go to https://myaccount.google.com/security.  
 > Specific password for your Mycroft instance.  
@@ -20,8 +19,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/roadriverrail/skill-google-play-music](https://github.com/roadriverrail/skill-google-play-music)  
-**Owner:** | [@roadriverrail](https://github.com/roadriverrail)  
-**Created:** | 2018 Jan 03 15:07:19 UTC  **Last updated:** 2019 Jan 17 03:20:52 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/roadriverrail/skill-google-play-music](https://github.com/roadriverrail/skill-google-play-music)  
+**Owner:** [@roadriverrail](https://github.com/roadriverrail)  
+**Created:** 2018 Jan 03 15:07:19 UTC  **Last updated:** 2019 Jan 17 03:20:52 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

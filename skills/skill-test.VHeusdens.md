@@ -9,8 +9,7 @@ information that didn't fit in the one line.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Hello world.  
 > Greetings planet earth.  
 > Count up.  
@@ -28,8 +27,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/VHeusdens/skill-test](https://github.com/VHeusdens/skill-test)  
-**Owner:** | [@VHeusdens](https://github.com/VHeusdens)  
-**Created:** | 2018 Nov 09 15:47:26 UTC  **Last updated:** 2018 Nov 09 16:33:39 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/VHeusdens/skill-test](https://github.com/VHeusdens/skill-test)  
+**Owner:** [@VHeusdens](https://github.com/VHeusdens)  
+**Created:** 2018 Nov 09 15:47:26 UTC  **Last updated:** 2018 Nov 09 16:33:39 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

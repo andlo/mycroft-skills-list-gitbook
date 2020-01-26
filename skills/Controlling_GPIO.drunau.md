@@ -35,9 +35,7 @@ Please use the below image as a guide to the circuit layout:
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
-  
-###Tags: \#IoT \#GPIO \#RPi   
-## Examples:  
+### Examples:  
 > Turn LED on.  
 > Turn LED off.  
 > Blink LED.  
@@ -55,8 +53,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/drunau/Controlling_GPIO](https://github.com/drunau/Controlling_GPIO)  
-**Owner:** | [@drunau](https://github.com/drunau)  
-**Created:** | 2019 Aug 29 10:58:03 UTC  **Last updated:** 2019 Aug 29 10:58:14 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1081 needs validation new  
+**Github:** [https://github.com/drunau/Controlling_GPIO](https://github.com/drunau/Controlling_GPIO)  
+**Owner:** [@drunau](https://github.com/drunau)  
+**Created:** 2019 Aug 29 10:58:03 UTC  **Last updated:** 2019 Aug 29 10:58:14 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1081 ] [ needs validation ] [ new ]  
+**Categories:** [ IoT ]   
+**Tags:** \#IoT \#GPIO \#RPi   

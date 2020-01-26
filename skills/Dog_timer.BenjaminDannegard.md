@@ -9,9 +9,7 @@ On a Mark 1 you'll see visual feedback as the timer runs, and you can use
 the top button to stop the beeping once a timer expires.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#timer \#kitchen-timer   
-## Examples:  
+### Examples:  
 > Start a timer for 30 seconds.  
 > Set a timer for 1 minute.  
 > Set a timer for 3 hours called turkey.  
@@ -33,8 +31,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/BenjaminDannegard/Dog_timer](https://github.com/BenjaminDannegard/Dog_timer)  
-**Owner:** | [@BenjaminDannegard](https://github.com/BenjaminDannegard)  
-**Created:** | 2019 Jan 04 13:46:45 UTC  **Last updated:** 2019 Jan 07 10:09:12 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/BenjaminDannegard/Dog_timer](https://github.com/BenjaminDannegard/Dog_timer)  
+**Owner:** [@BenjaminDannegard](https://github.com/BenjaminDannegard)  
+**Created:** 2019 Jan 04 13:46:45 UTC  **Last updated:** 2019 Jan 07 10:09:12 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ]   
+**Tags:** \#timer \#kitchen-timer   

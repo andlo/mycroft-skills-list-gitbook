@@ -35,9 +35,7 @@ Please use the below image as a guide to the circuit layout:
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
-  
-###Tags: \#IoT \#GPIO \#RPi   
-## Examples:  
+### Examples:  
 > Turn LED on.  
 > Turn LED off.  
 > Blink LED.  
@@ -55,8 +53,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MOHIT-sketch/rasp](https://github.com/MOHIT-sketch/rasp)  
-**Owner:** | [@MOHIT-sketch](https://github.com/MOHIT-sketch)  
-**Created:** | 2019 Aug 05 09:10:55 UTC  **Last updated:** 2019 Aug 05 09:21:02 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/MOHIT-sketch/rasp](https://github.com/MOHIT-sketch/rasp)  
+**Owner:** [@MOHIT-sketch](https://github.com/MOHIT-sketch)  
+**Created:** 2019 Aug 05 09:10:55 UTC  **Last updated:** 2019 Aug 05 09:21:02 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ IoT ]   
+**Tags:** \#IoT \#GPIO \#RPi   

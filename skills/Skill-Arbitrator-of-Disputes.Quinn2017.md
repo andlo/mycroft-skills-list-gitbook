@@ -7,8 +7,7 @@ description:
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Up if all parties consent, to which a.  
   
 ## Installation:  
@@ -23,8 +22,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Quinn2017/Skill-Arbitrator-of-Disputes](https://github.com/Quinn2017/Skill-Arbitrator-of-Disputes)  
-**Owner:** | [@Quinn2017](https://github.com/Quinn2017)  
-**Created:** | 2018 Mar 29 02:14:26 UTC  **Last updated:** 2018 Apr 28 17:56:42 UTC  
-**License:** | GNU Affero General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Quinn2017/Skill-Arbitrator-of-Disputes](https://github.com/Quinn2017/Skill-Arbitrator-of-Disputes)  
+**Owner:** [@Quinn2017](https://github.com/Quinn2017)  
+**Created:** 2018 Mar 29 02:14:26 UTC  **Last updated:** 2018 Apr 28 17:56:42 UTC  
+**License:** GNU Affero General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

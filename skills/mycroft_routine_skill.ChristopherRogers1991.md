@@ -8,8 +8,7 @@ Create named rountines, which are lists of Mycroft commands, that can be run by 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > User:*  
 > :*  
 > User:*  
@@ -49,8 +48,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/ChristopherRogers1991/mycroft_routine_skill](https://github.com/ChristopherRogers1991/mycroft_routine_skill)  
-**Owner:** | [@ChristopherRogers1991](https://github.com/ChristopherRogers1991)  
-**Created:** | 2018 Jun 14 04:01:54 UTC  **Last updated:** 2019 Oct 28 22:01:22 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/ChristopherRogers1991/mycroft_routine_skill](https://github.com/ChristopherRogers1991/mycroft_routine_skill)  
+**Owner:** [@ChristopherRogers1991](https://github.com/ChristopherRogers1991)  
+**Created:** 2018 Jun 14 04:01:54 UTC  **Last updated:** 2019 Oct 28 22:01:22 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

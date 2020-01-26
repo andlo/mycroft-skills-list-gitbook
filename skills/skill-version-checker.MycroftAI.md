@@ -11,9 +11,7 @@ Mycroft Mark 1, version 18.2.13 beta.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#version \#build \#platform \#versioning \#system   
-## Examples:  
+### Examples:  
 > Check version.  
 > What version are you running?  
 > What's your platform build?  
@@ -33,8 +31,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-version-checker](https://github.com/MycroftAI/skill-version-checker)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Oct 05 19:02:46 UTC  **Last updated:** 2019 Nov 15 13:27:36 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-version-checker)  
+**Github:** [https://github.com/MycroftAI/skill-version-checker](https://github.com/MycroftAI/skill-version-checker)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Oct 05 19:02:46 UTC  **Last updated:** 2019 Nov 15 13:27:36 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-version-checker)  
+**Categories:** [ Configuration ]   
+**Tags:** \#version \#build \#platform \#versioning \#system   

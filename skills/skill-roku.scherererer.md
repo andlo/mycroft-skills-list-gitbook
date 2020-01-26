@@ -9,8 +9,7 @@ When you ask your mycroft to play a show, this skill will do a search at the "ro
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Show altered carbon on netflix.  
   
 ## Installation:  
@@ -25,8 +24,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/scherererer/skill-roku](https://github.com/scherererer/skill-roku)  
-**Owner:** | [@scherererer](https://github.com/scherererer)  
-**Created:** | 2018 May 11 01:52:54 UTC  **Last updated:** 2018 Sep 10 16:28:23 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/scherererer/skill-roku](https://github.com/scherererer/skill-roku)  
+**Owner:** [@scherererer](https://github.com/scherererer)  
+**Created:** 2018 May 11 01:52:54 UTC  **Last updated:** 2018 Sep 10 16:28:23 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

@@ -8,8 +8,7 @@ description:
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > 05-10 23:37:41,801 - CLIClient - INFO - Speak: Mary Odom.  
 > 05-10 23:37:49,666 - CLIClient - INFO - Speak: Billy.  
 > 05-10 23:37:52,915 - CLIClient - INFO - Speak: Edith.  
@@ -20,8 +19,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/JarbasAl/skill-names](https://github.com/JarbasAl/skill-names)  
-**Owner:** | [@JarbasAl](https://github.com/JarbasAl)  
-**Created:** | 2017 May 10 22:45:51 UTC  **Last updated:** 2019 Feb 02 06:15:05 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/JarbasAl/skill-names](https://github.com/JarbasAl/skill-names)  
+**Owner:** [@JarbasAl](https://github.com/JarbasAl)  
+**Created:** 2017 May 10 22:45:51 UTC  **Last updated:** 2019 Feb 02 06:15:05 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

@@ -7,9 +7,7 @@ description: Allows Mycroft to repeat the most recent thing it said
 Enables Mycroft to repeat whatever it said most recently. Useful when Mycroft speaks too fast, or when you aren't paying close attention.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#basic   
-## Examples:  
+### Examples:  
 > Repeat that.  
 > What did you say?  
 > Say that again.  
@@ -26,8 +24,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/ChanceNCounter/repeat-skill](https://github.com/ChanceNCounter/repeat-skill)  
-**Owner:** | [@ChanceNCounter](https://github.com/ChanceNCounter)  
-**Created:** | 2019 Oct 15 01:34:53 UTC  **Last updated:** 2019 Oct 15 20:45:03 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/ChanceNCounter/repeat-skill](https://github.com/ChanceNCounter/repeat-skill)  
+**Owner:** [@ChanceNCounter](https://github.com/ChanceNCounter)  
+**Created:** 2019 Oct 15 01:34:53 UTC  **Last updated:** 2019 Oct 15 20:45:03 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Configuration ]   
+**Tags:** \#basic   

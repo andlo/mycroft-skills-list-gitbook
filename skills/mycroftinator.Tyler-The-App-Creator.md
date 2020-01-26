@@ -8,8 +8,7 @@ A fun game created with Akinator the Genie,
 brought to life using the Mycroft open source AI,   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Start Akinator.  
 > Play Mycroftinator.  
   
@@ -25,8 +24,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Tyler-The-App-Creator/mycroftinator](https://github.com/Tyler-The-App-Creator/mycroftinator)  
-**Owner:** | [@Tyler-The-App-Creator](https://github.com/Tyler-The-App-Creator)  
-**Created:** | 2018 Sep 29 15:35:59 UTC  **Last updated:** 2019 May 04 00:58:18 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Tyler-The-App-Creator/mycroftinator](https://github.com/Tyler-The-App-Creator/mycroftinator)  
+**Owner:** [@Tyler-The-App-Creator](https://github.com/Tyler-The-App-Creator)  
+**Created:** 2018 Sep 29 15:35:59 UTC  **Last updated:** 2019 May 04 00:58:18 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

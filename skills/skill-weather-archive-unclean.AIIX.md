@@ -11,9 +11,7 @@ For enclosures with screen support, conditions are briefly shown using visemes.
 The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your  account.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#weather \#forecast \#rain \#humidity \#snow \#temperature   
-## Examples:  
+### Examples:  
 > What is the weather?  
 > What is the forecast tomorrow?  
 > What is the weather going to be like Tuesday?  
@@ -36,8 +34,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/AIIX/skill-weather-archive-unclean](https://github.com/AIIX/skill-weather-archive-unclean)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2019 Jan 16 10:12:43 UTC  **Last updated:** 2019 Jan 16 10:13:33 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/AIIX/skill-weather-archive-unclean](https://github.com/AIIX/skill-weather-archive-unclean)  
+**Owner:** [@AIIX](https://github.com/AIIX)  
+**Created:** 2019 Jan 16 10:12:43 UTC  **Last updated:** 2019 Jan 16 10:13:33 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ]   
+**Tags:** \#weather \#forecast \#rain \#humidity \#snow \#temperature   

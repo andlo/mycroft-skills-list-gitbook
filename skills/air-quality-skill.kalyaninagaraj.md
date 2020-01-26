@@ -31,9 +31,7 @@ levels measured in micrograms per cubic meter.
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Air \#quality \#Pollutant \#level \#Mycroft \#AI   
-## Examples:  
+### Examples:  
 > What is the air quality?  
 > How polluted is the air in New Delhi?  
 > What is the carbon monoxide level in Hong Kong?  
@@ -52,8 +50,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/kalyaninagaraj/air-quality-skill](https://github.com/kalyaninagaraj/air-quality-skill)  
-**Owner:** | [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
-**Created:** | 2019 Dec 09 16:34:56 UTC  **Last updated:** 2019 Dec 27 14:13:06 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/kalyaninagaraj/air-quality-skill](https://github.com/kalyaninagaraj/air-quality-skill)  
+**Owner:** [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
+**Created:** 2019 Dec 09 16:34:56 UTC  **Last updated:** 2019 Dec 27 14:13:06 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ] [ Information ]   
+**Tags:** \#Air \#quality \#Pollutant \#level \#Mycroft \#AI   

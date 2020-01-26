@@ -7,7 +7,6 @@ description:
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -20,8 +19,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/colla69/cmus-skill](https://github.com/colla69/cmus-skill)  
-**Owner:** | [@colla69](https://github.com/colla69)  
-**Created:** | 2019 Feb 17 14:13:10 UTC  **Last updated:** 2019 Feb 18 09:16:15 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/colla69/cmus-skill](https://github.com/colla69/cmus-skill)  
+**Owner:** [@colla69](https://github.com/colla69)  
+**Created:** 2019 Feb 17 14:13:10 UTC  **Last updated:** 2019 Feb 18 09:16:15 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

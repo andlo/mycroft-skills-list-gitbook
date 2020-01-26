@@ -8,9 +8,7 @@ Allow control of Sonos speakers from Mycroft.
 Assumes all speakers are in one group.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Sonos   
-## Examples:  
+### Examples:  
 > Sonos play.  
 > Sonos pause.  
 > Sonos skip.  
@@ -33,8 +31,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/fortwally/sonos-control-skill](https://github.com/fortwally/sonos-control-skill)  
-**Owner:** | [@fortwally](https://github.com/fortwally)  
-**Created:** | 2018 Jul 19 21:13:47 UTC  **Last updated:** 2019 Apr 22 15:47:11 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/fortwally/sonos-control-skill](https://github.com/fortwally/sonos-control-skill)  
+**Owner:** [@fortwally](https://github.com/fortwally)  
+**Created:** 2018 Jul 19 21:13:47 UTC  **Last updated:** 2019 Apr 22 15:47:11 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Media ]   
+**Tags:** \#Sonos   

@@ -10,8 +10,7 @@ conditions and weather forecasts come from Open Weather Map.
 For devices with screen support, conditions are briefly shown.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > What is the weather?  
 > What is the forecast tommorow?  
 > What is the weather going to be like Tuesday?  
@@ -32,8 +31,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/dleweyiv/weather-skill](https://github.com/dleweyiv/weather-skill)  
-**Owner:** | [@dleweyiv](https://github.com/dleweyiv)  
-**Created:** | 2018 Apr 11 02:11:55 UTC  **Last updated:** 2018 Apr 11 02:13:24 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/dleweyiv/weather-skill](https://github.com/dleweyiv/weather-skill)  
+**Owner:** [@dleweyiv](https://github.com/dleweyiv)  
+**Created:** 2018 Apr 11 02:11:55 UTC  **Last updated:** 2018 Apr 11 02:13:24 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

@@ -14,9 +14,7 @@ Albert Einstein
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#stories \#story \#tales \#fairy \#fairytale \#fairytales   
-## Examples:  
+### Examples:  
 > Tell a fairy tale.  
 > Tell me the story The Little Match Girl.  
 > Continue story.  
@@ -36,8 +34,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/andlo/fairytalez-skill](https://github.com/andlo/fairytalez-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018 Nov 02 20:13:21 UTC  **Last updated:** 2019 Dec 18 05:18:23 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/fairytalez)  
+**Github:** [https://github.com/andlo/fairytalez-skill](https://github.com/andlo/fairytalez-skill)  
+**Owner:** [@andlo](https://github.com/andlo)  
+**Created:** 2018 Nov 02 20:13:21 UTC  **Last updated:** 2019 Dec 18 05:18:23 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/fairytalez)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#stories \#story \#tales \#fairy \#fairytale \#fairytales   

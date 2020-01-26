@@ -13,9 +13,7 @@ a chorus.
 You can stop the demo by pressing the top button or saying "Stop".  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)   
-  
-###Tags: \#demo \#demonstration \#showcase   
-## Examples:  
+### Examples:  
 > Stop - ends the DEMO.  
   
 ## Installation:  
@@ -33,8 +31,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-mark1-demo](https://github.com/MycroftAI/skill-mark1-demo)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 May 04 22:20:05 UTC  **Last updated:** 2019 Jan 10 03:48:24 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-mark-1-demo)  
+**Github:** [https://github.com/MycroftAI/skill-mark1-demo](https://github.com/MycroftAI/skill-mark1-demo)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 May 04 22:20:05 UTC  **Last updated:** 2019 Jan 10 03:48:24 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-mark-1-demo)  
+**Categories:** [ Configuration ]   
+**Tags:** \#demo \#demonstration \#showcase   

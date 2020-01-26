@@ -8,8 +8,7 @@ description:
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Create a list called SOMELIST.  
 > {{listname}} created.  
 > Set list as default.  
@@ -56,8 +55,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/rugbylug/Mycroft-Todo](https://github.com/rugbylug/Mycroft-Todo)  
-**Owner:** | [@rugbylug](https://github.com/rugbylug)  
-**Created:** | 2018 Aug 01 08:19:40 UTC  **Last updated:** 2018 Oct 18 20:21:44 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/rugbylug/Mycroft-Todo](https://github.com/rugbylug/Mycroft-Todo)  
+**Owner:** [@rugbylug](https://github.com/rugbylug)  
+**Created:** 2018 Aug 01 08:19:40 UTC  **Last updated:** 2018 Oct 18 20:21:44 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

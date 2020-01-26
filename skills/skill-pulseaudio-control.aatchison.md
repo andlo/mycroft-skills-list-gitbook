@@ -8,9 +8,7 @@ This skill is intended to allow a Mycroft user to list and set the default input
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#* \#`listing \#devices \#should \#work \#just \#fine` \#* \#`setting \#devices \#speaks \#the \#device \#that \#was \#set, \#but \#setting \#hasn't \#been \#implemented \#just \#yet`   
-## Examples:  
+### Examples:  
 > Pulse source list.  
 > Pulse sink list.  
 > Pulse source set (integer)  
@@ -28,8 +26,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/aatchison/skill-pulseaudio-control](https://github.com/aatchison/skill-pulseaudio-control)  
-**Owner:** | [@aatchison](https://github.com/aatchison)  
-**Created:** | 2017 Apr 06 00:54:21 UTC  **Last updated:** 2017 Oct 16 19:22:56 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/aatchison/skill-pulseaudio-control](https://github.com/aatchison/skill-pulseaudio-control)  
+**Owner:** [@aatchison](https://github.com/aatchison)  
+**Created:** 2017 Apr 06 00:54:21 UTC  **Last updated:** 2017 Oct 16 19:22:56 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   
+**Tags:** \#* \#`listing \#devices \#should \#work \#just \#fine` \#* \#`setting \#devices \#speaks \#the \#device \#that \#was \#set, \#but \#setting \#hasn't \#been \#implemented \#just \#yet`   

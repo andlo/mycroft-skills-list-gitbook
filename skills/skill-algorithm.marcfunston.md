@@ -7,8 +7,7 @@ description:
 Tells you the running time of merge sort and other algorithms.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Merge Sort running time.  
 > Tell me merge sort running time.  
   
@@ -17,8 +16,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/marcfunston/skill-algorithm](https://github.com/marcfunston/skill-algorithm)  
-**Owner:** | [@marcfunston](https://github.com/marcfunston)  
-**Created:** | 2018 Apr 11 22:32:21 UTC  **Last updated:** 2018 Apr 11 22:35:59 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/marcfunston/skill-algorithm](https://github.com/marcfunston/skill-algorithm)  
+**Owner:** [@marcfunston](https://github.com/marcfunston)  
+**Created:** 2018 Apr 11 22:32:21 UTC  **Last updated:** 2018 Apr 11 22:35:59 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

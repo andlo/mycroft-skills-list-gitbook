@@ -8,8 +8,7 @@ description:
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Identify me.  
 > Authenticate me.  
   
@@ -25,8 +24,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/ankitjena008/jarvis_auth](https://github.com/ankitjena008/jarvis_auth)  
-**Owner:** | [@ankitjena008](https://github.com/ankitjena008)  
-**Created:** | 2018 Oct 30 03:08:14 UTC  **Last updated:** 2019 Dec 18 05:37:14 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/ankitjena008/jarvis_auth](https://github.com/ankitjena008/jarvis_auth)  
+**Owner:** [@ankitjena008](https://github.com/ankitjena008)  
+**Created:** 2018 Oct 30 03:08:14 UTC  **Last updated:** 2019 Dec 18 05:37:14 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

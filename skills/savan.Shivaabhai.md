@@ -13,8 +13,7 @@ This skill should work with Mycroft version 0.9.1 +
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Play Pandora.  
 > Play Today's Hits Radio on Pandora.  
 > Skip this song.  
@@ -31,8 +30,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/Shivaabhai/savan](https://github.com/Shivaabhai/savan)  
-**Owner:** | [@Shivaabhai](https://github.com/Shivaabhai)  
-**Created:** | 2019 Mar 10 04:36:44 UTC  **Last updated:** 2019 Dec 18 05:39:00 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Shivaabhai/savan](https://github.com/Shivaabhai/savan)  
+**Owner:** [@Shivaabhai](https://github.com/Shivaabhai)  
+**Created:** 2019 Mar 10 04:36:44 UTC  **Last updated:** 2019 Dec 18 05:39:00 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

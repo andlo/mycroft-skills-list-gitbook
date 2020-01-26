@@ -7,8 +7,7 @@ description:
 Utilize the Yeelight API and Python library for controlling YeeLight WiFi RGB bulbs with Mycroft.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Turn lights on.  
 > Turn lights off.  
 > Dim the lights.  
@@ -20,8 +19,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/pcwii/yeelight-skill](https://github.com/pcwii/yeelight-skill)  
-**Owner:** | [@pcwii](https://github.com/pcwii)  
-**Created:** | 2018 Feb 05 14:27:43 UTC  **Last updated:** 2018 Dec 10 19:36:05 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/pcwii/yeelight-skill](https://github.com/pcwii/yeelight-skill)  
+**Owner:** [@pcwii](https://github.com/pcwii)  
+**Created:** 2018 Feb 05 14:27:43 UTC  **Last updated:** 2018 Dec 10 19:36:05 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

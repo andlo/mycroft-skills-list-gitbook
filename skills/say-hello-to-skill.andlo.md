@@ -12,9 +12,7 @@ Mycroft will reply
 - "Hello {name}. Good to see you."  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#example   
-## Examples:  
+### Examples:  
 > Say hi to {name}  
 > Meet {name}  
 > This is {name}  
@@ -32,8 +30,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/andlo/say-hello-to-skill](https://github.com/andlo/say-hello-to-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018 Sep 30 08:45:26 UTC  **Last updated:** 2019 Jan 26 19:45:22 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/andlo/say-hello-to-skill](https://github.com/andlo/say-hello-to-skill)  
+**Owner:** [@andlo](https://github.com/andlo)  
+**Created:** 2018 Sep 30 08:45:26 UTC  **Last updated:** 2019 Jan 26 19:45:22 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ]   
+**Tags:** \#example   

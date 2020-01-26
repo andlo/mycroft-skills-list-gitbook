@@ -8,8 +8,7 @@ Once configured to connect to your on-premises Atlassian JIRA server with Servic
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > How many JIRA issues are open?  
 > How many JIRA issues are overdue?  
 > JIRA status report!  
@@ -30,8 +29,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/jrwarwick/jrwarwick-jira-agent-skill](https://github.com/jrwarwick/jrwarwick-jira-agent-skill)  
-**Owner:** | [@jrwarwick](https://github.com/jrwarwick)  
-**Created:** | 2017 Nov 03 21:57:23 UTC  **Last updated:** 2019 Oct 21 20:06:59 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/jrwarwick/jrwarwick-jira-agent-skill](https://github.com/jrwarwick/jrwarwick-jira-agent-skill)  
+**Owner:** [@jrwarwick](https://github.com/jrwarwick)  
+**Created:** 2017 Nov 03 21:57:23 UTC  **Last updated:** 2019 Oct 21 20:06:59 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

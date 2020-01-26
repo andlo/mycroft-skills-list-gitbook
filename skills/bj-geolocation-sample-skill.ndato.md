@@ -7,9 +7,7 @@ description: Minimum code to test geolocation api
 Mycroft skill to provide minimum code to test the geolocation api.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Geolocation \#Sample   
-## Examples:  
+### Examples:  
 > Test geolocation.  
   
 {% hint style="danger" %}
@@ -17,8 +15,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/ndato/bj-geolocation-sample-skill](https://github.com/ndato/bj-geolocation-sample-skill)  
-**Owner:** | [@ndato](https://github.com/ndato)  
-**Created:** | 2019 Nov 05 05:43:40 UTC  **Last updated:** 2019 Nov 05 05:49:46 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/ndato/bj-geolocation-sample-skill](https://github.com/ndato/bj-geolocation-sample-skill)  
+**Owner:** [@ndato](https://github.com/ndato)  
+**Created:** 2019 Nov 05 05:43:40 UTC  **Last updated:** 2019 Nov 05 05:49:46 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Configuration ] [ Testing ]   
+**Tags:** \#Geolocation \#Sample   

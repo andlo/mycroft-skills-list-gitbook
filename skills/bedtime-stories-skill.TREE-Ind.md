@@ -9,9 +9,7 @@ Stories are downloaded with the skill and can be listed by voice, selected by ti
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)   
-  
-###Tags: \#stories \#audio \#kidfriendly   
-## Examples:  
+### Examples:  
 > Read me a bedtime story.  
 > What bedtime stories do you know?  
 > Read me little red riding hood.  
@@ -31,8 +29,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/TREE-Ind/bedtime-stories-skill](https://github.com/TREE-Ind/bedtime-stories-skill)  
-**Owner:** | [@TREE-Ind](https://github.com/TREE-Ind)  
-**Created:** | 2018 Dec 24 22:57:14 UTC  **Last updated:** 2019 Oct 17 22:38:32 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/bedtime-stories-skill)  
+**Github:** [https://github.com/TREE-Ind/bedtime-stories-skill](https://github.com/TREE-Ind/bedtime-stories-skill)  
+**Owner:** [@TREE-Ind](https://github.com/TREE-Ind)  
+**Created:** 2018 Dec 24 22:57:14 UTC  **Last updated:** 2019 Oct 17 22:38:32 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/bedtime-stories-skill)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#stories \#audio \#kidfriendly   

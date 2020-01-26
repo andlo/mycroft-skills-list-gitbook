@@ -9,9 +9,7 @@ This Skill uses the Wikimedia API.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#wikipedia \#encyclopedia \#general-knowledge \#wiki \#question \#query   
-## Examples:  
+### Examples:  
 > Tell me about Elon Musk.  
 > Tell me about beans.  
 > Tell me something random.  
@@ -33,8 +31,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Shivaabhai/webmd-skill](https://github.com/Shivaabhai/webmd-skill)  
-**Owner:** | [@Shivaabhai](https://github.com/Shivaabhai)  
-**Created:** | 2019 Mar 10 09:16:40 UTC  **Last updated:** 2019 Dec 19 02:53:34 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Shivaabhai/webmd-skill](https://github.com/Shivaabhai/webmd-skill)  
+**Owner:** [@Shivaabhai](https://github.com/Shivaabhai)  
+**Created:** 2019 Mar 10 09:16:40 UTC  **Last updated:** 2019 Dec 19 02:53:34 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Information ]   
+**Tags:** \#wikipedia \#encyclopedia \#general-knowledge \#wiki \#question \#query   

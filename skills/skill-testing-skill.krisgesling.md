@@ -21,9 +21,7 @@ Results will be uploaded to termbin.com in csv format and the link will be email
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#testing   
-## Examples:  
+### Examples:  
 > Read all utterances.  
 > Generate integration tests.  
 > Run integration tests.  
@@ -34,8 +32,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/krisgesling/skill-testing-skill](https://github.com/krisgesling/skill-testing-skill)  
-**Owner:** | [@krisgesling](https://github.com/krisgesling)  
-**Created:** | 2019 Apr 19 03:46:49 UTC  **Last updated:** 2019 Dec 17 13:47:17 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/krisgesling/skill-testing-skill](https://github.com/krisgesling/skill-testing-skill)  
+**Owner:** [@krisgesling](https://github.com/krisgesling)  
+**Created:** 2019 Apr 19 03:46:49 UTC  **Last updated:** 2019 Dec 17 13:47:17 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Configuration ]   
+**Tags:** \#testing   

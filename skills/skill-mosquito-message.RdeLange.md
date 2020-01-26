@@ -37,8 +37,7 @@ What happens: The regex match "" in "Kitchen_window is open".  We retain the cha
 We retain the characters after index 1 of "_", which is no characters. And we put a space in the middle.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Out/text.  
 > You, at a linux command prompt: mosquitto_pub -h mqttserver -t my-out/text -m.  
 > :  
@@ -60,8 +59,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/RdeLange/skill-mosquito-message](https://github.com/RdeLange/skill-mosquito-message)  
-**Owner:** | [@RdeLange](https://github.com/RdeLange)  
-**Created:** | 2018 May 25 19:11:30 UTC  **Last updated:** 2018 Oct 13 19:44:47 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/RdeLange/skill-mosquito-message](https://github.com/RdeLange/skill-mosquito-message)  
+**Owner:** [@RdeLange](https://github.com/RdeLange)  
+**Created:** 2018 May 25 19:11:30 UTC  **Last updated:** 2018 Oct 13 19:44:47 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

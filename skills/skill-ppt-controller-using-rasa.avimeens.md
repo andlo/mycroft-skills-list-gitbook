@@ -7,8 +7,7 @@ description:
 Infer actions to control power point presentation. E.g. 'start a presentation', 'next slide', 'previous slide', 'end presentation'  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Open file with name mycroft.  
 > Open file padatious.  
 > Next slide.  
@@ -27,8 +26,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/avimeens/skill-ppt-controller-using-rasa](https://github.com/avimeens/skill-ppt-controller-using-rasa)  
-**Owner:** | [@avimeens](https://github.com/avimeens)  
-**Created:** | 2018 May 25 18:13:36 UTC  **Last updated:** 2018 Jun 04 19:14:36 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/avimeens/skill-ppt-controller-using-rasa](https://github.com/avimeens/skill-ppt-controller-using-rasa)  
+**Owner:** [@avimeens](https://github.com/avimeens)  
+**Created:** 2018 May 25 18:13:36 UTC  **Last updated:** 2018 Jun 04 19:14:36 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

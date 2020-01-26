@@ -7,9 +7,7 @@ description: Voice interface to control a telescope using the indi protocol
 Telescopes using the indi (instrument nuetral device interface www.indilib.org) can be controlled using this skill.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Astronomy \#telescope \#indi   
-## Examples:  
+### Examples:  
 > Goto.  
 > What am i looking at?  
 > Where am i pointed?  
@@ -28,8 +26,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/mgellan/mycroft-indi-skill](https://github.com/mgellan/mycroft-indi-skill)  
-**Owner:** | [@mgellan](https://github.com/mgellan)  
-**Created:** | 2019 Dec 11 22:05:28 UTC  **Last updated:** 2019 Dec 11 22:05:35 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/mgellan/mycroft-indi-skill](https://github.com/mgellan/mycroft-indi-skill)  
+**Owner:** [@mgellan](https://github.com/mgellan)  
+**Created:** 2019 Dec 11 22:05:28 UTC  **Last updated:** 2019 Dec 11 22:05:35 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ IoT ]   
+**Tags:** \#Astronomy \#telescope \#indi   

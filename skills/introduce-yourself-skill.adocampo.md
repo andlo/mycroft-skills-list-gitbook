@@ -7,8 +7,7 @@ description:
 With this skill, you can let mycroft to introduce itself, super cool to let your friends astonished.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > What's your name?  
 > Introduce yourself.  
 > What is your name?  
@@ -19,8 +18,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/adocampo/introduce-yourself-skill](https://github.com/adocampo/introduce-yourself-skill)  
-**Owner:** | [@adocampo](https://github.com/adocampo)  
-**Created:** | 2018 Oct 02 22:52:28 UTC  **Last updated:** 2018 Oct 02 22:52:34 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/adocampo/introduce-yourself-skill](https://github.com/adocampo/introduce-yourself-skill)  
+**Owner:** [@adocampo](https://github.com/adocampo)  
+**Created:** 2018 Oct 02 22:52:28 UTC  **Last updated:** 2018 Oct 02 22:52:34 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

@@ -10,9 +10,7 @@ current status of any device.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#homeseer \#homeautomation \#automation \#hub \#iot \#lights \#lighting \#smartlight \#smarthome \#smartbulb \#smartlock \#[submodule \#"homeseer-mycroft"] \#path \#= \#homeseer-mycroft-skill \#url \#= \#https://github.com/samclane/homeseer-mycroft.git   
-## Examples:  
+### Examples:  
 > Turn on the first floor bathroom light.  
 > Unlock the kitchen door lock.  
 > Set the first floor kitchen outside lights to 50%.  
@@ -32,8 +30,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/samclane/homeseer-mycroft](https://github.com/samclane/homeseer-mycroft)  
-**Owner:** | [@samclane](https://github.com/samclane)  
-**Created:** | 2018 Aug 21 16:07:21 UTC  **Last updated:** 2018 Oct 08 22:35:18 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/samclane/homeseer-mycroft](https://github.com/samclane/homeseer-mycroft)  
+**Owner:** [@samclane](https://github.com/samclane)  
+**Created:** 2018 Aug 21 16:07:21 UTC  **Last updated:** 2018 Oct 08 22:35:18 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ IoT ]   
+**Tags:** \#homeseer \#homeautomation \#automation \#hub \#iot \#lights \#lighting \#smartlight \#smarthome \#smartbulb \#smartlock \#[submodule \#"homeseer-mycroft"] \#path \#= \#homeseer-mycroft-skill \#url \#= \#https://github.com/samclane/homeseer-mycroft.git   

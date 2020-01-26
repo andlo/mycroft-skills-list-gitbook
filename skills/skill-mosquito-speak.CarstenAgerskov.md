@@ -38,8 +38,7 @@ We retain the characters after index 1 of "_", which is no characters. And we pu
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Out/text.  
 > You, at a linux command prompt: mosquitto_pub -h mqttserver -t my-out/text -m.  
 > :  
@@ -61,8 +60,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/CarstenAgerskov/skill-mosquito-speak](https://github.com/CarstenAgerskov/skill-mosquito-speak)  
-**Owner:** | [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
-**Created:** | 2018 Jan 06 09:08:31 UTC  **Last updated:** 2019 Jul 31 14:47:01 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/CarstenAgerskov/skill-mosquito-speak](https://github.com/CarstenAgerskov/skill-mosquito-speak)  
+**Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
+**Created:** 2018 Jan 06 09:08:31 UTC  **Last updated:** 2019 Jul 31 14:47:01 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

@@ -9,8 +9,7 @@ Henri Debierre.
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Who is my granddaughter ?  
 > How old is Joe ?  
 > What is the city of Jane ?  
@@ -21,8 +20,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/henridbr/My_Family_Tree](https://github.com/henridbr/My_Family_Tree)  
-**Owner:** | [@henridbr](https://github.com/henridbr)  
-**Created:** | 2018 Oct 12 14:39:47 UTC  **Last updated:** 2018 Oct 22 20:34:25 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/henridbr/My_Family_Tree](https://github.com/henridbr/My_Family_Tree)  
+**Owner:** [@henridbr](https://github.com/henridbr)  
+**Created:** 2018 Oct 12 14:39:47 UTC  **Last updated:** 2018 Oct 22 20:34:25 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

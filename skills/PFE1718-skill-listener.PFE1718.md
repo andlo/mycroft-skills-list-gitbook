@@ -14,14 +14,14 @@ Different cases :
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/PFE1718/PFE1718-skill-listener](https://github.com/PFE1718/PFE1718-skill-listener)  
-**Owner:** | [@PFE1718](https://github.com/PFE1718)  
-**Created:** | 2018 Jan 12 13:05:23 UTC  **Last updated:** 2018 Nov 19 08:46:33 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/PFE1718/PFE1718-skill-listener](https://github.com/PFE1718/PFE1718-skill-listener)  
+**Owner:** [@PFE1718](https://github.com/PFE1718)  
+**Created:** 2018 Jan 12 13:05:23 UTC  **Last updated:** 2018 Nov 19 08:46:33 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

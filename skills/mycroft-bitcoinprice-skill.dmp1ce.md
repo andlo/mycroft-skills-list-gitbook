@@ -8,8 +8,7 @@ description:
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Compose up -d.  
 > Compose exec mycroft bash.  
   
@@ -25,8 +24,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/dmp1ce/mycroft-bitcoinprice-skill](https://github.com/dmp1ce/mycroft-bitcoinprice-skill)  
-**Owner:** | [@dmp1ce](https://github.com/dmp1ce)  
-**Created:** | 2016 Aug 12 15:19:03 UTC  **Last updated:** 2018 Apr 01 01:08:48 UTC  
-**License:** | The Unlicense  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/dmp1ce/mycroft-bitcoinprice-skill](https://github.com/dmp1ce/mycroft-bitcoinprice-skill)  
+**Owner:** [@dmp1ce](https://github.com/dmp1ce)  
+**Created:** 2016 Aug 12 15:19:03 UTC  **Last updated:** 2018 Apr 01 01:08:48 UTC  
+**License:** The Unlicense  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

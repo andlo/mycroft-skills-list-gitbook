@@ -7,8 +7,7 @@ description:
 A list of tech events happening in Birmingham UK over the next few days. Powered by the Birmingham.IO calendar, and using the same back end as the similar Alexa Flash Briefing skill.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > List upcoming Birmingham tech events.  
 > Tell me about Brum tech meetups.  
 > What tech events are there in Birmingham soon?  
@@ -25,8 +24,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/stuartlangridge/bio-calendar-mycroft](https://github.com/stuartlangridge/bio-calendar-mycroft)  
-**Owner:** | [@stuartlangridge](https://github.com/stuartlangridge)  
-**Created:** | 2018 Mar 23 01:26:36 UTC  **Last updated:** 2018 Mar 23 01:50:00 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/stuartlangridge/bio-calendar-mycroft](https://github.com/stuartlangridge/bio-calendar-mycroft)  
+**Owner:** [@stuartlangridge](https://github.com/stuartlangridge)  
+**Created:** 2018 Mar 23 01:26:36 UTC  **Last updated:** 2018 Mar 23 01:50:00 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

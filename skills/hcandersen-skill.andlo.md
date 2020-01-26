@@ -13,9 +13,7 @@ Albert Einstein
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#stories \#story \#tales \#fairy \#fairytale \#fairytales \#andersen \#hca   
-## Examples:  
+### Examples:  
 > Tell a H. C. Andersen storie.  
 > Tell me the H. C. Andersen story The Little Match Girl.  
 > Continue H. C. Andersen story.  
@@ -32,8 +30,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/andlo/hcandersen-skill](https://github.com/andlo/hcandersen-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2019 Feb 03 18:26:11 UTC  **Last updated:** 2019 Dec 18 05:19:40 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/andlo/hcandersen-skill](https://github.com/andlo/hcandersen-skill)  
+**Owner:** [@andlo](https://github.com/andlo)  
+**Created:** 2019 Feb 03 18:26:11 UTC  **Last updated:** 2019 Dec 18 05:19:40 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#stories \#story \#tales \#fairy \#fairytale \#fairytales \#andersen \#hca   

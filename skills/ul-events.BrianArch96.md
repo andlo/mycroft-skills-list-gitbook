@@ -17,9 +17,7 @@ Mycroft Message Bus
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#helloworld \#first-skill \#hello \#greeting   
-## Examples:  
+### Examples:  
 > Hello world.  
 > How are you?  
 > Thank you.  
@@ -29,8 +27,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/BrianArch96/ul-events](https://github.com/BrianArch96/ul-events)  
-**Owner:** | [@BrianArch96](https://github.com/BrianArch96)  
-**Created:** | 2019 Feb 19 11:14:57 UTC  **Last updated:** 2019 Mar 13 17:58:13 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/BrianArch96/ul-events](https://github.com/BrianArch96/ul-events)  
+**Owner:** [@BrianArch96](https://github.com/BrianArch96)  
+**Created:** 2019 Feb 19 11:14:57 UTC  **Last updated:** 2019 Mar 13 17:58:13 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ]   
+**Tags:** \#helloworld \#first-skill \#hello \#greeting   

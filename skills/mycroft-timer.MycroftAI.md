@@ -10,9 +10,7 @@ the top button to stop the beeping once a timer expires.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#timer \#kitchen-timer   
-## Examples:  
+### Examples:  
 > Start a timer for 30 seconds.  
 > Set a timer for 1 minute.  
 > Set a timer for 3 hours called turkey.  
@@ -37,8 +35,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/mycroft-timer](https://github.com/MycroftAI/mycroft-timer)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Nov 03 17:19:10 UTC  **Last updated:** 2019 Nov 15 14:16:51 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-timer)  
+**Github:** [https://github.com/MycroftAI/mycroft-timer](https://github.com/MycroftAI/mycroft-timer)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Nov 03 17:19:10 UTC  **Last updated:** 2019 Nov 15 14:16:51 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-timer)  
+**Categories:** [ Daily ]   
+**Tags:** \#timer \#kitchen-timer   

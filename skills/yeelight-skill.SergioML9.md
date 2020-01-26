@@ -8,8 +8,7 @@ A more verbose description, including any extra instructions or
 information that didn't fit in the one line.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Hello world.  
 > Greetings planet earth.  
 > Count up.  
@@ -27,8 +26,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/SergioML9/yeelight-skill](https://github.com/SergioML9/yeelight-skill)  
-**Owner:** | [@SergioML9](https://github.com/SergioML9)  
-**Created:** | 2018 Feb 28 16:11:02 UTC  **Last updated:** 2018 Mar 25 21:15:12 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/SergioML9/yeelight-skill](https://github.com/SergioML9/yeelight-skill)  
+**Owner:** [@SergioML9](https://github.com/SergioML9)  
+**Created:** 2018 Feb 28 16:11:02 UTC  **Last updated:** 2018 Mar 25 21:15:12 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

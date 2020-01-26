@@ -8,8 +8,7 @@ Play Deutschlandfunk streams and query schedule.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Play dlf nova.  
 > Play dlf.  
 > Play dlf culture.  
@@ -27,8 +26,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/mkonsti/radio_playback_skill](https://github.com/mkonsti/radio_playback_skill)  
-**Owner:** | [@mkonsti](https://github.com/mkonsti)  
-**Created:** | 2018 Feb 03 10:47:42 UTC  **Last updated:** 2019 Nov 19 23:14:43 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/mkonsti/radio_playback_skill](https://github.com/mkonsti/radio_playback_skill)  
+**Owner:** [@mkonsti](https://github.com/mkonsti)  
+**Created:** 2018 Feb 03 10:47:42 UTC  **Last updated:** 2019 Nov 19 23:14:43 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

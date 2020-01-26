@@ -7,8 +7,7 @@ description:
 Skill will answer some of the personality questions of mycroft.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > What are you?  
 > Where are you born?  
 > Who made you?  
@@ -18,8 +17,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/solograyhat/mycroft-personal](https://github.com/solograyhat/mycroft-personal)  
-**Owner:** | [@solograyhat](https://github.com/solograyhat)  
-**Created:** | 2018 Sep 23 20:49:44 UTC  **Last updated:** 2018 Sep 23 21:13:55 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/solograyhat/mycroft-personal](https://github.com/solograyhat/mycroft-personal)  
+**Owner:** [@solograyhat](https://github.com/solograyhat)  
+**Created:** 2018 Sep 23 20:49:44 UTC  **Last updated:** 2018 Sep 23 21:13:55 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

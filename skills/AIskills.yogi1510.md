@@ -7,9 +7,7 @@ description:
 Testing Mycroft skill development - reveals yogesh's true nature.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#yogesh   
-## Examples:  
+### Examples:  
 > Yogesh.  
 > Yogi.  
   
@@ -18,8 +16,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/yogi1510/AIskills](https://github.com/yogi1510/AIskills)  
-**Owner:** | [@yogi1510](https://github.com/yogi1510)  
-**Created:** | 2019 Nov 26 17:33:40 UTC  **Last updated:** 2019 Nov 26 17:44:53 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/yogi1510/AIskills](https://github.com/yogi1510/AIskills)  
+**Owner:** [@yogi1510](https://github.com/yogi1510)  
+**Created:** 2019 Nov 26 17:33:40 UTC  **Last updated:** 2019 Nov 26 17:44:53 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Configuration ]   
+**Tags:** \#yogesh   

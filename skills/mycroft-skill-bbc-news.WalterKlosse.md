@@ -8,8 +8,7 @@ This Mycroft skill is a modification of the npr-skill by jdorleans. Basically, a
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > I want listen to bbc news.  
 > Tell me bbc news.  
   
@@ -25,8 +24,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/WalterKlosse/mycroft-skill-bbc-news](https://github.com/WalterKlosse/mycroft-skill-bbc-news)  
-**Owner:** | [@WalterKlosse](https://github.com/WalterKlosse)  
-**Created:** | 2017 Oct 08 16:45:36 UTC  **Last updated:** 2017 Oct 11 12:37:30 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/WalterKlosse/mycroft-skill-bbc-news](https://github.com/WalterKlosse/mycroft-skill-bbc-news)  
+**Owner:** [@WalterKlosse](https://github.com/WalterKlosse)  
+**Created:** 2017 Oct 08 16:45:36 UTC  **Last updated:** 2017 Oct 11 12:37:30 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

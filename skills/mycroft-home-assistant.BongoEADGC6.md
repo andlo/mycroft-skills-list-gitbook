@@ -16,7 +16,6 @@ You will then need to restart mycroft.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -29,8 +28,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/BongoEADGC6/mycroft-home-assistant](https://github.com/BongoEADGC6/mycroft-home-assistant)  
-**Owner:** | [@BongoEADGC6](https://github.com/BongoEADGC6)  
-**Created:** | 2017 Mar 04 14:09:02 UTC  **Last updated:** 2018 Jul 02 12:16:07 UTC  
-**License:** | GNU Lesser General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/BongoEADGC6/mycroft-home-assistant](https://github.com/BongoEADGC6/mycroft-home-assistant)  
+**Owner:** [@BongoEADGC6](https://github.com/BongoEADGC6)  
+**Created:** 2017 Mar 04 14:09:02 UTC  **Last updated:** 2018 Jul 02 12:16:07 UTC  
+**License:** GNU Lesser General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

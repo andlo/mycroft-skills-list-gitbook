@@ -12,9 +12,7 @@ Has been tested on picroft and mark1.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#fart \#smell \#fun   
-## Examples:  
+### Examples:  
 > Did you fart.  
 > What is that smell?  
 > Fart.  
@@ -27,8 +25,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/aussieW/skill-farting](https://github.com/aussieW/skill-farting)  
-**Owner:** | [@aussieW](https://github.com/aussieW)  
-**Created:** | 2018 Jan 17 23:22:55 UTC  **Last updated:** 2019 Feb 21 23:50:43 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/aussieW/skill-farting](https://github.com/aussieW/skill-farting)  
+**Owner:** [@aussieW](https://github.com/aussieW)  
+**Created:** 2018 Jan 17 23:22:55 UTC  **Last updated:** 2019 Feb 21 23:50:43 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#fart \#smell \#fun   

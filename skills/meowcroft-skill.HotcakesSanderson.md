@@ -7,8 +7,7 @@ description:
 Mycroft will play audio sounds of a cat.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Meow.  
 > What sound does a cat make?  
 > What noise does a cat make?  
@@ -18,8 +17,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/HotcakesSanderson/meowcroft-skill](https://github.com/HotcakesSanderson/meowcroft-skill)  
-**Owner:** | [@HotcakesSanderson](https://github.com/HotcakesSanderson)  
-**Created:** | 2019 Mar 23 15:21:27 UTC  **Last updated:** 2019 Mar 23 18:02:38 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/HotcakesSanderson/meowcroft-skill](https://github.com/HotcakesSanderson/meowcroft-skill)  
+**Owner:** [@HotcakesSanderson](https://github.com/HotcakesSanderson)  
+**Created:** 2019 Mar 23 15:21:27 UTC  **Last updated:** 2019 Mar 23 18:02:38 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

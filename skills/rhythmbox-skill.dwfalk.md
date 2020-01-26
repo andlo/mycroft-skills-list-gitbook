@@ -8,9 +8,7 @@ Let Mycroft help you control Rhythmbox. When asked Mycroft interfaces with Rhyth
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#songs \#music \#rhythmbox \#mycroft \#skill   
-## Examples:  
+### Examples:  
 > Play **  
 > Play ** playlist.  
 > Play something by **  
@@ -36,8 +34,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/dwfalk/rhythmbox-skill](https://github.com/dwfalk/rhythmbox-skill)  
-**Owner:** | [@dwfalk](https://github.com/dwfalk)  
-**Created:** | 2019 Feb 18 03:34:21 UTC  **Last updated:** 2019 Nov 04 02:59:12 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/dwfalk/rhythmbox-skill](https://github.com/dwfalk/rhythmbox-skill)  
+**Owner:** [@dwfalk](https://github.com/dwfalk)  
+**Created:** 2019 Feb 18 03:34:21 UTC  **Last updated:** 2019 Nov 04 02:59:12 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Information ]   
+**Tags:** \#songs \#music \#rhythmbox \#mycroft \#skill   

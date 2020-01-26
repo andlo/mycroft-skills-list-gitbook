@@ -10,8 +10,7 @@ This skill is still in it's early stages of development. With the planned expans
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Kc street car at third.  
 > Kansas city streetcar at ninth heading north.  
   
@@ -27,8 +26,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/bw3740/wally-kc-streetcar](https://github.com/bw3740/wally-kc-streetcar)  
-**Owner:** | [@bw3740](https://github.com/bw3740)  
-**Created:** | 2018 Feb 22 22:43:14 UTC  **Last updated:** 2019 Jun 05 15:06:37 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/bw3740/wally-kc-streetcar](https://github.com/bw3740/wally-kc-streetcar)  
+**Owner:** [@bw3740](https://github.com/bw3740)  
+**Created:** 2018 Feb 22 22:43:14 UTC  **Last updated:** 2019 Jun 05 15:06:37 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

@@ -17,9 +17,7 @@ Mycroft Message Bus
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#helloworld \#first-skill \#hello \#greeting   
-## Examples:  
+### Examples:  
 > Hello world.  
 > How are you?  
 > Thank you.  
@@ -29,8 +27,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/Smoerble/skill-hello-earth](https://github.com/Smoerble/skill-hello-earth)  
-**Owner:** | [@Smoerble](https://github.com/Smoerble)  
-**Created:** | 2018 Nov 15 10:59:46 UTC  **Last updated:** 2018 Nov 15 21:39:32 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Smoerble/skill-hello-earth](https://github.com/Smoerble/skill-hello-earth)  
+**Owner:** [@Smoerble](https://github.com/Smoerble)  
+**Created:** 2018 Nov 15 10:59:46 UTC  **Last updated:** 2018 Nov 15 21:39:32 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ]   
+**Tags:** \#helloworld \#first-skill \#hello \#greeting   

@@ -9,9 +9,7 @@ To setup the skill you can either click on the Connect button in the skill setti
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#todoist \#todo \#todolist   
-## Examples:  
+### Examples:  
 > What's on my todo list?  
 > Put buy groceries due tomorrow on my todos.  
 > Mark buy a new computer as complete.  
@@ -28,8 +26,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/moritzgloeckl/todoist-skill](https://github.com/moritzgloeckl/todoist-skill)  
-**Owner:** | [@moritzgloeckl](https://github.com/moritzgloeckl)  
-**Created:** | 2019 Sep 26 20:21:36 UTC  **Last updated:** 2019 Nov 03 20:52:09 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/moritzgloeckl/todoist-skill](https://github.com/moritzgloeckl/todoist-skill)  
+**Owner:** [@moritzgloeckl](https://github.com/moritzgloeckl)  
+**Created:** 2019 Sep 26 20:21:36 UTC  **Last updated:** 2019 Nov 03 20:52:09 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Productivity ] [ Daily ]   
+**Tags:** \#todoist \#todo \#todolist   

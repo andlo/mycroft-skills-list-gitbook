@@ -7,8 +7,7 @@ description:
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Next channel.  
 > Open my direct messages.  
 > Switch channels.  
@@ -20,8 +19,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/TREE-Ind/skill-mattermost](https://github.com/TREE-Ind/skill-mattermost)  
-**Owner:** | [@TREE-Ind](https://github.com/TREE-Ind)  
-**Created:** | 2017 Jul 31 22:53:21 UTC  **Last updated:** 2017 Jul 31 22:53:54 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/TREE-Ind/skill-mattermost](https://github.com/TREE-Ind/skill-mattermost)  
+**Owner:** [@TREE-Ind](https://github.com/TREE-Ind)  
+**Created:** 2017 Jul 31 22:53:21 UTC  **Last updated:** 2017 Jul 31 22:53:54 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

@@ -9,9 +9,7 @@ Netatmo weather device is part of your home network using wifi and you can look 
 What's new with Mycroft ? "Hey Mycroft, what's the room temperature ?", it's easier and faster.  
 ### Platform:  
  ![Picroft](../.gitbook/assets/picroft-icon.png)   
-  
-###Tags: \#Netatmo \#Weather \#Picroft   
-## Examples:  
+### Examples:  
 > I need info from Netatmo.  
 > What's home temperature ?  
 > What's room temperature ?  
@@ -24,8 +22,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/henridbr/Netatmo-Weather](https://github.com/henridbr/Netatmo-Weather)  
-**Owner:** | [@henridbr](https://github.com/henridbr)  
-**Created:** | 2018 Nov 05 17:48:01 UTC  **Last updated:** 2018 Nov 05 17:58:06 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/henridbr/Netatmo-Weather](https://github.com/henridbr/Netatmo-Weather)  
+**Owner:** [@henridbr](https://github.com/henridbr)  
+**Created:** 2018 Nov 05 17:48:01 UTC  **Last updated:** 2018 Nov 05 17:58:06 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ] [ IoT ]   
+**Tags:** \#Netatmo \#Weather \#Picroft   

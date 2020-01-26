@@ -10,8 +10,7 @@ Once you're chatting, this skill will override most Mycroft functionality, and y
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Chat with bot.  
 > Talk to rasa.  
 > Stop.  
@@ -28,8 +27,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/jamesmf/skill-rasa-chat](https://github.com/jamesmf/skill-rasa-chat)  
-**Owner:** | [@jamesmf](https://github.com/jamesmf)  
-**Created:** | 2019 Aug 20 04:11:20 UTC  **Last updated:** 2019 Nov 28 00:26:46 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/jamesmf/skill-rasa-chat](https://github.com/jamesmf/skill-rasa-chat)  
+**Owner:** [@jamesmf](https://github.com/jamesmf)  
+**Created:** 2019 Aug 20 04:11:20 UTC  **Last updated:** 2019 Nov 28 00:26:46 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

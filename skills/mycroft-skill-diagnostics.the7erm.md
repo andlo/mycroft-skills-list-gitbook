@@ -8,7 +8,6 @@ description:
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -21,8 +20,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/the7erm/mycroft-skill-diagnostics](https://github.com/the7erm/mycroft-skill-diagnostics)  
-**Owner:** | [@the7erm](https://github.com/the7erm)  
-**Created:** | 2016 Jun 19 00:57:32 UTC  **Last updated:** 2018 Dec 30 23:18:28 UTC  
-**License:** | GNU General Public License v2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/the7erm/mycroft-skill-diagnostics](https://github.com/the7erm/mycroft-skill-diagnostics)  
+**Owner:** [@the7erm](https://github.com/the7erm)  
+**Created:** 2016 Jun 19 00:57:32 UTC  **Last updated:** 2018 Dec 30 23:18:28 UTC  
+**License:** GNU General Public License v2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

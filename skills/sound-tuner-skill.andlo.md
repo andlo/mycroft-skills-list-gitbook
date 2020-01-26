@@ -16,9 +16,7 @@ people call middle C for "C3" or even for "C5".
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#sound \#tuner   
-## Examples:  
+### Examples:  
 > Gime me an C note.  
 > Give me an guitar Low E string.  
 > Give me an A4 note.  
@@ -35,8 +33,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/andlo/sound-tuner-skill](https://github.com/andlo/sound-tuner-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018 Dec 08 20:51:57 UTC  **Last updated:** 2019 Dec 18 15:10:43 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/andlo/sound-tuner-skill](https://github.com/andlo/sound-tuner-skill)  
+**Owner:** [@andlo](https://github.com/andlo)  
+**Created:** 2018 Dec 08 20:51:57 UTC  **Last updated:** 2019 Dec 18 15:10:43 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Information ]   
+**Tags:** \#sound \#tuner   

@@ -19,8 +19,7 @@ Date settings can be changed so that mycroft either uses a default answer or use
 If the date of today cannot be found in "dates.txt", nolecture.dialog will be used. This means that there is no lecture today.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > What is the subject of the lecture?  
 > What theme does the lecture have?  
 > Change the lecture settings.  
@@ -30,8 +29,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/Habanossi/lecture-skill](https://github.com/Habanossi/lecture-skill)  
-**Owner:** | [@Habanossi](https://github.com/Habanossi)  
-**Created:** | 2019 May 08 07:05:29 UTC  **Last updated:** 2019 Aug 30 07:56:57 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Habanossi/lecture-skill](https://github.com/Habanossi/lecture-skill)  
+**Owner:** [@Habanossi](https://github.com/Habanossi)  
+**Created:** 2019 May 08 07:05:29 UTC  **Last updated:** 2019 Aug 30 07:56:57 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

@@ -12,9 +12,7 @@ The temperature is shown in Celsius or Fahrenheit depending on the preferences s
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#weather \#forecast \#rain \#humidity \#snow \#temperature   
-## Examples:  
+### Examples:  
 > What is the weather?  
 > What is the forecast tomorrow?  
 > What is the weather going to be like Tuesday?  
@@ -40,8 +38,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-weather](https://github.com/MycroftAI/skill-weather)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 04 17:49:49 UTC  **Last updated:** 2019 Dec 02 08:16:00 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-weather)  
+**Github:** [https://github.com/MycroftAI/skill-weather](https://github.com/MycroftAI/skill-weather)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Apr 04 17:49:49 UTC  **Last updated:** 2019 Dec 02 08:16:00 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-weather)  
+**Categories:** [ Daily ]   
+**Tags:** \#weather \#forecast \#rain \#humidity \#snow \#temperature   

@@ -8,9 +8,7 @@ With this skill, you can ask Mycroft many different facts about Pokemon. The thi
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Pokemon \#Pokedex \#Video \#Games   
-## Examples:  
+### Examples:  
 > What type is Pikachu?  
 > How tall is Pikachu?  
 > What is Pikachu's base happiness?  
@@ -42,8 +40,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/retrodaredevil/pokemon-skill](https://github.com/retrodaredevil/pokemon-skill)  
-**Owner:** | [@retrodaredevil](https://github.com/retrodaredevil)  
-**Created:** | 2018 May 28 04:48:39 UTC  **Last updated:** 2019 Dec 12 16:07:47 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/retrodaredevil/pokemon-skill](https://github.com/retrodaredevil/pokemon-skill)  
+**Owner:** [@retrodaredevil](https://github.com/retrodaredevil)  
+**Created:** 2018 May 28 04:48:39 UTC  **Last updated:** 2019 Dec 12 16:07:47 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Entertainment ] [ Information ]   
+**Tags:** \#Pokemon \#Pokedex \#Video \#Games   

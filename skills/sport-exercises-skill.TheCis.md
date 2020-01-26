@@ -7,9 +7,7 @@ description: Train your body parts
 Mycroft will help you train your body parts with diffrent exercises.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Body \#parts \#Sport \#Workout   
-## Examples:  
+### Examples:  
 > Tell me an exercise.  
 > Tell me an exercise for legs.  
 > What exercise should i do for legs?  
@@ -26,8 +24,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/TheCis/sport-exercises-skill](https://github.com/TheCis/sport-exercises-skill)  
-**Owner:** | [@TheCis](https://github.com/TheCis)  
-**Created:** | 2019 Jul 30 08:04:15 UTC  **Last updated:** 2019 Jul 30 08:04:22 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/TheCis/sport-exercises-skill](https://github.com/TheCis/sport-exercises-skill)  
+**Owner:** [@TheCis](https://github.com/TheCis)  
+**Created:** 2019 Jul 30 08:04:15 UTC  **Last updated:** 2019 Jul 30 08:04:22 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ] [ Productivity ]   
+**Tags:** \#Body \#parts \#Sport \#Workout   

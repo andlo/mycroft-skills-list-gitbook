@@ -32,8 +32,7 @@ Python Dbus package is required and copying the Python Dbus folder and lib from 
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Show Konversation.  
 > Quit Konversation.  
 > Show Konversation Server List.  
@@ -51,8 +50,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/AIIX/kde-konversation-control](https://github.com/AIIX/kde-konversation-control)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2017 Oct 31 12:00:04 UTC  **Last updated:** 2017 Oct 31 12:02:05 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/AIIX/kde-konversation-control](https://github.com/AIIX/kde-konversation-control)  
+**Owner:** [@AIIX](https://github.com/AIIX)  
+**Created:** 2017 Oct 31 12:00:04 UTC  **Last updated:** 2017 Oct 31 12:02:05 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

@@ -10,9 +10,7 @@ Perfect whenever you need to generate a random number, but don't have a dice nea
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#dice \#random \#dnd   
-## Examples:  
+### Examples:  
 > Roll a dice.  
 > Roll a d20.  
 > Generate a random number between 0 and 5.  
@@ -32,8 +30,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Dragoncraft89/dice-skill](https://github.com/Dragoncraft89/dice-skill)  
-**Owner:** | [@Dragoncraft89](https://github.com/Dragoncraft89)  
-**Created:** | 2018 Dec 13 17:15:12 UTC  **Last updated:** 2019 Nov 01 12:52:00 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/dice-skill)  
+**Github:** [https://github.com/Dragoncraft89/dice-skill](https://github.com/Dragoncraft89/dice-skill)  
+**Owner:** [@Dragoncraft89](https://github.com/Dragoncraft89)  
+**Created:** 2018 Dec 13 17:15:12 UTC  **Last updated:** 2019 Nov 01 12:52:00 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/dice-skill)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#dice \#random \#dnd   

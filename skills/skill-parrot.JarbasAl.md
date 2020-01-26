@@ -16,9 +16,7 @@ NOTE: This illustrates the converse() method.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#parrot \#converse \#echo   
-## Examples:  
+### Examples:  
 > Start parrot.  
 > Stop parrot.  
   
@@ -27,8 +25,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/JarbasAl/skill-parrot](https://github.com/JarbasAl/skill-parrot)  
-**Owner:** | [@JarbasAl](https://github.com/JarbasAl)  
-**Created:** | 2017 Mar 04 22:33:40 UTC  **Last updated:** 2019 Jan 10 17:59:00 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/JarbasAl/skill-parrot](https://github.com/JarbasAl/skill-parrot)  
+**Owner:** [@JarbasAl](https://github.com/JarbasAl)  
+**Created:** 2017 Mar 04 22:33:40 UTC  **Last updated:** 2019 Jan 10 17:59:00 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#parrot \#converse \#echo   

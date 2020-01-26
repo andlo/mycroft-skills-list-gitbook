@@ -11,9 +11,7 @@ For config file usage instructions please see the apprise config file manual.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Push \#Notify \#Apprise   
-## Examples:  
+### Examples:  
 > Apprise someone of something.  
   
 ## Installation:  
@@ -28,8 +26,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/domcross/apprise-skill](https://github.com/domcross/apprise-skill)  
-**Owner:** | [@domcross](https://github.com/domcross)  
-**Created:** | 2019 Sep 21 14:53:02 UTC  **Last updated:** 2019 Oct 27 19:28:25 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/domcross/apprise-skill](https://github.com/domcross/apprise-skill)  
+**Owner:** [@domcross](https://github.com/domcross)  
+**Created:** 2019 Sep 21 14:53:02 UTC  **Last updated:** 2019 Oct 27 19:28:25 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Productivity ] [ Messaging ]   
+**Tags:** \#Push \#Notify \#Apprise   

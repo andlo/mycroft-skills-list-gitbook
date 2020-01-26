@@ -14,9 +14,7 @@ services to negotiate which is best suited to play back a specific request.
 This capability is used by the Spotify and Pandora Skills, among others.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#music \#play \#playback \#pause \#resume \#next \#system   
-## Examples:  
+### Examples:  
 > Play my summer playlist.  
 > Play Pandora.  
 > Pause.  
@@ -38,8 +36,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/gras64/mycroft-navigaton-control](https://github.com/gras64/mycroft-navigaton-control)  
-**Owner:** | [@gras64](https://github.com/gras64)  
-**Created:** | 2019 Dec 03 22:15:34 UTC  **Last updated:** 2019 Dec 03 22:17:09 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/gras64/mycroft-navigaton-control](https://github.com/gras64/mycroft-navigaton-control)  
+**Owner:** [@gras64](https://github.com/gras64)  
+**Created:** 2019 Dec 03 22:15:34 UTC  **Last updated:** 2019 Dec 03 22:17:09 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Music ]   
+**Tags:** \#music \#play \#playback \#pause \#resume \#next \#system   

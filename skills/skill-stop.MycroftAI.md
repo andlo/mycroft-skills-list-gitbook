@@ -11,9 +11,7 @@ directly, rather it emits messages for the device creator to capture.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#system   
-## Examples:  
+### Examples:  
 > Stop.  
 > Reboot.  
 > Turn off.  
@@ -35,8 +33,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-stop](https://github.com/MycroftAI/skill-stop)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 05 22:57:33 UTC  **Last updated:** 2019 Dec 23 18:47:54 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-stop)  
+**Github:** [https://github.com/MycroftAI/skill-stop](https://github.com/MycroftAI/skill-stop)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Apr 05 22:57:33 UTC  **Last updated:** 2019 Dec 23 18:47:54 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-stop)  
+**Categories:** [ Configuration ]   
+**Tags:** \#system   

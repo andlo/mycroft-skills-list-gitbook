@@ -14,9 +14,7 @@ For Power ON (Wake on LAN):
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#mycroft \#skill \#remote \#computer \#home \#voice \#assistant   
-## Examples:  
+### Examples:  
 > Turn off my computer.  
 > Turn my computer off.  
 > Shut down the computer.  
@@ -35,8 +33,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/smearumi/mycroft-remote-computer](https://github.com/smearumi/mycroft-remote-computer)  
-**Owner:** | [@smearumi](https://github.com/smearumi)  
-**Created:** | 2018 Nov 11 11:34:36 UTC  **Last updated:** 2019 Nov 19 23:12:12 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/smearumi/mycroft-remote-computer](https://github.com/smearumi/mycroft-remote-computer)  
+**Owner:** [@smearumi](https://github.com/smearumi)  
+**Created:** 2018 Nov 11 11:34:36 UTC  **Last updated:** 2019 Nov 19 23:12:12 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ IoT ] [ Daily ]   
+**Tags:** \#mycroft \#skill \#remote \#computer \#home \#voice \#assistant   

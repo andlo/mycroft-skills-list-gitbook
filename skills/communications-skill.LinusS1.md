@@ -22,9 +22,7 @@ The future includes:
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#intercom \#intercoms \#communication \#communications \#broadcast \#broadcasting \#connect \#devices \#video \#calling \#call   
-## Examples:  
+### Examples:  
 > Announce that.  
 > Announce.  
 > Announce.  
@@ -41,8 +39,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/LinusS1/communications-skill](https://github.com/LinusS1/communications-skill)  
-**Owner:** | [@LinusS1](https://github.com/LinusS1)  
-**Created:** | 2018 Dec 25 01:28:55 UTC  **Last updated:** 2019 Dec 11 22:44:08 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/LinusS1/communications-skill](https://github.com/LinusS1/communications-skill)  
+**Owner:** [@LinusS1](https://github.com/LinusS1)  
+**Created:** 2018 Dec 25 01:28:55 UTC  **Last updated:** 2019 Dec 11 22:44:08 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ] [ Entertainment ] [ Information ] [ IoT ] [ Media ] [ Productivity ]   
+**Tags:** \#intercom \#intercoms \#communication \#communications \#broadcast \#broadcasting \#connect \#devices \#video \#calling \#call   

@@ -17,9 +17,7 @@ Mycroft Message Bus
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#helloworld \#first-skill \#hello \#greeting   
-## Examples:  
+### Examples:  
 > Hello world.  
 > How are you?  
 > Thank you.  
@@ -29,8 +27,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/SandeepRamesh/mycroft_history_skill](https://github.com/SandeepRamesh/mycroft_history_skill)  
-**Owner:** | [@SandeepRamesh](https://github.com/SandeepRamesh)  
-**Created:** | 2019 Jan 21 17:18:08 UTC  **Last updated:** 2019 Jan 21 17:32:20 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/SandeepRamesh/mycroft_history_skill](https://github.com/SandeepRamesh/mycroft_history_skill)  
+**Owner:** [@SandeepRamesh](https://github.com/SandeepRamesh)  
+**Created:** 2019 Jan 21 17:18:08 UTC  **Last updated:** 2019 Jan 21 17:32:20 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ]   
+**Tags:** \#helloworld \#first-skill \#hello \#greeting   

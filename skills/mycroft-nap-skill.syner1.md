@@ -12,9 +12,7 @@ wake up". Otherwise the system will be totally silent and won't bother you.
 On a Mark 1 this also dims the eyes.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#nap \#naptime \#sleep \#donotdisturb \#do-not-disturb   
-## Examples:  
+### Examples:  
 > Go to sleep.  
 > Nap time.  
 > Wake up.  
@@ -31,8 +29,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/syner1/mycroft-nap-skill](https://github.com/syner1/mycroft-nap-skill)  
-**Owner:** | [@syner1](https://github.com/syner1)  
-**Created:** | 2018 Oct 15 18:13:23 UTC  **Last updated:** 2018 Oct 15 18:23:52 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/syner1/mycroft-nap-skill](https://github.com/syner1/mycroft-nap-skill)  
+**Owner:** [@syner1](https://github.com/syner1)  
+**Created:** 2018 Oct 15 18:13:23 UTC  **Last updated:** 2018 Oct 15 18:23:52 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ] [ Configuration ]   
+**Tags:** \#nap \#naptime \#sleep \#donotdisturb \#do-not-disturb   

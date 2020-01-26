@@ -7,8 +7,7 @@ description:
 Latest news from  from austria.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Austrian news.  
 > News from austria.  
 > Radio from austria.  
@@ -25,8 +24,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/SomePati/skill-radio-oe1](https://github.com/SomePati/skill-radio-oe1)  
-**Owner:** | [@SomePati](https://github.com/SomePati)  
-**Created:** | 2018 Mar 10 03:23:39 UTC  **Last updated:** 2018 Mar 10 03:38:58 UTC  
-**License:** | GNU Lesser General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/SomePati/skill-radio-oe1](https://github.com/SomePati/skill-radio-oe1)  
+**Owner:** [@SomePati](https://github.com/SomePati)  
+**Created:** 2018 Mar 10 03:23:39 UTC  **Last updated:** 2018 Mar 10 03:38:58 UTC  
+**License:** GNU Lesser General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

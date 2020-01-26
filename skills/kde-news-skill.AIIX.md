@@ -7,8 +7,7 @@ description:
 Get the latest KDE News and DOT stories read to you by mycroft.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Whats New At KDE?  
   
 ## Installation:  
@@ -23,8 +22,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/AIIX/kde-news-skill](https://github.com/AIIX/kde-news-skill)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018 Jun 12 12:38:53 UTC  **Last updated:** 2019 Mar 17 16:58:32 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/AIIX/kde-news-skill](https://github.com/AIIX/kde-news-skill)  
+**Owner:** [@AIIX](https://github.com/AIIX)  
+**Created:** 2018 Jun 12 12:38:53 UTC  **Last updated:** 2019 Mar 17 16:58:32 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

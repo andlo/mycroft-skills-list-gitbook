@@ -9,9 +9,7 @@ This is just a quick hack I made on a rainy day that "works for me" and comes wi
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Airport   
-## Examples:  
+### Examples:  
 > Activate shairport.  
 > Disable shairport.  
   
@@ -27,8 +25,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/domcross/shairport-skill](https://github.com/domcross/shairport-skill)  
-**Owner:** | [@domcross](https://github.com/domcross)  
-**Created:** | 2019 Dec 13 13:32:49 UTC  **Last updated:** 2019 Dec 18 23:50:32 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/domcross/shairport-skill](https://github.com/domcross/shairport-skill)  
+**Owner:** [@domcross](https://github.com/domcross)  
+**Created:** 2019 Dec 13 13:32:49 UTC  **Last updated:** 2019 Dec 18 23:50:32 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ & ] [ Music ] [ Audio ]   
+**Tags:** \#Airport   

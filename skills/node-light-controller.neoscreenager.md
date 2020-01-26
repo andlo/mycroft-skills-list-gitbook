@@ -22,8 +22,7 @@ Demo videos on YouTube:
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Turn red light on.  
 > Turn green light off.  
 > Turn red light off.  
@@ -42,8 +41,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/neoscreenager/node-light-controller](https://github.com/neoscreenager/node-light-controller)  
-**Owner:** | [@neoscreenager](https://github.com/neoscreenager)  
-**Created:** | 2018 May 27 15:23:17 UTC  **Last updated:** 2019 Aug 07 06:08:59 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/neoscreenager/node-light-controller](https://github.com/neoscreenager/node-light-controller)  
+**Owner:** [@neoscreenager](https://github.com/neoscreenager)  
+**Created:** 2018 May 27 15:23:17 UTC  **Last updated:** 2019 Aug 07 06:08:59 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

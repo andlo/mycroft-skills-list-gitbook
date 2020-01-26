@@ -37,8 +37,7 @@ We retain the characters after index 1 of "_", which is no characters. And we pu
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Out/text.  
 > You:  
 > (on your device):  
@@ -58,8 +57,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/RdeLange/skill-mosquito-broadcast](https://github.com/RdeLange/skill-mosquito-broadcast)  
-**Owner:** | [@RdeLange](https://github.com/RdeLange)  
-**Created:** | 2018 May 23 21:32:47 UTC  **Last updated:** 2018 Nov 16 20:21:21 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/RdeLange/skill-mosquito-broadcast](https://github.com/RdeLange/skill-mosquito-broadcast)  
+**Owner:** [@RdeLange](https://github.com/RdeLange)  
+**Created:** 2018 May 23 21:32:47 UTC  **Last updated:** 2018 Nov 16 20:21:21 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

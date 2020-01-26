@@ -7,8 +7,7 @@ description:
 My first hellow world skill for Mycroft.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Hello world.  
 > Greetings planet earth.  
 > Count up.  
@@ -26,8 +25,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/tony1661/hello-world](https://github.com/tony1661/hello-world)  
-**Owner:** | [@tony1661](https://github.com/tony1661)  
-**Created:** | 2019 Apr 20 22:11:59 UTC  **Last updated:** 2019 Apr 21 14:35:36 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/tony1661/hello-world](https://github.com/tony1661/hello-world)  
+**Owner:** [@tony1661](https://github.com/tony1661)  
+**Created:** 2019 Apr 20 22:11:59 UTC  **Last updated:** 2019 Apr 21 14:35:36 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

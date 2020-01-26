@@ -8,9 +8,7 @@ Mycroft streams five to fifteen minute news bulletins from All India Radio's New
 This skill can play either the national news (by default, in English), or the regional news (by default, from Pune in Marathi). To change to a different language or local station, modify the skill settings at home.mycroft.ai.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#All \#India \#Radio \#News \#AIR \#Akashvani \#Mycroft \#AI   
-## Examples:  
+### Examples:  
 > Play All India Radio.  
 > Play the national news on All India Radio.  
 > Play the local news on All India Radio.  
@@ -27,8 +25,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/kalyaninagaraj/all-india-radio-skill](https://github.com/kalyaninagaraj/all-india-radio-skill)  
-**Owner:** | [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
-**Created:** | 2019 Dec 23 08:37:20 UTC  **Last updated:** 2019 Dec 27 15:01:19 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/kalyaninagaraj/all-india-radio-skill](https://github.com/kalyaninagaraj/all-india-radio-skill)  
+**Owner:** [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
+**Created:** 2019 Dec 23 08:37:20 UTC  **Last updated:** 2019 Dec 27 15:01:19 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Daily ] [ Media ]   
+**Tags:** \#All \#India \#Radio \#News \#AIR \#Akashvani \#Mycroft \#AI   

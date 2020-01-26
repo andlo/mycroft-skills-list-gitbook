@@ -11,9 +11,7 @@ the main features are:
 * ask Mycroft to read the titles and other information for you.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#[JamesPoole](https://github.com/JamesPoole/) \#from \#whose \#[podcast-skill](https://github.com/JamesPoole/podcast-skill) \#brilliant \#skill \#I \#inherited \#many \#ideas.   
-## Examples:  
+### Examples:  
 > Check for new feeds.  
 > Check for new feeds from Mycroft blog.  
 > Read my new feeds.  
@@ -31,8 +29,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/backassward/rss-reader-skill](https://github.com/backassward/rss-reader-skill)  
-**Owner:** | [@backassward](https://github.com/backassward)  
-**Created:** | 2018 Jun 28 20:08:49 UTC  **Last updated:** 2018 Jun 28 22:44:45 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/backassward/rss-reader-skill](https://github.com/backassward/rss-reader-skill)  
+**Owner:** [@backassward](https://github.com/backassward)  
+**Created:** 2018 Jun 28 20:08:49 UTC  **Last updated:** 2018 Jun 28 22:44:45 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   
+**Tags:** \#[JamesPoole](https://github.com/JamesPoole/) \#from \#whose \#[podcast-skill](https://github.com/JamesPoole/podcast-skill) \#brilliant \#skill \#I \#inherited \#many \#ideas.   

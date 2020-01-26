@@ -10,8 +10,7 @@ It also checks if mpv is running to avoid not wanted simultaneous mpv sessions.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Youtube arianna grande 7 rings.  
 > Youtube cancel|exit.  
 > Youtube pause|wait.  
@@ -37,8 +36,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Shadowsith/mycroft-youtube-mpv](https://github.com/Shadowsith/mycroft-youtube-mpv)  
-**Owner:** | [@Shadowsith](https://github.com/Shadowsith)  
-**Created:** | 2019 Feb 10 02:11:08 UTC  **Last updated:** 2019 Mar 09 13:28:40 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Shadowsith/mycroft-youtube-mpv](https://github.com/Shadowsith/mycroft-youtube-mpv)  
+**Owner:** [@Shadowsith](https://github.com/Shadowsith)  
+**Created:** 2019 Feb 10 02:11:08 UTC  **Last updated:** 2019 Mar 09 13:28:40 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

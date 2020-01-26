@@ -11,9 +11,7 @@ The skill can be activated or deactivated using the command "Hey Mycroft, set au
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
-  
-###Tags: \#volume   
-## Examples:  
+### Examples:  
 > Set auto volume on.  
 > Set auto volume off.  
 > Clear auto volume measurements.  
@@ -33,8 +31,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/andlo/auto-volume-skill](https://github.com/andlo/auto-volume-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018 Oct 16 18:13:54 UTC  **Last updated:** 2019 Dec 27 21:20:39 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/auto-volume)  
+**Github:** [https://github.com/andlo/auto-volume-skill](https://github.com/andlo/auto-volume-skill)  
+**Owner:** [@andlo](https://github.com/andlo)  
+**Created:** 2018 Oct 16 18:13:54 UTC  **Last updated:** 2019 Dec 27 21:20:39 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/auto-volume)  
+**Categories:** [ Configuration ] [ Daily ]   
+**Tags:** \#volume   

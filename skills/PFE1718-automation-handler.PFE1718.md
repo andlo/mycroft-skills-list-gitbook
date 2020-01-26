@@ -12,8 +12,7 @@ The habit detection is done by two other complementary skills:
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > List my habits.  
   
 ## Installation:  
@@ -28,8 +27,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/PFE1718/PFE1718-automation-handler](https://github.com/PFE1718/PFE1718-automation-handler)  
-**Owner:** | [@PFE1718](https://github.com/PFE1718)  
-**Created:** | 2018 Jan 08 14:38:15 UTC  **Last updated:** 2018 Nov 19 08:46:17 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/PFE1718/PFE1718-automation-handler](https://github.com/PFE1718/PFE1718-automation-handler)  
+**Owner:** [@PFE1718](https://github.com/PFE1718)  
+**Created:** 2018 Jan 08 14:38:15 UTC  **Last updated:** 2018 Nov 19 08:46:17 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

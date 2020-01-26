@@ -14,7 +14,6 @@ NOTE: SSL support is currently secure as it does verify the cert.
 You will then need to restart mycroft.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -27,8 +26,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/eClarity/mycroft-homeassistant](https://github.com/eClarity/mycroft-homeassistant)  
-**Owner:** | [@eClarity](https://github.com/eClarity)  
-**Created:** | 2017 May 31 01:18:43 UTC  **Last updated:** 2019 Jan 07 09:51:53 UTC  
-**License:** | GNU Lesser General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/eClarity/mycroft-homeassistant](https://github.com/eClarity/mycroft-homeassistant)  
+**Owner:** [@eClarity](https://github.com/eClarity)  
+**Created:** 2017 May 31 01:18:43 UTC  **Last updated:** 2019 Jan 07 09:51:53 UTC  
+**License:** GNU Lesser General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

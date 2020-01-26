@@ -8,8 +8,6 @@ Manage standard screen events, not specific to any particular implementation of 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#gui \#system   
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -22,8 +20,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-standard-gui](https://github.com/MycroftAI/skill-standard-gui)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2019 May 02 05:23:03 UTC  **Last updated:** 2019 Dec 18 05:23:43 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/MycroftAI/skill-standard-gui](https://github.com/MycroftAI/skill-standard-gui)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2019 May 02 05:23:03 UTC  **Last updated:** 2019 Dec 18 05:23:43 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Configuration ]   
+**Tags:** \#gui \#system   

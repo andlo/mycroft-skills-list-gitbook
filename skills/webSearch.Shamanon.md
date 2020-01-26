@@ -8,7 +8,6 @@ description:
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -21,8 +20,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Shamanon/webSearch](https://github.com/Shamanon/webSearch)  
-**Owner:** | [@Shamanon](https://github.com/Shamanon)  
-**Created:** | 2018 Aug 11 22:11:00 UTC  **Last updated:** 2018 Aug 13 00:02:37 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Shamanon/webSearch](https://github.com/Shamanon/webSearch)  
+**Owner:** [@Shamanon](https://github.com/Shamanon)  
+**Created:** 2018 Aug 11 22:11:00 UTC  **Last updated:** 2018 Aug 13 00:02:37 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

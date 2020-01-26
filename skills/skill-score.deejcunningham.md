@@ -18,8 +18,7 @@ The next goals for skill-score are the ability to:
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > What is the Royals score?  
 > What is the Angels score?  
 > What is the Yankees score?  
@@ -36,8 +35,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/deejcunningham/skill-score](https://github.com/deejcunningham/skill-score)  
-**Owner:** | [@deejcunningham](https://github.com/deejcunningham)  
-**Created:** | 2018 May 17 23:56:07 UTC  **Last updated:** 2019 Oct 29 21:49:58 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/deejcunningham/skill-score](https://github.com/deejcunningham/skill-score)  
+**Owner:** [@deejcunningham](https://github.com/deejcunningham)  
+**Created:** 2018 May 17 23:56:07 UTC  **Last updated:** 2019 Oct 29 21:49:58 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

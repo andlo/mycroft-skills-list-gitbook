@@ -17,8 +17,7 @@ The configuration above will launch /home/forslund/scripts/generate_report.sh wh
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Launch command echo TEST*  
 >   
 > Run script generate report*  
@@ -36,8 +35,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/forslund/cmd_skill](https://github.com/forslund/cmd_skill)  
-**Owner:** | [@forslund](https://github.com/forslund)  
-**Created:** | 2017 Jan 26 06:49:16 UTC  **Last updated:** 2019 Dec 12 21:10:33 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/forslund/cmd_skill](https://github.com/forslund/cmd_skill)  
+**Owner:** [@forslund](https://github.com/forslund)  
+**Created:** 2017 Jan 26 06:49:16 UTC  **Last updated:** 2019 Dec 12 21:10:33 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

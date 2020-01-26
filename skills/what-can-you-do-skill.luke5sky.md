@@ -9,8 +9,7 @@ and lists the installed skills (if you want).
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > What can you do?  
 > What can i do?  
 > What can i ask you?  
@@ -27,8 +26,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/luke5sky/what-can-you-do-skill](https://github.com/luke5sky/what-can-you-do-skill)  
-**Owner:** | [@luke5sky](https://github.com/luke5sky)  
-**Created:** | 2018 Jun 29 12:42:44 UTC  **Last updated:** 2019 Dec 19 02:45:04 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/luke5sky/what-can-you-do-skill](https://github.com/luke5sky/what-can-you-do-skill)  
+**Owner:** [@luke5sky](https://github.com/luke5sky)  
+**Created:** 2018 Jun 29 12:42:44 UTC  **Last updated:** 2019 Dec 19 02:45:04 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

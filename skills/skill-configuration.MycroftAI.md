@@ -12,9 +12,7 @@ the system that wakes the device up when you say "Hey Mycroft".
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#configuration \#update-config \#config \#system   
-## Examples:  
+### Examples:  
 > Configuration update.  
 > Update config.  
 > What's your location?  
@@ -38,8 +36,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-configuration](https://github.com/MycroftAI/skill-configuration)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 05 22:56:14 UTC  **Last updated:** 2019 Nov 15 13:49:04 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-configuration)  
+**Github:** [https://github.com/MycroftAI/skill-configuration](https://github.com/MycroftAI/skill-configuration)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Apr 05 22:56:14 UTC  **Last updated:** 2019 Nov 15 13:49:04 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-configuration)  
+**Categories:** [ Configuration ]   
+**Tags:** \#configuration \#update-config \#config \#system   

@@ -8,8 +8,7 @@ A more verbose description, including any extra instructions or
 information that didn't fit in the one line.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Hello world.  
 > Greetings planet earth.  
 > Count up.  
@@ -20,8 +19,9 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/clebio/learning_mycroft](https://github.com/clebio/learning_mycroft)  
-**Owner:** | [@clebio](https://github.com/clebio)  
-**Created:** | 2018 Jun 11 01:13:24 UTC  **Last updated:** 2018 Jun 11 01:21:02 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/clebio/learning_mycroft](https://github.com/clebio/learning_mycroft)  
+**Owner:** [@clebio](https://github.com/clebio)  
+**Created:** 2018 Jun 11 01:13:24 UTC  **Last updated:** 2018 Jun 11 01:21:02 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

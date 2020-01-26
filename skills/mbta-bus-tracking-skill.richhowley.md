@@ -68,9 +68,7 @@ API Key
 When installed this skill does not use an API key when getting data from the MBTA servers.  Using a key allows a higher rate limit when requesting data.  It should not be necessary to use an API key but if you like you may obtain one on the MBTA website. In the skill settings on Mycroft Home check the box next to "Use my API key" and enter your key in the text field.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#MBTA,Boston   
-## Examples:  
+### Examples:  
 > T Bus Arrivals.  
 > T Bus Tracking.  
 > Save Transit Shortcut.  
@@ -87,8 +85,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/richhowley/mbta-bus-tracking-skill](https://github.com/richhowley/mbta-bus-tracking-skill)  
-**Owner:** | [@richhowley](https://github.com/richhowley)  
-**Created:** | 2019 Jul 16 01:18:28 UTC  **Last updated:** 2019 Oct 02 23:32:24 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Pending Market](https://market.mycroft.ai/skill/) PR-1108 needs validation new  
+**Github:** [https://github.com/richhowley/mbta-bus-tracking-skill](https://github.com/richhowley/mbta-bus-tracking-skill)  
+**Owner:** [@richhowley](https://github.com/richhowley)  
+**Created:** 2019 Jul 16 01:18:28 UTC  **Last updated:** 2019 Oct 02 23:32:24 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1108 ] [ needs validation ] [ new ]  
+**Categories:** [ Transport ]   
+**Tags:** \#MBTA,Boston   

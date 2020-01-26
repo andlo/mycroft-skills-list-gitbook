@@ -8,9 +8,7 @@ The skill enables simple computational tasks to be solved.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#'calculation   
-## Examples:  
+### Examples:  
 > What is 1 and 2?  
 > Addiere 4 and 5.  
 > Divide 6 by 2.  
@@ -32,8 +30,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/gras64/calculator](https://github.com/gras64/calculator)  
-**Owner:** | [@gras64](https://github.com/gras64)  
-**Created:** | 2019 Jul 23 12:24:58 UTC  **Last updated:** 2019 Aug 18 12:53:36 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/gras64/calculator](https://github.com/gras64/calculator)  
+**Owner:** [@gras64](https://github.com/gras64)  
+**Created:** 2019 Jul 23 12:24:58 UTC  **Last updated:** 2019 Aug 18 12:53:36 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Productivity ]   
+**Tags:** \#'calculation   

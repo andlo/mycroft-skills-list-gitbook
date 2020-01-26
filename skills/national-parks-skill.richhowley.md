@@ -13,9 +13,7 @@ After asking to be quizzed Mycroft will ask what state a particular National Par
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#nationalparks \#parks \#vacation   
-## Examples:  
+### Examples:  
 > List national parks in Utah.  
 > Describe Yellowstone national park.  
 > Quiz me on national parks.  
@@ -36,8 +34,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/richhowley/national-parks-skill](https://github.com/richhowley/national-parks-skill)  
-**Owner:** | [@richhowley](https://github.com/richhowley)  
-**Created:** | 2018 Nov 11 17:31:25 UTC  **Last updated:** 2019 May 22 01:53:00 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/national-park)  
+**Github:** [https://github.com/richhowley/national-parks-skill](https://github.com/richhowley/national-parks-skill)  
+**Owner:** [@richhowley](https://github.com/richhowley)  
+**Created:** 2018 Nov 11 17:31:25 UTC  **Last updated:** 2019 May 22 01:53:00 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/national-park)  
+**Categories:** [ Information ]   
+**Tags:** \#nationalparks \#parks \#vacation   

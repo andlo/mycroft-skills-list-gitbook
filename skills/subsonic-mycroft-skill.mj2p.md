@@ -7,8 +7,7 @@ description:
 Subsonic ( is a media streaming server. this skill will interface with a preconfigured subsonic server and allow mycroft to stream media from it.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Play me some aphex twin.  
 > Sub me some music.  
 > Play my tuneyards playlist.  
@@ -20,8 +19,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/mj2p/subsonic-mycroft-skill](https://github.com/mj2p/subsonic-mycroft-skill)  
-**Owner:** | [@mj2p](https://github.com/mj2p)  
-**Created:** | 2018 Jul 25 21:02:04 UTC  **Last updated:** 2018 Jul 29 09:59:48 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/mj2p/subsonic-mycroft-skill](https://github.com/mj2p/subsonic-mycroft-skill)  
+**Owner:** [@mj2p](https://github.com/mj2p)  
+**Created:** 2018 Jul 25 21:02:04 UTC  **Last updated:** 2018 Jul 29 09:59:48 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

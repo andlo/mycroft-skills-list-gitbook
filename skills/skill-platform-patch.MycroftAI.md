@@ -15,9 +15,7 @@ If your version is less than 0.9.0, you should install this platform patch.
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)   
-  
-###Tags: \#mark1 \#mycroft-mark1 \#platform-patch \#update \#patch   
-## Examples:  
+### Examples:  
 > Install platform patch.  
   
 ## Installation:  
@@ -32,8 +30,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-platform-patch](https://github.com/MycroftAI/skill-platform-patch)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Jul 03 16:24:57 UTC  **Last updated:** 2018 Aug 29 18:29:59 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/MycroftAI/skill-platform-patch](https://github.com/MycroftAI/skill-platform-patch)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Jul 03 16:24:57 UTC  **Last updated:** 2018 Aug 29 18:29:59 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Configuration ]   
+**Tags:** \#mark1 \#mycroft-mark1 \#platform-patch \#update \#patch   

@@ -11,8 +11,7 @@ To-Do: Improve Location Accuracy on Plasma-Mobile by utilizing nearby cell-tower
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Search for nearby resturants.  
 > Search for nearby Hotels.  
 > Search nearby parks.  
@@ -26,8 +25,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/AIIX/whats-nearby](https://github.com/AIIX/whats-nearby)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018 Jan 02 13:27:41 UTC  **Last updated:** 2018 Aug 22 15:22:13 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/AIIX/whats-nearby](https://github.com/AIIX/whats-nearby)  
+**Owner:** [@AIIX](https://github.com/AIIX)  
+**Created:** 2018 Jan 02 13:27:41 UTC  **Last updated:** 2018 Aug 22 15:22:13 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

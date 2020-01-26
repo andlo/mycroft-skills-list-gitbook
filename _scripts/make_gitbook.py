@@ -61,17 +61,11 @@ def make_skillsfiles(skills):
                 if device == 'platform_picroft':
                     txt.append(pi)
             txt.append('  \n')
-            txt.append('  \n')
-            if not skill["skill_info"]["tags"] == []:
-                txt.append('###Tags: ')
-                for tag in skill["skill_info"]["tags"]:
-                    txt.append('\#' + tag + ' ')
-                txt.append('  \n')
         except Exception:
             pass
 
         if not skill["skill_info"]["examples"] == []:
-            txt.append('## Examples:  \n')
+            txt.append('### Examples:  \n')
             for example in skill["skill_info"]["examples"]:
                 txt.append('> ' + example + '  \n')
             txt.append('  \n')
@@ -123,20 +117,20 @@ def make_skillsfiles(skills):
             txt.append('{% endtabs %}\n  ')
         txt.append('  \n')
         txt.append('## Summary:  \n')
-        txt.append('**Github:** | [' + skill["html_url"] + ']' + '(' + skill["html_url"] + ')  \n') 
-        txt.append('**Owner:** | [@' + skill["owner"]["login"] + 
+        txt.append('**Github:** [' + skill["html_url"] + ']' + '(' + skill["html_url"] + ')  \n') 
+        txt.append('**Owner:** [@' + skill["owner"]["login"] + 
                    '](' + skill["owner"]["html_url"] + 
                    ')  \n')
-        txt.append('**Created:** | ' + nice_time(skill["created_at"]) + 
+        txt.append('**Created:** ' + nice_time(skill["created_at"]) + 
                    '  **Last updated:** ' + nice_time(skill["updated_at"]) + '  \n')
         try:
-            txt.append('**License:** | ' + skill["license"]["name"] + '  \n')
+            txt.append('**License:** ' + skill["license"]["name"] + '  \n')
             license = True
         except Exception:
-            txt.append('**License:** | No License  \n')
+            txt.append('**License:** No License  \n')
             license = False
         try:
-            txt.append('**Market status:** | ' + 
+            txt.append('**Market status:** ' + 
                        '[' + skill["skill_info"].get("market_status") + ']' +
                        '(' + skill["skill_info"]["market_url"] + ')')
             if skill["skill_info"]["market_status"] == 'In Market':
@@ -149,11 +143,21 @@ def make_skillsfiles(skills):
         if skill["skill_info"]["market_status"] == 'Pending Market':
             try:
                 for label in skill["skill_info"]["market_pending"]:
-                    txt.append(' ' + label)
+                    txt.append(' [ ' + label + ' ]')
             except Exception:
                 pass
         txt.append('  \n')
-      
+        if not skill["skill_info"]["categories"] == []:
+            txt.append('**Categories:** ')
+            for category in skill["skill_info"]["categories"]:
+                txt.append('[ ' + category + ' ] ')
+            txt.append('  \n')
+        if not skill["skill_info"]["tags"] == []:
+            txt.append('**Tags:** ')
+            for tag in skill["skill_info"]["tags"]:
+                txt.append('\#' + tag + ' ')
+            txt.append('  \n')
+     
         skillfile = '../skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
         of = open(skillfile, 'w')
         of.writelines(txt)
@@ -198,10 +202,10 @@ def make_categorylist(skills):
         if not skill["skill_info"].get("categories"):
             skill["skill_info"]["categories"] = ['uncategorized']
         for category in skill["skill_info"]["categories"]:
-            if skill["skill_info"]["title"] == "YOUR SKILL NAME":
-                text = "    * [" + skill["name"] + "](" + skillfile + ")\n"
+            if (skill["skill_info"]["title"] == "YOUR SKILL NAME") or (skill["skill_info"]["title"] == ""):
+                text = "    * [" + clean_txt(skill["name"]) + "](" + skillfile + ")\n"
             else:
-                text = "    * [" + skill["skill_info"]["title"] + "](" + skillfile + ")\n"
+                text = "    * [" + clean_txt(skill["skill_info"]["title"]) + "](" + skillfile + ")\n"
             categoryitem = [text]
             if categorylist.get(category):
                 cat =  categorylist.get(category)
@@ -211,7 +215,46 @@ def make_categorylist(skills):
                 categorylist[category] = categoryitem
     return categorylist
 
-def make_summary():
+def make_readme(skills):
+    num_of_skills = len(skills)
+    skillslist = []
+    for skill in skills:
+        if skill["skill_info"].get("market_status") == 'In Market':
+            skillslist.append(skill)
+    num_in_market = len(skillslist)
+    
+    skillslist = []
+    for skill in skills:
+        if skill["skill_info"].get("market_status") == 'Pending Market':
+            skillslist.append(skill)
+    num_pending = len(skillslist)
+
+    skillwriters = {}
+    for skill in skills:
+        if not skillwriters.get(skill["owner"]["login"]):
+            skillwriters[skill["owner"]["login"]] = skill["owner"]["login"]
+    num_of_writers = len(skillwriters)
+    
+
+    readme = open('../README.md', 'w')
+    readme.write('# Introduction\n')
+    readme.write('This list containing most of the Mycroft skills found on GitHub.')
+    readme.write('The list includes working, not working new and old skills. The list is ')
+    readme.write('not ment as a replacement for the Mycroft Market.  \n')
+    readme.write('Installing skills found through this list is only recomended if you know')
+    readme.write('what you are doing.  \n')
+    readme.write('If you have any issues by using skills found on this list please open a issue on ')
+    readme.write('the specific skills github page.  \n')
+    readme.write('The Mycroft market can be found at [mycroft.market.ai](http://mycroft.market.ai)  \n')
+    readme.write('  \n')
+    readme.write('This list is generated and updated at [DATE and TIME] and has been made by searching github ')
+    readme.write('looking throu more than 1250 reposotories that look like mycroft skills. Form those there were found ')
+    readme.write(str(num_of_skills) + ' by ' + str(num_of_writers) + ' skill writers. Right now ')
+    readme.write(str(num_in_market) + ' is in Mycroft Market aproved by Mycroft skill tester team. There are ')
+    readme.write(str(num_pending) + ' new skills or updates to skills pending aproval to the Market.') 
+    
+
+def make_summary(skills):
     summary = open('../SUMMARY.md', 'w')
     summary.write('# Table of contents\n')
     summary.write('* [Introduction](README.md)\n')
@@ -221,7 +264,7 @@ def make_summary():
 
     skillslist = []
     summary.write('* In Market\n')
-    for skill in skillsdata:
+    for skill in skills:
         if skill["skill_info"].get("market_status") == 'In Market':
             skillslist.append(skill)
     categorylist = make_categorylist(skillslist)
@@ -230,7 +273,7 @@ def make_summary():
         summary.writelines(categorylist[category])
     summary.write('* Pending Market\n')
     skillslist = []
-    for skill in skillsdata:
+    for skill in skills:
         if skill["skill_info"].get("market_status") == 'Pending Market':
             skillslist.append(skill)
     categorylist = make_categorylist(skillslist)
@@ -239,7 +282,7 @@ def make_summary():
         summary.writelines(categorylist[category])
     summary.write('* Not in Market\n')
     skillslist = []
-    for skill in skillsdata:
+    for skill in skills:
         if skill["skill_info"].get("market_status") == 'Not in Market':
             skillslist.append(skill)
     categorylist = make_categorylist(skillslist)
@@ -249,7 +292,33 @@ def make_summary():
 
     summary.write('## Skill Writers\n')
 
-make_summary()
+    skillwriters = {}
+    for skill in skills:
+        if not skillwriters.get(skill["owner"]["login"]):
+            skillwriters[skill["owner"]["login"]] = skill["owner"]["login"]
+    skillfile = 'skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
+
+    for writer in skillwriters:
+        summary.write('* @' + writer + '\n')
+        for skill in skills:
+            if writer == skill["owner"]["login"]:
+                skillfile = 'skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
+                if (skill["skill_info"]["title"] == "YOUR SKILL NAME") or (skill["skill_info"]["title"] == ""):
+                    text = "    * [" + clean_txt(skill["name"]) + "](" + skillfile + ")\n"
+                else:
+                    text = "    * [" + clean_txt(skill["skill_info"]["title"]) + "](" + skillfile + ")\n"
+                summary.write(text)
+        
+        
+        
+    print(len(skillwriters))
+
+
+
+
+
+make_readme(skillsdata)
+make_summary(skillsdata)
 make_skillsfiles(skillsdata)
 
 print(len(skillsdata))

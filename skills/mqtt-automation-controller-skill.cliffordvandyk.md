@@ -7,8 +7,7 @@ description:
 Allows control of mqtt-interfaced automation by converting requests to suitable mqtt messages to an mqtt broker on the local network.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Turn on the pool pump.  
 > Turn off the kitchen light.  
 > Set the bedroom light to fifty per cent.  
@@ -18,8 +17,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/cliffordvandyk/mqtt-automation-controller-skill](https://github.com/cliffordvandyk/mqtt-automation-controller-skill)  
-**Owner:** | [@cliffordvandyk](https://github.com/cliffordvandyk)  
-**Created:** | 2018 Dec 23 17:44:57 UTC  **Last updated:** 2018 Dec 23 17:45:09 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/cliffordvandyk/mqtt-automation-controller-skill](https://github.com/cliffordvandyk/mqtt-automation-controller-skill)  
+**Owner:** [@cliffordvandyk](https://github.com/cliffordvandyk)  
+**Created:** 2018 Dec 23 17:44:57 UTC  **Last updated:** 2018 Dec 23 17:45:09 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

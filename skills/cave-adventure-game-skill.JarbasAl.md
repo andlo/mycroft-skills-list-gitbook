@@ -9,9 +9,7 @@ Adapted from python-adventure, the python port of the game.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#game \#adventure \#cave   
-## Examples:  
+### Examples:  
 > Play cave adventure.  
 > Who made cave adventure?  
 > Save.  
@@ -29,8 +27,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/JarbasAl/cave-adventure-game-skill](https://github.com/JarbasAl/cave-adventure-game-skill)  
-**Owner:** | [@JarbasAl](https://github.com/JarbasAl)  
-**Created:** | 2018 Oct 07 21:57:00 UTC  **Last updated:** 2019 Jun 15 02:23:48 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/JarbasAl/cave-adventure-game-skill](https://github.com/JarbasAl/cave-adventure-game-skill)  
+**Owner:** [@JarbasAl](https://github.com/JarbasAl)  
+**Created:** 2018 Oct 07 21:57:00 UTC  **Last updated:** 2019 Jun 15 02:23:48 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#game \#adventure \#cave   

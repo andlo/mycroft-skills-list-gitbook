@@ -9,8 +9,7 @@ This skill is not considered done.
 NOTE: Developent has been currently stoped due to personal reasons. Merge Requests will still be accepted.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Connect to irc.  
 > Join irc channel.  
 > Send irc message.  
@@ -50,8 +49,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/merspieler/irc-skill](https://github.com/merspieler/irc-skill)  
-**Owner:** | [@merspieler](https://github.com/merspieler)  
-**Created:** | 2018 Mar 09 15:56:12 UTC  **Last updated:** 2018 Dec 25 07:15:28 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/merspieler/irc-skill](https://github.com/merspieler/irc-skill)  
+**Owner:** [@merspieler](https://github.com/merspieler)  
+**Created:** 2018 Mar 09 15:56:12 UTC  **Last updated:** 2018 Dec 25 07:15:28 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

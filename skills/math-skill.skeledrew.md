@@ -7,8 +7,7 @@ description:
 A calculator that can be "infinitely" extended, using the abilities template.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Calculate three plus twenty.  
 > Calculate the square root of 100.  
   
@@ -17,8 +16,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/skeledrew/math-skill](https://github.com/skeledrew/math-skill)  
-**Owner:** | [@skeledrew](https://github.com/skeledrew)  
-**Created:** | 2017 Oct 06 16:09:56 UTC  **Last updated:** 2017 Oct 06 21:56:43 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/skeledrew/math-skill](https://github.com/skeledrew/math-skill)  
+**Owner:** [@skeledrew](https://github.com/skeledrew)  
+**Created:** 2017 Oct 06 16:09:56 UTC  **Last updated:** 2017 Oct 06 21:56:43 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

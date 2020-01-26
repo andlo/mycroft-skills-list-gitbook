@@ -14,9 +14,7 @@ We can then make a call to robot-server by using a web request.
 For functions like database access and skin image classification, we send a web request to desk-server.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Robot \#Medical   
-## Examples:  
+### Examples:  
 > Turn left.  
 > Drive to the conference room.  
 > Identify this skin condition.  
@@ -33,8 +31,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/UMD-AIMAR/aimar](https://github.com/UMD-AIMAR/aimar)  
-**Owner:** | [@UMD-AIMAR](https://github.com/UMD-AIMAR)  
-**Created:** | 2019 Oct 24 21:39:40 UTC  **Last updated:** 2019 Dec 03 18:16:17 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/UMD-AIMAR/aimar](https://github.com/UMD-AIMAR/aimar)  
+**Owner:** [@UMD-AIMAR](https://github.com/UMD-AIMAR)  
+**Created:** 2019 Oct 24 21:39:40 UTC  **Last updated:** 2019 Dec 03 18:16:17 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ IoT ] [ Transport ]   
+**Tags:** \#Robot \#Medical   

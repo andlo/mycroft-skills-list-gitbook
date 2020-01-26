@@ -13,8 +13,7 @@ To get this done we need
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Flip a coin.  
   
 ## Installation:  
@@ -29,8 +28,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/wligtenberg/coin-flip-skill](https://github.com/wligtenberg/coin-flip-skill)  
-**Owner:** | [@wligtenberg](https://github.com/wligtenberg)  
-**Created:** | 2017 Sep 11 18:51:52 UTC  **Last updated:** 2019 Apr 25 17:24:38 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/wligtenberg/coin-flip-skill](https://github.com/wligtenberg/coin-flip-skill)  
+**Owner:** [@wligtenberg](https://github.com/wligtenberg)  
+**Created:** 2017 Sep 11 18:51:52 UTC  **Last updated:** 2019 Apr 25 17:24:38 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

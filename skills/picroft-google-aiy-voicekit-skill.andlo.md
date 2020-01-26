@@ -9,8 +9,6 @@ The button led turns on when Mycroft is listning. If button is pressed he begins
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Picroft](../.gitbook/assets/picroft-icon.png)   
-  
-###Tags: \#googlevoicekit \#aiy \#Googleaiy \#voicekit \#voicehat   
 ## Installation:  
 {% hint style="info" %}
 This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
@@ -26,8 +24,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/andlo/picroft-google-aiy-voicekit-skill](https://github.com/andlo/picroft-google-aiy-voicekit-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2018 Oct 19 21:03:35 UTC  **Last updated:** 2019 Dec 28 20:31:07 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/picroft-google-aiy-voicekit)  
+**Github:** [https://github.com/andlo/picroft-google-aiy-voicekit-skill](https://github.com/andlo/picroft-google-aiy-voicekit-skill)  
+**Owner:** [@andlo](https://github.com/andlo)  
+**Created:** 2018 Oct 19 21:03:35 UTC  **Last updated:** 2019 Dec 28 20:31:07 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/picroft-google-aiy-voicekit)  
+**Categories:** [ IoT ]   
+**Tags:** \#googlevoicekit \#aiy \#Googleaiy \#voicekit \#voicehat   

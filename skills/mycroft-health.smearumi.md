@@ -7,9 +7,7 @@ description: Track your and your family's health related information
 You can track health related information of your and your family's and generate the report for current/previous month which will send to your registered email address.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#mycroft \#skill \#health \#medical \#home \#voice \#assistant   
-## Examples:  
+### Examples:  
 > Track health blood pressure  (Mycroft will prompt for 'Top', 'Bottom', 'For whom', 'confirm')  
 > Track health diabetes 5.7  (Mycroft will prompt for 'Before or after meal', 'For whom', 'Confirm')  
 > Track health temperature 99 (Mycroft will prompt for 'For whom', 'Confirm')  
@@ -29,8 +27,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/smearumi/mycroft-health](https://github.com/smearumi/mycroft-health)  
-**Owner:** | [@smearumi](https://github.com/smearumi)  
-**Created:** | 2019 Sep 15 09:22:11 UTC  **Last updated:** 2019 Oct 13 17:37:11 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/smearumi/mycroft-health](https://github.com/smearumi/mycroft-health)  
+**Owner:** [@smearumi](https://github.com/smearumi)  
+**Created:** 2019 Sep 15 09:22:11 UTC  **Last updated:** 2019 Oct 13 17:37:11 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Information ] [ Daily ] [ Productivity ]   
+**Tags:** \#mycroft \#skill \#health \#medical \#home \#voice \#assistant   

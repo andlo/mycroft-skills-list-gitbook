@@ -12,9 +12,7 @@ its brightness level to dim at night.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark II](../.gitbook/assets/mark-2-icon.png)   
-  
-###Tags: \#mark2 \#configuration \#settings \#system   
-## Examples:  
+### Examples:  
 > Turn on auto brightness.  
 > Change to low brightness.  
 > Dim to 50%  
@@ -31,8 +29,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-mark-2](https://github.com/MycroftAI/skill-mark-2)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2018 Dec 12 08:36:13 UTC  **Last updated:** 2019 Nov 29 16:18:16 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/MycroftAI/skill-mark-2](https://github.com/MycroftAI/skill-mark-2)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2018 Dec 12 08:36:13 UTC  **Last updated:** 2019 Nov 29 16:18:16 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Configuration ]   
+**Tags:** \#mark2 \#configuration \#settings \#system   

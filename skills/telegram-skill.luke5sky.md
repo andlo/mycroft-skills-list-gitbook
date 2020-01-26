@@ -65,8 +65,6 @@ Your bot should send you this welcome message: Telegram-Skill on Mycroft Unit YO
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#messenger \#bot \#telegram-bot   
 ## Installation:  
 {% hint style="info" %}
 This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
@@ -82,8 +80,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/luke5sky/telegram-skill](https://github.com/luke5sky/telegram-skill)  
-**Owner:** | [@luke5sky](https://github.com/luke5sky)  
-**Created:** | 2018 Jul 04 10:49:00 UTC  **Last updated:** 2019 Oct 20 20:17:48 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/telegram)  
+**Github:** [https://github.com/luke5sky/telegram-skill](https://github.com/luke5sky/telegram-skill)  
+**Owner:** [@luke5sky](https://github.com/luke5sky)  
+**Created:** 2018 Jul 04 10:49:00 UTC  **Last updated:** 2019 Oct 20 20:17:48 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/telegram)  
+**Categories:** [ Productivity ] [ IoT ]   
+**Tags:** \#messenger \#bot \#telegram-bot   

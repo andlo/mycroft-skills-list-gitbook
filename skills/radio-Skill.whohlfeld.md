@@ -7,8 +7,7 @@ description:
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Play the radio.  
 > What's on the radio?  
   
@@ -24,8 +23,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/whohlfeld/radio-Skill](https://github.com/whohlfeld/radio-Skill)  
-**Owner:** | [@whohlfeld](https://github.com/whohlfeld)  
-**Created:** | 2017 Dec 13 13:24:52 UTC  **Last updated:** 2017 Dec 13 13:26:22 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/whohlfeld/radio-Skill](https://github.com/whohlfeld/radio-Skill)  
+**Owner:** [@whohlfeld](https://github.com/whohlfeld)  
+**Created:** 2017 Dec 13 13:24:52 UTC  **Last updated:** 2017 Dec 13 13:26:22 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

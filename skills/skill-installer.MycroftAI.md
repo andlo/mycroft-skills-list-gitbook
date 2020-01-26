@@ -16,9 +16,7 @@ ambiguous names -- just pick the skill you want from the list read to you.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#install \#installer \#download \#add-skill \#skill \#skills \#msm \#system   
-## Examples:  
+### Examples:  
 > Install coin flip.  
 > Install the preview version of coin flip.  
 > Uninstall coin flip.  
@@ -40,8 +38,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-installer](https://github.com/MycroftAI/skill-installer)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 05 22:57:26 UTC  **Last updated:** 2019 Nov 15 13:45:26 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-installer)  
+**Github:** [https://github.com/MycroftAI/skill-installer](https://github.com/MycroftAI/skill-installer)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Apr 05 22:57:26 UTC  **Last updated:** 2019 Nov 15 13:45:26 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-installer)  
+**Categories:** [ Configuration ]   
+**Tags:** \#install \#installer \#download \#add-skill \#skill \#skills \#msm \#system   

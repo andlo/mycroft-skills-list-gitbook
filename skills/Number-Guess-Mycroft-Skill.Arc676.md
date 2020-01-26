@@ -7,9 +7,7 @@ description: Play Number Guess with Mycroft
 In Number Guess, you provide a lower and upper bound, then try to guess the randomly generated number between those bounds. With this skill, Mycroft can play with you! Ask Mycroft to generate a random number, try to guess, and Mycroft will tell you if your guess is too high, too low, or spot on.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#numberguess \#game \#number \#random \#guessing   
-## Examples:  
+### Examples:  
 > Let's play Number Guess.  
 > Play Number Guess.  
 > Number Guess.  
@@ -29,8 +27,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Arc676/Number-Guess-Mycroft-Skill](https://github.com/Arc676/Number-Guess-Mycroft-Skill)  
-**Owner:** | [@Arc676](https://github.com/Arc676)  
-**Created:** | 2018 Sep 08 13:38:50 UTC  **Last updated:** 2019 May 29 08:15:22 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/skill-number-guess)  
+**Github:** [https://github.com/Arc676/Number-Guess-Mycroft-Skill](https://github.com/Arc676/Number-Guess-Mycroft-Skill)  
+**Owner:** [@Arc676](https://github.com/Arc676)  
+**Created:** 2018 Sep 08 13:38:50 UTC  **Last updated:** 2019 May 29 08:15:22 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/skill-number-guess)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#numberguess \#game \#number \#random \#guessing   

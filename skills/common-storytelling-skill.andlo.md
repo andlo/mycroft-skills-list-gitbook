@@ -16,9 +16,7 @@ intelligent, read them more fairy tales.”
 Albert Einstein  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#stories \#story \#tales \#fairy \#fairytale \#fairytales \#common-storytelling   
-## Examples:  
+### Examples:  
 > Tell a story.  
 > Thell the story {story}  
 > Tell a fairy tale.  
@@ -29,8 +27,10 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/andlo/common-storytelling-skill](https://github.com/andlo/common-storytelling-skill)  
-**Owner:** | [@andlo](https://github.com/andlo)  
-**Created:** | 2019 Feb 17 14:09:54 UTC  **Last updated:** 2019 Feb 18 20:58:47 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/andlo/common-storytelling-skill](https://github.com/andlo/common-storytelling-skill)  
+**Owner:** [@andlo](https://github.com/andlo)  
+**Created:** 2019 Feb 17 14:09:54 UTC  **Last updated:** 2019 Feb 18 20:58:47 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Entertainment ]   
+**Tags:** \#stories \#story \#tales \#fairy \#fairytale \#fairytales \#common-storytelling   

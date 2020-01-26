@@ -22,9 +22,7 @@ ever doubt that it's even doing anything, open another terminal and run htop on 
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
   
-  
-###Tags: \#\chatbot \#\aiml \#\aiml2.0   
-## Examples:  
+### Examples:  
 > My name is Dave.  
 > What is my name?  
   
@@ -40,8 +38,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Fantailed/fallback-chatbot](https://github.com/Fantailed/fallback-chatbot)  
-**Owner:** | [@Fantailed](https://github.com/Fantailed)  
-**Created:** | 2018 Nov 26 21:57:05 UTC  **Last updated:** 2018 Nov 29 15:35:16 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Fantailed/fallback-chatbot](https://github.com/Fantailed/fallback-chatbot)  
+**Owner:** [@Fantailed](https://github.com/Fantailed)  
+**Created:** 2018 Nov 26 21:57:05 UTC  **Last updated:** 2018 Nov 29 15:35:16 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Entertainment ] [ Daily ]   
+**Tags:** \#\chatbot \#\aiml \#\aiml2.0   

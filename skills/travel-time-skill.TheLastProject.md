@@ -9,9 +9,7 @@ This skill uses OpenStreetMap Nomatim to reverse geocode the location and WazeRo
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#Travel \#Car \#Traffic \#Waze \#OpenStreetMaps   
-## Examples:  
+### Examples:  
 > How long to work?  
 > What's the travel time to amsterdam?  
 > What's traffic like to brussels?  
@@ -30,8 +28,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/TheLastProject/travel-time-skill](https://github.com/TheLastProject/travel-time-skill)  
-**Owner:** | [@TheLastProject](https://github.com/TheLastProject)  
-**Created:** | 2019 Dec 25 18:07:04 UTC  **Last updated:** 2019 Dec 27 21:30:40 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/TheLastProject/travel-time-skill](https://github.com/TheLastProject/travel-time-skill)  
+**Owner:** [@TheLastProject](https://github.com/TheLastProject)  
+**Created:** 2019 Dec 25 18:07:04 UTC  **Last updated:** 2019 Dec 27 21:30:40 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Transport ] [ Information ]   
+**Tags:** \#Travel \#Car \#Traffic \#Waze \#OpenStreetMaps   

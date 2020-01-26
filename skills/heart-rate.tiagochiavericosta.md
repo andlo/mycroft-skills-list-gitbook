@@ -7,8 +7,7 @@ description:
 Say the command to mycroft and place a finger on the webcam lens.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > What is my heart rate?  
 > What my heart rate?  
   
@@ -17,8 +16,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/tiagochiavericosta/heart-rate](https://github.com/tiagochiavericosta/heart-rate)  
-**Owner:** | [@tiagochiavericosta](https://github.com/tiagochiavericosta)  
-**Created:** | 2018 May 21 01:17:49 UTC  **Last updated:** 2019 Sep 15 01:43:46 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/tiagochiavericosta/heart-rate](https://github.com/tiagochiavericosta/heart-rate)  
+**Owner:** [@tiagochiavericosta](https://github.com/tiagochiavericosta)  
+**Created:** 2018 May 21 01:17:49 UTC  **Last updated:** 2019 Sep 15 01:43:46 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

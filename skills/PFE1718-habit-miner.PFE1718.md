@@ -14,8 +14,7 @@ Group based habits (i.e launching a group of skills very frequently)
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Start habit mining.  
   
 ## Installation:  
@@ -30,8 +29,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/PFE1718/PFE1718-habit-miner](https://github.com/PFE1718/PFE1718-habit-miner)  
-**Owner:** | [@PFE1718](https://github.com/PFE1718)  
-**Created:** | 2018 Jan 22 20:24:35 UTC  **Last updated:** 2018 Feb 01 21:07:13 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/PFE1718/PFE1718-habit-miner](https://github.com/PFE1718/PFE1718-habit-miner)  
+**Owner:** [@PFE1718](https://github.com/PFE1718)  
+**Created:** 2018 Jan 22 20:24:35 UTC  **Last updated:** 2018 Feb 01 21:07:13 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

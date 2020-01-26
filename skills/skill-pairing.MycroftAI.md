@@ -11,9 +11,7 @@ as well as easy configuration for all your Mycroft devices.
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#pair \#pairing \#connectivity \#system   
-## Examples:  
+### Examples:  
 > Pair my device.  
   
 ## Installation:  
@@ -31,8 +29,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/MycroftAI/skill-pairing](https://github.com/MycroftAI/skill-pairing)  
-**Owner:** | [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** | 2017 Apr 05 22:57:13 UTC  **Last updated:** 2019 Dec 20 16:52:50 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/mycroft-pairing)  
+**Github:** [https://github.com/MycroftAI/skill-pairing](https://github.com/MycroftAI/skill-pairing)  
+**Owner:** [@MycroftAI](https://github.com/MycroftAI)  
+**Created:** 2017 Apr 05 22:57:13 UTC  **Last updated:** 2019 Dec 20 16:52:50 UTC  
+**License:** Apache License 2.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-pairing)  
+**Categories:** [ Configuration ]   
+**Tags:** \#pair \#pairing \#connectivity \#system   

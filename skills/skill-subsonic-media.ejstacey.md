@@ -8,8 +8,7 @@ This module plays streaming content from a Subsonic Media Server (
 ![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Play something i can never have by nine inch nails.  
 > Play pretty hate machine.  
 > Play nine inch nails.  
@@ -20,8 +19,9 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/ejstacey/skill-subsonic-media](https://github.com/ejstacey/skill-subsonic-media)  
-**Owner:** | [@ejstacey](https://github.com/ejstacey)  
-**Created:** | 2018 Mar 18 04:00:51 UTC  **Last updated:** 2018 May 18 17:19:14 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/ejstacey/skill-subsonic-media](https://github.com/ejstacey/skill-subsonic-media)  
+**Owner:** [@ejstacey](https://github.com/ejstacey)  
+**Created:** 2018 Mar 18 04:00:51 UTC  **Last updated:** 2018 May 18 17:19:14 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

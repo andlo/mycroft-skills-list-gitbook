@@ -34,8 +34,7 @@ Python Dbus and Python Psutil package is required and copying the Python Dbus fo
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Amarok play music.  
 > Amarok stop music.  
 > Amarok next song.  
@@ -47,8 +46,9 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/AIIX/amarok-player-skill](https://github.com/AIIX/amarok-player-skill)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2017 Mar 31 19:11:19 UTC  **Last updated:** 2019 Jul 31 13:54:50 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/AIIX/amarok-player-skill](https://github.com/AIIX/amarok-player-skill)  
+**Owner:** [@AIIX](https://github.com/AIIX)  
+**Created:** 2017 Mar 31 19:11:19 UTC  **Last updated:** 2019 Jul 31 13:54:50 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

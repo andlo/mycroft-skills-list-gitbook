@@ -14,8 +14,7 @@ And it actually does seem to work pretty good.
 Translations might be a problem with this method, but this skill uses questions in english.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Start local speech.  
 > Play trivia.  
 > Game of trivia.  
@@ -28,8 +27,9 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 {% endhint %}
   
 ## Summary:  
-**Github:** | [https://github.com/tjoen/trivia-game-skill](https://github.com/tjoen/trivia-game-skill)  
-**Owner:** | [@tjoen](https://github.com/tjoen)  
-**Created:** | 2018 Feb 21 13:52:32 UTC  **Last updated:** 2018 Feb 21 13:53:01 UTC  
-**License:** | No License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/tjoen/trivia-game-skill](https://github.com/tjoen/trivia-game-skill)  
+**Owner:** [@tjoen](https://github.com/tjoen)  
+**Created:** 2018 Feb 21 13:52:32 UTC  **Last updated:** 2018 Feb 21 13:53:01 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

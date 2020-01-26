@@ -7,7 +7,6 @@ description:
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -20,8 +19,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/AIIX/image-ocr-skill](https://github.com/AIIX/image-ocr-skill)  
-**Owner:** | [@AIIX](https://github.com/AIIX)  
-**Created:** | 2018 Mar 20 13:22:21 UTC  **Last updated:** 2018 Mar 20 13:27:17 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/AIIX/image-ocr-skill](https://github.com/AIIX/image-ocr-skill)  
+**Owner:** [@AIIX](https://github.com/AIIX)  
+**Created:** 2018 Mar 20 13:22:21 UTC  **Last updated:** 2018 Mar 20 13:27:17 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

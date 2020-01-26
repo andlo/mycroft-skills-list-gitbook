@@ -8,9 +8,7 @@ A simple Mycroft wrapper for a small subset of Aircrack-ng. Basically, it can li
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#aircrack \#aircrack-ng \#wifi   
-## Examples:  
+### Examples:  
 > List interfaces.  
 > Select interface number one.  
 > List wireless networks.  
@@ -35,8 +33,10 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/JonStratton/skill-aircrack](https://github.com/JonStratton/skill-aircrack)  
-**Owner:** | [@JonStratton](https://github.com/JonStratton)  
-**Created:** | 2018 May 10 01:57:37 UTC  **Last updated:** 2019 Dec 11 03:50:35 UTC  
-**License:** | GNU General Public License v3.0  
-**Market status:** | [In Market](https://market.mycroft.ai/skill/skill-aircrack)  
+**Github:** [https://github.com/JonStratton/skill-aircrack](https://github.com/JonStratton/skill-aircrack)  
+**Owner:** [@JonStratton](https://github.com/JonStratton)  
+**Created:** 2018 May 10 01:57:37 UTC  **Last updated:** 2019 Dec 11 03:50:35 UTC  
+**License:** GNU General Public License v3.0  
+**Market status:** [In Market](https://market.mycroft.ai/skill/skill-aircrack)  
+**Categories:** [ Information ]   
+**Tags:** \#aircrack \#aircrack-ng \#wifi   

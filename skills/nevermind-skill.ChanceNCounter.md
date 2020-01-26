@@ -1,5 +1,5 @@
 ---
-description: Dismisses Mycroft  DON'T INSTALL THIS! 
+description: Dismisses Mycroft  DON'T INSTALL THIS! The name doesn't play nice with STT right now, so you're going to have a hard time installing or removing it verbally. The skill has been renamed, and this repo will likely be deleted once the new repo is committed to the Marketplace.  If you're trying to fuss with the code, or to install the skill manually, use this repo instead:  
 ---
 
 ### _nevermind-skill.ChanceNCounter_  
@@ -8,9 +8,7 @@ Allows you to dismiss Mycroft verbally, in case of accidental activation, or if 
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-###Tags: \#basic   
-## Examples:  
+### Examples:  
 > Nevermind.  
 > Dismissed.  
 > Forget it.  
@@ -28,8 +26,10 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/ChanceNCounter/nevermind-skill](https://github.com/ChanceNCounter/nevermind-skill)  
-**Owner:** | [@ChanceNCounter](https://github.com/ChanceNCounter)  
-**Created:** | 2019 Aug 09 22:38:18 UTC  **Last updated:** 2019 Sep 18 15:00:04 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/ChanceNCounter/nevermind-skill](https://github.com/ChanceNCounter/nevermind-skill)  
+**Owner:** [@ChanceNCounter](https://github.com/ChanceNCounter)  
+**Created:** 2019 Aug 09 22:38:18 UTC  **Last updated:** 2019 Sep 18 15:00:04 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Configuration ]   
+**Tags:** \#basic   

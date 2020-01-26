@@ -7,8 +7,7 @@ description:
 Looks up information about a person.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Who is John Doe?  
   
 ## Installation:  
@@ -23,8 +22,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/tsandh/whois-skill](https://github.com/tsandh/whois-skill)  
-**Owner:** | [@tsandh](https://github.com/tsandh)  
-**Created:** | 2019 Jan 15 23:17:38 UTC  **Last updated:** 2019 Jan 16 02:02:53 UTC  
-**License:** | MIT License  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/tsandh/whois-skill](https://github.com/tsandh/whois-skill)  
+**Owner:** [@tsandh](https://github.com/tsandh)  
+**Created:** 2019 Jan 15 23:17:38 UTC  **Last updated:** 2019 Jan 16 02:02:53 UTC  
+**License:** MIT License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

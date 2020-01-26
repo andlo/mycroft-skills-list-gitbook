@@ -7,7 +7,6 @@ description:
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
 ## Installation:  
 {% hint style="warning" %}
 This skill is not aproved by Mycroft skill tester.
@@ -20,8 +19,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/Arcanesaadman15/MySkills3](https://github.com/Arcanesaadman15/MySkills3)  
-**Owner:** | [@Arcanesaadman15](https://github.com/Arcanesaadman15)  
-**Created:** | 2018 Feb 04 18:44:44 UTC  **Last updated:** 2018 Feb 04 18:45:47 UTC  
-**License:** | Apache License 2.0  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/Arcanesaadman15/MySkills3](https://github.com/Arcanesaadman15/MySkills3)  
+**Owner:** [@Arcanesaadman15](https://github.com/Arcanesaadman15)  
+**Created:** 2018 Feb 04 18:44:44 UTC  **Last updated:** 2018 Feb 04 18:45:47 UTC  
+**License:** Apache License 2.0  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   

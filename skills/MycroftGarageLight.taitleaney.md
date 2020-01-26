@@ -7,8 +7,7 @@ description:
 This skill turns on/off the garage light via lifx.  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
-  
-## Examples:  
+### Examples:  
 > Garage Light.  
   
 ## Installation:  
@@ -23,8 +22,9 @@ This skill is not aproved by Mycroft skill tester.
   {% endtabs %}
     
 ## Summary:  
-**Github:** | [https://github.com/taitleaney/MycroftGarageLight](https://github.com/taitleaney/MycroftGarageLight)  
-**Owner:** | [@taitleaney](https://github.com/taitleaney)  
-**Created:** | 2019 Jul 11 02:58:51 UTC  **Last updated:** 2019 Jul 11 12:16:12 UTC  
-**License:** | Other  
-**Market status:** | [Not in Market](https://market.mycroft.ai/skill/)  
+**Github:** [https://github.com/taitleaney/MycroftGarageLight](https://github.com/taitleaney/MycroftGarageLight)  
+**Owner:** [@taitleaney](https://github.com/taitleaney)  
+**Created:** 2019 Jul 11 02:58:51 UTC  **Last updated:** 2019 Jul 11 12:16:12 UTC  
+**License:** Other  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ uncategorized ]   
