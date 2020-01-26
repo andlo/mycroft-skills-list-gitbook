@@ -277,7 +277,7 @@ def make_summary(skills):
             skillslist.append(skill)
     categorylist = make_categorylist(skillslist)
     for category in categorylist:
-        summary.write('* ' + category + '\n')
+        summary.write('  * ' + category + '\n')
         summary.writelines(categorylist[category])
     summary.write('* Pending Market \n')
     skillslist = []
@@ -286,7 +286,7 @@ def make_summary(skills):
             skillslist.append(skill)
     categorylist = make_categorylist(skillslist)
     for category in categorylist:
-        summary.write('* ' + category + '\n')
+        summary.write('  * ' + category + '\n')
         summary.writelines(categorylist[category])
     summary.write('* Not in Market  \n')
     skillslist = []
@@ -295,7 +295,7 @@ def make_summary(skills):
             skillslist.append(skill)
     categorylist = make_categorylist(skillslist)
     for category in categorylist:
-        summary.write('* ' + category + '\n')
+        summary.write('  * ' + category + '\n')
         summary.writelines(categorylist[category])
 
     summary.write('* Skill Writers  \n')

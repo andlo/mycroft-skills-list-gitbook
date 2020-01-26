@@ -3,7 +3,7 @@
 * [FAQ](FAQ.md)
 ## Skills
 * In Market  
-* Configuration
+  * Configuration
     * [Hello World](skills/skill-hello-world.MycroftAI.md)
     * [Pairing](skills/skill-pairing.MycroftAI.md)
     * [Volume Control](skills/skill-volume.MycroftAI.md)
@@ -20,14 +20,14 @@
     * [Mark 1 Demo](skills/skill-mark1-demo.MycroftAI.md)
     * [Auto volume](skills/auto-volume-skill.andlo.md)
     * [Finished Booting Skill](skills/skill-finished-booting.zelmon64.md)
-* IoT
+  * IoT
     * [openHAB](skills/openhab-mycroft.openhab.md)
     * [Wink IoT](skills/skill-wink-iot.MycroftAI.md)
     * [Google AIY voicekit](skills/picroft-google-aiy-voicekit-skill.andlo.md)
     * [Telegram](skills/telegram-skill.luke5sky.md)
     * [Speedtest](skills/speedtest-skill.luke5sky.md)
     * [lifx-mycroft](skills/lifx-mycroft.samclane.md)
-* Daily
+  * Daily
     * [Weather](skills/skill-weather.MycroftAI.md)
     * [Set alarms](skills/skill-alarm.MycroftAI.md)
     * [Naptime](skills/skill-naptime.MycroftAI.md)
@@ -41,7 +41,7 @@
     * [Speedtest](skills/speedtest-skill.luke5sky.md)
     * [ISS Tracker](skills/iss-tracker-skill.andlo.md)
     * [Remember](skills/remember-skill.luke5sky.md)
-* Entertainment
+  * Entertainment
     * [Mycroft's Background](skills/skill-personal.MycroftAI.md)
     * [Speak](skills/skill-speak.MycroftAI.md)
     * [Singing](skills/skill-singing.MycroftAI.md)
@@ -54,7 +54,7 @@
     * [Pick Number](skills/skill-pick-number.pcwii.md)
     * [ISS Tracker](skills/iss-tracker-skill.andlo.md)
     * [Number Guess](skills/Number-Guess-Mycroft-Skill.Arc676.md)
-* Information
+  * Information
     * [Spelling](skills/skill-spelling.MycroftAI.md)
     * [Wikipedia](skills/skill-wiki.MycroftAI.md)
     * [Stock Prices](skills/skill-stock.MycroftAI.md)
@@ -65,9 +65,9 @@
     * [Speedtest](skills/speedtest-skill.luke5sky.md)
     * [National Parks](skills/national-parks-skill.richhowley.md)
     * [ISS Tracker](skills/iss-tracker-skill.andlo.md)
-* uncategorized
+  * uncategorized
     * [The Cows Lists](skills/skill-the-cows-lists.CarstenAgerskov.md)
-* Productivity
+  * Productivity
     * [Krunner Search](skills/krunner-search-skill.AIIX.md)
     * [Plasma Activites](skills/plasma-activities-skill.AIIX.md)
     * [THEIA IDE](skills/theia-ide-skill.andlo.md)
@@ -76,33 +76,33 @@
     * [Mycroft Chat](skills/mycroft-chat-skill.domcross.md)
     * [Speedtest](skills/speedtest-skill.luke5sky.md)
     * [Remember](skills/remember-skill.luke5sky.md)
-* Music
+  * Music
     * [Playback Control](skills/skill-playback-control.MycroftAI.md)
 * Pending Market 
-* Productivity
+  * Productivity
     * [Desktop Launcher](skills/skill-desktop-launcher.MycroftAI.md)
     * [Plasma User Control](skills/plasma-user-control-skill.AIIX.md)
-* IoT
+  * IoT
     * [Magic Mirror Voice Control](skills/magic-mirror-voice-control-skill.dmwilsonkc.md)
     * [IoT Control](skills/skill-iot-control.MycroftAI.md)
     * [Raspberry Pi GPIO Demo](skills/Controlling_GPIO.drunau.md)
-* Information
+  * Information
     * [My Episodes](skills/brezicode.myepisodes.mycroftai.brezuicabogdan.md)
     * [Food Wizard](skills/food-wizard.AIIX.md)
     * [Powerball Checker](skills/powerball-checker-skill.laurapalmerstolemyheart.md)
     * [Allergy Level](skills/mycroft-skill-allergy.mofadashi.md)
-* Entertainment
+  * Entertainment
     * [My Episodes](skills/brezicode.myepisodes.mycroftai.brezuicabogdan.md)
     * [Powerball Checker](skills/powerball-checker-skill.laurapalmerstolemyheart.md)
-* Transport
+  * Transport
     * [MBTA Bus Tracking](skills/mbta-bus-tracking-skill.richhowley.md)
-* Music
+  * Music
     * [Soundcloud Player](skills/soundcloud-audio-player.AIIX.md)
-* Daily
+  * Daily
     * [Powerball Checker](skills/powerball-checker-skill.laurapalmerstolemyheart.md)
     * [Allergy Level](skills/mycroft-skill-allergy.mofadashi.md)
 * Not in Market  
-* uncategorized
+  * uncategorized
     * [Home Assistant Skill for Mycroft](skills/mycroft-homeassistant.eClarity.md)
     * [Pandora](skills/pianobar-skill.ethanaward.md)
     * [mycroft-youtube](skills/mycroft-youtube.augustnmonteiro.md)
@@ -546,7 +546,7 @@
     * [KC Streetcar](skills/wally-kc-streetcar.bw3740.md)
     * [irc-skill](skills/irc-skill.merspieler.md)
     * [mycroft---pick-up-line---skill](skills/skill-pick-up-lines.JarbasAl.md)
-* IoT
+  * IoT
     * [MQTT for MycroftAI](skills/mycroft-mymqtt.jamiehoward430.md)
     * [Network Ping](skills/ping-skill.nogre.md)
     * [Communications](skills/communications-skill.LinusS1.md)
@@ -565,7 +565,7 @@
     * [Mycroft Indi](skills/mycroft-indi-skill.mgellan.md)
     * [Lahuertaderamiroskill](skills/LaHuertaDeRamiroSkill.jandrovins.md)
     * [Roomba Serial Command](skills/roomba-serial-command-skill.JonStratton.md)
-* Entertainment
+  * Entertainment
     * [Parrot](skills/skill-parrot.JarbasAl.md)
     * [Podcasts](skills/podcast-skill.JamesPoole.md)
     * [Farting](skills/skill-farting.aussieW.md)
@@ -586,7 +586,7 @@
     * [Fallback Chatbot](skills/fallback-chatbot.Fantailed.md)
     * [Minecraft Server Status](skills/minecraft-server-status-skill.retrodaredevil.md)
     * [Common Storytelling](skills/common-storytelling-skill.andlo.md)
-* Configuration
+  * Configuration
     * [Platform Patch](skills/skill-platform-patch.MycroftAI.md)
     * [Mycroft Mark 2](skills/skill-mark-2.MycroftAI.md)
     * [Nevermind](skills/nevermind-skill.ChanceNCounter.md)
@@ -604,7 +604,7 @@
     * [About](skills/naga-mycroft-test.nagamanikandank.md)
     * [Skill Testing](skills/skill-testing-skill.krisgesling.md)
     * [Bj Geolocation Sample](skills/bj-geolocation-sample-skill.ndato.md)
-* Media
+  * Media
     * [Kodi Control](skills/kodi-skill.pcwii.md)
     * [Podcasts](skills/podcast-skill.JamesPoole.md)
     * [Communications](skills/communications-skill.LinusS1.md)
@@ -613,7 +613,7 @@
     * [Podcast Player](skills/podcast-player-skill.kalyaninagaraj.md)
     * [All India Radio News](skills/all-india-radio-skill.kalyaninagaraj.md)
     * [Kodi Remote Skill](skills/skill-kodi-remote.mehmetaergun.md)
-* Information
+  * Information
     * [Podcasts](skills/podcast-skill.JamesPoole.md)
     * [Skill-Gui-Example](skills/Skill-Gui-Examples.AIIX.md)
     * [Communications](skills/communications-skill.LinusS1.md)
@@ -639,14 +639,14 @@
     * [Public Transport](skills/public-transport-skill.Nos-.md)
     * [Wikipedia](skills/webmd-skill.Shivaabhai.md)
     * [Sports](skills/sports-skill.ldubost.md)
-* Music
+  * Music
     * [Podcasts](skills/podcast-skill.JamesPoole.md)
     * [Podcast Player](skills/podcast-player-skill.kalyaninagaraj.md)
     * [Volume Control](skills/mycroft-volume.syner1.md)
     * [Playback Control](skills/mycroft-navigaton-control.gras64.md)
     * [Music Brains](skills/skill-musicbrainz.sumutcan.md)
     * [Shairport](skills/shairport-skill.domcross.md)
-* Productivity
+  * Productivity
     * [Desktop Control](skills/desktop-control.TREE-Ind.md)
     * [List Manager](skills/list-manager-skill.lb803.md)
     * [Communications](skills/communications-skill.LinusS1.md)
@@ -670,7 +670,7 @@
     * [Sport Exercises](skills/sport-exercises-skill.TheCis.md)
     * [Anki Interface](skills/anki-interface-skill.timo-a.md)
     * [Todoist](skills/todoist-skill.moritzgloeckl.md)
-* Daily
+  * Daily
     * [Hello World](skills/mycroft-skill-today-in-history.BhavikKatyal.md)
     * [Communications](skills/communications-skill.LinusS1.md)
     * [Severe Weather Information](skills/severe-weather-information-skill.domcross.md)
@@ -711,45 +711,45 @@
     * [Sport Exercises](skills/sport-exercises-skill.TheCis.md)
     * [Anki Interface](skills/anki-interface-skill.timo-a.md)
     * [Todoist](skills/todoist-skill.moritzgloeckl.md)
-* Essentials
+  * Essentials
     * [Severe Weather Information](skills/severe-weather-information-skill.domcross.md)
-* Weather
+  * Weather
     * [Severe Weather Information](skills/severe-weather-information-skill.domcross.md)
-* Transport
+  * Transport
     * [Travel Time](skills/travel-time-skill.TheLastProject.md)
     * [Aimar](skills/aimar.UMD-AIMAR.md)
-* Example
+  * Example
     * [Polite](skills/polite-skill.krisgesling.md)
-* &
+  * &
     * [Podcast Player](skills/podcast-player-skill.kalyaninagaraj.md)
     * [Shairport](skills/shairport-skill.domcross.md)
-* Audio
+  * Audio
     * [Podcast Player](skills/podcast-player-skill.kalyaninagaraj.md)
     * [Shairport](skills/shairport-skill.domcross.md)
-* Home
+  * Home
     * [Jeedom Assistant](skills/jeedom-assistant-skill.gilbr1098.md)
-* automation
+  * automation
     * [Jeedom Assistant](skills/jeedom-assistant-skill.gilbr1098.md)
-* Development
+  * Development
     * [Dev Ex Get Response](skills/dev-ex-get-response-skill.krisgesling.md)
-* Arts
+  * Arts
     * [Hello Print](skills/hello-print-skill.MYesca.md)
-* Restoration
+  * Restoration
     * [Hello Print](skills/hello-print-skill.MYesca.md)
-* Vintage
+  * Vintage
     * [Hello Print](skills/hello-print-skill.MYesca.md)
-* Testing
+  * Testing
     * [Bj Geolocation Sample](skills/bj-geolocation-sample-skill.ndato.md)
-* Information,
+  * Information,
     * [Test](skills/Mycroft-Nextcloud-Skill.Extarys.md)
-* Iot
+  * Iot
     * [Shodan](skills/clyde-shodan.ninjaspl0it.md)
-* Examples
+  * Examples
     * [Regex Example](skills/regex-example-skill.krisgesling.md)
-* Transportation
+  * Transportation
     * [Public Transport](skills/public-transport-skill.Nos-.md)
-* Messaging
+  * Messaging
     * [Apprise](skills/apprise-skill.domcross.md)
-* Sports
+  * Sports
     * [Sports](skills/sports-skill.ldubost.md)
 * Skill Writers  
