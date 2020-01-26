@@ -290,8 +290,10 @@ def make_summary(skills):
         summary.write('  * ' + category + '\n')
         summary.writelines(categorylist[category])
 
-    summary.write('## Skill Writers\n')
+    summary.write('## [Skill Writers](SKILLWRITERS.md.md\n')
 
+def make_skillwritermd(skills):
+    txt = open('../SKILLWRITERS.md', 'w')
     skillwriters = {}
     for skill in skills:
         if not skillwriters.get(skill["owner"]["login"]):
@@ -299,7 +301,7 @@ def make_summary(skills):
     skillfile = 'skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
 
     for writer in skillwriters:
-        summary.write('* ' + writer + '\n')
+        txt.write('* ' + writer + '\n')
         for skill in skills:
             if writer == skill["owner"]["login"]:
                 skillfile = 'skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
@@ -307,10 +309,7 @@ def make_summary(skills):
                     text = "    * [" + clean_txt(skill["name"]) + "](" + skillfile + ")\n"
                 else:
                     text = "    * [" + clean_txt(skill["skill_info"]["title"]) + "](" + skillfile + ")\n"
-                summary.write(text)
-        
-        
-        
+                txt.write(text)
     print(len(skillwriters))
 
 
@@ -319,6 +318,7 @@ def make_summary(skills):
 
 make_readme(skillsdata)
 make_summary(skillsdata)
+make_skillwritermd(skillsdata)
 make_skillsfiles(skillsdata)
 
 print(len(skillsdata))
