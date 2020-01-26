@@ -6,6 +6,7 @@ description: Learn history and personality of Mycroft
 ## Description:  
 Ask about the "birth" and parentage of Mycroft and get a taste of the community
 who is fostering this open source artificial intelligence.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

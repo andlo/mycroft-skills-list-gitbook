@@ -5,6 +5,7 @@ description:
 ### _movie_trivia.fandonov_  
 ## Description:  
 With self contained db from opendb project, this skill knows lets Mycroft knows all about who plays who in what movie, directors, screen writers, etc.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

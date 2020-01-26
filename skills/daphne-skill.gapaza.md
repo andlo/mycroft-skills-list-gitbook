@@ -5,6 +5,7 @@ description: Physical embodiment of daphne eoss
 ### _daphne-skill.gapaza_  
 ## Description:  
 Connect mycroft mark ii to daphne server.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

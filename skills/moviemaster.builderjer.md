@@ -6,6 +6,7 @@ description: Find information about movies, actors and production details
 ## Description:  
 Easily find information about a movie with your voice.  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

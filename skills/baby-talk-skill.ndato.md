@@ -5,6 +5,7 @@ description:
 ### _baby-talk-skill.ndato_  
 ## Description:  
 Communicate to mycroft as if you're talking to a baby.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

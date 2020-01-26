@@ -6,6 +6,7 @@ description: Control the volume of your system
 ## Description:  
 Control the volume of Mycroft with verbal commands or by spinning the physical
 button on a Mark 1.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)   
 ### Examples:  

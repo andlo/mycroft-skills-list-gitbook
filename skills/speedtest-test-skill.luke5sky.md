@@ -6,6 +6,7 @@ description: Ask MyCroft to run a simple speedtest
 ## Description:  
 Run a speedtest with MyCroft.
 This skill uses the speedtest-cli ( which runs an internet bandwidth test using speedtest.net.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

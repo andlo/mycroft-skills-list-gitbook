@@ -6,6 +6,7 @@ description:
 ## Description:  
 This Skill has been created for the makers and hackers who want to build their own home automation system based on ESP8266. The purpose of this Skill is to be able to use Mycroft to send commands to all ESP8266s on the local network. The communication protocol can be selected (Websocket, MQTT, http GET).  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

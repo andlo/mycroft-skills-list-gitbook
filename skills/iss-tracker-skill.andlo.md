@@ -8,6 +8,7 @@ This skill allows mycroft to tell you where the International Space Station (ISS
 to the earth in latitude and longitude. it uses reverse geocoding to translate these coordinates
 into the country or body of water it is over.  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

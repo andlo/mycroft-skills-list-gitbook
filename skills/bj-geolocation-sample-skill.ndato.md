@@ -5,6 +5,7 @@ description: Minimum code to test geolocation api
 ### _bj-geolocation-sample-skill.ndato_  
 ## Description:  
 Mycroft skill to provide minimum code to test the geolocation api.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

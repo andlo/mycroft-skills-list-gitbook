@@ -5,6 +5,7 @@ description:
 ### _espy-skill.Dark5ide_  
 ## Description:  
 This skill has been created for the makers and hackers who want to build their own home automation system based on esp8266. the purpose of this skill is to be able to use mycroft to send commands to all esp8266s on the local network. the communication protocol can be selected (websocket, mqtt, http get).  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

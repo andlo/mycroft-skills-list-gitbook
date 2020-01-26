@@ -9,6 +9,7 @@ with simple open/close commands. It is very similiar to Desktop
 Launcher from Mycroft but
 ony uses subprocesses to open/close programs. It also gives you a message if a
 application is not found on the device.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

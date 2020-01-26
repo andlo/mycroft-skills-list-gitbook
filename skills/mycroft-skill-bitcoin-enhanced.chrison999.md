@@ -9,6 +9,7 @@ This Mycroft skill is an enhancement of the bitcoin-skill by Red5d.
 The bitcoin statistics are obtained from bitcoinaverage.com.
 (  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

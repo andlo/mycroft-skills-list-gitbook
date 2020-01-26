@@ -9,6 +9,7 @@ Configure up to three services and/or use a configuration file (e.g. when you do
 Please refer to the apprise lib wiki for detailed information on service url configuration.
 For config file usage instructions please see the apprise config file manual.  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

@@ -6,6 +6,7 @@ description: Select a random number when provided a min and max value
 ## Description:  
 Mycroft.AI will select a random number between a min and max value.
 The minimum and maximum value may be in any order and any value.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

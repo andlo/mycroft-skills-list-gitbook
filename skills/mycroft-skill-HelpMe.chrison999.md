@@ -15,6 +15,7 @@ Input: help me with intents
 Input: help me with skill
 2017-05-26 17:42:52,210 - CLIClient - INFO - Speak: skill_joke , no description provided for this skill.  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

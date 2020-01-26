@@ -16,6 +16,7 @@ will respond to the linux keyword and return the server Status of linux.com, bec
 If you are running server software that can respond to GET requests, such as Huginn, or there is a webservice without a prepackaged Mycroft skill that accepts webhooks, then a line like
 hug, 1, 
 and the corresponding settings on the remote end will make the Ping Skill into a basic remote control. Saying Mycroft: Send a Ping Hug will load that URL, which will execute code on the server. Mycroft will reply, in the case of Huginn with a default Webhook Agent, with the custom server response, Event Created 201, to confirm the instruction was received and followed.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

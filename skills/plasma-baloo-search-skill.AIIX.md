@@ -5,6 +5,7 @@ description:
 ### _plasma-baloo-search-skill.AIIX_  
 ## Description:  
 Note: This Mycroft Skill Requires The Mycroft Plasmoid for Desktop / Plasma-Mobile To Display Results.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

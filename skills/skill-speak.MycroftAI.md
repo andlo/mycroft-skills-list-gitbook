@@ -6,6 +6,7 @@ description: Make Mycroft repeat whatever you want
 ## Description:  
 Turn Mycroft into a parrot.  Speak a phrase and listen to it repeated in Mycroft's selected voice.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

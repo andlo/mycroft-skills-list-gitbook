@@ -14,6 +14,7 @@ list on the skills configuration page.
 ask "are there weather alerts?" to check for new alerts.
 you can also set a "watchdog" that automatically checks for new alerts and notifies you...  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

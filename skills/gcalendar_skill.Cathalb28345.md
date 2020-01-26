@@ -5,6 +5,7 @@ description:
 ### _gcalendar_skill.Cathalb28345_  
 ## Description:  
 Fetches scheduled events from Google Calendar and allows adding events to your calendar.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

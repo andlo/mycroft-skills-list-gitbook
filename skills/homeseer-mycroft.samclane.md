@@ -8,6 +8,7 @@ A port of the HomeSeer functionality from Alexa to Mycroft. Allows the user to i
 control. Currently allows devices to be turned on/off, change values/percentages, lock/unlock devices, and get the
 current status of any device.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

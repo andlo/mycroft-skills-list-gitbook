@@ -13,6 +13,7 @@ Hey Mycroft, what version are you running?
 "I'm runing mycroft-core version 0.8.19"
 If your version is less than 0.9.0, you should install this platform patch.  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)   
 ### Examples:  

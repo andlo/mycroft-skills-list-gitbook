@@ -66,6 +66,7 @@ T bus remove shortcut rat race
 allow you to list and delete saved shortcuts.
 API Key
 When installed this skill does not use an API key when getting data from the MBTA servers.  Using a key allows a higher rate limit when requesting data.  It should not be necessary to use an API key but if you like you may obtain one on the MBTA website. In the skill settings on Mycroft Home check the box next to "Use my API key" and enter your key in the text field.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

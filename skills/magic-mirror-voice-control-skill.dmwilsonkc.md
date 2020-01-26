@@ -14,6 +14,7 @@ You can use this skill to hide or show modules, update the mirror or individual 
 refresh or restart the mirror, list installed modules, install modules by name (will still require you
 to configure the MagicMirror config.js by SSH or VNC for the particular skill you install), change pages of modules by either swipe commands or telling mycroft to "go to page [number]"(requires that MMM-pages be installed), restart or reboot the Raspberry Pi.  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

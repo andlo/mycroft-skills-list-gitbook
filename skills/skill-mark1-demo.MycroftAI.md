@@ -11,6 +11,7 @@ The demo starts with the unit's eyes dancing around.  Every 2 minutes it will
 sing a song.  The singing is synched to the clock, so multiple units can form
 a chorus.
 You can stop the demo by pressing the top button or saying "Stop".  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)   
 ### Examples:  

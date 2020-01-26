@@ -5,6 +5,7 @@ description: Track your and your family's health related information
 ### _mycroft-health.smearumi_  
 ## Description:  
 You can track health related information of your and your family's and generate the report for current/previous month which will send to your registered email address.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

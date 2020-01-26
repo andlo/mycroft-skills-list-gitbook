@@ -6,6 +6,7 @@ description: Smart home device unification
 ## Description:  
 This Skill doesn't do anything by itself, but it provides an important common language for controlling Internet of Things (IoT) or Smart Home devices. By handling simple phrases like 'turn on', this one Skill can unify multiple other Skills that act as the interface into specific IoT devices or control ecosystems.  This creates uniform and seamless interactions for the user!  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

@@ -8,6 +8,7 @@ This Skill generates a package with debugging information and emails it to the e
 The package contains all of your mycroft-core logs on the Device, and information about active Skills and Intents at the time the support request was generated.
 This uses the 0x0.st service for storing the debugging information.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

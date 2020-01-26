@@ -5,6 +5,7 @@ description:
 ### _skill-kickstarter-tracker.MatthewScholefield_  
 ## Description:  
 This skill queries Kickstarter for the current pledge amount.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

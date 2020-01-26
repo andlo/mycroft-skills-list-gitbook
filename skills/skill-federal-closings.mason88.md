@@ -5,6 +5,7 @@ description:
 ### _skill-federal-closings.mason88_  
 ## Description:  
 This is a Mycroft AI skill which tells the user of any federal government closings in DC as they are listed in the official OPM alerts.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

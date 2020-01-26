@@ -5,6 +5,7 @@ description:
 ### _yeelight-skill.pcwii_  
 ## Description:  
 Utilize the Yeelight API and Python library for controlling YeeLight WiFi RGB bulbs with Mycroft.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

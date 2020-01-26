@@ -10,6 +10,7 @@ Faceplate Brightness
 Set the faceplate to a specific brightness, or allow it to automatically adjust
 its brightness level to dim at night.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark II](../.gitbook/assets/mark-2-icon.png)   
 ### Examples:  

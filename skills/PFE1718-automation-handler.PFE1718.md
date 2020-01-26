@@ -10,6 +10,7 @@ The habit detection is done by two other complementary skills:
 1. The skill-listener, that logs the user activity. It is also  responsible for launching the 2 other skills when needed.
 2. The habit-miner, that extracts the habits of the user from the logs.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

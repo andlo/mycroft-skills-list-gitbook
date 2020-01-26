@@ -11,6 +11,7 @@ The joke categories are:
 * Chuck Norris -- jokes only a geek can love
 By default it will give you clean and/or geeky jokes, but you can ask a little adult humor if you feel that way.
 WARNING:  Laughter is not guaranteed, but eye rolls are likely.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

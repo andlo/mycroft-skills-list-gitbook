@@ -10,6 +10,7 @@ The skill uses the @intent_file_handler and Padatious
 Mycroft will reply
 - "Hi {name}. Nice to meet you."
 - "Hello {name}. Good to see you."  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

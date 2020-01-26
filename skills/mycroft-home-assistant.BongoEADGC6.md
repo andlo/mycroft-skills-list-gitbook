@@ -14,6 +14,7 @@ NOTE: SSL support is currently insecure as it does not verify the cert. This mea
 work with a self signed cert, but shouldn't be used accross the internet.
 You will then need to restart mycroft.  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Installation:  

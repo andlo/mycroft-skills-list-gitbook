@@ -12,6 +12,7 @@ When monitoring is active the skill will use that time period for automated chec
 The option "notify on updates" is only applicable when monitoring is active -
 when the option is activated Mycroft willl speak out loud the number of unread messages and mentions.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

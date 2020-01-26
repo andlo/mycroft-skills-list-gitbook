@@ -8,6 +8,7 @@ A simple example Skill that shows how the converse() method can be used to take 
 This Skill catches any utterance that contains a word defined in vocab/lang-code/RudeWords.voc and responds. Or if no rude word is detected, allows Mycroft to respond normally.
 For more details see the technical documentation on converse.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

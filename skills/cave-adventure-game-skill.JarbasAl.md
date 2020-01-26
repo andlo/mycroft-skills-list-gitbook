@@ -7,6 +7,7 @@ description:     skill for Adventure game by Crowther and Woods
 This is a faithful port of the “Adventure” game to a Mycroft Skill from the original 1977 FORTRAN code by Crowther and Woods.
 Adapted from python-adventure, the python port of the game.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

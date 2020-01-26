@@ -8,6 +8,7 @@ With this skill you can "google" the internet using google's knowledge search ap
 You need a Google account and create an api key
 that you have to enter in the skill settings section of home.mycroft.ai.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

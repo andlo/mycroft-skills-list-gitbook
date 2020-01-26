@@ -5,6 +5,7 @@ description:
 ### _bio-calendar-mycroft.stuartlangridge_  
 ## Description:  
 A list of tech events happening in Birmingham UK over the next few days. Powered by the Birmingham.IO calendar, and using the same back end as the similar Alexa Flash Briefing skill.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

@@ -6,6 +6,7 @@ description: A quick regex examples for Skill developers
 ## Description:  
 A very simple Skill showing how to use regex files with the Adapt intent parser.
 For more detail on the structure of Skills and different types of intents, see Introduction to Developing Skills in the Mycroft.ai documentation.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

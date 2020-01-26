@@ -14,6 +14,7 @@ size, see  en.wikipedia.org/wiki/Stretched_octave.
 Also Mycroft call middle C for "C4" : this is the commonest octave numbering but some
 people call middle C for "C3" or even for "C5".  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

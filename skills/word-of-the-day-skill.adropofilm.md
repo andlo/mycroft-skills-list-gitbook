@@ -6,6 +6,7 @@ description:
 ## Description:  
 This skill dynamically provides Mycroft users with the "word of the day" and definition. Current words and definitions come from
 Dictionary.com.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

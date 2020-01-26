@@ -5,6 +5,7 @@ description:
 ### _bwn-wemo-skill.ErdMutter92_  
 ## Description:  
 A Mycroft skill for finding, listing, and controlling wemo devices.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

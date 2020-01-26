@@ -5,6 +5,7 @@ description:
 ### _mycroft-skill-quodlibet.kfarwell_  
 ## Description:  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Installation:  

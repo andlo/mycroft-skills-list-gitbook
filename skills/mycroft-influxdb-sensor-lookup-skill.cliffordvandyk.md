@@ -5,6 +5,7 @@ description:
 ### _mycroft-influxdb-sensor-lookup-skill.cliffordvandyk_  
 ## Description:  
 When queried, the skill fetches the last sensor reading recorded in a local influxdb database. for example, querying the temperature of the pool.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

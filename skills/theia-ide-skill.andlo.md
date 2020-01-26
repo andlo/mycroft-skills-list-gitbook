@@ -10,6 +10,7 @@ shell.
 Theia provides Microsoft VS Code experience in the browser.
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Picroft](../.gitbook/assets/picroft-icon.png)   
 ### Examples:  

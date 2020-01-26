@@ -7,6 +7,7 @@ description: Get traffic information for your route
 Get traffic information for any route, defaulting to your Mycroft's location.
 This skill uses OpenStreetMap Nomatim to reverse geocode the location and WazeRouteCalculator to calculate the route.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

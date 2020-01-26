@@ -35,6 +35,7 @@ Example underscore: Convert "Kitchen_window is open" to "Kitchen Window is open"
 What happens: The regex match "" in "Kitchen_window is open".  We retain the characters until index 0 of "", which is no characters.
 We retain the characters after index 1 of "_", which is no characters. And we put a space in the middle.  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

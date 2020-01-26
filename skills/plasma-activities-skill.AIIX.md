@@ -6,6 +6,7 @@ description: Control Your Plasmashell Activities
 ## Description:  
 This skill integrates plasma-shell activities with mycroft which enables users to control their desktop activities via voice on the go, users can create activities, switch, remove, stop and display activities on their desktops.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

@@ -9,6 +9,7 @@ the main features are:
 * manage your feed subscriptions from your dashboard,
 * ask Mycroft to check if new articles have been published,
 * ask Mycroft to read the titles and other information for you.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

@@ -5,6 +5,7 @@ description:
 ### _skill-rasa-robot-controller.avimeens_  
 ## Description:  
 In order to provide voice interance for controlling a robot on Mycroft, this skill provides intent processing to understand basic commands such as "move", "go", "stop", "turn" using RasaNLU as the intent processor.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

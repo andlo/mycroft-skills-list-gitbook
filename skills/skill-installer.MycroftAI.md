@@ -14,6 +14,7 @@ Skill's GitHub repository URL in the Installer's web user interface.
 Skills are ultimately installed using the Mycroft Skill Manager (msm).  If verbally installing, Mycroft will speak a list of possible matches for
 ambiguous names -- just pick the skill you want from the list read to you.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

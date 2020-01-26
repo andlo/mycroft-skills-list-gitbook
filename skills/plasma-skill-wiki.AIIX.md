@@ -6,6 +6,7 @@ description:
 ## Description:  
 Query Wikipedia for answers to all your questions!  Get just the
 summary, or ask for more to get in-depth information.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

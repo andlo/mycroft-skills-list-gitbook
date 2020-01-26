@@ -6,6 +6,7 @@ description: Krunner enables users to search their local desktop for files, imag
 ## Description:  
 Search for files, images, music, documents locally using the powerful Krunner Plasma desktop feature, also see your recent documents or files and user other plugins like calculate etc.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

@@ -8,6 +8,7 @@ The package Rasa is a nice fit for Mycroft, as it allows you to build conversati
 To start a chat, say "chat with bot" and to end it, say "stop"
 Once you're chatting, this skill will override most Mycroft functionality, and you will be in a conversation with the Rasa bot until you end the chat or are silent too long.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

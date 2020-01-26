@@ -8,6 +8,7 @@ Currently it will publish the action to a topic built from the commands said, fo
 - say hey mycroft, turn the light on and mycroft will publish on to light/turn.
 - say hey mycroft, switch the tv on and mycroft will publish on to tv/switch.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

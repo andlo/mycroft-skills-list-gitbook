@@ -8,6 +8,7 @@ Use Mycroft when your hands are messy or you need more that the one timer in you
 On a Mark 1 you'll see visual feedback as the timer runs, and you can use
 the top button to stop the beeping once a timer expires.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

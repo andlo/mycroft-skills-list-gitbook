@@ -6,6 +6,7 @@ description: Find out the definition/meaning of a specific word from dictionary
 ## Description:  
 You can find out the definition/meaning of a specific word from dictionary using Oxford Dictionaries API.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

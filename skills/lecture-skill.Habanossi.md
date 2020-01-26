@@ -17,6 +17,7 @@ The user can modify the .dialog files to match the lectures. Files will be named
 Observe that the amount of lecture.dialog files must match the amount of dates in "dates.txt". Otherwise an error will occur.
 Date settings can be changed so that mycroft either uses a default answer or uses dates.txt for lecture subjects set for specific dates.
 If the date of today cannot be found in "dates.txt", nolecture.dialog will be used. This means that there is no lecture today.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

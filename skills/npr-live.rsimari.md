@@ -5,6 +5,7 @@ description:
 ### _npr-live.rsimari_  
 ## Description:  
 This mycroft skill allows users to live stream NPR Radio. It uses the linux tool mpg123 to connect to the live URL and output the stream.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}

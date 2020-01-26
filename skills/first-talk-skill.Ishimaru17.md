@@ -5,6 +5,7 @@ description:
 ### _first-talk-skill.Ishimaru17_  
 ## Description:  
 When Mycroft is wake up with a talk word, then it will repeat what you said except if you ask him about him or help.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

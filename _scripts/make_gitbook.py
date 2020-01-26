@@ -42,7 +42,7 @@ def make_skillsfiles(skills):
             for x in range(skill["stargazers_count"]):
                 txt.append('![](../.gitbook/assets/star.png)')
             txt.append('  \n')               
-        
+        txt.append('  \n')               
         try:
             mk1 = ' ![Mark I](../.gitbook/assets/mark-1-icon.png) '
             mk2 = ' ![Mark II](../.gitbook/assets/mark-2-icon.png) '
@@ -299,7 +299,7 @@ def make_summary(skills):
     skillfile = 'skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 
 
     for writer in skillwriters:
-        summary.write('* @' + writer + '\n')
+        summary.write('* ' + writer + '\n')
         for skill in skills:
             if writer == skill["owner"]["login"]:
                 skillfile = 'skills/' + skill["name"] + '.' + skill["owner"]["login"] + '.md' 

@@ -12,6 +12,7 @@ common terminology such as "pause".
 Additionally, this implements the common Play handler.  This allows playback
 services to negotiate which is best suited to play back a specific request.
 This capability is used by the Spotify and Pandora Skills, among others.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

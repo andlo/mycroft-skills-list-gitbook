@@ -9,6 +9,7 @@ As it is not easy to know what is high and what is low noise level, the skill wi
 The skill stops adjusting the volume if another skill is using the speaker or if Mycroft himself is talking.
 The skill can be activated or deactivated using the command "Hey Mycroft, set auto volume off" or "Hey Mycroft, set auto volume on".  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
 ### Examples:  

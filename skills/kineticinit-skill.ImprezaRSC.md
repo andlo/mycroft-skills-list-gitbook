@@ -6,6 +6,7 @@ description:
 ## Description:  
 This command passes 'roscore' to the command line, nested into a subprocess.call([""]) Python function. Most of the user commands pass to ROS through this Mycroft skill structure.  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

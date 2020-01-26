@@ -6,6 +6,7 @@ description: Enables users to Lock Screen, Switch Users, Logout, Control Brightn
 ## Description:  
 This skill integrates Plasma 5 Desktop Internals with Mycroft which enables users to Lock Screen, Switch Users, Logout, Control Brightness, Control Panel Positions, Control Klipper, Control Work-spaces, Control Compositor, Add Widgets on Plasma Desktop, Add Widgets on Plasma Panel / Desktop, Give System Summary.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

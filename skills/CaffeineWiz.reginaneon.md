@@ -20,6 +20,7 @@ How about caffeine content of drink?
 The drink {{drink}} has {{caffeine_content}} milligrams of caffeine in {{drink_size}} ounces.
   
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

@@ -33,6 +33,7 @@ If the LED blinking is too fast, it will be difficult to get a command to execut
 Circuit
 Please use the below image as a guide to the circuit layout:
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
 ### Examples:  

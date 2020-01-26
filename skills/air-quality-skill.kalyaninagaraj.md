@@ -29,6 +29,7 @@ resulting in different nations using different air quality indices. To
 standardize the reporting, this skill reports raw concentration
 levels measured in micrograms per cubic meter.
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

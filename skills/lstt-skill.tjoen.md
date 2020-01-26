@@ -16,6 +16,7 @@ Translations might be a problem with this method, but this skill uses questions 
 JarbasAI just made a very nice local listener that will be implemented in the near future.
 More info on that here  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

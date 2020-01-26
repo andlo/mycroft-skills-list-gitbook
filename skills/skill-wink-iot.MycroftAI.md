@@ -15,6 +15,7 @@ It will NOT turn on a light called "Porch off the kitchen".
 
 You can also include the light/group name in your request, along with intensity words, such as: bright, dim, full, half, completely, partially  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

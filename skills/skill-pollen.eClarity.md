@@ -9,6 +9,7 @@ Add a block to your ~/.mycroft/mycroft.conf file like this:
 "zipcode": yourziphere
 }  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 {% hint style="warning" %}

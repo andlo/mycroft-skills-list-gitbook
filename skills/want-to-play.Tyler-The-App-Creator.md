@@ -5,6 +5,7 @@ description:
 ### _want-to-play.Tyler-The-App-Creator_  
 ## Description:  
 Ask mycroft if it would like to play something and it will start any of the game skills.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

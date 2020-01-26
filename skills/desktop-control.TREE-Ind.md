@@ -6,6 +6,7 @@ description: Control your mouse and keyboard by voice
 ## Description:  
 A skill that allows voice control over your mouse and keyboard using natural language.  This skill should be compatible with any Mycroft instance that is installed on a system with display drivers / screen.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![plasmoid](../.gitbook/assets/kde.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)   
 ### Examples:  

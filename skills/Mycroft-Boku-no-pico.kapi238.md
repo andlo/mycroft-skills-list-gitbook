@@ -5,6 +5,7 @@ description:
 ### _Mycroft-Boku-no-pico.kapi238_  
 ## Description:  
 Tells you what the best anime is.  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Installation:  

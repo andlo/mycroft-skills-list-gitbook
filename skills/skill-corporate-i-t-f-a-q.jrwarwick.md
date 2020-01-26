@@ -7,6 +7,7 @@ description:
 Every corporation will have a different answer to "what is the wifi password", and this is also a very frequently asked and answered question. Allow Mycroft to help with the FAQ load by teaching him the answers to these very common inquiries.
 Currently, VPN is assumed to be an SSL or similar type delivered with a web-based login.  
 ![](../.gitbook/assets/star.png)  
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  
