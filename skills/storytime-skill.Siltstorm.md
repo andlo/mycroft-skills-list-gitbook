@@ -1,6 +1,5 @@
 ---
 description: Start a story by saying "Mycroft, tell me a story."
-It will then start the story and randomly choose
 ---
 
 ### _storytime-skill.Siltstorm_  

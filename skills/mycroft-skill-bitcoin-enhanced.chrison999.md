@@ -1,6 +1,5 @@
 ---
 description: This Mycroft skill is an enhancement of the bitcoin-skill by Red5d.
-
 ---
 
 ### _mycroft-skill-bitcoin-enhanced.chrison999_  

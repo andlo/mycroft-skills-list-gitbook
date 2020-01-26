@@ -1,10 +1,5 @@
 ---
 description: This skill will allow interactive discovery of Mycroft's capabilities:
-
-skills
-intents
-vocabul
-
 ---
 
 ### _mycroft-skill-introspect.mandolincreek_  

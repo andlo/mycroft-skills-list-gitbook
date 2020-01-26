@@ -1,6 +1,5 @@
 ---
 description: This skill lets Mycroft send special bus messages to Hemera, a digital personal
-assistant for elemen
 ---
 
 ### _mycroft-skill-hemera.SubhadeepJasu_  

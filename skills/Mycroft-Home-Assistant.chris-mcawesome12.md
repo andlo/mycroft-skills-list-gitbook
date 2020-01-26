@@ -1,8 +1,5 @@
 ---
 description: Add a block to your ~/.mycroft/mycroft.conf file like this:
-```
-"HomeAssistantSkill": {
-"host": "
 ---
 
 ### _Mycroft-Home-Assistant.chris-mcawesome12_  

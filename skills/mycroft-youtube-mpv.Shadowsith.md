@@ -1,6 +1,5 @@
 ---
 description: Youtube Mpv is a powerful tool on base of the mpv player that uses the mpv unix
-socket to play and c
 ---
 
 ### _mycroft-youtube-mpv.Shadowsith_  

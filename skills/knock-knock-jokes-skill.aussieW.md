@@ -1,6 +1,5 @@
 ---
 description: A skill for telling Knock Knock jokes.
-The user requests Mycroft to tell a knock knock joke and the
 ---
 
 ### _knock-knock-jokes-skill.aussieW_  

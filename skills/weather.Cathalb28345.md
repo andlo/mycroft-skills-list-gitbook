@@ -1,6 +1,5 @@
 ---
 description: Get weather conditions, forecasts, expected precipitation and more!  By default it will tell
-you abo
 ---
 
 ### _weather.Cathalb28345_  

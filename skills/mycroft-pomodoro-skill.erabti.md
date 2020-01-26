@@ -1,6 +1,5 @@
 ---
 description: This skill is used to try to make Mycroft as your work companion.
-Pomodoro is a very good work techn
 ---
 
 ### _mycroft-pomodoro-skill.erabti_  

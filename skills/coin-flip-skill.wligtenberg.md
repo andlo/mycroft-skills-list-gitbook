@@ -1,6 +1,5 @@
 ---
 description: Flip a virtual coin by saying "hey Mycroft, flip a coin".
-It will then randomly choose between heads
 ---
 
 ### _coin-flip-skill.wligtenberg_  

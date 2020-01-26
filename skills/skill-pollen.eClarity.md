@@ -1,8 +1,5 @@
 ---
 description: Add a block to your ~/.mycroft/mycroft.conf file like this:
-```
-"PollenSkill": {
-"zipcode": yourz
 ---
 
 ### _skill-pollen.eClarity_  

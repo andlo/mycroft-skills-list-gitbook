@@ -1,8 +1,5 @@
 ---
 description: Installation of skill:
-
-Download or Clone Git run: git clone 
-
 ---
 
 ### _digikam-control.AIIX_  

@@ -1,6 +1,5 @@
 ---
 description: currently only chooses random device
-Control your Sonos with Mycroft
 ---
 
 ### _sonos-control-skill.snow2k9_  

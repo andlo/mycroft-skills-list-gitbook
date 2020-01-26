@@ -1,6 +1,5 @@
 ---
 description: Query Wikipedia for answers to all your questions!  Get just the
-summar
 ---
 
 ### _plasma-skill-wiki.AIIX_  

@@ -1,6 +1,5 @@
 ---
 description: The App Launcher Skill allows to open and close linux desktop applications
-with simple open/close co
 ---
 
 ### _mycroft-app-launcher.Shadowsith_  

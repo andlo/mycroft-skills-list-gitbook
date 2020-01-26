@@ -1,8 +1,6 @@
 ---
 description: 
 "Talk Dirty" - Run of the mill dirty talk
-"Filthy" - A little more X rated
-"Nasty" - X Rated a
 
 ---
 

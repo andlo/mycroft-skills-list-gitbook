@@ -1,8 +1,5 @@
 ---
 description: Add a block to your ~/.mycroft/mycroft.conf file like this:
-```
-"TrafficSkill": {
-"api_key": "REP
 ---
 
 ### _mycroft-traffic.BongoEADGC6_  

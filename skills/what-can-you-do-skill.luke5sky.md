@@ -1,6 +1,5 @@
 ---
 description: It tells you what you can do with Mycroft some examples
-and lists the installed skills if you wan
 ---
 
 ### _what-can-you-do-skill.luke5sky_  

@@ -1,8 +1,5 @@
 ---
 description: "EmailSkill": {
-"server": "imap.example.com",
-"username": "InsertUsernameHere!",
-"password": "Insert
 ---
 
 ### _mycroft-skill_email.Nold360_  

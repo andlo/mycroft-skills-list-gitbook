@@ -1,6 +1,5 @@
 ---
 description: Input: help me with jokeskill
-2017-05-26 17:42:30,332 - CLIClient - INFO - Speak: I can help you wit
 ---
 
 ### _mycroft-skill-HelpMe.chrison999_  

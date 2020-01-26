@@ -1,6 +1,5 @@
 ---
 description: The skill provides the functionality to playback the video of any music band/album/playlist
-or speci
 ---
 
 ### _AVmusic.reginaneon_  

@@ -1,6 +1,5 @@
 ---
 description: A fun game created with Akinator the Genie, 
-brought to life using the Mycro
 ---
 
 ### _mycroftinator.Tyler-The-App-Creator_  

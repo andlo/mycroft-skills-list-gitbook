@@ -1,9 +1,5 @@
 ---
 description: Installation of skill:
-
-Download or Clone Git
-Create /opt/mycroft/skills folder if it does n
-
 ---
 
 ### _amarok-player-skill.AIIX_  

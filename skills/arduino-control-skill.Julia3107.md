@@ -1,6 +1,5 @@
 ---
 description: A more verbose description, including any extra instructions or
-information that didn't fit in the o
 ---
 
 ### _arduino-control-skill.Julia3107_  
