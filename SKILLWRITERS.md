@@ -234,7 +234,7 @@
 * jaevans
     * [FortuneSkill](skills/mycroft-fortuneskill.jaevans.md)
 * akailash
-    * [Open News Skill (for Mycroft AI)](skills/skill-open-news.akailash.md)
+    * [Open News Skill for Mycroft AI](skills/skill-open-news.akailash.md)
 * danielquinn
     * [mycroft-evil-laugh](skills/mycroft-evil-laugh.danielquinn.md)
 * NeonGeckoCom
@@ -638,7 +638,7 @@
     * [GNU World Order](skills/skill-GNUworldOrder.joshuacox.md)
     * [No Agenda Show](skills/skill-na-show.joshuacox.md)
 * arraylabs
-    * [ReSpeaker Mic Array v2 (usb) Mycroft A.I. Skill](skills/mycroft-respeaker-usb-pixel-ring.arraylabs.md)
+    * [ReSpeaker Mic Array v2 usb Mycroft A.I. Skill](skills/mycroft-respeaker-usb-pixel-ring.arraylabs.md)
 * akuataya
     * [Good Night Skill](skills/good-night-skill.akuataya.md)
 * nagamanikandank

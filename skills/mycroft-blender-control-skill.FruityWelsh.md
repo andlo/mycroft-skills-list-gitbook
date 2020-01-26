@@ -4,7 +4,7 @@ description:
 
 ### _mycroft-blender-control-skill.FruityWelsh_  
 ## Description:  
-Skill to have a mode so i can run blender operators (the guis buttons) so that i can quickly create and manipulate objects without having to remember where menus are.  
+Skill to have a mode so i can run blender operators the guis buttons so that i can quickly create and manipulate objects without having to remember where menus are.  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

@@ -17,7 +17,7 @@ pip install websocket-client==0.35.0
 If the lxml install fails, do the following:
 sudo apt install -y libxml2-dev libxslt1-dev zlib1g-dev python3-pip
 sudo pip3 install lxml
-Note that the installation of lxml can be very slow on low RAM devices like the Raspberry Pi (I am talking in the order of 10min+!). If you
+Note that the installation of lxml can be very slow on low RAM devices like the Raspberry Pi I am talking in the order of 10min+!. If you
 ever doubt that it's even doing anything, open another terminal and run htop on it.  
 ![](../.gitbook/assets/star.png)  
   

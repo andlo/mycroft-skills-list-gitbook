@@ -4,7 +4,7 @@ description: Example of interacting with GPIO pins on a Raspberry Pi
 
 ### _picroft.Shivaabhai_  
 ## Description:  
-This Skill demonstrates how to interact with the Raspberry Pi GPIO pins using a Mycroft Skill. This Skill shows both reading data from a GPIO port (detecting a button press) and writing data to the port (illuminating an LED).
+This Skill demonstrates how to interact with the Raspberry Pi GPIO pins using a Mycroft Skill. This Skill shows both reading data from a GPIO port detecting a button press and writing data to the port illuminating an LED.
 Preparation
 You will need to first install the GPIO libraries for Picroft, and add some additional permissions.
 Generation

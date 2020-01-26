@@ -4,7 +4,7 @@ description:
 
 ### _weather-test-skill.vozotem_  
 ## Description:  
-J'ai modifié le Skill mycroft-weather-skill utilisant l'API Open Weather Map afin de récupérer la météo et la stocker dans une base de données (avec SQLite). Ce Skill sert à récupérer une température stockée dans la base de données et retourner la valeur vocalement. Il ne peut récupérer une température seulement pour la date courante.  
+J'ai modifié le Skill mycroft-weather-skill utilisant l'API Open Weather Map afin de récupérer la météo et la stocker dans une base de données avec SQLite. Ce Skill sert à récupérer une température stockée dans la base de données et retourner la valeur vocalement. Il ne peut récupérer une température seulement pour la date courante.  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

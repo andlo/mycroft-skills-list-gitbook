@@ -6,7 +6,7 @@ description: Allergy report for my husband David
 ## Description:  
 With this skill users will be able to inquire what the allergy level will be for either today or tomorrow.
 The results are pulled from pollen.com
-The skill uses the mycrofts IP Address to determining the zip code(if you use VPN, it doesn't provide the correct reults)  
+The skill uses the mycrofts IP Address to determining the zip codeif you use VPN, it doesn't provide the correct reults  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

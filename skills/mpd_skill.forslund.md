@@ -5,7 +5,7 @@ description:
 ### _mpd_skill.forslund_  
 ## Description:  
 By default the mpd skill tries to connect to localhost on port 6600 if this is not desirable edit the mycroft.ini file
-[MPDSkill]
+MPDSkill
 mpd_url=YOUR_URL
 mpd_port=YOUR_PORT  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

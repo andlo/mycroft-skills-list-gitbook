@@ -5,7 +5,7 @@ description:
 ### _mycroft-angrybeanie.purserj_  
 ## Description:  
 Installing
-Go to your skills directory (ie /opt/mycroft/skills)
+Go to your skills directory ie /opt/mycroft/skills
 git clone 
 cd into mycroft-angrybeanie
 pip -r requirements.txt.  

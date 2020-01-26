@@ -12,7 +12,7 @@ json
 "generate report": "/home/forslund/scripts/generate_report.sh"
 }
 }
-(The config needs to be valid json so be careful). The config usually contains a
+The config needs to be valid json so be careful. The config usually contains a
 The configuration above will launch /home/forslund/scripts/generate_report.sh when the second utterance under usage is invoked.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   

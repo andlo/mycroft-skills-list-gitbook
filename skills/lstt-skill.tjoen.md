@@ -5,7 +5,7 @@ description:
 ### _lstt-skill.tjoen_  
 ## Description:  
 This skill uses mycrofts pocketsphinx STT with a small dict.
-It uses a localstt.dic (dictionary) and localstt.lm (language model) in the res folder.
+It uses a localstt.dic dictionary and localstt.lm language model in the res folder.
 It shuts now down the speech recognition with naptime when the skill starts, and wakes it up when ending it.
 At the moment, the skill will ask you 3 questions.
 You can answer by choosing 1,2,3 or 4.

@@ -8,9 +8,9 @@ A super skill that invokes other skill to tell stories. That mens the story tell
 This skill enables Mycroft to tell storie. This skill does not by it self have ny stories, but utilize other
 storytelling skills that uses this comme storytelling skill.
 At time of writing this to skills is using common storyteliing
-The Brothers Grimms Fairy tales (
+The Brothers Grimms Fairy tales 
 and
-H. C. Andersen's Fairy Tales (
+H. C. Andersen's Fairy Tales 
 “If you want your children to be intelligent, read them fairy tales. If you want them to be more
 intelligent, read them more fairy tales.”
 Albert Einstein  

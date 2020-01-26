@@ -5,7 +5,7 @@ description:
 ### _kodi-skill.cbenning_  
 ## Description:  
 Add the following section to your mycroft-core/mycroft/configuration/mycroft.ini file
-[KodiSkill]
+KodiSkill
 protocol = "
 host = ""
 port = 80

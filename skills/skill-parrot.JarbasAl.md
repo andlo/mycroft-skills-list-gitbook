@@ -12,7 +12,7 @@ what
 "who are you"
 who are you
 "Stop parrot"
-NOTE: This illustrates the converse() method.  
+NOTE: This illustrates the converse method.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

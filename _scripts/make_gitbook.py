@@ -180,6 +180,10 @@ def clean_txt(txt):
     html = markdown(result)
     result =  ''.join(BeautifulSoup(html,features="html.parser").findAll(text=True))
     result = re.sub(r'http\S+', '', result)
+    result = result.replace('[', "")
+    result = result.replace(']', "")
+    result = result.replace('(', "")
+    result = result.replace(')', "")
     return result     
 
 def get_img(url, filename):

@@ -17,7 +17,7 @@ phrase one, "phrase, two", phrase three
 Additional options include:
 - test_identifier - title of the test for your benefit eg 'weather phrases' - default timestamp of test comppletion time.
 - delay - the period in seconds between each phrase - default 30
-Results will be uploaded to termbin.com in csv format and the link will be emailed to you. A csv file of the results will also be saved on the device at: ~/.mycroft/skills/SkillTesting/reading-output/{test_identifier}.csv. Note that when creating the filename, characters not in [a-z, A-Z, 0-9, [._-]] will be removed eg "weather phrases" will become "weatherphrases.csv". This file can be used to generate integration tests for all phrases.  
+Results will be uploaded to termbin.com in csv format and the link will be emailed to you. A csv file of the results will also be saved on the device at: ~/.mycroft/skills/SkillTesting/reading-output/{test_identifier}.csv. Note that when creating the filename, characters not in a-z, A-Z, 0-9, ._- will be removed eg "weather phrases" will become "weatherphrases.csv". This file can be used to generate integration tests for all phrases.  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

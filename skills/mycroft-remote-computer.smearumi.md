@@ -1,15 +1,15 @@
 ---
-description: Control a remote computer via SSH and Wake on Lan. (Power OFF/ON)
+description: Control a remote computer via SSH and Wake on Lan. Power OFF/ON
 ---
 
 ### _mycroft-remote-computer.smearumi_  
 ## Description:  
 Turn OFF/ON your computer via SSH and WOL from mycroft. You must enable SSH Server on your remote computer for Power OFF and also you have to enable Wake on Lan for Power ON.
-For Power OFF (Supported Remote Computer OS with SSH Server):
+For Power OFF Supported Remote Computer OS with SSH Server:
 * Linux
 * Mac
 * Windows
-For Power ON (Wake on LAN):
+For Power ON Wake on LAN:
 * Any WOL supported computer.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   

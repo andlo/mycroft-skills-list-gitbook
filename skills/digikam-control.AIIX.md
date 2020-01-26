@@ -6,9 +6,9 @@ description:
 ## Description:  
 Installation of skill:
 
-Download or Clone Git (run: git clone  inside /opt/mycroft/skills)
+Download or Clone Git run: git clone  inside /opt/mycroft/skills
 Create /opt/mycroft/skills folder if it does not exist
-Extract Downloaded Skill into a folder. "DigiKam-control". (Clone does not require this step)
+Extract Downloaded Skill into a folder. "DigiKam-control". Clone does not require this step
 Copy the DigiKam-control folder to /opt/mycroft/skills/ folder
 
 Installation of requirements:

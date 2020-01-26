@@ -11,7 +11,7 @@ NOTES:
 The default work time is 25 minutes, the default break time is 5 minutes and the default long break time is 15 minutes.
 If you want to change the work time or the break time in speech, say the work time first.
 Not recommended to put the break time longer than the work time.
-Not recommended to put the work and break time too short (below 10 seconds).
+Not recommended to put the work and break time too short below 10 seconds.
 
 Terminology:
 

@@ -8,7 +8,7 @@ Installation of skill:
 
 Download or Clone Git
 Create /opt/mycroft/skills folder if it does not exist
-Extract Downloaded Skill into a folder. "amarok-player-skill". (Clone does not require this step)
+Extract Downloaded Skill into a folder. "amarok-player-skill". Clone does not require this step
 Copy the amarok-player-skill folder to /opt/mycroft/skills/ folder
 
 Installation of requirements:

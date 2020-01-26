@@ -6,9 +6,9 @@ description:
 ## Description:  
 Installation of skill:
 
-Download or Clone Git (run: git clone  inside /opt/mycroft/skills)
+Download or Clone Git run: git clone  inside /opt/mycroft/skills
 Create /opt/mycroft/skills folder if it does not exist
-Extract Downloaded Skill into a folder. "open-library-skill". (Clone does not require this step)
+Extract Downloaded Skill into a folder. "open-library-skill". Clone does not require this step
 Copy the open-library-skill folder to /opt/mycroft/skills/ folder.
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  

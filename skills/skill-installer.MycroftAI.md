@@ -11,7 +11,7 @@ and testing.  If you do this, please be consicious the skill may be in an
 unstable development state and report issues to the author appropriately.
 You can also install Skills that are not officially released by entering the
 Skill's GitHub repository URL in the Installer's web user interface.
-Skills are ultimately installed using the Mycroft Skill Manager (msm).  If verbally installing, Mycroft will speak a list of possible matches for
+Skills are ultimately installed using the Mycroft Skill Manager msm.  If verbally installing, Mycroft will speak a list of possible matches for
 ambiguous names -- just pick the skill you want from the list read to you.  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   

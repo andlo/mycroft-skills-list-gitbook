@@ -4,7 +4,7 @@ description:
 
 ### _subsonic-mycroft-skill.mj2p_  
 ## Description:  
-Subsonic ( is a media streaming server. this skill will interface with a preconfigured subsonic server and allow mycroft to stream media from it.  
+Subsonic  is a media streaming server. this skill will interface with a preconfigured subsonic server and allow mycroft to stream media from it.  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

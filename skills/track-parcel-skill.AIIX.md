@@ -6,9 +6,9 @@ description:
 ## Description:  
 Installation of skill:
 
-Download or Clone Git (git clone 
+Download or Clone Git git clone 
 Create /opt/mycroft/skills folder if it does not exist
-Extract Downloaded Skill into a folder. "track-parcel-skill". (Clone does not require this step)
+Extract Downloaded Skill into a folder. "track-parcel-skill". Clone does not require this step
 Copy the track-parcel-skill folder to /opt/mycroft/skills/ folder
 
 Dependency requirements:
