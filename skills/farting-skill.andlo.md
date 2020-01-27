@@ -1,5 +1,5 @@
 ---
-description: 'who let the dog inside' - Mycroft will fart when requested or at random intervals
+description: who let the dog inside - Mycroft will fart when requested or at random intervals
 ---
 
 ### _farting-skill.andlo_  
