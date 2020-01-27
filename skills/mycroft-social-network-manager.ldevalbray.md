@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _mycroft-social-network-manager.ldevalbray_  

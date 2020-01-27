@@ -1,5 +1,5 @@
 ---
-description: Enables users to Lock Screen, Switch Users, Logout, Control Brightness, Control Panel Positions, Con
+description: 'Enables users to Lock Screen, Switch Users, Logout, Control Brightness, Control Panel Positions, Con'
 ---
 
 ### _plasma-user-control-skill.AIIX_  

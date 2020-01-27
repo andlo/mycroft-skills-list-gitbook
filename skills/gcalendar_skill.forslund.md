@@ -1,5 +1,5 @@
 ---
-description: Check your google calendar appointments
+description: 'Check your google calendar appointments'
 ---
 
 ### _gcalendar_skill.forslund_  

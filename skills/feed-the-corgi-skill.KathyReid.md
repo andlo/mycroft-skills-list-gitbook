@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _feed-the-corgi-skill.KathyReid_  

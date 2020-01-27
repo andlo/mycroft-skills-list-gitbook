@@ -1,5 +1,5 @@
 ---
-description: Generates random numbers for you
+description: 'Generates random numbers for you'
 ---
 
 ### _dice-skill.guendelman_  

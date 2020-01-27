@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _deutschlandfunk-skill.ofosos_  

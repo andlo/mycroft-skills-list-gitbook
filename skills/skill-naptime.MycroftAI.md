@@ -1,5 +1,5 @@
 ---
-description: Put Mycroft to sleep when you don't want to be disturbed
+description: 'Put Mycroft to sleep when you don't want to be disturbed'
 ---
 
 ### _skill-naptime.MycroftAI_  

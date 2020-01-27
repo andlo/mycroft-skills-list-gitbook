@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _skill-iss-location.lachendeKatze_  

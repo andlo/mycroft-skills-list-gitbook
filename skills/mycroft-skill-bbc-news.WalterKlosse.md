@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _mycroft-skill-bbc-news.WalterKlosse_  

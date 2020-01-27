@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _skill-moon-game.JarbasAl_  

@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _skill-communicate.smolino_  

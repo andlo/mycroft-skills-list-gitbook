@@ -1,5 +1,5 @@
 ---
-description: Send push notification to almost every platform using apprise lib
+description: 'Send push notification to almost every platform using apprise lib'
 ---
 
 ### _apprise-skill.domcross_  

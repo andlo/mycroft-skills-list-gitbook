@@ -1,5 +1,5 @@
 ---
-description: Set named timers for cooking, watering plants, brewing tea and more
+description: 'Set named timers for cooking, watering plants, brewing tea and more'
 ---
 
 ### _mycroft-timer.MycroftAI_  

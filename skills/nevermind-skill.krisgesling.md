@@ -1,5 +1,5 @@
 ---
-description: Dismisses Mycroft
+description: 'Dismisses Mycroft'
 ---
 
 ### _nevermind-skill.krisgesling_  

@@ -1,5 +1,5 @@
 ---
-description: Desktop Launcher
+description: 'Desktop Launcher'
 ---
 
 ### _skill-desktop-launcher.MycroftAI_  

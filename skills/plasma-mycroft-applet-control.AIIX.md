@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _plasma-mycroft-applet-control.AIIX_  

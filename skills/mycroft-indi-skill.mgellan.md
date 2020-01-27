@@ -1,5 +1,5 @@
 ---
-description: Voice interface to control a telescope using the indi protocol
+description: 'Voice interface to control a telescope using the indi protocol'
 ---
 
 ### _mycroft-indi-skill.mgellan_  

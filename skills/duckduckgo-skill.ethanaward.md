@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _duckduckgo-skill.ethanaward_  

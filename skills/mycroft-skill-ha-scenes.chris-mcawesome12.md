@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _mycroft-skill-ha-scenes.chris-mcawesome12_  

@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _kde-kate-control.AIIX_  

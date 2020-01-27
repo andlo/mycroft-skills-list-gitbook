@@ -1,5 +1,5 @@
 ---
-description: Learn history and personality of Mycroft
+description: 'Learn history and personality of Mycroft'
 ---
 
 ### _skill-personal-18.08.solograyhat_  

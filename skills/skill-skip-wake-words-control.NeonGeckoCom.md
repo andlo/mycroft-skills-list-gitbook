@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _skill-skip-wake-words-control.NeonGeckoCom_  

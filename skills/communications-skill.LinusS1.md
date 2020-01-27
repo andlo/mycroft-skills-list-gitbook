@@ -1,5 +1,5 @@
 ---
-description: An intercom, and soon to be messaging, and video calling skill for Mycroft!
+description: 'An intercom, and soon to be messaging, and video calling skill for Mycroft!'
 ---
 
 ### _communications-skill.LinusS1_  

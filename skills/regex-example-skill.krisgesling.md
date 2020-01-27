@@ -1,5 +1,5 @@
 ---
-description: A quick regex examples for Skill developers
+description: 'A quick regex examples for Skill developers'
 ---
 
 ### _regex-example-skill.krisgesling_  

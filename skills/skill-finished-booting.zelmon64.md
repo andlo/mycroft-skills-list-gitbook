@@ -1,5 +1,5 @@
 ---
-description: Skill to determine when Mycroft AI has finished booting up
+description: 'Skill to determine when Mycroft AI has finished booting up'
 ---
 
 ### _skill-finished-booting.zelmon64_  

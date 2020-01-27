@@ -1,5 +1,5 @@
 ---
-description: Control the volume of your system
+description: 'Control the volume of your system'
 ---
 
 ### _mycroft-volume.syner1_  

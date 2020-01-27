@@ -1,5 +1,5 @@
 ---
-description: A skill to connect a telegram bot to MyCroft
+description: 'A skill to connect a telegram bot to MyCroft'
 ---
 
 ### _telegram-skill.luke5sky_  

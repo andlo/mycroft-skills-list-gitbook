@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _mycroft-bitcoinprice-skill.dmp1ce_  

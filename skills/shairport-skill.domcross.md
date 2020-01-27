@@ -1,5 +1,5 @@
 ---
-description: Run and control shairport-sync
+description: 'Run and control shairport-sync'
 ---
 
 ### _shairport-skill.domcross_  

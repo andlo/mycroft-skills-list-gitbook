@@ -1,5 +1,5 @@
 ---
-description: Mycroft will play a farting sound when requested or at random intervals
+description: 'Mycroft will play a farting sound when requested or at random intervals'
 ---
 
 ### _skill-farting.aussieW_  

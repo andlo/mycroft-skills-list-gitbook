@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _skill-klima.HackYourOffice_  

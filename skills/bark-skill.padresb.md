@@ -1,5 +1,5 @@
 ---
-description: Barks like a dog
+description: 'Barks like a dog'
 ---
 
 ### _bark-skill.padresb_  

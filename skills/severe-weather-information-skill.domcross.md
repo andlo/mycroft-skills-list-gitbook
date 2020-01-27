@@ -1,5 +1,5 @@
 ---
-description: Checks your national weather service and notifies you when there are alerts for your region
+description: 'Checks your national weather service and notifies you when there are alerts for your region'
 ---
 
 ### _severe-weather-information-skill.domcross_  

@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _decora-smart-wifi-skill.pcwii_  

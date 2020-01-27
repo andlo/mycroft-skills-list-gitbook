@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _kineticinit-skill.ImprezaRSC_  

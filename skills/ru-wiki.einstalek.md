@@ -1,5 +1,5 @@
 ---
-description: Wikipedia
+description: 'Wikipedia'
 ---
 
 ### _ru-wiki.einstalek_  

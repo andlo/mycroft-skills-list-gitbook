@@ -1,5 +1,5 @@
 ---
-description: Control KODI open source media center with Mycroft.ai
+description: 'Control KODI open source media center with Mycroft.ai'
 ---
 
 ### _kodi-skill.pcwii_  

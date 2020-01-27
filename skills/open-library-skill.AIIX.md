@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _open-library-skill.AIIX_  

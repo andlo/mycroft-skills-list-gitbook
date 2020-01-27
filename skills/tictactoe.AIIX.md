@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _tictactoe.AIIX_  

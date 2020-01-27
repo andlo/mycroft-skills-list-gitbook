@@ -1,5 +1,5 @@
 ---
-description: Mycroft tells more then 2000 fairy tales, folk tales, and fables from all around the world
+description: 'Mycroft tells more then 2000 fairy tales, folk tales, and fables from all around the world'
 ---
 
 ### _fairytalez-skill.andlo_  

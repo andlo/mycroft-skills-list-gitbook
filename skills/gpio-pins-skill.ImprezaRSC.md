@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _gpio-pins-skill.ImprezaRSC_  

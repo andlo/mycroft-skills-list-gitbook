@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _DeathHistorySkill.avellent_  

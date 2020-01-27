@@ -1,5 +1,5 @@
 ---
-description: Check the status of your MyEpisodes.com show list
+description: 'Check the status of your MyEpisodes.com show list'
 ---
 
 ### _brezicode.myepisodes.mycroftai.brezuicabogdan_  

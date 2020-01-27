@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _clyde-shodan.ninjaspl0it_  

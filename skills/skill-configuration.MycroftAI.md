@@ -1,5 +1,5 @@
 ---
-description: Synchronize your Device Settings with Home
+description: 'Synchronize your Device Settings with Home'
 ---
 
 ### _skill-configuration.MycroftAI_  

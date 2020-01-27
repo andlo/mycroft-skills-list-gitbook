@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _kde-news-skill.AIIX_  

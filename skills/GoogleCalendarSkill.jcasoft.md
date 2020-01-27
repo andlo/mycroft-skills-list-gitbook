@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _GoogleCalendarSkill.jcasoft_  

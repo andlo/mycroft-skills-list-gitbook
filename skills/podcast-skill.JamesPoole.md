@@ -1,5 +1,5 @@
 ---
-description: Listen to episodes of your favourite podcasts
+description: 'Listen to episodes of your favourite podcasts'
 ---
 
 ### _podcast-skill.JamesPoole_  

@@ -1,5 +1,5 @@
 ---
-description: A skill that answers questions over LinkedBrainz data
+description: 'A skill that answers questions over LinkedBrainz data'
 ---
 
 ### _skill-musicbrainz.sumutcan_  

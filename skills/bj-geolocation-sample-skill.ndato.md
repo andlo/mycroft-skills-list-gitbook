@@ -1,5 +1,5 @@
 ---
-description: Minimum code to test geolocation api
+description: 'Minimum code to test geolocation api'
 ---
 
 ### _bj-geolocation-sample-skill.ndato_  

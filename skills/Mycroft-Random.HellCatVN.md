@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _Mycroft-Random.HellCatVN_  

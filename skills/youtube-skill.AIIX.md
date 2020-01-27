@@ -1,5 +1,5 @@
 ---
-description: Play and stream youtube videos
+description: 'Play and stream youtube videos'
 ---
 
 ### _youtube-skill.AIIX_  

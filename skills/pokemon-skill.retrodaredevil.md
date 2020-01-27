@@ -1,5 +1,5 @@
 ---
-description: Aids you on your journey as a Pokemon Trainer
+description: 'Aids you on your journey as a Pokemon Trainer'
 ---
 
 ### _pokemon-skill.retrodaredevil_  

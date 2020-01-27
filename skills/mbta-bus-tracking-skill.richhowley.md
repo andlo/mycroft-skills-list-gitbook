@@ -1,5 +1,5 @@
 ---
-description: Announce arrivals of MBTA busses at your desired stop
+description: 'Announce arrivals of MBTA busses at your desired stop'
 ---
 
 ### _mbta-bus-tracking-skill.richhowley_  

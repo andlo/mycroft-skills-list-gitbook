@@ -1,5 +1,5 @@
 ---
-description: Listens offline for wake words and pre-defined speech commands
+description: 'Listens offline for wake words and pre-defined speech commands'
 ---
 
 ### _local-speech-skill.JarbasAl_  

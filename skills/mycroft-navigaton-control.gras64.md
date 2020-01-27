@@ -1,5 +1,5 @@
 ---
-description: Common playback control system
+description: 'Common playback control system'
 ---
 
 ### _mycroft-navigaton-control.gras64_  

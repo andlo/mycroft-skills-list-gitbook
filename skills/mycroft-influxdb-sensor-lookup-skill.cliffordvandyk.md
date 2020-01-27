@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _mycroft-influxdb-sensor-lookup-skill.cliffordvandyk_  

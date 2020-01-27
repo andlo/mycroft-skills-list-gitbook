@@ -1,5 +1,5 @@
 ---
-description: Control Your Plasmashell Activities
+description: 'Control Your Plasmashell Activities'
 ---
 
 ### _plasma-activities-skill.AIIX_  

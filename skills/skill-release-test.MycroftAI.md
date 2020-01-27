@@ -1,5 +1,5 @@
 ---
-description: Tool used by Mycroft  internal Quality Assurance team when validating a new mycroft-core release
+description: 'Tool used by Mycroft  internal Quality Assurance team when validating a new mycroft-core release'
 ---
 
 ### _skill-release-test.MycroftAI_  

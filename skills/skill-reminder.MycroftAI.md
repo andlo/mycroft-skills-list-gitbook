@@ -1,5 +1,5 @@
 ---
-description: Set single and repeating reminders for tasks
+description: 'Set single and repeating reminders for tasks'
 ---
 
 ### _skill-reminder.MycroftAI_  

@@ -1,5 +1,5 @@
 ---
-description: Simple skill to let mycroft say hi to someone
+description: 'Simple skill to let mycroft say hi to someone'
 ---
 
 ### _say-hello-to-skill.andlo_  

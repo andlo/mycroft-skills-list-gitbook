@@ -1,5 +1,5 @@
 ---
-description: Mycroft interaction to jeedom
+description: 'Mycroft interaction to jeedom'
 ---
 
 ### _jeedom-assistant-skill.gilbr1098_  

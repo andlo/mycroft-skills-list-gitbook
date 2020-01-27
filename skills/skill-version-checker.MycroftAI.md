@@ -1,5 +1,5 @@
 ---
-description: Report the version of your Mycroft
+description: 'Report the version of your Mycroft'
 ---
 
 ### _skill-version-checker.MycroftAI_  

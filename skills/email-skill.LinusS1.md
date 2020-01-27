@@ -1,5 +1,5 @@
 ---
-description: Check your email with Mycroft!
+description: 'Check your email with Mycroft!'
 ---
 
 ### _email-skill.LinusS1_  

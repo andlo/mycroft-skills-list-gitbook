@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _first-talk-skill.Ishimaru17_  

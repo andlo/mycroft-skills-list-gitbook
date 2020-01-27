@@ -1,5 +1,5 @@
 ---
-description: Search the internet using google knowledge search
+description: 'Search the internet using google knowledge search'
 ---
 
 ### _google-search-knowledge-graph-skill.domcross_  

@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _Mycroft-Home-Assistant.chris-mcawesome12_  

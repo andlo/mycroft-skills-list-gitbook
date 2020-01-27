@@ -1,5 +1,5 @@
 ---
-description: Send network pings a.k.a. ICMP echo requests to internet nodes
+description: 'Send network pings a.k.a. ICMP echo requests to internet nodes'
 ---
 
 ### _ping-skill.nogre_  

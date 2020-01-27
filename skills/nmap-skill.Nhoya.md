@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _nmap-skill.Nhoya_  

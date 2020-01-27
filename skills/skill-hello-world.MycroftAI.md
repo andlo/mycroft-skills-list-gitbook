@@ -1,5 +1,5 @@
 ---
-description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together
+description: 'Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together'
 ---
 
 ### _skill-hello-world.MycroftAI_  

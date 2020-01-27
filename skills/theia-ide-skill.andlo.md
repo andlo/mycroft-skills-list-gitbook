@@ -1,5 +1,5 @@
 ---
-description: Installs and setup THEIA IDE locally on your device. Real VS Code experience
+description: 'Installs and setup THEIA IDE locally on your device. Real VS Code experience'
 ---
 
 ### _theia-ide-skill.andlo_  

@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _image-ocr-skill.AIIX_  

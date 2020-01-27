@@ -1,5 +1,5 @@
 ---
-description: This skill lets you set the verbositylog level on the mycroft cli
+description: 'This skill lets you set the verbositylog level on the mycroft cli'
 ---
 
 ### _mycroft-verbosity-skill.domcross_  

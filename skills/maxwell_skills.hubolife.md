@@ -1,5 +1,5 @@
 ---
-description: Skills to intergrate to Myscroft platform , Maxwell is the project name
+description: 'Skills to intergrate to Myscroft platform , Maxwell is the project name'
 ---
 
 ### _maxwell_skills.hubolife_  

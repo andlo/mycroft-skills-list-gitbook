@@ -1,5 +1,5 @@
 ---
-description: Let Mycroft brighten your day with a little humor
+description: 'Let Mycroft brighten your day with a little humor'
 ---
 
 ### _skill-joke.MycroftAI_  

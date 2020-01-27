@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _nextcloudCalendarSkill.gadgetguy08_  

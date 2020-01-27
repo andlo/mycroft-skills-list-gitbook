@@ -1,5 +1,5 @@
 ---
-description: Allergy report for my husband David
+description: 'Allergy report for my husband David'
 ---
 
 ### _mycroft-skill-allergy.mofadashi_  

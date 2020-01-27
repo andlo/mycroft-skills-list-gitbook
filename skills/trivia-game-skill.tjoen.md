@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _trivia-game-skill.tjoen_  

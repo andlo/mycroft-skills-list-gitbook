@@ -1,5 +1,5 @@
 ---
-description: Common playback control system
+description: 'Common playback control system'
 ---
 
 ### _skill-playback-control.MycroftAI_  

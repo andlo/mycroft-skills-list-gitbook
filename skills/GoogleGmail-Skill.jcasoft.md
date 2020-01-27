@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _GoogleGmail-Skill.jcasoft_  

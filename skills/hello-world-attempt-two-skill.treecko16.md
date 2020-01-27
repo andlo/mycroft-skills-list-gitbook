@@ -1,5 +1,5 @@
 ---
-description: Says "hello, world!"
+description: 'Says "hello, world!"'
 ---
 
 ### _hello-world-attempt-two-skill.treecko16_  

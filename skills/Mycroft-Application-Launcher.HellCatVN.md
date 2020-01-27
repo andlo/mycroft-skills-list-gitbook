@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _Mycroft-Application-Launcher.HellCatVN_  

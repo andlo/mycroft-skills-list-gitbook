@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _translate-skill.jcasoft.jcasoft_  

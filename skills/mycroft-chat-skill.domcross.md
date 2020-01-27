@@ -1,5 +1,5 @@
 ---
-description: The Mycroft Chat allows you to interact with other community users. This 
+description: 'The Mycroft Chat allows you to interact with other community users. This '
 ---
 
 ### _mycroft-chat-skill.domcross_  

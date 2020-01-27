@@ -1,5 +1,5 @@
 ---
-description: This skill plays a sound in the given note or an sound in the given guitar string
+description: 'This skill plays a sound in the given note or an sound in the given guitar string'
 ---
 
 ### _sound-tuner-skill.andlo_  

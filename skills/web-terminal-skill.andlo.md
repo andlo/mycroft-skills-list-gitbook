@@ -1,5 +1,5 @@
 ---
-description: Start a web Terminal andor Web CLI client
+description: 'Start a web Terminal andor Web CLI client'
 ---
 
 ### _web-terminal-skill.andlo_  

@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _mcdonald-house.collinsrj_  

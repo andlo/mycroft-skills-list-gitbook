@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _picroft_example_skill_gpio.amcgee7_  

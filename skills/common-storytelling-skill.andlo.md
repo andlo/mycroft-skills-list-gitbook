@@ -1,5 +1,5 @@
 ---
-description: A common storytelling skill
+description: 'A common storytelling skill'
 ---
 
 ### _common-storytelling-skill.andlo_  

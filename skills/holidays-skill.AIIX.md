@@ -1,5 +1,5 @@
 ---
-description: Holidays List Information
+description: 'Holidays List Information'
 ---
 
 ### _holidays-skill.AIIX_  

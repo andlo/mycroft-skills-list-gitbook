@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _picroft_skill_gpio4s.smolino_  

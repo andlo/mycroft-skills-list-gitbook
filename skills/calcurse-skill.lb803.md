@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _calcurse-skill.lb803_  

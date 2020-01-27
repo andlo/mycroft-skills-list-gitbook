@@ -1,5 +1,5 @@
 ---
-description: Showcase the capabilities of the Mark 1
+description: 'Showcase the capabilities of the Mark 1'
 ---
 
 ### _skill-mark1-demo.MycroftAI_  

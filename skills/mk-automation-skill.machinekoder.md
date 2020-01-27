@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _mk-automation-skill.machinekoder_  

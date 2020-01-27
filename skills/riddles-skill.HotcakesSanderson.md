@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _riddles-skill.HotcakesSanderson_  

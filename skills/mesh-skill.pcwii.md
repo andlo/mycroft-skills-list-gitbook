@@ -1,5 +1,5 @@
 ---
-description: Send MQTT messages and commands between multiple mycroft.ai devices
+description: 'Send MQTT messages and commands between multiple mycroft.ai devices'
 ---
 
 ### _mesh-skill.pcwii_  

@@ -1,5 +1,5 @@
 ---
-description: Manage your Todoist tasks
+description: 'Manage your Todoist tasks'
 ---
 
 ### _todoist-skill.moritzgloeckl_  

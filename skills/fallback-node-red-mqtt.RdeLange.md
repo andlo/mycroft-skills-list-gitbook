@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _fallback-node-red-mqtt.RdeLange_  

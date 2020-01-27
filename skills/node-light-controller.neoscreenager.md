@@ -1,5 +1,5 @@
 ---
-description: 
+description: ''
 ---
 
 ### _node-light-controller.neoscreenager_  

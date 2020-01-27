@@ -1,5 +1,5 @@
 ---
-description: Smart home device unification
+description: 'Smart home device unification'
 ---
 
 ### _skill-iot-control.MycroftAI_  

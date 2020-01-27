@@ -1,5 +1,5 @@
 ---
-description: Updates original Mark 1 devices so they can upgrade to the latest version of Mycroft
+description: 'Updates original Mark 1 devices so they can upgrade to the latest version of Mycroft'
 ---
 
 ### _skill-platform-patch.MycroftAI_  
