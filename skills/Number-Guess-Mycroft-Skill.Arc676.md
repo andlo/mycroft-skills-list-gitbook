@@ -31,7 +31,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/Arc676/Number-Guess-Mycroft-Skill](https://github.com/Arc676/Number-Guess-Mycroft-Skill)  
 **Owner:** [@Arc676](https://github.com/Arc676)  
-**Created:** 2018 Sep 08 13:38:50 UTC  **Last updated:** 2019 May 29 08:15:22 UTC  
+**Created:** 2018 Sep 08 13:38:50 UTC  **Last updated:** 2020 Jan 13 13:21:32 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/skill-number-guess)  
 **Categories:** [ Entertainment ]   

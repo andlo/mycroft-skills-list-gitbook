@@ -4,7 +4,7 @@ description:
 
 ### _skill-lifx.GotTheNumbers_  
 ## Description:  
-A <a href='https://mycroft.ai/'>Mycroft</a> skill for controlling <a href='https://www.lifx.com/'>Lifx</a> lights.  
+A Mycroft skill for controlling Lifx lights.  
   
   
 ### Platform:  

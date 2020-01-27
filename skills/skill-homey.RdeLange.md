@@ -23,7 +23,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/RdeLange/skill-homey](https://github.com/RdeLange/skill-homey)  
 **Owner:** [@RdeLange](https://github.com/RdeLange)  
-**Created:** 2019 Nov 19 08:34:01 UTC  **Last updated:** 2019 Dec 03 19:11:08 UTC  
+**Created:** 2019 Nov 19 08:34:01 UTC  **Last updated:** 2020 Jan 24 23:00:43 UTC  
 **License:** MIT License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

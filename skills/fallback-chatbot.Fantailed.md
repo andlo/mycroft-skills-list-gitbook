@@ -8,9 +8,9 @@ description: Fallback using any offline AIML2.0 chatbot
 Because of the mere size of Program-Y, there are a few incompatibilities and installation difficulties that have to be manually resolved.
 Please read the whole description before proceeding.
 
-<br/>
+
 This skill makes use of the offline Python AIML2.0 interpreter Program-Y.
-<br/><br/><br/>
+
 
 At the moment, it only supports my own stupid bot called BakaBot, but adding your own bots will be supported very soon.
 

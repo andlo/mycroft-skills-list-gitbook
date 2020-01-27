@@ -8,7 +8,7 @@ Get traffic information for any route, defaulting to your Mycroft's location.
 
 This skill uses [OpenStreetMap Nomatim](https://wiki.openstreetmap.org/wiki/Nominatim) to reverse geocode the location and [WazeRouteCalculator](https://github.com/kovacsbalu/WazeRouteCalculator) to calculate the route.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -33,7 +33,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/TheLastProject/travel-time-skill](https://github.com/TheLastProject/travel-time-skill)  
 **Owner:** [@TheLastProject](https://github.com/TheLastProject)  
-**Created:** 2019 Dec 25 18:07:04 UTC  **Last updated:** 2019 Dec 27 21:30:40 UTC  
+**Created:** 2019 Dec 25 18:07:04 UTC  **Last updated:** 2020 Jan 26 22:33:30 UTC  
 **License:** Apache License 2.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Transport ] [ Information ]   

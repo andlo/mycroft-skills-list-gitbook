@@ -44,7 +44,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-installer](https://github.com/MycroftAI/skill-installer)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 05 22:57:26 UTC  **Last updated:** 2019 Nov 15 13:45:26 UTC  
+**Created:** 2017 Apr 05 22:57:26 UTC  **Last updated:** 2020 Jan 20 05:56:36 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-installer)  
 **Categories:** [ Configuration ]   

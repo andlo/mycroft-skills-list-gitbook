@@ -16,7 +16,7 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -32,7 +32,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-hello-world](https://github.com/MycroftAI/skill-hello-world)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 05 22:56:27 UTC  **Last updated:** 2019 Nov 15 10:48:24 UTC  
+**Created:** 2017 Apr 05 22:56:27 UTC  **Last updated:** 2020 Jan 16 14:30:59 UTC  
 **License:** No License  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-hello-world)  
 **Categories:** [ Configuration ]   

@@ -23,15 +23,15 @@ Detailed HowTo:
 - Install this skill on your Mycroft Device
 
 - Create a telegram bot:
-Open Telegram App on your smartphone, click on the search symbol in the upper right corner<br/>
-Search for BotFather and click on it<br/>
-Now type /newbot hit enter<br/>
-Botfather should reply with: Alright, a new bot. How are we going to call it? please chosse a name for your bot.<br/>
-Give your bot a displayname like Mycroft<br/>
-Botfather should reply with: Good. Now let's choose a username for your bot. It must end in bot. Like this, for example: TetrisBot or tetris-bot.<br/>
-Give your bot unique username like lukesmycroftbot<br/>
-Botfather should now give you your token for this bot<br/>
-Save this token and don't post it online or send it to people, safety first!<br/>
+Open Telegram App on your smartphone, click on the search symbol in the upper right corner
+Search for BotFather and click on it
+Now type /newbot hit enter
+Botfather should reply with: Alright, a new bot. How are we going to call it? please chosse a name for your bot.
+Give your bot a displayname like Mycroft
+Botfather should reply with: Good. Now let's choose a username for your bot. It must end in bot. Like this, for example: TetrisBot or tetris-bot.
+Give your bot unique username like lukesmycroftbot
+Botfather should now give you your token for this bot
+Save this token and don't post it online or send it to people, safety first!
 
 Telegram documentation on botfather: https://core.telegram.org/bots#6-botfather
 
@@ -52,7 +52,7 @@ It should respond with: This is your ChatID: YOURCHATID
 
 - Your bot should send you this welcome message: Telegram-Skill on Mycroft Unit YOURUNIT is loaded and ready to use.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -73,7 +73,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/luke5sky/telegram-skill](https://github.com/luke5sky/telegram-skill)  
 **Owner:** [@luke5sky](https://github.com/luke5sky)  
-**Created:** 2018 Jul 04 10:49:00 UTC  **Last updated:** 2019 Oct 20 20:17:48 UTC  
+**Created:** 2018 Jul 04 10:49:00 UTC  **Last updated:** 2020 Jan 03 08:17:39 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/telegram)  
 **Categories:** [ Productivity ] [ IoT ]   

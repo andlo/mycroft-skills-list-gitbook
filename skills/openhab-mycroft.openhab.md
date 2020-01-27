@@ -13,11 +13,11 @@ Device names recognized by Mycroft are matched against openHAB Item Labels.
 The above examples would all work with the following set of openHAB Item definitons:
 
 ```java
-Color DiningroomLight "Diningroom Light" <light> (gKitchen) [ "Lighting" ] {channel="hue:0200:1:bloom1:color"}
-Color KitchenLight "Kitchen Light" <light> (gKitchen) [ "Lighting" ] {channel="hue:0200:1:bloom1:color"}
+Color DiningroomLight "Diningroom Light"  (gKitchen) [ "Lighting" ] {channel="hue:0200:1:bloom1:color"}
+Color KitchenLight "Kitchen Light"  (gKitchen) [ "Lighting" ] {channel="hue:0200:1:bloom1:color"}
 Switch GoodNight "Good Night"	[ "Switchable" ]
 
-Number MqttID1Temperature "Bedroom Temperature" <temperature> [ "CurrentTemperature" ] {mqtt="<[mosquitto:mysensors/SI/1/1/1/0/0:state:default]"}
+Number MqttID1Temperature "Bedroom Temperature"  [ "CurrentTemperature" ] {mqtt="<[mosquitto:mysensors/SI/1/1/1/0/0:state:default]"}
 Number MqttID1Humidity "Bedroom Humidity" [ "CurrentHumidity" ] {mqtt="<[mosquitto:mysensors/SI/1/0/1/0/1:state:default]"}
 
 Group gThermostat "Main Thermostat" [ "gMainThermostat" ]

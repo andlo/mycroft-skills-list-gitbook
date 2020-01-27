@@ -43,7 +43,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/domcross/severe-weather-information-skill](https://github.com/domcross/severe-weather-information-skill)  
 **Owner:** [@domcross](https://github.com/domcross)  
-**Created:** 2019 Jul 28 12:05:26 UTC  **Last updated:** 2019 Oct 27 19:27:39 UTC  
+**Created:** 2019 Jul 28 12:05:26 UTC  **Last updated:** 2020 Jan 20 08:26:49 UTC  
 **License:** Apache License 2.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Daily ] [ Essentials ] [ Information ] [ Weather ]   

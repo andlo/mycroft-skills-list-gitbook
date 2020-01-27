@@ -3,9 +3,9 @@
     * [Weather](skills/skill-weather.MycroftAI.md)
     * [Mycroft's Background](skills/skill-personal.MycroftAI.md)
     * [Pairing](skills/skill-pairing.MycroftAI.md)
+    * [Set alarms](skills/skill-alarm.MycroftAI.md)
     * [Volume Control](skills/skill-volume.MycroftAI.md)
     * [Speak](skills/skill-speak.MycroftAI.md)
-    * [Set alarms](skills/skill-alarm.MycroftAI.md)
     * [Naptime](skills/skill-naptime.MycroftAI.md)
     * [Spelling](skills/skill-spelling.MycroftAI.md)
     * [System](skills/skill-stop.MycroftAI.md)
@@ -17,9 +17,9 @@
     * [Device Configuration](skills/skill-configuration.MycroftAI.md)
     * [Support](skills/skill-support.MycroftAI.md)
     * [Audio Recorder](skills/skill-audio-record.MycroftAI.md)
+    * [Stock Prices](skills/skill-stock.MycroftAI.md)
     * [Set reminders](skills/skill-reminder.MycroftAI.md)
     * [Release Test](skills/skill-release-test.MycroftAI.md)
-    * [Stock Prices](skills/skill-stock.MycroftAI.md)
     * [Version Checker](skills/skill-version-checker.MycroftAI.md)
     * [Desktop Launcher](skills/skill-desktop-launcher.MycroftAI.md)
     * [Jokes](skills/skill-joke.MycroftAI.md)
@@ -53,12 +53,6 @@
     * [DuckDuckGo skill for Mycroft](skills/duckduckgo-skill.ethanaward.md)
   * @augustnmonteiro  
     * [mycroft-youtube](skills/mycroft-youtube.augustnmonteiro.md)
-  * @forslund  
-    * [Google Calendar skill](skills/gcalendar_skill.forslund.md)
-    * [MPD skill](skills/mpd_skill.forslund.md)
-    * [Usage](skills/cmd_skill.forslund.md)
-    * [RSS Feed Reader](skills/rss_skill.forslund.md)
-    * [Cocktails](skills/skill-cocktail.forslund.md)
   * @jamiehoward430  
     * [MQTT for MycroftAI](skills/mycroft-mymqtt.jamiehoward430.md)
   * @treussart  
@@ -85,6 +79,11 @@
     * [mycroft-hello](skills/mycroft-hello.ChristopherRogers1991.md)
   * @Cadair  
     * [Kodi Skill for Mycroft AI](skills/mycroft-kodi.Cadair.md)
+  * @forslund  
+    * [Usage](skills/cmd_skill.forslund.md)
+    * [gcalendar_skill](skills/gcalendar_skill.forslund.md)
+    * [RSS Feed Reader](skills/rss_skill.forslund.md)
+    * [Cocktails](skills/skill-cocktail.forslund.md)
   * @k3yb0ardn1nja  
     * [Kodi Remote Control Skill for Mycroft](skills/mycroft-skill-kodi.k3yb0ardn1nja.md)
   * @mortommy  
@@ -97,8 +96,8 @@
     * [Audio-control-plasma](skills/audio-control-plasma.AIIX.md)
     * [unsplash-wallpaper-plasma-skill](skills/unsplash-wallpaper-plasma-skill.AIIX.md)
     * [clarifai-image-recognition-skill](skills/clarifai-image-recognition-skill.AIIX.md)
-    * [KDE-Kate-Control](skills/kde-kate-control.AIIX.md)
     * [KDE-Konversation-Control](skills/kde-konversation-control.AIIX.md)
+    * [KDE-Kate-Control](skills/kde-kate-control.AIIX.md)
     * [plasma-mycroft-applet-control](skills/plasma-mycroft-applet-control.AIIX.md)
     * [Amarok-Player-Skill](skills/amarok-player-skill.AIIX.md)
     * [Skill-Gui-Example](skills/Skill-Gui-Examples.AIIX.md)
@@ -182,15 +181,15 @@
     * [mycroft_skill-take_picture](skills/mycroft_skill-take_picture.Nold360.md)
     * [mycroft-skill_email](skills/mycroft-skill_email.Nold360.md)
     * [mycroft_skill-drive_servos](skills/mycroft_skill-drive_servos.Nold360.md)
-  * @Dark5ide  
-    * [ESP8266 skill](skills/skill-esp8266.Dark5ide.md)
-    * [Espy](skills/espy-skill.Dark5ide.md)
   * @TREE-Ind  
     * [Voice Recognition Skill Using Tensorflow - WIP](skills/skill-voice-recognition.TREE-Ind.md)
     * [Speaker recognition for Mycroft](skills/speaker-rec-skill-test.TREE-Ind.md)
     * [MatterMost Skill for Mycroft AI](skills/skill-mattermost.TREE-Ind.md)
     * [Bedtime Stories](skills/bedtime-stories-skill.TREE-Ind.md)
     * [Desktop Control](skills/desktop-control.TREE-Ind.md)
+  * @Dark5ide  
+    * [ESP8266 skill](skills/skill-esp8266.Dark5ide.md)
+    * [Espy](skills/espy-skill.Dark5ide.md)
   * @gerlachry  
     * [Mycroft Todoist skill](skills/skill-todoist.gerlachry.md)
   * @jrwarwick  
@@ -297,17 +296,19 @@
     * [NPR-LIVE-RADIO](skills/npr-live.rsimari.md)
   * @MedChartAI  
     * [medchart item](skills/item-skill.MedChartAI.md)
-  * @KathyReid  
-    * [Australian News Skill](skills/skill-australian-news.KathyReid.md)
-    * [skill-malibu-stacey](skills/skill-malibu-stacy.KathyReid.md)
-    * [Feed The Corgi](skills/feed-the-corgi-skill.KathyReid.md)
   * @kgaddy  
     * [Mycroft Octoprint Skill](skills/mycroft_skill_octopi.kgaddy.md)
   * @BoatrightTBC  
     * [sunspots](skills/sunspots.BoatrightTBC.md)
+  * @KathyReid  
+    * [Australian News Skill](skills/skill-australian-news.KathyReid.md)
+    * [skill-malibu-stacey](skills/skill-malibu-stacy.KathyReid.md)
+    * [Feed The Corgi](skills/feed-the-corgi-skill.KathyReid.md)
   * @el-tocino  
     * [Geek Hue skill](skills/mycroft-hue.el-tocino.md)
     * [Mycroft Today in History - Event skill](skills/mycroft-tih.el-tocino.md)
+  * @spammedia  
+    * [mycroft-poetry-skill](skills/mycroft-poetry-skill.spammedia.md)
   * @andlo  
     * [Google AIY voicekit](skills/picroft-google-aiy-voicekit-skill.andlo.md)
     * [Auto volume](skills/auto-volume-skill.andlo.md)
@@ -319,7 +320,10 @@
     * [ISS Tracker](skills/iss-tracker-skill.andlo.md)
     * [Sound tuner](skills/sound-tuner-skill.andlo.md)
     * [Home Assistant Skill for Mycroft](skills/homeassistant-skill.andlo.md)
+    * [Farting](skills/farting-skill.andlo.md)
+    * [Web Terminal](skills/web-terminal-skill.andlo.md)
     * [Andersen's Fairy Tales](skills/grimms-skill.andlo.md)
+    * [Remote Debug](skills/remote-debug-skill.andlo.md)
     * [Tell A Story](skills/tell-a-story-skill.andlo.md)
     * [Common Storytelling](skills/common-storytelling-skill.andlo.md)
   * @JonStratton  
@@ -327,12 +331,12 @@
     * [Roomba Serial Command](skills/roomba-serial-command-skill.JonStratton.md)
   * @pcwii  
     * [Kodi Control](skills/kodi-skill.pcwii.md)
+    * [Mesh](skills/mesh-skill.pcwii.md)
     * [Pick Number](skills/skill-pick-number.pcwii.md)
     * [Hyperion-Skill](skills/hyperion-control-skill.pcwii.md)
     * [nanoleaf-skill](skills/nanoleaf-skill.pcwii.md)
     * [yeelight-skill](skills/yeelight-skill.pcwii.md)
     * [decora-smart-wifi-skill](skills/decora-smart-wifi-skill.pcwii.md)
-    * [mesh-skill](skills/mesh-skill.pcwii.md)
     * [Help Skill for Mycroft AI](skills/help-skill.pcwii.md)
     * [condor_skill](skills/condor_skill.pcwii.md)
     * [rpi-gpio-skill](skills/rpi-gpio-skill.pcwii.md)
@@ -340,11 +344,13 @@
     * [Finished Booting Skill](skills/skill-finished-booting.zelmon64.md)
   * @LinusS1  
     * [Email](skills/email-skill.LinusS1.md)
-    * [Communications](skills/communications-skill.LinusS1.md)
     * [Calendar](skills/calendar-skill.LinusS1.md)
+    * [Communications](skills/communications-skill.LinusS1.md)
   * @JamesPoole  
     * [Podcasts](skills/podcast-skill.JamesPoole.md)
     * [Tuner](skills/skill-tuner.JamesPoole.md)
+  * @jamesmf  
+    * [rasa-chat](skills/skill-rasa-chat.jamesmf.md)
   * @luke5sky  
     * [Telegram](skills/telegram-skill.luke5sky.md)
     * [Speedtest](skills/speedtest-skill.luke5sky.md)
@@ -355,10 +361,9 @@
     * [Speedtest](skills/speedtest-test-skill.luke5sky.md)
   * @deejcunningham  
     * [score](skills/skill-score.deejcunningham.md)
-  * @jamesmf  
-    * [rasa-chat](skills/skill-rasa-chat.jamesmf.md)
   * @domcross  
     * [Mycroft Chat](skills/mycroft-chat-skill.domcross.md)
+    * [Mycroft Verbosity](skills/mycroft-verbosity-skill.domcross.md)
     * [Severe Weather Information](skills/severe-weather-information-skill.domcross.md)
     * [Google Search Knowledge Graph](skills/google-search-knowledge-graph-skill.domcross.md)
     * [Shairport](skills/shairport-skill.domcross.md)
@@ -374,8 +379,8 @@
     * [mycroft-push-to-listen](skills/mycroft-push-to-listen.aussieW.md)
     * [MQTT for MycroftAI](skills/skill-mqtt.aussieW.md)
     * [MQTT for MycroftAI](skills/skill-mqtt-worldtime.aussieW.md)
-    * [Knock Knock Jokes](skills/knock-knock-jokes-skill.aussieW.md)
     * [Description](skills/skill-knock-knock-jokes.aussieW.md)
+    * [Knock Knock Jokes](skills/knock-knock-jokes-skill.aussieW.md)
     * [internet radio](skills/skill-streaming-radio.aussieW.md)
   * @clszz6  
     * [White Noise](skills/white-noise-skill.clszz6.md)
@@ -384,10 +389,6 @@
     * [Number Guess](skills/Number-Guess-Mycroft-Skill.Arc676.md)
   * @brezuicabogdan  
     * [My Episodes](skills/brezicode.myepisodes.mycroftai.brezuicabogdan.md)
-  * @ChanceNCounter  
-    * [Nevermind](skills/nevermind-skill.ChanceNCounter.md)
-    * [Dismissal](skills/dismissal-skill.ChanceNCounter.md)
-    * [Repeat That](skills/repeat-skill.ChanceNCounter.md)
   * @BhavikKatyal  
     * [Hello World](skills/mycroft-skill-today-in-history.BhavikKatyal.md)
     * [Hello World](skills/Today_Skill_2.BhavikKatyal.md)
@@ -398,6 +399,9 @@
     * [Habit-miner skill](skills/PFE1718-habit-miner.PFE1718.md)
   * @backassward  
     * [Rss Reader](skills/rss-reader-skill.backassward.md)
+  * @ChanceNCounter  
+    * [Dismissal](skills/dismissal-skill.ChanceNCounter.md)
+    * [Repeat That](skills/repeat-skill.ChanceNCounter.md)
   * @builderjer  
     * [Movie Master](skills/moviemaster.builderjer.md)
   * @Dragoncraft89  
@@ -406,12 +410,10 @@
     * [skill-nmap](skills/nmap-skill.Nhoya.md)
   * @fortwally  
     * [sonos-control-skill](skills/sonos-control-skill.fortwally.md)
-  * @ChristianMurphy  
-    * [uPortal Demo Skill](skills/mycroft-skill-uportal-demo.ChristianMurphy.md)
   * @retrodaredevil  
     * [Pokemon](skills/pokemon-skill.retrodaredevil.md)
-    * [youtube-skill](skills/youtube-skill.retrodaredevil.md)
     * [Minecraft Server Status](skills/minecraft-server-status-skill.retrodaredevil.md)
+    * [youtube-skill](skills/youtube-skill.retrodaredevil.md)
   * @smearumi  
     * [Remote Computer](skills/mycroft-remote-computer.smearumi.md)
     * [Dictionary](skills/mycroft-dictionary.smearumi.md)
@@ -427,10 +429,14 @@
   * @samclane  
     * [HomeSeer-Mycroft](skills/homeseer-mycroft.samclane.md)
     * [lifx-mycroft](skills/lifx-mycroft.samclane.md)
+  * @ChristianMurphy  
+    * [uPortal Demo Skill](skills/mycroft-skill-uportal-demo.ChristianMurphy.md)
   * @dwfalk  
     * [rhythmbox-skill](skills/rhythmbox-skill.dwfalk.md)
   * @who-is-matt  
     * [Kodi Controller](skills/kodi-controller-skill.who-is-matt.md)
+  * @TheLastProject  
+    * [Travel Time](skills/travel-time-skill.TheLastProject.md)
   * @megastruktur  
     * [skill-jira](skills/mycroft-skill-jira.megastruktur.md)
   * @mschot  
@@ -449,34 +455,29 @@
     * [Mycroft-assignment](skills/Mycroft-assignment.BrianArch96.md)
   * @lucasvog  
     * [mycroft-medical-example](skills/mycroft-medical-example.lucasvog.md)
-  * @RdeLange  
-    * [skill-homey](skills/skill-homey.RdeLange.md)
-    * [Mosquito Message](skills/skill-mosquito-message.RdeLange.md)
-    * [Mosquito Broadcast](skills/skill-mosquito-broadcast.RdeLange.md)
-    * [Dutch Radio skill](skills/skill-dutchradio.RdeLange.md)
-  * @anshumanpatil  
-    * [Learn Javascript Language](skills/skill-learn-javascript.anshumanpatil.md)
   * @gadgetguy08  
     * [nextcloudCalendarSkill](skills/nextcloudCalendarSkill.gadgetguy08.md)
+  * @anshumanpatil  
+    * [Learn Javascript Language](skills/skill-learn-javascript.anshumanpatil.md)
   * @VHeusdens  
     * [Hello World](skills/skill-red.VHeusdens.md)
     * [skill-test](skills/skill-test.VHeusdens.md)
     * [skill-blue](skills/skill-blue.VHeusdens.md)
     * [skill-janee](skills/skill-janee.VHeusdens.md)
-  * @SandeepRamesh  
-    * [Hello World](skills/mycroft_history_skill.SandeepRamesh.md)
   * @BugHunterPhilosopher  
     * [Alfred](skills/Alfred.BugHunterPhilosopher.md)
     * [clementine-player](skills/clementine-player.BugHunterPhilosopher.md)
+  * @acherukuri  
+    * [UMKC Hackathon Spring'19](skills/mycroft-kitchen.mycroftai.acherukuri.md)
+    * [mycroft-white-noise.mycroftai](skills/mycroft-white-noise.mycroftai.acherukuri.md)
   * @henridbr  
     * [Netatmo Weather](skills/Netatmo-Weather.henridbr.md)
     * [ My Family Tree](skills/My_Family_Tree.henridbr.md)
     * [Rolling_Shutters](skills/Rolling_Shutters.henridbr.md)
-  * @acherukuri  
-    * [UMKC Hackathon Spring'19](skills/mycroft-kitchen.mycroftai.acherukuri.md)
-    * [mycroft-white-noise.mycroftai](skills/mycroft-white-noise.mycroftai.acherukuri.md)
   * @lllAlexanderlll  
     * [mycroft-momo](skills/mycroft-momo.lllAlexanderlll.md)
+  * @SandeepRamesh  
+    * [Hello World](skills/mycroft_history_skill.SandeepRamesh.md)
   * @Smoerble  
     * [Hello World](skills/skill-hello-earth.Smoerble.md)
     * [skill-imdb](skills/skill-imdb.Smoerble.md)
@@ -487,6 +488,10 @@
     * [Weather](skills/weather.Cathalb28345.md)
   * @josmoo15  
     * [Hello World](skills/skill-mcp-status.josmoo15.md)
+  * @tony1661  
+    * [Plex Mycroft Skill](skills/Mycroft-Plex-Skill.tony1661.md)
+    * [Coffee Warmer Mycroft Skill](skills/Mycroft-Coffee-Warmer.tony1661.md)
+    * [hello-world](skills/hello-world.tony1661.md)
   * @ln191  
     * [Hello World](skills/Skill-PhotoFrame.ln191.md)
   * @colla69  
@@ -494,29 +499,31 @@
     * [Localmusicplayer](skills/localMusicPlayer-skill.colla69.md)
     * [cmus-skill](skills/cmus-skill.colla69.md)
     * [Computer Helper Skill](skills/ComputerHelperSkill.colla69.md)
-  * @tony1661  
-    * [Plex Mycroft Skill](skills/Mycroft-Plex-Skill.tony1661.md)
-    * [Coffee Warmer Mycroft Skill](skills/Mycroft-Coffee-Warmer.tony1661.md)
-    * [hello-world](skills/hello-world.tony1661.md)
   * @hubolife  
     * [Maxwell Acronym skill interface to Altsearch engine](skills/maxwell_skills.hubolife.md)
-  * @smolino  
-    * [skill-communicate](skills/skill-communicate.smolino.md)
-    * [picroft 8 Switch Relay skill gpio and LCD Readme](skills/skill-gpio8s-lcd.smolino.md)
-    * [picroft 8 Switch Relay skill gpio Readme](skills/picroft_skill_gpio8s.smolino.md)
-    * [picroft 4 Switch Relay skill gpio Readme](skills/picroft_skill_gpio4s.smolino.md)
+  * @RdeLange  
+    * [Mosquito Message](skills/skill-mosquito-message.RdeLange.md)
+    * [skill-homey](skills/skill-homey.RdeLange.md)
+    * [Mosquito Broadcast](skills/skill-mosquito-broadcast.RdeLange.md)
+    * [fallback-node-red-mqtt](skills/fallback-node-red-mqtt.RdeLange.md)
+    * [Dutch Radio skill](skills/skill-dutchradio.RdeLange.md)
   * @Tyler-The-App-Creator  
     * [Mycroftinator](skills/mycroftinator.Tyler-The-App-Creator.md)
     * [Want To Play](skills/want-to-play.Tyler-The-App-Creator.md)
-  * @sofwerx  
-    * [Mycroft PDF Skill](skills/skill-pdf.sofwerx.md)
-    * [mycroft-articlekeyword-skill](skills/mycroft-articlekeyword-skill.sofwerx.md)
-    * [tsa-wait-skill](skills/skill-test.sofwerx.md)
+  * @smolino  
+    * [skill-communicate](skills/skill-communicate.smolino.md)
+    * [picroft 8 Switch Relay skill gpio and LCD Readme](skills/skill-gpio8s-lcd.smolino.md)
+    * [picroft 4 Switch Relay skill gpio Readme](skills/picroft_skill_gpio4s.smolino.md)
+    * [picroft 8 Switch Relay skill gpio Readme](skills/picroft_skill_gpio8s.smolino.md)
   * @waltk99  
     * [Remember](skills/test-remember-skill.waltk99.md)
     * [skill-oh-ann](skills/skill-oh-ann.waltk99.md)
   * @HerrAugust  
     * [Real-time smart-car skill Mycroft](skills/skill-smart-car.HerrAugust.md)
+  * @sofwerx  
+    * [Mycroft PDF Skill](skills/skill-pdf.sofwerx.md)
+    * [mycroft-articlekeyword-skill](skills/mycroft-articlekeyword-skill.sofwerx.md)
+    * [tsa-wait-skill](skills/skill-test.sofwerx.md)
   * @syner1  
     * [Naptime](skills/mycroft-nap-skill.syner1.md)
     * [Volume Control](skills/mycroft-volume.syner1.md)
@@ -530,12 +537,12 @@
     * [Write to Google-Spreadsheets Skill](skills/skill-google-spreadsheet.Quinn2017.md)
   * @erabti  
     * [Pomodoro Skill](skills/mycroft-pomodoro-skill.erabti.md)
-  * @Ishimaru17  
-    * [First Talk](skills/first-talk-skill.Ishimaru17.md)
-    * [Deep Learning](skills/DeepLearning.Ishimaru17.md)
   * @HellCatVN  
     * [Mycroft-Random](skills/Mycroft-Random.HellCatVN.md)
     * [Desktop Launcher Skill](skills/Mycroft-Application-Launcher.HellCatVN.md)
+  * @Ishimaru17  
+    * [First Talk](skills/first-talk-skill.Ishimaru17.md)
+    * [Deep Learning](skills/DeepLearning.Ishimaru17.md)
   * @adamc199  
     * [Mycroft-skill-karma](skills/Mycroft-skill-karma.adamc199.md)
   * @estherdalley  
@@ -544,8 +551,6 @@
     * [skill-cookie-jar](skills/skill-cookie-jar.estherdalley.md)
   * @Shamanon  
     * [webSearch](skills/webSearch.Shamanon.md)
-  * @TheLastProject  
-    * [Travel Time](skills/travel-time-skill.TheLastProject.md)
   * @solograyhat  
     * [Mycroft's Personal Background](skills/skill-personal-18.08.solograyhat.md)
     * [skill-personal](skills/mycroft-personal.solograyhat.md)
@@ -556,14 +561,14 @@
     * [Singing](skills/skill-quran.muhareb.md)
   * @hexeratops  
     * [mycroft-youtube](skills/mycroft-youtube-skill.hexeratops.md)
-  * @cliffordvandyk  
-    * [Mqtt Automation Controller](skills/mqtt-automation-controller-skill.cliffordvandyk.md)
-    * [Mycroft Influxdb Sensor Lookup](skills/mycroft-influxdb-sensor-lookup-skill.cliffordvandyk.md)
   * @avimeens  
     * [Wemo Controller Using Wit](skills/skill-wemo-controller-using-wit.avimeens.md)
     * [mycroft-first-robotics-2019](skills/mycroft-first-robotics-2019.avimeens.md)
     * [Ppt Controller Using Rasa](skills/skill-ppt-controller-using-rasa.avimeens.md)
     * [Rasa Robot Controller](skills/skill-rasa-robot-controller.avimeens.md)
+  * @cliffordvandyk  
+    * [Mqtt Automation Controller](skills/mqtt-automation-controller-skill.cliffordvandyk.md)
+    * [Mycroft Influxdb Sensor Lookup](skills/mycroft-influxdb-sensor-lookup-skill.cliffordvandyk.md)
   * @tiredoftry  
     * [Spelling](skills/mycroft-spelling.tiredoftry.md)
   * @Willow-Systems  
@@ -576,8 +581,10 @@
     * [Emotion Matrix](skills/emotion-matrix-skill.basiliskAI.md)
   * @krisgesling  
     * [Polite](skills/polite-skill.krisgesling.md)
+    * [Nevermind](skills/nevermind-skill.krisgesling.md)
     * [Dev Ex Get Response](skills/dev-ex-get-response-skill.krisgesling.md)
     * [Skill Testing](skills/skill-testing-skill.krisgesling.md)
+    * [End Listening Sound](skills/end-listening-sound-skill.krisgesling.md)
     * [Regex Example](skills/regex-example-skill.krisgesling.md)
   * @groupwhere  
     * [skill-tivo](skills/skill-tivo.groupwhere.md)
@@ -585,25 +592,24 @@
     * [Air Quality](skills/air-quality-skill.kalyaninagaraj.md)
     * [Podcast Player](skills/podcast-player-skill.kalyaninagaraj.md)
     * [All India Radio News](skills/all-india-radio-skill.kalyaninagaraj.md)
+    * [Google AIY Voicehat](skills/google-aiy-voicehat-skill.kalyaninagaraj.md)
   * @kadams1463  
     * [mycroft-flipcoinskill](skills/mycroft-flipcoinskill.kadams1463.md)
     * [Play Relaxing Sounds](skills/mycroft-relaxingsounds.kadams1463.md)
   * @RobBrenn  
     * [Description](skills/wake-on-lan.RobBrenn.md)
-  * @ErikEkstedt  
-    * [Mycroft-Chatbot-Conversation-Research](skills/mycroft-test-skill.ErikEkstedt.md)
   * @loicloic  
     * [Mycroft Test](skills/mycroft-test-skill.loicloic.md)
+  * @ErikEkstedt  
+    * [Mycroft-Chatbot-Conversation-Research](skills/mycroft-test-skill.ErikEkstedt.md)
+  * @Kiahnat36  
+    * [Send-Serial-Packet-Skill](skills/send-serial-packet-skill.Kiahnat36.md)
   * @krywenko  
     * [Evcan-alerts-skill](skills/Evcan-alerts-skill.krywenko.md)
     * [recipe-library-skill](skills/recipe-library-skill.krywenko.md)
     * [meteo-alerts-skill](skills/meteo-alerts-skill.krywenko.md)
-  * @Kiahnat36  
-    * [Send-Serial-Packet-Skill](skills/send-serial-packet-skill.Kiahnat36.md)
   * @Nerdenator  
     * [mycroft_demo_skill](skills/mycroft_demo_skill.Nerdenator.md)
-  * @GotTheNumbers  
-    * [lifx-skill](skills/skill-lifx.GotTheNumbers.md)
   * @HotcakesSanderson  
     * [Riddles](skills/riddles-skill.HotcakesSanderson.md)
     * [Meowcroft](skills/meowcroft-skill.HotcakesSanderson.md)
@@ -611,11 +617,11 @@
     * [About](skills/AIskills.yogi1510.md)
     * [About](skills/NavigateSkill-VirtualAssistant.yogi1510.md)
     * [About](skills/NavigationSkill-VirtualAssistant.yogi1510.md)
+  * @GotTheNumbers  
+    * [lifx-skill](skills/skill-lifx.GotTheNumbers.md)
   * @ninjaspl0it  
     * [skill-nmap](skills/clyde-dirbust.ninjaspl0it.md)
     * [Shodan](skills/clyde-shodan.ninjaspl0it.md)
-  * @AVSLAB  
-    * [desktopControlSkill](skills/desktopControlSkill.AVSLAB.md)
   * @mikonse  
     * [mycroft smart home skill](skills/mycroft-smart-home.mikonse.md)
   * @KCAstromechs  
@@ -634,35 +640,35 @@
     * [Mycroft Youtube Mpv](skills/mycroft-youtube-mpv.Shadowsith.md)
   * @idusertbs  
     * [rasa-chat](skills/mycroft-skill-banorte-demo.idusertbs.md)
+  * @arraylabs  
+    * [ReSpeaker Mic Array v2 usb Mycroft A.I. Skill](skills/mycroft-respeaker-usb-pixel-ring.arraylabs.md)
   * @joshuacox  
     * [GNU World Order](skills/skill-GNUworldOrder.joshuacox.md)
     * [No Agenda Show](skills/skill-na-show.joshuacox.md)
-  * @arraylabs  
-    * [ReSpeaker Mic Array v2 usb Mycroft A.I. Skill](skills/mycroft-respeaker-usb-pixel-ring.arraylabs.md)
-  * @akuataya  
-    * [Good Night Skill](skills/good-night-skill.akuataya.md)
-  * @nagamanikandank  
-    * [About](skills/naga-mycroft-test.nagamanikandank.md)
   * @adropofilm  
     * [Word Of The Day Skill](skills/word-of-the-day-skill.adropofilm.md)
+  * @nagamanikandank  
+    * [About](skills/naga-mycroft-test.nagamanikandank.md)
+  * @akuataya  
+    * [Good Night Skill](skills/good-night-skill.akuataya.md)
+  * @adocampo  
+    * [Introduce Yourself](skills/introduce-yourself-skill.adocampo.md)
   * @Shivaabhai  
     * [Raspberry Pi GPIO Demo](skills/picroft.Shivaabhai.md)
     * [Pandora](skills/savan.Shivaabhai.md)
     * [Wikipedia](skills/webmd-skill.Shivaabhai.md)
-  * @adocampo  
-    * [Introduce Yourself](skills/introduce-yourself-skill.adocampo.md)
   * @MOHIT-sketch  
     * [Raspberry Pi GPIO Demo](skills/rasp.MOHIT-sketch.md)
   * @drunau  
     * [Raspberry Pi GPIO Demo](skills/Controlling_GPIO.drunau.md)
   * @mehmetaergun  
     * [Kodi Remote Skill](skills/skill-kodi-remote.mehmetaergun.md)
-  * @magicaltrevor  
-    * [Myvis](skills/myvis.magicaltrevor.md)
   * @oliveralonzo  
     * [Inspirational Quotes](skills/skill-inspirational-quotes.oliveralonzo.md)
   * @ankitjena008  
     * [LOCATION-ASSISTED VOICE AUTHENTICATION](skills/jarvis_auth.ankitjena008.md)
+  * @magicaltrevor  
+    * [Myvis](skills/myvis.magicaltrevor.md)
   * @camuthig  
     * [mycroft-lifx](skills/mycroft-lifx.camuthig.md)
   * @jubbathejack  
@@ -673,10 +679,10 @@
     * [BWN Wemo Skill](skills/bwn-wemo-skill.ErdMutter92.md)
   * @mandolincreek  
     * [Mycroft Introspection Skill](skills/mycroft-skill-introspect.mandolincreek.md)
-  * @scherererer  
-    * [Roku](skills/skill-roku.scherererer.md)
   * @Gobbenobber  
     * [CryptoSkill](skills/skill-CryptoSkill.Gobbenobber.md)
+  * @scherererer  
+    * [Roku](skills/skill-roku.scherererer.md)
   * @mathias  
     * [Heroku Status](skills/skill-heroku-status.mathias.md)
   * @chadwallacehart  
@@ -699,26 +705,32 @@
     * [mycroft-gtm-skill](skills/mycroft-gtm-skill.parthshihora.md)
   * @herangithan  
     * [mycroft-test](skills/mycroft-test.herangithan.md)
-  * @Gits3  
-    * [Lottery-Skill](skills/Lottery-Skill.Gits3.md)
   * @HackYourOffice  
     * [skill-klima](skills/skill-klima.HackYourOffice.md)
+  * @Gits3  
+    * [Lottery-Skill](skills/Lottery-Skill.Gits3.md)
   * @Gradivis  
     * [Nonsense Skill for Mycroft](skills/mycroft-nonsense-skill.Gradivis.md)
-  * @impearker  
-    * [skill-nmap](skills/skill-pentest.impearker.md)
+  * @im-strongthany  
+    * [skill-nmap](skills/skill-pentest.im-strongthany.md)
+  * @EpicKau  
+    * [Description](skills/tv-connector-skill.EpicKau.md)
   * @SomePati  
     * [Mycroft skill-radio-oe1](skills/skill-radio-oe1.SomePati.md)
+  * @justfaked  
+    * [Mycroft Playground](skills/mycroft-playground-skill.justfaked.md)
   * @MatthewScholefield  
     * [Kickstarter Tracker](skills/skill-kickstarter-tracker.MatthewScholefield.md)
-  * @gapaza  
-    * [Daphne](skills/daphne-skill.gapaza.md)
   * @reaperjudge  
     * [mycroft-readfile](skills/mycroft-readfile.reaperjudge.md)
+  * @antoninovara  
+    * [Hola Mubita](skills/Mubita.antoninovara.md)
   * @ExperimentalCivics  
     * [Quizbox](skills/quizbox.ExperimentalCivics.md)
   * @jaller94  
     * [Rock Paper Scissors](skills/skill-rock-paper-scissors.jaller94.md)
+  * @jininvt  
+    * [mycroft - dumpmon skill](skills/ZZZ-dumpmon-scrap-skill.jininvt.md)
   * @DarmainTheDonkey  
     * [mycroft-lightbar.mycroftai](skills/mycroft-lightbar.mycroftai.DarmainTheDonkey.md)
   * @snow2k9  
@@ -726,12 +738,12 @@
   * @nidaibani21  
     * [Launch](skills/launch-skill.nidaibani21.md)
     * [Mycroft Launch](skills/mycroft-launch-skill.nidaibani21.md)
-  * @georgebaily  
-    * [Wild Race](skills/skill-wild-race.georgebaily.md)
   * @tom-servo  
     * [Unit Converter](skills/unit-converter-skill.tom-servo.md)
   * @Habanossi  
     * [Lecture Subjects](skills/lecture-skill.Habanossi.md)
+  * @georgebaily  
+    * [Wild Race](skills/skill-wild-race.georgebaily.md)
   * @padresb  
     * [Bark](skills/bark-skill.padresb.md)
   * @MYesca  
@@ -740,30 +752,34 @@
     * [Heart Monitor Skill](skills/heart-rate.tiagochiavericosta.md)
   * @kapi238  
     * [Best Anime](skills/Mycroft-Boku-no-pico.kapi238.md)
-  * @avellent  
-    * [simpleskilltest](skills/simpleskilltest.avellent.md)
-    * [HistoryDeathSkill](skills/HistoryDeathSkill.avellent.md)
-    * [SimpleTestSkill](skills/SimpleTestSkill.avellent.md)
-    * [DeathHistorySkill](skills/DeathHistorySkill.avellent.md)
-    * [Mycroft Today in History - Event skill](skills/tinh.avellent.md)
-  * @adrianmrit  
-    * [Desktop Launcher Skill](skills/skill-desktop-launcher.adrianmrit.md)
-  * @UMD-AIMAR  
-    * [Aimar](skills/aimar.UMD-AIMAR.md)
-  * @treecko16  
-    * [Hello World Attempt Two](skills/hello-world-attempt-two-skill.treecko16.md)
   * @ITE-5th  
     * [Face Recognizer](skills/skill-face-recognizer.ITE-5th.md)
   * @SubhadeepJasu  
     * [Hemera](skills/mycroft-skill-hemera.SubhadeepJasu.md)
   * @benklop  
     * [Antique Radio](skills/skill-antique-radio.benklop.md)
+  * @adrianmrit  
+    * [Desktop Launcher Skill](skills/skill-desktop-launcher.adrianmrit.md)
   * @Extarys  
     * [Test](skills/Mycroft-Nextcloud-Skill.Extarys.md)
+  * @treecko16  
+    * [Hello World Attempt Two](skills/hello-world-attempt-two-skill.treecko16.md)
+  * @UMD-AIMAR  
+    * [Aimar](skills/aimar.UMD-AIMAR.md)
+  * @avellent  
+    * [simpleskilltest](skills/simpleskilltest.avellent.md)
+    * [HistoryDeathSkill](skills/HistoryDeathSkill.avellent.md)
+    * [SimpleTestSkill](skills/SimpleTestSkill.avellent.md)
+    * [DeathHistorySkill](skills/DeathHistorySkill.avellent.md)
+    * [Mycroft Today in History - Event skill](skills/tinh.avellent.md)
   * @VikramVaroo  
     * [helloworld-](skills/helloworld-.VikramVaroo.md)
   * @SamG486  
     * [Employees](skills/employees-skill.SamG486.md)
+  * @ajwkc  
+    * [Recipe skill](skills/recipe-skill.ajwkc.md)
+  * @taitleaney  
+    * [Garage Light Skill](skills/MycroftGarageLight.taitleaney.md)
   * @clebio  
     * [learning_mycroft](skills/learning_mycroft.clebio.md)
   * @SergioML9  
@@ -774,23 +790,19 @@
     * [mycroft_command_skill](skills/mycroft_command_skill.deqtrio2015.md)
   * @dakam  
     * [Pacetasks Employee](skills/pacetasks-employee-skill.dakam.md)
-  * @ajwkc  
-    * [Recipe skill](skills/recipe-skill.ajwkc.md)
-  * @taitleaney  
-    * [Garage Light Skill](skills/MycroftGarageLight.taitleaney.md)
   * @khalildh  
     * [skill-bot-commander](skills/skill-bot-commander.khalildh.md)
-  * @MostAwesomeJJ  
-    * [lovey-laptop-control](skills/lovey-laptop-control.MostAwesomeJJ.md)
   * @gallsy  
     * [LIFX-Skill](skills/lifx-skill.gallsy.md)
-  * @s-p-a-s  
-    * [Mycroft Today in History - Event skill](skills/mycroft-esp-skill-off.s-p-a-s.md)
   * @maxpivo  
     * [Dirty Talk](skills/mycroft-skill-dirtytalk.maxpivo.md)
+  * @s-p-a-s  
+    * [Mycroft Today in History - Event skill](skills/mycroft-esp-skill-off.s-p-a-s.md)
   * @Julia3107  
     * [weather_skill](skills/weather_skill.Julia3107.md)
     * [arduino-control-skill](skills/arduino-control-skill.Julia3107.md)
+  * @MostAwesomeJJ  
+    * [lovey-laptop-control](skills/lovey-laptop-control.MostAwesomeJJ.md)
   * @mohitsrivastava15  
     * [hindiHelloSkill](skills/hindiHelloSkill.mohitsrivastava15.md)
   * @didekoning  
@@ -825,22 +837,22 @@
     * [skill-rock-paper-scissors](skills/skill-rock-paper-scissors.fractal13.md)
   * @laurapalmerstolemyheart  
     * [Powerball Checker](skills/powerball-checker-skill.laurapalmerstolemyheart.md)
-  * @sartsj  
-    * [domocrofticz](skills/domocrofticz.sartsj.md)
   * @Arcanesaadman15  
-    * [Mycroft Today in History - Event skill](skills/mycroft-skill-today-in-history.Arcanesaadman15.md)
     * [Mycroft Today in History - Event skill](skills/MySkills2.Arcanesaadman15.md)
+    * [Mycroft Today in History - Event skill](skills/mycroft-skill-today-in-history.Arcanesaadman15.md)
     * [Mycroft Today in History - Event skill](skills/MySkills3.Arcanesaadman15.md)
     * [Mycroft Today in History - Event skill](skills/MySkills1.Arcanesaadman15.md)
-  * @MajesticMagician  
-    * [Nmap-Mycroft](skills/Nmap-Mycroft.MajesticMagician.md)
-    * [WebView-Mycroft](skills/WebView-Mycroft.MajesticMagician.md)
   * @chrise123x  
     * [Skill-Particle](skills/skill-particle.chrise123x.md)
   * @Shiroke-013  
     * [Antonia](skills/Antonia.Shiroke-013.md)
   * @oliverguhr  
     * [mycroft-skill-history](skills/mycroft-skill-history.oliverguhr.md)
+  * @sartsj  
+    * [domocrofticz](skills/domocrofticz.sartsj.md)
+  * @MajesticMagician  
+    * [Nmap-Mycroft](skills/Nmap-Mycroft.MajesticMagician.md)
+    * [WebView-Mycroft](skills/WebView-Mycroft.MajesticMagician.md)
   * @stacs01  
     * [hi-mycroft](skills/hi-mycroft.stacs01.md)
   * @alvaromndz  
@@ -869,31 +881,37 @@
     * [gatherer-query-skill](skills/gatherer-query-skill.Cschlaefli.md)
   * @atheedom  
     * [mycroft-skill-hello-world](skills/mycroft-skill-hello-world.atheedom.md)
-  * @lumoe  
-    * [recipe-skill](skills/recipe-skill.lumoe.md)
-  * @jaredjames2020  
-    * [skill-morning](skills/skill-morning.jaredjames2020.md)
-  * @jmmisiegoruiz  
-    * [skill-pickup-toys](skills/skill-pickup-toys.jmmisiegoruiz.md)
+  * @consde  
+    * [Pi](skills/pi-skill.consde.md)
+  * @davidedmundson  
+    * [skill-samegame](skills/skill-samegame.davidedmundson.md)
+  * @BjoernCFischer  
+    * [hello-mycroft-world](skills/hello-mycroft-world.BjoernCFischer.md)
   * @spinozaure  
     * [radio-browser-skill](skills/radio-browser-skill.spinozaure.md)
   * @lakst  
     * [HindiHelloSkill](skills/HindiHelloSkill.lakst.md)
     * [WinidoTestSKill](skills/WinidoTestSKill.lakst.md)
+  * @Blubbaa  
+    * [Ikea Tradfri](skills/ikea-tradfri-skill.Blubbaa.md)
   * @mjmauldin  
     * [LogSkill](skills/LogSkill.mjmauldin.md)
   * @mj2p  
     * [Subsonic](skills/subsonic-mycroft-skill.mj2p.md)
   * @evanwike  
     * [Grocery List](skills/grocery-list-skill.evanwike.md)
-  * @BjoernCFischer  
-    * [hello-mycroft-world](skills/hello-mycroft-world.BjoernCFischer.md)
-  * @davidedmundson  
-    * [skill-samegame](skills/skill-samegame.davidedmundson.md)
-  * @shejuti  
-    * [skill-state-university](skills/skill-state-university.shejuti.md)
+  * @lumoe  
+    * [recipe-skill](skills/recipe-skill.lumoe.md)
+  * @jaredjames2020  
+    * [skill-morning](skills/skill-morning.jaredjames2020.md)
+  * @jmmisiegoruiz  
+    * [skill-pickup-toys](skills/skill-pickup-toys.jmmisiegoruiz.md)
+  * @Drjansson  
+    * [call_local_script-mycroft-skill](skills/call_local_script-mycroft-skill.Drjansson.md)
   * @einstalek  
     * [Wikipedia](skills/ru-wiki.einstalek.md)
+  * @shejuti  
+    * [skill-state-university](skills/skill-state-university.shejuti.md)
   * @abowerman  
     * [Nanoleaf](skills/nanoleaf-skill.abowerman.md)
   * @mofadashi  
@@ -902,16 +920,16 @@
     * [Fallback Chatbot](skills/fallback-chatbot.Fantailed.md)
   * @talianahr  
     * [Helloworld](skills/helloworld-skill.talianahr.md)
-  * @ejstacey  
-    * [subsonic media player](skills/skill-subsonic-media.ejstacey.md)
+  * @guendelman  
+    * [Dice](skills/dice-skill.guendelman.md)
   * @fandonov  
     * [movie trivia](skills/movie_trivia.fandonov.md)
-  * @vraedac  
-    * [Shopping List](skills/shopping-list-skill.vraedac.md)
-  * @mason88  
-    * [Federal Closings](skills/skill-federal-closings.mason88.md)
+  * @ejstacey  
+    * [subsonic media player](skills/skill-subsonic-media.ejstacey.md)
   * @jandrovins  
     * [Lahuertaderamiroskill](skills/LaHuertaDeRamiroSkill.jandrovins.md)
+  * @mason88  
+    * [Federal Closings](skills/skill-federal-closings.mason88.md)
   * @dgardner4695  
     * [TEA Control Skill](skills/skill-tea-control.dgardner4695.md)
   * @Karacolmar  
@@ -944,6 +962,8 @@
     * [Weather Test](skills/weather-test-skill.vozotem.md)
   * @timo-a  
     * [Anki Interface](skills/anki-interface-skill.timo-a.md)
+  * @patalanov  
+    * [image recognition skill](skills/image_recog_skill.patalanov.md)
   * @pranavlal  
     * [EchoUtteranceSkill](skills/skill-echo-utterance.pranavlal.md)
   * @bw3740  
@@ -952,3 +972,5 @@
     * [Todoist](skills/todoist-skill.moritzgloeckl.md)
   * @merspieler  
     * [irc-skill](skills/irc-skill.merspieler.md)
+  * @a1aiintel  
+    * [mycroft-vision-skill](skills/ZZZ-service-skill-vision.a1aiintel.md)

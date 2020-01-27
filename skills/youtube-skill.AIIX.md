@@ -30,7 +30,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/AIIX/youtube-skill](https://github.com/AIIX/youtube-skill)  
 **Owner:** [@AIIX](https://github.com/AIIX)  
-**Created:** 2018 Sep 05 09:03:49 UTC  **Last updated:** 2019 Dec 23 09:23:25 UTC  
+**Created:** 2018 Sep 05 09:03:49 UTC  **Last updated:** 2020 Jan 08 06:59:52 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Media ]   

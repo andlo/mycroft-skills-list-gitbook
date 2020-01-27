@@ -14,7 +14,7 @@ When told to "let one slip" or "fart randomly", Mycroft will play a fart sound f
 
 Has been tested on picroft and mark1.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -33,7 +33,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/aussieW/skill-farting](https://github.com/aussieW/skill-farting)  
 **Owner:** [@aussieW](https://github.com/aussieW)  
-**Created:** 2018 Jan 17 23:22:55 UTC  **Last updated:** 2019 Feb 21 23:50:43 UTC  
+**Created:** 2018 Jan 17 23:22:55 UTC  **Last updated:** 2020 Jan 02 19:02:24 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Entertainment ]   

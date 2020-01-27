@@ -13,7 +13,7 @@ For **enclosures** with screen support, conditions are briefly shown using visem
 
 The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your [https://home.mycroft.ai](https://home.mycroft.ai) account.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -45,7 +45,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-weather](https://github.com/MycroftAI/skill-weather)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 04 17:49:49 UTC  **Last updated:** 2019 Dec 02 08:16:00 UTC  
+**Created:** 2017 Apr 04 17:49:49 UTC  **Last updated:** 2020 Jan 24 10:18:27 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-weather)  
 **Categories:** [ Daily ]   

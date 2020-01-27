@@ -29,7 +29,7 @@ from github.ContentFile import ContentFile
 from github.Repository import Repository
 from os import isatty
 from os.path import dirname, abspath, isfile, join, isdir
-from prettyparse import create_parser
+#from prettyparse import create_parser
 from tempfile import gettempdir
 from typing import Optional
 

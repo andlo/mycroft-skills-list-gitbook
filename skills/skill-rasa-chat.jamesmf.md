@@ -10,7 +10,7 @@ To start a chat, say "chat with bot" and to end it, say "stop"
 
 Once you're chatting, this skill will override most Mycroft functionality, and you will be in a conversation with the Rasa bot until you end the chat or are silent too long.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -33,7 +33,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/jamesmf/skill-rasa-chat](https://github.com/jamesmf/skill-rasa-chat)  
 **Owner:** [@jamesmf](https://github.com/jamesmf)  
-**Created:** 2019 Aug 20 04:11:20 UTC  **Last updated:** 2019 Nov 28 00:26:46 UTC  
+**Created:** 2019 Aug 20 04:11:20 UTC  **Last updated:** 2020 Jan 20 01:03:23 UTC  
 **License:** MIT License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

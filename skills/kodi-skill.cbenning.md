@@ -8,7 +8,7 @@ Add the following section to your mycroft-core/mycroft/configuration/mycroft.ini
 ```
 [KodiSkill]
 protocol = "http"
-host = "<kodi-host>"
+host = ""
 port = 80
 similarity_threshold_percentage = 75
 ```

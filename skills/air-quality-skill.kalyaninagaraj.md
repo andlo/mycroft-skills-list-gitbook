@@ -11,7 +11,7 @@ By default, Mycroft reports **real-time** (most recent,
 one-hour average) fine particulate matter (PM 2.5) concentration
 levels at a monitoring station in your city. You can also ask
 Mycroft for PM 10, carbon monoxode (CO), nitrogen dioxide
-(NO<sub>2</sub>), and sulphur dioxide (SO<sub>2</sub>) levels at
+(NO2), and sulphur dioxide (SO2) levels at
 your location or in other cities. Mycroft will also report how
 long back the reading was taken if the measurements were made more
 than two hours ago, and a health cautionary statement (only for

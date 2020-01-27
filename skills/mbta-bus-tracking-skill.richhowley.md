@@ -8,23 +8,23 @@ Mycroft will announce estimated arrival times of MBTA busses  at your stop so yo
 
 See below for full documentation, including how to track busses traveling toward your stop, but to get started just say "Hey Mycroft, T Bus Arrivals".  You will be prompted for the bus route, direction and stop name.  Mycroft will respond with all estimated arrival times at your stop.
 
-<details><summary>View Sample dialog</summary>
-<dl>
-<dt>Hey Mycroft T Bus Arrivals</dt>
-<dd>Which route are you ridingj?</dd>
-<dt>One</dt>
-<dd>Are you going outbound toward Harvard or Inbound toward Dudley?</dd>
-<dt>Inbound</dt>
-<dd>Which stop?</dd>
-<dt>Mount Auburn Street at Putnam Ave</dt>
-<dd>Route One service to Dudley arrivals for Mount Auburn Street at Putnam Avenue:<dd>
-<dd>Arriving in 11 minutes<dd>
-<dd>Arriving in 21 minutes<dd>
-<dd>Arriving in 34 minutes<dd>
-</dl>
-</details>
+View Sample dialog
 
-<details><summary>View Full Documentation</summary>
+Hey Mycroft T Bus Arrivals
+Which route are you ridingj?
+One
+Are you going outbound toward Harvard or Inbound toward Dudley?
+Inbound
+Which stop?
+Mount Auburn Street at Putnam Ave
+Route One service to Dudley arrivals for Mount Auburn Street at Putnam Avenue:
+Arriving in 11 minutes
+Arriving in 21 minutes
+Arriving in 34 minutes
+
+
+
+View Full Documentation
 
 #### T bus or Transit
 
@@ -88,7 +88,7 @@ allow you to list and delete saved shortcuts.
 
 When installed this skill does not use an API key when getting data from the MBTA servers.  Using a key allows a higher rate limit when requesting data.  It should not be necessary to use an API key but if you like you may obtain one on the [MBTA website](https://api-v3.mbta.com/register). In the skill settings on Mycroft Home check the box next to "Use my API key" and enter your key in the text field.
 
-</details>  
+  
   
   
 ### Platform:  

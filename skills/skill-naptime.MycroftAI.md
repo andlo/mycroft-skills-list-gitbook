@@ -39,7 +39,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-naptime](https://github.com/MycroftAI/skill-naptime)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 05 22:57:02 UTC  **Last updated:** 2019 Nov 15 13:42:29 UTC  
+**Created:** 2017 Apr 05 22:57:02 UTC  **Last updated:** 2020 Jan 13 11:47:50 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-naptime)  
 **Categories:** [ Daily ] [ Configuration ]   

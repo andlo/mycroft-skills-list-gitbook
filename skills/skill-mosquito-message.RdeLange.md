@@ -74,7 +74,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/RdeLange/skill-mosquito-message](https://github.com/RdeLange/skill-mosquito-message)  
 **Owner:** [@RdeLange](https://github.com/RdeLange)  
-**Created:** 2018 May 25 19:11:30 UTC  **Last updated:** 2018 Oct 13 19:44:47 UTC  
+**Created:** 2018 May 25 19:11:30 UTC  **Last updated:** 2020 Jan 06 19:02:28 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   
