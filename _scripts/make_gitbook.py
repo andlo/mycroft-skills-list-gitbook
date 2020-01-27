@@ -35,7 +35,9 @@ def make_skillsfiles(skills):
         #resize_img(icon_img, 50)
         #txt.append(skill["skill_info"]["title"] + '\n\n')
         txt.append('## Description:  \n')
-        txt.append(clean_txt(skill["skill_info"]["description"]) + '  \n')
+        description = skill["skill_info"]["description"]
+        description.replace('\n\n', '  \n')
+        txt.append(description + '  \n  \n')
         #avatar = '../img/' + skill["owner"]["login"] + '_avatar.png'
         #avatar = get_img(skill["owner"]["avatar_url"], avatar)
         #resize_img(avatar, 50)
@@ -299,6 +301,8 @@ def make_summary(skills):
         summary.writelines(categorylist[category])
 
     summary.write('* Skill Writers  \n')
+
+
 
 def make_skillwritermd(skills):
     txt = open('../SKILLWRITERS.md', 'w')

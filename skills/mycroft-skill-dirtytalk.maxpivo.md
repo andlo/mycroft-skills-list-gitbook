@@ -4,11 +4,10 @@ description:
 
 ### _mycroft-skill-dirtytalk.maxpivo_  
 ## Description:  
-
-"Talk Dirty" - Run of the mill dirty talk
-"Filthy" - A little more X rated
-"Nasty" - X Rated and intended to be offensive
-"Filthy Joke" - Will tell you a one-liner.
+* "Talk Dirty" - Run of the mill dirty talk
+* "Filthy" - A little more X rated
+* "Nasty" - X Rated and intended to be offensive
+* "Filthy Joke" - Will tell you a one-liner.  
   
   
 ### Platform:  

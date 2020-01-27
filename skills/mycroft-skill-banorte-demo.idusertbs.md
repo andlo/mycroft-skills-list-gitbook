@@ -5,8 +5,11 @@ description:
 ### _mycroft-skill-banorte-demo.idusertbs_  
 ## Description:  
 The package Rasa is a nice fit for Mycroft, as it allows you to build conversational agents without handing over your data to a third-party service. This package is designed to hit the Rasa REST endpoints and speak the resultant messages.
+
 To start a chat, say "chat with bot" and to end it, say "stop"
+
 Once you're chatting, this skill will override most Mycroft functionality, and you will be in a conversation with the Rasa bot until you end the chat or are silent too long.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

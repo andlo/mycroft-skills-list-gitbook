@@ -6,6 +6,7 @@ description: Mycroft interaction to jeedom
 ## Description:  
 Mycroft will call jeedom scenarios to trigger actions on home automation controller.  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 {% hint style="danger" %}

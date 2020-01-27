@@ -4,7 +4,8 @@ description: Provides current stock prices
 
 ### _skill-stock.MycroftAI_  
 ## Description:  
-Using the MarkitOnDemand API, you can ask Mycroft to get the current price of stocks.  
+Using the [MarkitOnDemand](http://markitondemand.github.io/DataApis/StockQuoteSample/) API, you can ask Mycroft to get the current price of stocks.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

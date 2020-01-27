@@ -4,7 +4,8 @@ description:
 
 ### _one-before-last-mycroft.stuartlangridge_  
 ## Description:  
-Answer true or false trivia questions, but with a twist you have to answer not the question you've just been asked, but the one before that. Get it wrong three times and you lose.  
+Answer true or false trivia questions, but with a twist: you have to answer not the question you've just been asked, but the one before that. Get it wrong three times and you lose.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

@@ -4,11 +4,12 @@ description:
 
 ### _plasma-kde-connect-skill.AIIX_  
 ## Description:  
-Control your KDE-Connect connected devices with actions such as
+Control your KDE-Connect connected devices with actions such as:
 - Find My Phone
 - Ping My Phone
 - Browse Phone Files
 - Dictate and Send an SMS to Your Google Contacts.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

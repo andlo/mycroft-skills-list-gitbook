@@ -4,8 +4,10 @@ description:
 
 ### _sonos-control-skill.snow2k9_  
 ## Description:  
-currently only chooses random device
-Control your Sonos with Mycroft  
+**currently only chooses random device**
+
+Control your Sonos with [Mycroft](https://github.com/MycroftAI/mycroft-core)  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

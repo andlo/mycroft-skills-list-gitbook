@@ -5,6 +5,7 @@ description:
 ### _rhythmbox-skill.dwfalk_  
 ## Description:  
 Let Mycroft help you control Rhythmbox. When asked Mycroft interfaces with Rhythmbox to play selections from your music library.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

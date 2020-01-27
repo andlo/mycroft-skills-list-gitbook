@@ -4,9 +4,10 @@ description:
 
 ### _mycroft-skill-kodi.k3yb0ardn1nja_  
 ## Description:  
-Mycroft skill to provide integration to Kodi XBMC. Enables
+Mycroft skill to provide integration to Kodi (XBMC). Enables
 the user to Play or Pause the currently playing video via voice
 commands made to mycroft.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

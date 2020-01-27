@@ -6,6 +6,7 @@ description:
 ## Description:  
 At the moment, the skill will ask you 5 questions. You can answer by choosing 1,2,3 or 4.  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

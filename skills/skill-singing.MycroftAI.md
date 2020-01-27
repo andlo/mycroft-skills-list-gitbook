@@ -5,6 +5,7 @@ description: Mycroft sings lyrics to some popular songs
 ### _skill-singing.MycroftAI_  
 ## Description:  
 Mycroft will speak the lyrics to a random pop music song using text to speech.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

@@ -4,8 +4,9 @@ description:
 
 ### _mycroftinator.Tyler-The-App-Creator_  
 ## Description:  
-A fun game created with Akinator the Genie, 
-brought to life using the Mycroft open source AI,   
+A fun game created with Akinator the Genie, https://en.akinator.com/
+brought to life using the Mycroft open source AI, https://mycroft.ai/  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

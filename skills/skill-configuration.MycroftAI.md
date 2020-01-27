@@ -4,11 +4,13 @@ description: Synchronize your Device Settings with Home
 
 ### _skill-configuration.MycroftAI_  
 ## Description:  
-User and device settings from home.mycroft.ai are
+User and device settings from [home.mycroft.ai](https://home.mycroft.ai) are
 synchronized with your Devices.  This Skill performs that synchronization and
 allows you to check your settings.
+
 You can also change the technology used to perform Wake Word spotting.  This is
 the system that wakes the device up when you say "Hey Mycroft".  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

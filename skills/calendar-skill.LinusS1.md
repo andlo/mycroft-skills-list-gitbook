@@ -4,7 +4,8 @@ description: Access your Calendar
 
 ### _calendar-skill.LinusS1_  
 ## Description:  
-With this skill, you can access your iCal server, or just use a local calendar on your device, that doesn't sync anywhere. This skill needs configuration if your use an iCal server. You can if you're technical use a local file and not store your server credentials with Mycroft Home, if you follow the instructions here.  
+With this skill, you can access your iCal server, or just use a [local calendar on your device](https://bit.ly/mycroft-calendar-ics), that doesn't sync anywhere. This skill needs configuration if your use an iCal server. You can (if you're technical) use a local file and not store your server credentials with Mycroft Home, if you follow the instructions [here](https://bit.ly/mycroft-calendar-local).  
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

@@ -4,8 +4,9 @@ description:
 
 ### _what-can-you-do-skill.luke5sky_  
 ## Description:  
-It tells you what you can do with Mycroft some examples
-and lists the installed skills if you want.  
+It tells you what you can do with Mycroft (some examples)
+and lists the installed skills (if you want).  
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

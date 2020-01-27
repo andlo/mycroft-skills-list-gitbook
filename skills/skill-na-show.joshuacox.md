@@ -4,9 +4,9 @@ description:
 
 ### _skill-na-show.joshuacox_  
 ## Description:  
-Teaches Mycroft AI about the the best podcast in the universe "No Agenda Show".
+Teaches Mycroft AI about the the best podcast in the universe ["No Agenda Show".](http://www.noagendashow.com/)
 
-"Hey Mycroft, Who is the best podcast in the Universe?"
+* "Hey Mycroft, Who is the best podcast in the Universe?"  
   
 ![](../.gitbook/assets/star.png)  
   

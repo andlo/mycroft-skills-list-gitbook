@@ -5,6 +5,7 @@ description:
 ### _skill-obd2-codes.WeltgeistNull_  
 ## Description:  
   
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

@@ -4,8 +4,7 @@ description:
 
 ### _Rolling_Shutters.henridbr_  
 ## Description:  
-
-Henri Debierre.
+* Henri Debierre.  
   
   
 ### Platform:  

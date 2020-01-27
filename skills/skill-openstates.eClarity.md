@@ -5,6 +5,7 @@ description:
 ### _skill-openstates.eClarity_  
 ## Description:  
 Config options coming soon.  Not currently needed for API key.  
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

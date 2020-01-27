@@ -6,9 +6,13 @@ description: Weather conditions and forecasts
 ## Description:  
 Get weather conditions, forecasts, expected precipitation and more!  By default it will tell
 you about your default location, or you can ask for other cities around the world.
-Current conditions and weather forecasts come from Open Weather Map.
-For enclosures with screen support, conditions are briefly shown using visemes.
-The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your  account.  
+
+Current conditions and weather forecasts come from [Open Weather Map](https://openweathermap.org).
+
+For **enclosures** with screen support, conditions are briefly shown using visemes.
+
+The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your [https://home.mycroft.ai](https://home.mycroft.ai) account.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

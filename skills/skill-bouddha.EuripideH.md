@@ -5,6 +5,7 @@ description:
 ### _skill-bouddha.EuripideH_  
 ## Description:  
 Mycroft can tell several famous quotes from Buddha.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

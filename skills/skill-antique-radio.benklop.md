@@ -8,6 +8,7 @@ This skill allows using the knobs on the radio to control various
 mycroft functions, and allows the screen on the radio to display
 status information.  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ## Installation:  

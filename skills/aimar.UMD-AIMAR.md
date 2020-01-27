@@ -5,13 +5,18 @@ description: Controls the aimar robot
 ### _aimar.UMD-AIMAR_  
 ## Description:  
 Controls the aimar robot with commands for movement, navigation, image recognition, and more.
+
 The AIMAR skill runs alongside Mycroft. Mycroft uses Python 3 and runs on the TurtleBot.
-The skill executes arm movements using the uArm-Python-SDK. __init__.py skill file should not directly call SDK functions.
-Instead, __init__.py imports aimar_arm.py and the SDK is imported in aimar_arm.py.
-To send ROS messages if we are using a library that uses ROS subscribers, we have to write ROS publishsersubscriber code.
+
+The skill executes arm movements using the uArm-Python-SDK. \_\_init\_\_.py (skill file) should not directly call SDK functions.
+Instead, \_\_init\_\_.py imports aimar_arm.py and the SDK is imported in aimar_arm.py.
+
+To send ROS messages (if we are using a library that uses ROS subscribers), we have to write ROS publishser/subscriber code.
 This has to be written in the robot-server application, since ROS Kinetic uses Python 2.
 We can then make a call to robot-server by using a web request.
+
 For functions like database access and skin image classification, we send a web request to desk-server.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

@@ -4,7 +4,8 @@ description:
 
 ### _skill-subsonic-media.ejstacey_  
 ## Description:  
-This module plays streaming content from a Subsonic Media Server   
+This module plays streaming content from a Subsonic Media Server (https://www.subsonic.org/).  
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

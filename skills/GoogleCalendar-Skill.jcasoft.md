@@ -5,6 +5,7 @@ description:
 ### _GoogleCalendar-Skill.jcasoft_  
 ## Description:  
   
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

@@ -5,6 +5,7 @@ description:
 ### _mycroft-skill-jira.megastruktur_  
 ## Description:  
   
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

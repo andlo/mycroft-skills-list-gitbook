@@ -4,7 +4,8 @@ description: Network connection information
 
 ### _skill-ip.MycroftAI_  
 ## Description:  
-Retrieve the IP address, also known as the "network address" of the Device and respond verbally to the user, and if the Device supports it, display the IP address.  
+Retrieve the [IP address](https://en.wikipedia.org/wiki/IP_address), also known as the "network address" of the Device and respond verbally to the user, and if the Device supports it, display the IP address.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

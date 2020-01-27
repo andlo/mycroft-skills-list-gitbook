@@ -5,6 +5,7 @@ description:
 ### _skill-laugh.JarbasAl_  
 ## Description:  
 Laugh randomly or when requested, gender configurable on home.mycroft.ai.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

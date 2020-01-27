@@ -4,7 +4,8 @@ description:
 
 ### _skill-lifx.GotTheNumbers_  
 ## Description:  
-A Mycroft skill for controlling Lifx lights.  
+A <a href='https://mycroft.ai/'>Mycroft</a> skill for controlling <a href='https://www.lifx.com/'>Lifx</a> lights.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

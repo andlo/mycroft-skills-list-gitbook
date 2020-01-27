@@ -5,8 +5,10 @@ description: Search the internet using google knowledge search
 ### _google-search-knowledge-graph-skill.domcross_  
 ## Description:  
 With this skill you can "google" the internet using google's knowledge search api.
-You need a Google account and create an api key
+
+You need a Google account and [create an api key](https://console.developers.google.com/start/api?id=kgsearch.googleapis.com&credential=client_key)
 that you have to enter in the skill settings section of home.mycroft.ai.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

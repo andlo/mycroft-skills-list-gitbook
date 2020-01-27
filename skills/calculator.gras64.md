@@ -5,6 +5,7 @@ description: A simple calculator skill for Mycroft AI
 ### _calculator.gras64_  
 ## Description:  
 The skill enables simple computational tasks to be solved.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

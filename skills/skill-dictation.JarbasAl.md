@@ -5,6 +5,7 @@ description:
 ### _skill-dictation.JarbasAl_  
 ## Description:  
 Char-rnn auto complete for human + machine writing included.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

@@ -5,6 +5,7 @@ description: Make Mycroft repeat whatever you want
 ### _skill-speak.MycroftAI_  
 ## Description:  
 Turn Mycroft into a parrot.  Speak a phrase and listen to it repeated in Mycroft's selected voice.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

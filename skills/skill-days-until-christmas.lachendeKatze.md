@@ -5,6 +5,7 @@ description:
 ### _skill-days-until-christmas.lachendeKatze_  
 ## Description:  
   
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

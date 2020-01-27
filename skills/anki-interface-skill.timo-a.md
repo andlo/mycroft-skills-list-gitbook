@@ -6,6 +6,7 @@ description: Control the flashcard program anki with your voice
 ## Description:  
 Control the flashcard program anki with your voice. mycroft navigates anki by sending key presses.  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

@@ -4,7 +4,8 @@ description: Reads out news headlines from rworldnews on reddit
 
 ### _reddit-news-skill.makeworld-the-better-one_  
 ## Description:  
-This skill scrapes from rworldnews using a GET request, and then has Mycroft read five of the headlines.  
+This skill scrapes from r/worldnews using a GET request, and then has Mycroft read five of the headlines.  
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

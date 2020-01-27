@@ -5,8 +5,9 @@ description: This is a skill written for mycroft to publish commands over an mqt
 ### _mycroft-mymqtt.jamiehoward430_  
 ## Description:  
 Currently it will publish the action to a topic built from the commands said, for example
-- say hey mycroft, turn the light on and mycroft will publish on to lightturn.
-- say hey mycroft, switch the tv on and mycroft will publish on to tvswitch.  
+- say `hey mycroft, turn the light on` and mycroft will publish `on` to `light/turn`.
+- say `hey mycroft, switch the tv on` and mycroft will publish `on` to `tv/switch`.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

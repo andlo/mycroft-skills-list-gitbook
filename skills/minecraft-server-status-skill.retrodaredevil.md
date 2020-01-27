@@ -6,6 +6,7 @@ description: Tells you the status of your favorite Minecraft Servers
 ## Description:  
 With this skill you can ask Mycroft the player count and MOTD on Minecraft Servers!  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

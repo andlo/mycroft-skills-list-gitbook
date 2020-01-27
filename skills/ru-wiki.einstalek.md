@@ -4,8 +4,10 @@ description: Wikipedia
 
 ### _ru-wiki.einstalek_  
 ## Description:  
-Query Wikipedia for answers to all your questions.  Get just a summary, or ask for more to get in-depth information.
-This Skill uses the Wikimedia API.  
+Query [Wikipedia](https://www.wikipedia.org) for answers to all your questions.  Get just a summary, or ask for more to get in-depth information.
+
+This Skill uses the [Wikimedia API](https://en.wikipedia.org/w/api.php).  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

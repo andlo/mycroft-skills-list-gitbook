@@ -8,6 +8,10 @@ This skill installs Theia IDE on your Mycroft device. This is an easy way to mak
 with integratio to Github, and tools like mycroft-msm and mycroft-msk directly from the integrated
 shell.
 Theia provides Microsoft VS Code experience in the browser.
+
+https://www.theia-ide.org/index.html
+
+<img src='screenshot.png' card_color='#40DBB0' width=800 style='vertical-align:bottom'/>  
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   

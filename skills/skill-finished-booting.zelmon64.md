@@ -5,6 +5,7 @@ description: Skill to determine when Mycroft AI has finished booting up
 ### _skill-finished-booting.zelmon64_  
 ## Description:  
 With this skill Mycroft will say when the boot up period has finished and is ready to receive commands.  
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

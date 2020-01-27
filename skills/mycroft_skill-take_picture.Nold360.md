@@ -5,6 +5,7 @@ description:
 ### _mycroft_skill-take_picture.Nold360_  
 ## Description:  
   
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

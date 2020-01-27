@@ -4,7 +4,8 @@ description:
 
 ### _calcurse-skill.lb803_  
 ## Description:  
-This skill is a calcurse wrapper for Mycroft.  
+This skill is a [calcurse](https://packages.debian.org/stable/calcurse) wrapper for [Mycroft](https://mycroft.ai/).  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

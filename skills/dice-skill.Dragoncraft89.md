@@ -5,8 +5,10 @@ description: Generates random numbers for you
 ### _dice-skill.Dragoncraft89_  
 ## Description:  
 This skill enables mycroft to generate random numbers for you.
-You either need to specify a range or type of dice e.g. d20.
+You either need to specify a range or type of dice (e.g. d20).
+
 Perfect whenever you need to generate a random number, but don't have a dice nearby.  
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

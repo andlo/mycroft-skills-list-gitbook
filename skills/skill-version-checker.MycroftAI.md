@@ -4,9 +4,8 @@ description: Report the version of your Mycroft
 
 ### _skill-version-checker.MycroftAI_  
 ## Description:  
-Report the version of your Mycroft install mycroft-core and of the platform you are running on - ie
-
-Mycroft Mark 1, version 18.2.13 beta.
+Report the version of your Mycroft install (`mycroft-core`) and of the platform you are running on - ie
+> Mycroft Mark 1, version 18.2.13 beta.  
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   

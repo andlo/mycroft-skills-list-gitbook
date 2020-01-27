@@ -5,6 +5,7 @@ description: Aids you on your journey as a Pokemon Trainer
 ### _pokemon-skill.retrodaredevil_  
 ## Description:  
 With this skill, you can ask Mycroft many different facts about Pokemon. The things you can ask it range from useful statistics such as when a Pokemon evolves or how effective a move is to a Pokemon's weight.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

@@ -5,6 +5,7 @@ description: Find information about movies, actors and production details
 ### _moviemaster.builderjer_  
 ## Description:  
 Easily find information about a movie with your voice.  
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

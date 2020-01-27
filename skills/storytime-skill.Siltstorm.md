@@ -6,9 +6,11 @@ description:
 ## Description:  
 Start a story by saying "Mycroft, tell me a story."
 It will then start the story and randomly choose each chapter for the reader.
+
 To get this done we need
 - A sound effect for the page flip
 - Randomly pick between two chapter options- Speak the result.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

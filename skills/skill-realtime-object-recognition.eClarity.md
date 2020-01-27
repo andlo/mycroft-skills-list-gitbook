@@ -5,6 +5,7 @@ description:
 ### _skill-realtime-object-recognition.eClarity_  
 ## Description:  
   
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

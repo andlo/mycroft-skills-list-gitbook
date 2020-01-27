@@ -5,6 +5,7 @@ description:
 ### _skill-inspirational-quotes.oliveralonzo_  
 ## Description:  
 Inspirational quotes for when you need a lift-up or just want to hear some wisdom. Quotes from Forismatic.  
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

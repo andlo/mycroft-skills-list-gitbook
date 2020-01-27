@@ -4,7 +4,8 @@ description:
 
 ### _turtleleft-skill.ImprezaRSC_  
 ## Description:  
-This line executes the ros command "rostopic pub -1 turtle1cmd_vel geometry_msgstwist -- '2.0, 0.0, 0.0' '0.0, 0.0, 1.8'" through the Mycroft interface for Linux.  
+This line executes the ros command "rostopic pub -1 /turtle1/cmd_vel geometry_msgs/twist -- '[2.0, 0.0, 0.0]' '[0.0, 0.0, 1.8]'" through the Mycroft interface for Linux.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

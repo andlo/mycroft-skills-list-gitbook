@@ -5,7 +5,9 @@ description:
 ### _next-tram-skill.Karacolmar_  
 ## Description:  
 Configure one tram station close to your home. your mycroft device will be able to tell you how long you will have to wait for the next tram and whether to hurry up
+
 !  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

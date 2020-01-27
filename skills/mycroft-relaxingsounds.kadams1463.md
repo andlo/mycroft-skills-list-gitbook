@@ -5,11 +5,12 @@ description:
 ### _mycroft-relaxingsounds.kadams1463_  
 ## Description:  
 Play various sounds on a loop through Mycroft. The sounds help with sleep, relaxing, or meditating.
-Here is a list of sounds
 
-White Noise
-Waves
-Rain.
+Here is a list of sounds:
+
+* White Noise
+* Waves
+* Rain.  
   
 ![](../.gitbook/assets/star.png)  
   

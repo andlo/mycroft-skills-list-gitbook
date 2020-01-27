@@ -4,7 +4,8 @@ description:
 
 ### _mycroft-yelp.AIIX_  
 ## Description:  
-Finds restaurantsbarsand other locations via the Yelp API.  
+Finds restaurants/bars/and other locations via the Yelp API.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

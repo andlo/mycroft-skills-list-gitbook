@@ -4,11 +4,16 @@ description:
 
 ### _mycroft-angrybeanie.purserj_  
 ## Description:  
-Installing
-Go to your skills directory ie optmycroftskills
-git clone 
+### Installing
+
+Go to your skills directory (ie /opt/mycroft/skills)
+
+git clone https://github.com/purserj/mycroft-angrybeanie.git
+
 cd into mycroft-angrybeanie
+
 pip -r requirements.txt.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

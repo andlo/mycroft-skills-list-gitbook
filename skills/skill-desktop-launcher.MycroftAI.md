@@ -5,6 +5,7 @@ description: Desktop Launcher
 ### _skill-desktop-launcher.MycroftAI_  
 ## Description:  
 Launch applications on the Linux desktop, and close them when done.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

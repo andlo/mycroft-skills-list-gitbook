@@ -4,7 +4,8 @@ description:
 
 ### _skill-radio-oe1.SomePati_  
 ## Description:  
-Latest news from  from austria.  
+Latest news from http://www.oe1.orf.at from austria.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

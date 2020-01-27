@@ -6,6 +6,7 @@ description:
 ## Description:  
 This skill connects to my personal pc automation suite and exposes the automation scripts to mycroft.  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

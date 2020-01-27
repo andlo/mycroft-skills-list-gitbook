@@ -7,6 +7,7 @@ description: Ask MyCroft to remember things for you
 You can ask MyCroft to remember and forget things.
 It will store everything in a list locally on your device.  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

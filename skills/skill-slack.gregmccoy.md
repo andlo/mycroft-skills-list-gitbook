@@ -5,6 +5,7 @@ description:
 ### _skill-slack.gregmccoy_  
 ## Description:  
   
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

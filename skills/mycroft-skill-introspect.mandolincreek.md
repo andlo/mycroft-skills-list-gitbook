@@ -4,11 +4,11 @@ description:
 
 ### _mycroft-skill-introspect.mandolincreek_  
 ## Description:  
-This skill will allow interactive discovery of Mycroft's capabilities
+This skill will allow interactive discovery of Mycroft's capabilities:
 
-skills
-intents
-vocabulary.
+- skills
+- intents
+- vocabulary.  
   
 ![](../.gitbook/assets/star.png)  
   

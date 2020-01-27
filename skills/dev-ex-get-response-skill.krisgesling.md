@@ -6,7 +6,9 @@ description: How to use the get_response method in a mycroft skill
 ## Description:  
 DO NOT USE.
 This was a quick first draft, it does not work.
-If you're interested in contributing please reach out via Mycroft Chat.  
+
+If you're interested in contributing please reach out via [Mycroft Chat](https://chat.mycroft.ai/community/messages/@gez-mycroft).  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

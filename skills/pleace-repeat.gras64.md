@@ -6,6 +6,7 @@ description: You did not understand anything and want mycroft to repeat itself
 ## Description:  
 You can always repeat the last sentence if you did not understand it.  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

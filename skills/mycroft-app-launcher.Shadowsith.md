@@ -5,10 +5,11 @@ description:
 ### _mycroft-app-launcher.Shadowsith_  
 ## Description:  
 The App Launcher Skill allows to open and close linux desktop applications
-with simple openclose commands. It is very similiar to Desktop
-Launcher from Mycroft but
-ony uses subprocesses to openclose programs. It also gives you a message if a
+with simple open/close commands. It is very similiar to [Desktop
+Launcher](https://github.com/MycroftAI/skill-desktop-launcher) from Mycroft but
+ony uses subprocesses to open/close programs. It also gives you a message if a
 application is not found on the device.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

@@ -5,6 +5,7 @@ description:
 ### _skill_easter_eggs.JarbasAl_  
 ## Description:  
 Some funny things for mycroft, mostly quotes from movies.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

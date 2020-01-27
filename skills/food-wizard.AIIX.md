@@ -5,6 +5,7 @@ description: Get Popular Food & Cooking Recipes On The Go
 ### _food-wizard.AIIX_  
 ## Description:  
 Get popular recipes and how to cook directions based on combination of Ingredient keywords.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

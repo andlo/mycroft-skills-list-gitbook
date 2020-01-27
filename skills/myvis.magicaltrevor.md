@@ -6,6 +6,7 @@ description:
 ## Description:  
 Mostly this is an exercise to learn about the differences that Mycroft has from Alexa in handling intents, dialogs, and vocabulary. Ultimately this should implement some type of machine learning to figure out what you want it to do by learning your habits.  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

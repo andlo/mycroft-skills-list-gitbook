@@ -4,7 +4,8 @@ description:
 
 ### _mycroft-hue.ChristopherRogers1991_  
 ## Description:  
-Turn your Phillips Hue lights onoff, activate scenes, adjust brightnesscolor temperature, etc.  
+Turn your Phillips Hue lights on/off, activate scenes, adjust brightness/color temperature, etc.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

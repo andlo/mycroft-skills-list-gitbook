@@ -5,6 +5,7 @@ description:
 ### _mycroft-small-talk-skill.eClarity_  
 ## Description:  
   
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

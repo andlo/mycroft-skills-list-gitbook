@@ -5,7 +5,9 @@ description: Get traffic information for your route
 ### _travel-time-skill.TheLastProject_  
 ## Description:  
 Get traffic information for any route, defaulting to your Mycroft's location.
-This skill uses OpenStreetMap Nomatim to reverse geocode the location and WazeRouteCalculator to calculate the route.  
+
+This skill uses [OpenStreetMap Nomatim](https://wiki.openstreetmap.org/wiki/Nominatim) to reverse geocode the location and [WazeRouteCalculator](https://github.com/kovacsbalu/WazeRouteCalculator) to calculate the route.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

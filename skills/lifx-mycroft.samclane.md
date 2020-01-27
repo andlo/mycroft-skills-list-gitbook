@@ -5,6 +5,7 @@ description: A mycroft skill to control LIFX brand smart-bulbs
 ### _lifx-mycroft.samclane_  
 ## Description:  
 Allows users to interact with the LIFX-brand smartbulbs on their home network through Mycroft. Can change power, brightness, color, and color-temperature of individual Lights and predefined Groups.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

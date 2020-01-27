@@ -6,6 +6,7 @@ description: Reminds you to feed your poor starving corgi
 ## Description:  
 Every 1 minutes, mycroft will send you a reminder to feed your corgi, and thell you what your corgi was fed the previous day, so you can provide a different delicious meal for your precious corgi.  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  

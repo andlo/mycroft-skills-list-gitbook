@@ -5,6 +5,7 @@ description: Mycroft GUI Showcase Examples
 ### _Skill-Gui-Examples.AIIX_  
 ## Description:  
 Example skill to showcase Mycroft GUI supported delegates and skill displays.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

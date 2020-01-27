@@ -4,9 +4,10 @@ description: Where is the international space station - ISS
 
 ### _iss-tracker-skill.andlo_  
 ## Description:  
-This skill allows mycroft to tell you where the International Space Station ISS is in orbit, realtive
+This skill allows mycroft to tell you where the International Space Station (ISS) is in orbit, realtive
 to the earth in latitude and longitude. it uses reverse geocoding to translate these coordinates
 into the country or body of water it is over.  
+  
 ![](../.gitbook/assets/star.png)  
   
 ### Platform:  

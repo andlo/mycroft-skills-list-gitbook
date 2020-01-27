@@ -5,6 +5,7 @@ description: Just train a new wakeword
 ### _wake-word-skill.gras64_  
 ## Description:  
 Wakeword is only a few times spoken and bad detection sorted out. you could not do that through speech. i have thought about it and make a skill.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

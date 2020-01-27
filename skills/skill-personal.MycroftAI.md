@@ -6,6 +6,7 @@ description: Learn history and personality of Mycroft
 ## Description:  
 Ask about the "birth" and parentage of Mycroft and get a taste of the community
 who is fostering this open source artificial intelligence.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

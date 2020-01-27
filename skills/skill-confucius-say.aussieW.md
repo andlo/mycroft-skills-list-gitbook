@@ -5,6 +5,7 @@ description:
 ### _skill-confucius-say.aussieW_  
 ## Description:  
 On request, Mycroft will deliver a random quote from Confucius. Humerous quotes can also be requested.  
+  
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  

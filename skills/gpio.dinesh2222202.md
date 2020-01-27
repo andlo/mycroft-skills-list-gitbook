@@ -4,8 +4,10 @@ description:
 
 ### _gpio.dinesh2222202_  
 ## Description:  
-make test.pi
+```make test.pi```
+
 This will run a test to be sure you have access to the gpio be sure to test on the system in a simular manner as mycroft.  
+  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   

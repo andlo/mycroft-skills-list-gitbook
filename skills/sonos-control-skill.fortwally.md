@@ -7,6 +7,7 @@ description: Control Sonos speakers from Mycroft
 Allow control of Sonos speakers from Mycroft.
 Assumes all speakers are in one group.  
   
+  
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  
