@@ -1,5 +1,5 @@
 ---
-description: 'Select a random number when provided a min and max value'
+description: Select a random number when provided a min and max value
 ---
 
 ### _skill-pick-number.pcwii_  

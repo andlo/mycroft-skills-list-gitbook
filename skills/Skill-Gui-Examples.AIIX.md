@@ -1,5 +1,5 @@
 ---
-description: 'Mycroft GUI Showcase Examples'
+description: Mycroft GUI Showcase Examples
 ---
 
 ### _Skill-Gui-Examples.AIIX_  

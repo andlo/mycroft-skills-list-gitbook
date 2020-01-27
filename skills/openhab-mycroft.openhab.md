@@ -1,5 +1,5 @@
 ---
-description: 'This skill adds openHAB support to Mycroft'
+description: This skill adds openHAB support to Mycroft
 ---
 
 ### _openhab-mycroft.openhab_  

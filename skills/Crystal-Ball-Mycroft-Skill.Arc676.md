@@ -1,5 +1,5 @@
 ---
-description: 'Provides random answers to yesno questions'
+description: Provides random answers to yesno questions
 ---
 
 ### _Crystal-Ball-Mycroft-Skill.Arc676_  

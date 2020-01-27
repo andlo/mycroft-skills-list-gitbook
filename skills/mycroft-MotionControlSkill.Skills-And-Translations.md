@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _mycroft-MotionControlSkill.Skills-And-Translations_  

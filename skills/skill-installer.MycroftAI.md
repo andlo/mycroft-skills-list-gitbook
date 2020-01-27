@@ -1,5 +1,5 @@
 ---
-description: 'Add and remove Mycroft Skills'
+description: Add and remove Mycroft Skills
 ---
 
 ### _skill-installer.MycroftAI_  

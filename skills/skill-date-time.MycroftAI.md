@@ -1,5 +1,5 @@
 ---
-description: 'Get the time, date, day of the week'
+description: Get the time, date, day of the week
 ---
 
 ### _skill-date-time.MycroftAI_  

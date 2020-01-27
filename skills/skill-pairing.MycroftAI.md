@@ -1,5 +1,5 @@
 ---
-description: 'Connect your device to the Mycroft server - Home'
+description: Connect your device to the Mycroft server - Home
 ---
 
 ### _skill-pairing.MycroftAI_  

@@ -1,5 +1,5 @@
 ---
-description: 'Lets you control your Xbox One by voice'
+description: Lets you control your Xbox One by voice
 ---
 
 ### _xbox-control-skill.tgru_  

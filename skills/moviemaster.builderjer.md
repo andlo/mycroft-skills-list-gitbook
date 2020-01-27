@@ -1,5 +1,5 @@
 ---
-description: 'Find information about movies, actors and production details'
+description: Find information about movies, actors and production details
 ---
 
 ### _moviemaster.builderjer_  

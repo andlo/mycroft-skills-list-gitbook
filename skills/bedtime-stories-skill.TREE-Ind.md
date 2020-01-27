@@ -1,5 +1,5 @@
 ---
-description: 'Listen to famous bedtime stories'
+description: Listen to famous bedtime stories
 ---
 
 ### _bedtime-stories-skill.TREE-Ind_  

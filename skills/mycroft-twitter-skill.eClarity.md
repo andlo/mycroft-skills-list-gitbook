@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _mycroft-twitter-skill.eClarity_  

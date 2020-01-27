@@ -1,5 +1,5 @@
 ---
-description: 'A Mycroft Skill for Home Temperatures and more with Netatmo'
+description: A Mycroft Skill for Home Temperatures and more with Netatmo
 ---
 
 ### _Netatmo-Weather.henridbr_  

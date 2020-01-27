@@ -1,5 +1,5 @@
 ---
-description: 'Get traffic information for your route'
+description: Get traffic information for your route
 ---
 
 ### _travel-time-skill.TheLastProject_  

@@ -1,5 +1,5 @@
 ---
-description: 'Get Popular Food & Cooking Recipes On The Go'
+description: Get Popular Food & Cooking Recipes On The Go
 ---
 
 ### _food-wizard.AIIX_  

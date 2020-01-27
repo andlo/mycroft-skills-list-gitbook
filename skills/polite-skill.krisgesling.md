@@ -1,5 +1,5 @@
 ---
-description: 'Example Skill to show use of the converse method'
+description: Example Skill to show use of the converse method
 ---
 
 ### _polite-skill.krisgesling_  

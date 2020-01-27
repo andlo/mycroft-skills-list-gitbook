@@ -1,5 +1,5 @@
 ---
-description: 'Weather conditions and forecasts'
+description: Weather conditions and forecasts
 ---
 
 ### _skill-weather-2.AIIX_  

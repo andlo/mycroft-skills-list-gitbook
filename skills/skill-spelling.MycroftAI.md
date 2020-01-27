@@ -1,5 +1,5 @@
 ---
-description: 'Let Mycroft help you spell words'
+description: Let Mycroft help you spell words
 ---
 
 ### _skill-spelling.MycroftAI_  

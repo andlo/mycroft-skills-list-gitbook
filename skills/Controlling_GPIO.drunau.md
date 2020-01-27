@@ -1,5 +1,5 @@
 ---
-description: 'Example of interacting with GPIO pins on a Raspberry Pi'
+description: Example of interacting with GPIO pins on a Raspberry Pi
 ---
 
 ### _Controlling_GPIO.drunau_  

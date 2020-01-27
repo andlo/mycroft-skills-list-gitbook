@@ -1,5 +1,5 @@
 ---
-description: 'Reads out news headlines from rworldnews on reddit'
+description: Reads out news headlines from rworldnews on reddit
 ---
 
 ### _reddit-news-skill.makeworld-the-better-one_  

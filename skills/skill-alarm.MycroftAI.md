@@ -1,5 +1,5 @@
 ---
-description: 'Set alarms with Mycroft'
+description: Set alarms with Mycroft
 ---
 
 ### _skill-alarm.MycroftAI_  

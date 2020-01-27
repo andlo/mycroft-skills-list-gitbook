@@ -1,5 +1,5 @@
 ---
-description: 'Ask Mycroft to run a simple speedtest'
+description: Ask Mycroft to run a simple speedtest
 ---
 
 ### _speedtest-skill.luke5sky_  

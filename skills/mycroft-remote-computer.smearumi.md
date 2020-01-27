@@ -1,5 +1,5 @@
 ---
-description: 'Control a remote computer via SSH and Wake on Lan. Power OFFON'
+description: Control a remote computer via SSH and Wake on Lan. Power OFFON
 ---
 
 ### _mycroft-remote-computer.smearumi_  

@@ -1,5 +1,5 @@
 ---
-description: 'Mycroft sings lyrics to some popular songs'
+description: Mycroft sings lyrics to some popular songs
 ---
 
 ### _skill-singing.MycroftAI_  

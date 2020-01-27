@@ -1,5 +1,5 @@
 ---
-description: 'Customize your Mark 2'
+description: Customize your Mark 2
 ---
 
 ### _skill-remote-platform.AIIX_  

@@ -1,5 +1,5 @@
 ---
-description: 'A mycroft skill to control LIFX brand smart-bulbs'
+description: A mycroft skill to control LIFX brand smart-bulbs
 ---
 
 ### _lifx-mycroft.samclane_  

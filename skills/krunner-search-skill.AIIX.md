@@ -1,5 +1,5 @@
 ---
-description: 'Krunner enables users to search their local desktop for files, images, recent documents, bookmarks a'
+description: Krunner enables users to search their local desktop for files, images, recent documents, bookmarks a
 ---
 
 ### _krunner-search-skill.AIIX_  

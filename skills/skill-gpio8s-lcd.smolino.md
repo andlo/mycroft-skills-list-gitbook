@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _skill-gpio8s-lcd.smolino_  

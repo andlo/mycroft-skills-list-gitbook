@@ -1,5 +1,5 @@
 ---
-description: 'Mycroft plays the latest episode of your favorite podcast'
+description: Mycroft plays the latest episode of your favorite podcast
 ---
 
 ### _podcast-player-skill.kalyaninagaraj_  

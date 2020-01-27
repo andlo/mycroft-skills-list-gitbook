@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _rpi-gpio-skill.pcwii_  

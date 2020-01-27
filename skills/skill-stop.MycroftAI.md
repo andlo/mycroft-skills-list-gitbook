@@ -1,5 +1,5 @@
 ---
-description: 'General system control'
+description: General system control
 ---
 
 ### _skill-stop.MycroftAI_  

@@ -17,7 +17,7 @@ def make_skillsfiles(skills):
         txt.append('---\n')
         #of.write('titel: ' + skill["skill_info"]["title"] + '\n')
         short_desc = clean_txt(skill["skill_info"]["short_desc"][:100])
-        txt.append("description: '" + short_desc + "'\n")
+        txt.append('description: ' + short_desc + '\n')
         #txt.append('categories: ')
         #for category in skill["skill_info"]["categories"]:
         #    txt.append(category + ' ')
@@ -189,7 +189,7 @@ def clean_txt(txt):
     result = result.replace('~', "")
     result = result.replace('/', "")
     result = result.replace(':', "")
-    result = result.replace('', "")
+    result = result.replace('\"', "'")
     return result     
 
 def get_img(url, filename):

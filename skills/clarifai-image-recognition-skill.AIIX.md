@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _clarifai-image-recognition-skill.AIIX_  

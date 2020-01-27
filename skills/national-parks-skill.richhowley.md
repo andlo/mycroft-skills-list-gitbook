@@ -1,5 +1,5 @@
 ---
-description: 'Information on US National Parks'
+description: Information on US National Parks
 ---
 
 ### _national-parks-skill.richhowley_  

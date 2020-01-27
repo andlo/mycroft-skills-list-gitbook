@@ -1,5 +1,5 @@
 ---
-description: 'Ask MyCroft to remember things for you'
+description: Ask MyCroft to remember things for you
 ---
 
 ### _remember-skill.luke5sky_  

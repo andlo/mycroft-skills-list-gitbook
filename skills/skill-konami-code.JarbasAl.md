@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _skill-konami-code.JarbasAl_  

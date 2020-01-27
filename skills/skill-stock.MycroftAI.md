@@ -1,5 +1,5 @@
 ---
-description: 'Provides current stock prices'
+description: Provides current stock prices
 ---
 
 ### _skill-stock.MycroftAI_  

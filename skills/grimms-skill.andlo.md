@@ -1,5 +1,5 @@
 ---
-description: 'Mycroft tells H. C. Andersen's Fairy Tales'
+description: Mycroft tells H. C. Andersen's Fairy Tales
 ---
 
 ### _grimms-skill.andlo_  

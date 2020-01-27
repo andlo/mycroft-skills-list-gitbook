@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _image_recog_skill.patalanov_  

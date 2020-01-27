@@ -1,5 +1,5 @@
 ---
-description: 'Control lights and switches connected to a Wink Hub'
+description: Control lights and switches connected to a Wink Hub
 ---
 
 ### _skill-wink-iot.MycroftAI_  

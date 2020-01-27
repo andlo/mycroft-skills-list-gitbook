@@ -1,5 +1,5 @@
 ---
-description: 'Train your body parts'
+description: Train your body parts
 ---
 
 ### _sport-exercises-skill.TheCis_  

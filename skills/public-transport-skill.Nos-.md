@@ -1,5 +1,5 @@
 ---
-description: 'Nahverkehrsauskunft für Dresden dvb, vvo per MyCroft-Sprachassistent'
+description: Nahverkehrsauskunft für Dresden dvb, vvo per MyCroft-Sprachassistent
 ---
 
 ### _public-transport-skill.Nos-_  

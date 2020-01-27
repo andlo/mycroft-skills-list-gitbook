@@ -1,5 +1,5 @@
 ---
-description: 'Basic Mycroft GUI screen support'
+description: Basic Mycroft GUI screen support
 ---
 
 ### _skill-standard-gui.MycroftAI_  

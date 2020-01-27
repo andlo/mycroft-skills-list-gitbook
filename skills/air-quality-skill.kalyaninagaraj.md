@@ -1,5 +1,5 @@
 ---
-description: 'Mycroft reports real-time pollutant levels in your city'
+description: Mycroft reports real-time pollutant levels in your city
 ---
 
 ### _air-quality-skill.kalyaninagaraj_  

@@ -1,5 +1,5 @@
 ---
-description: 'Play Number Guess with Mycroft'
+description: Play Number Guess with Mycroft
 ---
 
 ### _Number-Guess-Mycroft-Skill.Arc676_  

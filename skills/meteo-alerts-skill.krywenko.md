@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _meteo-alerts-skill.krywenko_  

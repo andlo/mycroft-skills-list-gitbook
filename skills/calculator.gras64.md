@@ -1,5 +1,5 @@
 ---
-description: 'A simple calculator skill for Mycroft AI'
+description: A simple calculator skill for Mycroft AI
 ---
 
 ### _calculator.gras64_  

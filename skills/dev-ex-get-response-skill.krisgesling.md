@@ -1,5 +1,5 @@
 ---
-description: 'How to use the get_response method in a mycroft skill'
+description: How to use the get_response method in a mycroft skill
 ---
 
 ### _dev-ex-get-response-skill.krisgesling_  

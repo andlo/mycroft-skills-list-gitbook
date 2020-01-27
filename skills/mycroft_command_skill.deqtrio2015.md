@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _mycroft_command_skill.deqtrio2015_  

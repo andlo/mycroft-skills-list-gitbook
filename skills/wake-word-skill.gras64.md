@@ -1,5 +1,5 @@
 ---
-description: 'Just train a new wakeword'
+description: Just train a new wakeword
 ---
 
 ### _wake-word-skill.gras64_  

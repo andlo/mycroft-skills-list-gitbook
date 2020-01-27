@@ -1,5 +1,5 @@
 ---
-description: 'Enables the button and led on the Google AIY voicehat'
+description: Enables the button and led on the Google AIY voicehat
 ---
 
 ### _google-aiy-voicehat-skill.kalyaninagaraj_  

@@ -1,5 +1,5 @@
 ---
-description: 'Give voice commands to Mycroft to control a MagicMirror'
+description: Give voice commands to Mycroft to control a MagicMirror
 ---
 
 ### _magic-mirror-voice-control-skill.dmwilsonkc_  

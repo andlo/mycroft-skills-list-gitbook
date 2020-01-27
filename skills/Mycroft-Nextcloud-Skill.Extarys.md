@@ -1,5 +1,5 @@
 ---
-description: 'Connect Nextcloud services to Mycroft'
+description: Connect Nextcloud services to Mycroft
 ---
 
 ### _Mycroft-Nextcloud-Skill.Extarys_  

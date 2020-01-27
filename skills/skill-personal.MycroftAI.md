@@ -1,5 +1,5 @@
 ---
-description: 'Learn history and personality of Mycroft'
+description: Learn history and personality of Mycroft
 ---
 
 ### _skill-personal.MycroftAI_  

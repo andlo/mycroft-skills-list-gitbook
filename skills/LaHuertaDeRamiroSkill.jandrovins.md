@@ -1,5 +1,5 @@
 ---
-description: 'Orchestrates a automatic orchard with mycroft'
+description: Orchestrates a automatic orchard with mycroft
 ---
 
 ### _LaHuertaDeRamiroSkill.jandrovins_  

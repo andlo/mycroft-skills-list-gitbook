@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _skill-inspirational-quotes.oliveralonzo_  

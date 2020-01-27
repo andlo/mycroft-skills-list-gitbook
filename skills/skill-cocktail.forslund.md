@@ -1,5 +1,5 @@
 ---
-description: 'Get help mixing drinks'
+description: Get help mixing drinks
 ---
 
 ### _skill-cocktail.forslund_  

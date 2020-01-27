@@ -1,5 +1,5 @@
 ---
-description: 'Network connection information'
+description: Network connection information
 ---
 
 ### _skill-ip.MycroftAI_  

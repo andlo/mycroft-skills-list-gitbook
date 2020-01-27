@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _skill-template-with-sqlite.rekkitcwts_  

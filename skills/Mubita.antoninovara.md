@@ -1,5 +1,5 @@
 ---
-description: 'Primera prueba de una Skill para Mubita'
+description: Primera prueba de una Skill para Mubita
 ---
 
 ### _Mubita.antoninovara_  

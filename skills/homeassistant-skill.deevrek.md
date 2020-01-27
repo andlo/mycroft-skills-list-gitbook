@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _homeassistant-skill.deevrek_  

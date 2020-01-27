@@ -1,5 +1,5 @@
 ---
-description: ''
+description: 
 ---
 
 ### _mycroft-skill-today-in-history.Arcanesaadman15_  

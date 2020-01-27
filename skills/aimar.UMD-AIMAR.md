@@ -1,5 +1,5 @@
 ---
-description: 'Controls the aimar robot'
+description: Controls the aimar robot
 ---
 
 ### _aimar.UMD-AIMAR_  

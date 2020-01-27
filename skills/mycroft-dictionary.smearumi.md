@@ -1,5 +1,5 @@
 ---
-description: 'Find out the definitionmeaning of a specific word from dictionary'
+description: Find out the definitionmeaning of a specific word from dictionary
 ---
 
 ### _mycroft-dictionary.smearumi_  

@@ -1,5 +1,5 @@
 ---
-description: 'Record and playback audio'
+description: Record and playback audio
 ---
 
 ### _skill-audio-record.MycroftAI_  

@@ -1,5 +1,5 @@
 ---
-description: 'Play sound when microphone stops listening'
+description: Play sound when microphone stops listening
 ---
 
 ### _end-listening-sound-skill.krisgesling_  

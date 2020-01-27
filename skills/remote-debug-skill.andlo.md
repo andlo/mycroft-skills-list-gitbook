@@ -1,5 +1,5 @@
 ---
-description: 'Enable PTVSD - Python Tools for Visual Studio debug server'
+description: Enable PTVSD - Python Tools for Visual Studio debug server
 ---
 
 ### _remote-debug-skill.andlo_  

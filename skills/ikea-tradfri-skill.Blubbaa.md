@@ -1,5 +1,5 @@
 ---
-description: 'Control your tradfri lights via voice commands'
+description: Control your tradfri lights via voice commands
 ---
 
 ### _ikea-tradfri-skill.Blubbaa_  

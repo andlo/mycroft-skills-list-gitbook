@@ -1,5 +1,5 @@
 ---
-description: 'Play songs and music from soundcloud'
+description: Play songs and music from soundcloud
 ---
 
 ### _soundcloud-audio-player.AIIX_  

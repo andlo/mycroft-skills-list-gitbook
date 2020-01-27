@@ -1,5 +1,5 @@
 ---
-description: 'Mycroft whitenoise'
+description: Mycroft whitenoise
 ---
 
 ### _test-skill.MaxGolden_  

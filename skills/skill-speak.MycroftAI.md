@@ -1,5 +1,5 @@
 ---
-description: 'Make Mycroft repeat whatever you want'
+description: Make Mycroft repeat whatever you want
 ---
 
 ### _skill-speak.MycroftAI_  

@@ -1,5 +1,5 @@
 ---
-description: 'Access and manage lists with Mycroft'
+description: Access and manage lists with Mycroft
 ---
 
 ### _list-manager-skill.lb803_  

@@ -1,5 +1,5 @@
 ---
-description: 'Sets the volume depending on background noise level'
+description: Sets the volume depending on background noise level
 ---
 
 ### _auto-volume-skill.andlo_  
