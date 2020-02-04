@@ -1,5 +1,5 @@
 ---
-description: An intercom, and soon to be messaging, and video calling skill for Mycroft!
+description: An intercom, messaging, and video calling skill for Mycroft!
 ---
 
 ### _communications-skill.LinusS1_  
@@ -8,6 +8,11 @@ Use this skill to broadcast messages across your home.
 When this skill is installed on two or more of your devices, the devices will automatically find and connect to each other.
 
 After they connect, you can say something like "Announce dinner's ready" and all your devices will say that message.
+If you want to send a message to a specific device, all you need to say is "Ask the kitchen when dinner is ready."
+
+If you want to reply to an announcement all you need to say is "Reply to the message"
+
+The names of the devices, along with the placements, (the kitchen, Chris' room, etc...) can be named on [Mycroft Home](home.mycroft.ai). The names and placements are used to identify the device to send the message when you send a message.
 
 **Setup**
 On certain devices (most likely the Mark I), you will have to allow incoming connections through the firewall. Run the following commands on your device:
@@ -35,6 +40,10 @@ The future includes:
 > Announce that.  
 > Announce.  
 > Announce.  
+> Message the kitchen when will dinner be ready?  
+> Send a message to the living room.  
+> Tell everyome that the dinner is ready!  
+> Reply to the message.  
   
 ## Installation:  
 {% hint style="warning" %}
@@ -50,7 +59,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/LinusS1/communications-skill](https://github.com/LinusS1/communications-skill)  
 **Owner:** [@LinusS1](https://github.com/LinusS1)  
-**Created:** 2018 Dec 25 01:28:55 UTC  **Last updated:** 2019 Dec 11 22:44:08 UTC  
+**Created:** 2018 Dec 25 01:28:55 UTC  **Last updated:** 2020 Jan 30 00:28:28 UTC  
 **License:** Apache License 2.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Daily ] [ Entertainment ] [ Information ] [ IoT ] [ Media ] [ Productivity ]   

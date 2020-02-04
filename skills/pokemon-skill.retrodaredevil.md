@@ -31,21 +31,24 @@ With this skill, you can ask Mycroft many different facts about Pokemon. The thi
 > What generation was Static first introduced?  
   
 ## Installation:  
-{% hint style="warning" %}
-This skill is not aproved by Mycroft skill tester.
+{% hint style="info" %}
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install https://github.com/retrodaredevil/pokemon-skill```
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Pokemon
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Pokemon```
 {% endtab %}
   {% endtabs %}
     
 ## Summary:  
 **Github:** [https://github.com/retrodaredevil/pokemon-skill](https://github.com/retrodaredevil/pokemon-skill)  
 **Owner:** [@retrodaredevil](https://github.com/retrodaredevil)  
-**Created:** 2018 May 28 04:48:39 UTC  **Last updated:** 2019 Dec 12 16:07:47 UTC  
+**Created:** 2018 May 28 04:48:39 UTC  **Last updated:** 2020 Feb 04 14:31:18 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Market status:** [In Market](https://market.mycroft.ai/skill/pokemon)  
 **Categories:** [ Entertainment ] [ Information ]   
 **Tags:** \#Pokemon \#Pokedex \#Video \#Games   

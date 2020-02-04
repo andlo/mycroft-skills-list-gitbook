@@ -59,16 +59,13 @@ If you've forgotten what items have been identified, you can ask Mycroft:
 > How the Main Thermostat tuned to?  
   
 ## Installation:  
-{% hint style="info" %}
-This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by voice" %}
-> Hey Mycroft - install openHAB
-{% endtab %}
-  {% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install openHAB```
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/openhab/openhab-mycroft```
 {% endtab %}
   {% endtabs %}
     
@@ -77,6 +74,6 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 **Owner:** [@openhab](https://github.com/openhab)  
 **Created:** 2017 Sep 07 19:37:21 UTC  **Last updated:** 2019 Dec 20 15:45:08 UTC  
 **License:** Eclipse Public License 2.0  
-**Market status:** [In Market](https://market.mycroft.ai/skill/openhab-skill)  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1163 ] [ new ] [ waiting ]  
 **Categories:** [ IoT ]   
 **Tags:** \#openHAB \#smarthome \#IoT \#Automation \#opensource   

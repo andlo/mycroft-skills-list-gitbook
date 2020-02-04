@@ -16,13 +16,16 @@ Allows you to dismiss Mycroft verbally, in case of accidental activation, or if 
 > Go away.  
   
 ## Installation:  
-{% hint style="warning" %}
-This skill is not aproved by Mycroft skill tester.
+{% hint style="info" %}
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install https://github.com/ChanceNCounter/dismissal-skill```
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Dismissal
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Dismissal```
 {% endtab %}
   {% endtabs %}
     
@@ -31,6 +34,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@ChanceNCounter](https://github.com/ChanceNCounter)  
 **Created:** 2019 Aug 30 14:35:02 UTC  **Last updated:** 2019 Sep 12 19:35:53 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Market status:** [In Market](https://market.mycroft.ai/skill/dismissal-skill)  
 **Categories:** [ Configuration ]   
 **Tags:** \#basic   

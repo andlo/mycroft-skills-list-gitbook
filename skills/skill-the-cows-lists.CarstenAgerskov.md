@@ -128,16 +128,13 @@ Other issues that are not caught as describe above, can be reported as well, on 
 > Add remember to call home tomorrow at 9 to list Inbox.  
   
 ## Installation:  
-{% hint style="info" %}
-This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by voice" %}
-> Hey Mycroft - install The Cows Lists
-{% endtab %}
-  {% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install The Cows Lists```
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/CarstenAgerskov/skill-the-cows-lists```
 {% endtab %}
   {% endtabs %}
     
@@ -146,5 +143,5 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 **Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
 **Created:** 2017 Nov 26 15:48:44 UTC  **Last updated:** 2019 May 10 00:51:51 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [In Market](https://market.mycroft.ai/skill/carstena-the-cows-lists)  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

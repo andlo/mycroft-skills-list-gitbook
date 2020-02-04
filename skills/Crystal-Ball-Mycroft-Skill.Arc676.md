@@ -34,7 +34,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/Arc676/Crystal-Ball-Mycroft-Skill](https://github.com/Arc676/Crystal-Ball-Mycroft-Skill)  
 **Owner:** [@Arc676](https://github.com/Arc676)  
-**Created:** 2018 Sep 08 08:08:11 UTC  **Last updated:** 2020 Jan 13 13:13:21 UTC  
+**Created:** 2018 Sep 08 08:08:11 UTC  **Last updated:** 2020 Feb 04 08:51:14 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/skill-crystal-ball)  
 **Categories:** [ Entertainment ]   

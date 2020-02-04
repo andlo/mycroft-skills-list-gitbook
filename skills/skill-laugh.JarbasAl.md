@@ -32,7 +32,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/JarbasAl/skill-laugh](https://github.com/JarbasAl/skill-laugh)  
 **Owner:** [@JarbasAl](https://github.com/JarbasAl)  
-**Created:** 2018 Mar 09 16:28:33 UTC  **Last updated:** 2019 May 29 13:34:17 UTC  
+**Created:** 2018 Mar 09 16:28:33 UTC  **Last updated:** 2020 Feb 04 15:02:13 UTC  
 **License:** MIT License  
 **Market status:** [In Market](https://market.mycroft.ai/skill/laugh)  
 **Categories:** [ Entertainment ]   

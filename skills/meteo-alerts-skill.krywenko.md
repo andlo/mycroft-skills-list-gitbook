@@ -16,7 +16,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/krywenko/meteo-alerts-skill](https://github.com/krywenko/meteo-alerts-skill)  
 **Owner:** [@krywenko](https://github.com/krywenko)  
-**Created:** 2019 Jul 17 19:21:14 UTC  **Last updated:** 2019 Jul 18 00:09:05 UTC  
+**Created:** 2019 Jul 17 19:21:14 UTC  **Last updated:** 2020 Jan 29 00:19:03 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

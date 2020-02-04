@@ -6,7 +6,7 @@ description:
 ## Description:  
 Turn your Phillips Hue lights on/off, activate scenes, adjust brightness/color temperature, etc.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -30,7 +30,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/ChristopherRogers1991/mycroft-hue](https://github.com/ChristopherRogers1991/mycroft-hue)  
 **Owner:** [@ChristopherRogers1991](https://github.com/ChristopherRogers1991)  
-**Created:** 2016 Dec 02 04:46:29 UTC  **Last updated:** 2019 Nov 28 15:41:23 UTC  
+**Created:** 2016 Dec 02 04:46:29 UTC  **Last updated:** 2020 Feb 04 01:38:39 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

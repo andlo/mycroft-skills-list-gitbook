@@ -19,7 +19,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/gapaza/daphne-skill](https://github.com/gapaza/daphne-skill)  
 **Owner:** [@gapaza](https://github.com/gapaza)  
-**Created:** 2019 Dec 06 15:10:19 UTC  **Last updated:** 2019 Dec 08 16:35:48 UTC  
+**Created:** 2019 Dec 06 15:10:19 UTC  **Last updated:** 2020 Jan 16 04:24:04 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Information ]   

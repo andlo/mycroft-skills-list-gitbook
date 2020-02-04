@@ -11,6 +11,7 @@ Let Mycroft help you control Rhythmbox. When asked Mycroft interfaces with Rhyth
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  
+> Play rock.  
 > Play **  
 > Play ** playlist.  
 > Play something by **  
@@ -38,8 +39,8 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/dwfalk/rhythmbox-skill](https://github.com/dwfalk/rhythmbox-skill)  
 **Owner:** [@dwfalk](https://github.com/dwfalk)  
-**Created:** 2019 Feb 18 03:34:21 UTC  **Last updated:** 2019 Nov 04 02:59:12 UTC  
+**Created:** 2019 Feb 18 03:34:21 UTC  **Last updated:** 2020 Jan 28 20:03:25 UTC  
 **License:** MIT License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
-**Categories:** [ Information ]   
-**Tags:** \#songs \#music \#rhythmbox \#mycroft \#skill   
+**Categories:** [ Entertainment ]   
+**Tags:** \#songs \#music \#rhythmbox \#mycroft \#skill \#To \#install: \#~/mycroft-core/bin/mycroft-msm \#install \#https://github.com/AndrewBuis/rhythmbox-player   

@@ -21,7 +21,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/antoninovara/Mubita](https://github.com/antoninovara/Mubita)  
 **Owner:** [@antoninovara](https://github.com/antoninovara)  
-**Created:** 2019 Dec 31 10:44:48 UTC  **Last updated:** 2020 Jan 24 13:40:20 UTC  
+**Created:** 2019 Dec 31 10:44:48 UTC  **Last updated:** 2020 Feb 04 11:16:40 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Configuration ]   

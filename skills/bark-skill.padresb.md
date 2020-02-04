@@ -16,13 +16,16 @@ Ask mycroft to bark and it will say ruff.
 > Mailman is here.  
   
 ## Installation:  
-{% hint style="warning" %}
-This skill is not aproved by Mycroft skill tester.
+{% hint style="info" %}
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install https://github.com/padresb/bark-skill```
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Bark
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Bark```
 {% endtab %}
   {% endtabs %}
     
@@ -31,6 +34,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@padresb](https://github.com/padresb)  
 **Created:** 2019 Aug 24 16:02:02 UTC  **Last updated:** 2019 Aug 29 10:18:27 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Market status:** [In Market](https://market.mycroft.ai/skill/bark-skill)  
 **Categories:** [ Daily ]   
 **Tags:** \#Dog \#Bark   

@@ -74,6 +74,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@drunau](https://github.com/drunau)  
 **Created:** 2019 Aug 29 10:58:03 UTC  **Last updated:** 2019 Aug 29 10:58:14 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1081 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1081 ] [ block or hold ]  
 **Categories:** [ IoT ]   
 **Tags:** \#IoT \#GPIO \#RPi   

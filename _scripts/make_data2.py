@@ -21,14 +21,14 @@ github_username = ''
 github_password = ''
 harvest.load_github()
 
-GITHUB_API_URL = "https://api.github.com/search/repositories?q='Mycroft'in:readme+archived:false&per_page=100"
+GITHUB_API_URL = "https://api.github.com/search/repositories?q='Mycroft'in:readme+'Mycroft'in:description+archived:false&per_page=100"
 
 request = requests.get(
     "https://api.github.com/search/issues?q=repo:MycroftAI/mycroft-skills+state:open+type:pr&sort=created&order=asc").text
 MARKET_PR = json.loads(request)
 
 request = requests.get(
-    'https://raw.githubusercontent.com/MycroftAI/mycroft-skills-data/18.08/skill-metadata.json').text
+    'https://raw.githubusercontent.com/MycroftAI/mycroft-skills-data/19.08/skill-metadata.json').text
 MARKET = json.loads(request)
 
 
@@ -56,7 +56,7 @@ def check_if_skill(repo_url, branch):
     init_py = repo_url.replace(
         'https://github.com/', 'https://raw.githubusercontent.com/') + '/' + branch + '/__init__.py'
     init_py_txt = requests.get(init_py).text
-    if init_py_txt.find("def create_skill():") is not -1 and init_py_txt.find("MycroftSkill") is not -1:
+    if init_py_txt.find("def create_skill():") is not -1:
         return True
     else:
         return False
@@ -130,36 +130,35 @@ def generate_entry(repo):
 
 
 def search_github():
+    daterange = ['<2018-01-01', 
+              '2018-01-01..2018-07-01', 
+              '2018-07-01..2019-01-01',
+              '2019-01-01..2019-07-01', 
+              '2019-07-01..2020-01-01',
+              '>2020-01-01']
     skills = []
-    proc = 1
+    total = 1
     added = 1
     page = 1
-    while page <= 10:
-        GITHUB_API_URL = "https://api.github.com/search/repositories?q='Mycroft'in:readme+archived:false+created:<2018-01-01&per_page=100"
-        request = requests.get(GITHUB_API_URL + "&page=" + str(page))
-        result = json.loads(request.text)
-        for repo in result["items"]:
-            print("Processing " + str(proc) +"/" + str(result["total_count"]))
-            if check_if_skill(repo["html_url"], repo["default_branch"]):
-                skills.append(generate_entry(repo))
-                print("Added " + repo['name'] + '.' + repo['owner']['login'])
-                added = added + 1
-            proc = proc +1
-        page = page + 1
-    page = 1
-    while page <= 10:
-        GITHUB_API_URL = "https://api.github.com/search/repositories?q='Mycroft'in:readme+archived:false+created:>=2018-01-01&per_page=100"
-        request = requests.get(GITHUB_API_URL + "&page=" + str(page))
-        result = json.loads(request.text)
-        for repo in result["items"]:
-            print("Processing " + str(proc) +"/" + str(result["total_count"]))
-            if check_if_skill(repo["html_url"], repo["default_branch"]):
-                skills.append(generate_entry(repo))
-                print("Added " + repo['name'] + '.' + repo['owner']['login'])
-                added = added + 1
-            proc = proc +1
-        page = page + 1
-
+    for date in daterange:
+        proc = 1
+        while page <= 10:
+            GITHUB_API_URL = "https://api.github.com/search/repositories?q='Mycroft'in:readme+'Mycroft'in:description+'Mycroft'in:name+archived:false+created:" + date + "&per_page=100"
+            request = requests.get(GITHUB_API_URL + "&page=" + str(page))
+            result = json.loads(request.text)
+            try:
+                for repo in result["items"]:
+                    print("Processing " + date + " " + str(proc) +"/" + str(result["total_count"]) + " total " + str(added) + "/" + str(total))
+                    if check_if_skill(repo["html_url"], repo["default_branch"]):
+                        skills.append(generate_entry(repo))
+                        print("Added " + repo['name'] + '.' + repo['owner']['login'])
+                        added = added + 1
+                    proc = proc +1
+                    total = total +1
+                page = page + 1
+            except Exception:
+                pass
+        page = 1
 
 
     ## Add if skill is in market but are missing from skillslist

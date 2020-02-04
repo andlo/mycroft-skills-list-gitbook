@@ -25,7 +25,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/benklop/skill-antique-radio](https://github.com/benklop/skill-antique-radio)  
 **Owner:** [@benklop](https://github.com/benklop)  
-**Created:** 2019 Apr 10 02:57:09 UTC  **Last updated:** 2020 Jan 27 05:34:27 UTC  
+**Created:** 2019 Apr 10 02:57:09 UTC  **Last updated:** 2020 Feb 04 03:49:29 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

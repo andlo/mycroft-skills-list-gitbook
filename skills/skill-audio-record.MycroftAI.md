@@ -33,7 +33,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-audio-record](https://github.com/MycroftAI/skill-audio-record)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 04 17:44:41 UTC  **Last updated:** 2020 Jan 13 11:52:14 UTC  
+**Created:** 2017 Apr 04 17:44:41 UTC  **Last updated:** 2020 Feb 04 08:25:52 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-audio-record)  
 **Categories:** [ Configuration ]   

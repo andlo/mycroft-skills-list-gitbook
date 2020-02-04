@@ -24,7 +24,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/LinusS1/calendar-skill](https://github.com/LinusS1/calendar-skill)  
 **Owner:** [@LinusS1](https://github.com/LinusS1)  
-**Created:** 2018 Nov 19 03:01:05 UTC  **Last updated:** 2020 Jan 11 21:20:13 UTC  
+**Created:** 2018 Nov 19 03:01:05 UTC  **Last updated:** 2020 Feb 01 00:26:02 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Productivity ] [ Daily ] [ Information ]   

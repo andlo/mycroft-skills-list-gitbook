@@ -21,21 +21,24 @@ its brightness level to dim at night.
 > Dim to 50%  
   
 ## Installation:  
-{% hint style="warning" %}
-This skill is not aproved by Mycroft skill tester.
+{% hint style="info" %}
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install https://github.com/MycroftAI/skill-mark-2```
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Mycroft Mark 2
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Mycroft Mark 2```
 {% endtab %}
   {% endtabs %}
     
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-mark-2](https://github.com/MycroftAI/skill-mark-2)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2018 Dec 12 08:36:13 UTC  **Last updated:** 2020 Jan 13 11:35:36 UTC  
+**Created:** 2018 Dec 12 08:36:13 UTC  **Last updated:** 2020 Feb 04 08:33:05 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-mark-2)  
 **Categories:** [ Configuration ]   
 **Tags:** \#mark2 \#configuration \#settings \#system   

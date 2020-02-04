@@ -18,16 +18,13 @@ Stories are downloaded with the skill and can be listed by voice, selected by ti
 > Read me little red riding hood.  
   
 ## Installation:  
-{% hint style="info" %}
-This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by voice" %}
-> Hey Mycroft - install Bedtime Stories
-{% endtab %}
-  {% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install Bedtime Stories```
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/TREE-Ind/bedtime-stories-skill```
 {% endtab %}
   {% endtabs %}
     
@@ -36,6 +33,6 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 **Owner:** [@TREE-Ind](https://github.com/TREE-Ind)  
 **Created:** 2018 Dec 24 22:57:14 UTC  **Last updated:** 2019 Oct 17 22:38:32 UTC  
 **License:** Apache License 2.0  
-**Market status:** [In Market](https://market.mycroft.ai/skill/bedtime-stories-skill)  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Entertainment ]   
 **Tags:** \#stories \#audio \#kidfriendly   

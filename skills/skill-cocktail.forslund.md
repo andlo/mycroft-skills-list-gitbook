@@ -21,7 +21,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/forslund/skill-cocktail](https://github.com/forslund/skill-cocktail)  
 **Owner:** [@forslund](https://github.com/forslund)  
-**Created:** 2018 Jul 13 16:10:26 UTC  **Last updated:** 2019 May 29 06:52:59 UTC  
+**Created:** 2018 Jul 13 16:10:26 UTC  **Last updated:** 2020 Feb 04 09:43:49 UTC  
 **License:** No License  
 **Market status:** [In Market](https://market.mycroft.ai/skill/cocktails)  
 **Categories:** [ Information ]   

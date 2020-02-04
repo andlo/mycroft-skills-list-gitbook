@@ -20,13 +20,16 @@ Whether these are titles of books to read, the specs of your new bike, or random
 > Remove return books to the library from my today list.  
   
 ## Installation:  
-{% hint style="warning" %}
-This skill is not aproved by Mycroft skill tester.
+{% hint style="info" %}
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install https://github.com/lb803/list-manager-skill```
+{% tab title="Install by voice" %}
+> Hey Mycroft - install List Manager
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install List Manager```
 {% endtab %}
   {% endtabs %}
     
@@ -35,6 +38,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@lb803](https://github.com/lb803)  
 **Created:** 2019 Apr 04 18:34:10 UTC  **Last updated:** 2019 Jun 08 23:08:07 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Market status:** [In Market](https://market.mycroft.ai/skill/list-manager)  
 **Categories:** [ Productivity ]   
 **Tags:** \#Notes \#Note-taking   

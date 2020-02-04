@@ -25,13 +25,16 @@ Easily find information about a movie with your voice.
 > What are the highest rated movies out?  
   
 ## Installation:  
-{% hint style="warning" %}
-This skill is not aproved by Mycroft skill tester.
+{% hint style="info" %}
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install https://github.com/builderjer/moviemaster```
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Movie Master
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Movie Master```
 {% endtab %}
   {% endtabs %}
     
@@ -40,6 +43,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@builderjer](https://github.com/builderjer)  
 **Created:** 2019 Jan 28 13:41:45 UTC  **Last updated:** 2019 Jul 15 01:58:41 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Market status:** [In Market](https://market.mycroft.ai/skill/moviemaster)  
 **Categories:** [ Entertainment ]   
 **Tags:** \#TMDB \#Movies \#Actors \#Mark \#I   

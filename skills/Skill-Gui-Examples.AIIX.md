@@ -24,13 +24,16 @@ Example skill to showcase Mycroft GUI supported delegates and skill displays.
 > Show Audio Player Example.  
   
 ## Installation:  
-{% hint style="warning" %}
-This skill is not aproved by Mycroft skill tester.
+{% hint style="info" %}
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install https://github.com/AIIX/Skill-Gui-Examples```
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Skill-Gui-Example
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Skill-Gui-Example```
 {% endtab %}
   {% endtabs %}
     
@@ -39,6 +42,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2019 May 14 09:12:36 UTC  **Last updated:** 2019 Aug 23 10:38:04 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Market status:** [In Market](https://market.mycroft.ai/skill/Gui-Examples)  
 **Categories:** [ Information ]   
 **Tags:** \#gui \#sample \#example \#delegates \#mycroftgui \#mycroft-gui   
