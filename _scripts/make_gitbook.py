@@ -306,7 +306,7 @@ def make_summary(skills):
 
 
 def make_skillwritermd(skills):
-    txt = open('../SKILLWRITERS.md', 'w')
+    txt = open('../SUMMARY.md', 'a')
     skillwriters = {}
     for skill in skills:
         if not skillwriters.get(skill["owner"]["login"]):
