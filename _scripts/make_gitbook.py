@@ -259,7 +259,7 @@ def make_readme(skills):
     readme.write('The Mycroft market can be found at [mycroft.market.ai](http://mycroft.market.ai)  \n')
     readme.write('  \n')
     readme.write('This list is generated and updated at ' + str(datetime.datetime.now().date()) + ' and has been made by searching github ')
-    readme.write('looking throu more than 1250 reposotories that look like mycroft skills. Form those there were found ')
+    readme.write('looking throu around 1500 reposotories that look like mycroft skills. Form those there were found ')
     readme.write(str(num_of_skills) + ' by ' + str(num_of_writers) + ' skill writers. Right now ')
     readme.write(str(num_in_market) + ' is in Mycroft Market aproved by Mycroft skill tester team. There are ')
     readme.write(str(num_pending) + ' new skills or updates to skills pending aproval to the Market.') 
