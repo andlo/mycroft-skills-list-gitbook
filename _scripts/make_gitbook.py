@@ -90,8 +90,8 @@ def make_skillsfiles(skills):
             txt.append('{% endhint %}\n')
         if not license:
             txt.append('{% hint style="danger" %}\n')                
-            txt.append('This skill dosnt have any license attatched. It is not adviasable to use this skill')
-            txt.append('nor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.\n')
+            txt.append('This skill dosnt have any license attatched. It is not adviasable to use this skill ')
+            txt.append('nor fork or clone, as you don\'t know if you are legaly allowed to do so by the auhtor.\n')
             txt.append('{% endhint %}\n')
         if market and license and ast:
             txt.append('## Installation:  \n')
