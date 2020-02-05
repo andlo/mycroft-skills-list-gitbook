@@ -17,7 +17,7 @@ Subsonic (https://subsonic.org) is a media streaming server. this skill will int
 > Play me some squire of gothos.  
   
 {% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+This skill dosnt have any license attatched. It is not adviasable to use this skill nor fork or clone, as you don't know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
   
 ## Summary:  

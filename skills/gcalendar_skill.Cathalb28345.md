@@ -15,7 +15,7 @@ Fetches scheduled events from Google Calendar and allows adding events to your c
 > Add have fun to my calendar at 7 in the evening on saturday.  
   
 {% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+This skill dosnt have any license attatched. It is not adviasable to use this skill nor fork or clone, as you don't know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
   
 ## Summary:  

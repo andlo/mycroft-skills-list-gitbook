@@ -15,7 +15,7 @@ Every 24 hours, mycroft will send you a reminder to feed your corgi, and tell yo
 > Remind me to feed the corgi at 5pm.  
   
 {% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+This skill dosnt have any license attatched. It is not adviasable to use this skill nor fork or clone, as you don't know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
   
 ## Summary:  

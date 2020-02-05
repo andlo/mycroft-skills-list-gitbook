@@ -22,7 +22,7 @@ Mycroft will help you train your body parts with diffrent exercises.
 > What exercise should i do for today?  
   
 {% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skillnor fork or clone, as you dont know if you are legaly allowed to do so by the auhtor.
+This skill dosnt have any license attatched. It is not adviasable to use this skill nor fork or clone, as you don't know if you are legaly allowed to do so by the auhtor.
 {% endhint %}
   
 ## Summary:  
