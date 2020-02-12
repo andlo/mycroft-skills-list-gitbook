@@ -40,7 +40,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-date-time](https://github.com/MycroftAI/skill-date-time)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 04 17:45:00 UTC  **Last updated:** 2020 Feb 04 08:28:19 UTC  
+**Created:** 2017 Apr 04 17:45:00 UTC  **Last updated:** 2020 Feb 07 15:19:19 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-date-time)  
 **Categories:** [ Daily ]   

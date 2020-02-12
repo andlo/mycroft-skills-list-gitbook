@@ -34,7 +34,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/andlo/iss-tracker-skill](https://github.com/andlo/iss-tracker-skill)  
 **Owner:** [@andlo](https://github.com/andlo)  
-**Created:** 2018 Dec 26 15:36:04 UTC  **Last updated:** 2019 Nov 23 16:16:52 UTC  
+**Created:** 2018 Dec 26 15:36:04 UTC  **Last updated:** 2020 Feb 06 21:05:25 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/iss-tracker)  
 **Categories:** [ Entertainment ] [ Daily ] [ Information ]   

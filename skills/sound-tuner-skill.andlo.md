@@ -39,7 +39,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/andlo/sound-tuner-skill](https://github.com/andlo/sound-tuner-skill)  
 **Owner:** [@andlo](https://github.com/andlo)  
-**Created:** 2018 Dec 08 20:51:57 UTC  **Last updated:** 2019 Dec 18 15:10:43 UTC  
+**Created:** 2018 Dec 08 20:51:57 UTC  **Last updated:** 2020 Feb 07 22:34:23 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Information ]   

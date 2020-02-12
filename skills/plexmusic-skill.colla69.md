@@ -24,7 +24,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/colla69/plexmusic-skill](https://github.com/colla69/plexmusic-skill)  
 **Owner:** [@colla69](https://github.com/colla69)  
-**Created:** 2019 May 19 20:32:03 UTC  **Last updated:** 2020 Jan 03 02:10:22 UTC  
+**Created:** 2019 May 19 20:32:03 UTC  **Last updated:** 2020 Feb 04 21:00:35 UTC  
 **License:** MIT License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

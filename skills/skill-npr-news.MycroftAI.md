@@ -32,15 +32,25 @@ Supported stations include:
 > What's the news?  
 > Restart news.  
   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skill nor fork or clone, as you don't know if you are legaly allowed to do so by the auhtor.
+## Installation:  
+{% hint style="info" %}
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
-  
+    
+{% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Latest news
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Latest news```
+{% endtab %}
+  {% endtabs %}
+    
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-npr-news](https://github.com/MycroftAI/skill-npr-news)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 04 17:47:30 UTC  **Last updated:** 2020 Feb 04 09:32:12 UTC  
-**License:** No License  
+**Created:** 2017 Apr 04 17:47:30 UTC  **Last updated:** 2020 Feb 05 06:23:31 UTC  
+**License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-npr-news)  
 **Categories:** [ Daily ] [ Information ]   
 **Tags:** \#news \#headlines   

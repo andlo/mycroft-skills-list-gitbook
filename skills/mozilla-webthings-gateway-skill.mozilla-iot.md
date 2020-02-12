@@ -34,7 +34,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/mozilla-iot/mozilla-webthings-gateway-skill](https://github.com/mozilla-iot/mozilla-webthings-gateway-skill)  
 **Owner:** [@mozilla-iot](https://github.com/mozilla-iot)  
-**Created:** 2019 Mar 08 18:27:24 UTC  **Last updated:** 2020 Jan 31 23:24:40 UTC  
+**Created:** 2019 Mar 08 18:27:24 UTC  **Last updated:** 2020 Feb 12 01:43:21 UTC  
 **License:** Mozilla Public License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mozilla-webthings-gateway-skill)  
 **Categories:** [ IoT ]   

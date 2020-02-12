@@ -59,8 +59,8 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/LinusS1/communications-skill](https://github.com/LinusS1/communications-skill)  
 **Owner:** [@LinusS1](https://github.com/LinusS1)  
-**Created:** 2018 Dec 25 01:28:55 UTC  **Last updated:** 2020 Jan 30 00:28:28 UTC  
+**Created:** 2018 Dec 25 01:28:55 UTC  **Last updated:** 2020 Feb 09 02:08:17 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1225 ] [ needs validation ] [ new ]  
 **Categories:** [ Daily ] [ Entertainment ] [ Information ] [ IoT ] [ Media ] [ Productivity ]   
 **Tags:** \#intercom \#intercoms \#communication \#communications \#broadcast \#broadcasting \#connect \#devices \#video \#calling \#call   

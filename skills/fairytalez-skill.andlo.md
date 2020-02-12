@@ -42,7 +42,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/andlo/fairytalez-skill](https://github.com/andlo/fairytalez-skill)  
 **Owner:** [@andlo](https://github.com/andlo)  
-**Created:** 2018 Nov 02 20:13:21 UTC  **Last updated:** 2019 Dec 18 05:18:23 UTC  
+**Created:** 2018 Nov 02 20:13:21 UTC  **Last updated:** 2020 Feb 06 21:05:41 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/fairytalez)  
 **Categories:** [ Entertainment ]   

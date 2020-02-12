@@ -43,7 +43,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/gras64/learning-skill](https://github.com/gras64/learning-skill)  
 **Owner:** [@gras64](https://github.com/gras64)  
-**Created:** 2018 Nov 08 14:12:22 UTC  **Last updated:** 2019 Nov 01 23:29:31 UTC  
+**Created:** 2018 Nov 08 14:12:22 UTC  **Last updated:** 2020 Feb 04 21:08:04 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/learning)  
 **Categories:** [ Entertainment ] [ Information ] [ Productivity ]   

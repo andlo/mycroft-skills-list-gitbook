@@ -38,7 +38,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/andlo/auto-volume-skill](https://github.com/andlo/auto-volume-skill)  
 **Owner:** [@andlo](https://github.com/andlo)  
-**Created:** 2018 Oct 16 18:13:54 UTC  **Last updated:** 2020 Jan 06 20:12:30 UTC  
+**Created:** 2018 Oct 16 18:13:54 UTC  **Last updated:** 2020 Feb 06 21:06:14 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/auto-volume)  
 **Categories:** [ Configuration ] [ Daily ]   

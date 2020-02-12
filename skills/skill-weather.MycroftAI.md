@@ -45,7 +45,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-weather](https://github.com/MycroftAI/skill-weather)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 04 17:49:49 UTC  **Last updated:** 2020 Feb 04 08:41:38 UTC  
+**Created:** 2017 Apr 04 17:49:49 UTC  **Last updated:** 2020 Feb 07 15:15:23 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-weather)  
 **Categories:** [ Daily ]   

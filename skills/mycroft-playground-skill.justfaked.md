@@ -21,7 +21,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/justfaked/mycroft-playground-skill](https://github.com/justfaked/mycroft-playground-skill)  
 **Owner:** [@justfaked](https://github.com/justfaked)  
-**Created:** 2020 Jan 16 12:35:03 UTC  **Last updated:** 2020 Jan 30 14:28:47 UTC  
+**Created:** 2020 Jan 16 12:35:03 UTC  **Last updated:** 2020 Feb 06 10:22:21 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ IoT ]   

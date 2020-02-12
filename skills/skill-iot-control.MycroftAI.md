@@ -15,15 +15,22 @@ This Skill doesn't do anything by itself, but it provides an important common la
 > Turn down the heat.  
 > Unlock the front door.  
   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skill nor fork or clone, as you don't know if you are legaly allowed to do so by the auhtor.
+## Installation:  
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
-  
+    
+{% tabs %}
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/MycroftAI/skill-iot-control```
+{% endtab %}
+  {% endtabs %}
+    
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-iot-control](https://github.com/MycroftAI/skill-iot-control)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2019 Feb 26 01:42:23 UTC  **Last updated:** 2019 Sep 10 21:22:15 UTC  
-**License:** No License  
+**Created:** 2019 Feb 26 01:42:23 UTC  **Last updated:** 2020 Feb 09 07:13:25 UTC  
+**License:** Apache License 2.0  
 **Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1032 ] [ block or hold ] [ new ]  
 **Categories:** [ IoT ]   
 **Tags:** \#system \#iot   

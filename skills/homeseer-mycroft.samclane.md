@@ -8,7 +8,7 @@ A port of the HomeSeer functionality from Alexa to Mycroft. Allows the user to i
 control. Currently allows devices to be turned on/off, change values/percentages, lock/unlock devices, and get the
 current status of any device.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -34,7 +34,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/samclane/homeseer-mycroft](https://github.com/samclane/homeseer-mycroft)  
 **Owner:** [@samclane](https://github.com/samclane)  
-**Created:** 2018 Aug 21 16:07:21 UTC  **Last updated:** 2018 Oct 08 22:35:18 UTC  
+**Created:** 2018 Aug 21 16:07:21 UTC  **Last updated:** 2020 Feb 06 06:38:08 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ IoT ]   

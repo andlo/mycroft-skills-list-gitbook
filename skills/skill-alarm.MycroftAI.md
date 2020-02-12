@@ -46,7 +46,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-alarm](https://github.com/MycroftAI/skill-alarm)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 04 17:44:09 UTC  **Last updated:** 2020 Jan 31 13:52:52 UTC  
+**Created:** 2017 Apr 04 17:44:09 UTC  **Last updated:** 2020 Feb 12 10:52:35 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-alarm)  
 **Categories:** [ Daily ]   

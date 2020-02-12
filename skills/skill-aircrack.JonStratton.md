@@ -37,7 +37,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/JonStratton/skill-aircrack](https://github.com/JonStratton/skill-aircrack)  
 **Owner:** [@JonStratton](https://github.com/JonStratton)  
-**Created:** 2018 May 10 01:57:37 UTC  **Last updated:** 2019 Dec 11 03:50:35 UTC  
+**Created:** 2018 May 10 01:57:37 UTC  **Last updated:** 2020 Feb 08 19:30:34 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/skill-aircrack)  
 **Categories:** [ Information ]   
