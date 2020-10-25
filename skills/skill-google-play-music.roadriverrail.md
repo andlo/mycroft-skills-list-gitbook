@@ -6,7 +6,7 @@ description:
 ## Description:  
   
   
-![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -23,7 +23,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/roadriverrail/skill-google-play-music](https://github.com/roadriverrail/skill-google-play-music)  
 **Owner:** [@roadriverrail](https://github.com/roadriverrail)  
-**Created:** 2018 Jan 03 15:07:19 UTC  **Last updated:** 2019 Jan 17 03:20:52 UTC  
+**Created:** 2018 Jan 03 15:07:19 UTC  **Last updated:** 2020 Jul 05 01:41:26 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

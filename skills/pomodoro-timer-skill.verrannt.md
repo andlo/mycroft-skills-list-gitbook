@@ -30,7 +30,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/verrannt/pomodoro-timer-skill](https://github.com/verrannt/pomodoro-timer-skill)  
 **Owner:** [@verrannt](https://github.com/verrannt)  
-**Created:** 2020 Feb 10 23:35:49 UTC  **Last updated:** 2020 Feb 12 10:10:42 UTC  
+**Created:** 2020 Feb 10 23:35:49 UTC  **Last updated:** 2020 Feb 22 22:51:34 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Productivity ] [ Daily,media ]   

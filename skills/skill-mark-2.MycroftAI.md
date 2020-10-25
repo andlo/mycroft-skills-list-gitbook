@@ -11,7 +11,7 @@ control.
 Set the faceplate to a specific brightness, or allow it to automatically adjust
 its brightness level to dim at night.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark II](../.gitbook/assets/mark-2-icon.png)   
@@ -37,7 +37,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-mark-2](https://github.com/MycroftAI/skill-mark-2)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2018 Dec 12 08:36:13 UTC  **Last updated:** 2020 Feb 04 08:33:05 UTC  
+**Created:** 2018 Dec 12 08:36:13 UTC  **Last updated:** 2020 Oct 24 07:18:48 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-mark-2)  
 **Categories:** [ Configuration ]   

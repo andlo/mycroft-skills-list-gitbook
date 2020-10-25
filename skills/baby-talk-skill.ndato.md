@@ -21,7 +21,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/ndato/baby-talk-skill](https://github.com/ndato/baby-talk-skill)  
 **Owner:** [@ndato](https://github.com/ndato)  
-**Created:** 2019 Jun 17 08:00:44 UTC  **Last updated:** 2019 Jun 18 02:46:18 UTC  
+**Created:** 2019 Jun 17 08:00:44 UTC  **Last updated:** 2020 May 06 21:05:59 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Entertainment ]   

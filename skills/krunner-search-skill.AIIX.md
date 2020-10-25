@@ -33,7 +33,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/AIIX/krunner-search-skill](https://github.com/AIIX/krunner-search-skill)  
 **Owner:** [@AIIX](https://github.com/AIIX)  
-**Created:** 2017 Jan 18 14:58:04 UTC  **Last updated:** 2019 Nov 26 07:04:32 UTC  
+**Created:** 2017 Jan 18 14:58:04 UTC  **Last updated:** 2020 Oct 23 09:16:47 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/krunner-search-skill)  
 **Categories:** [ Productivity ]   

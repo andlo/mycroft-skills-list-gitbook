@@ -35,7 +35,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/Dragoncraft89/dice-skill](https://github.com/Dragoncraft89/dice-skill)  
 **Owner:** [@Dragoncraft89](https://github.com/Dragoncraft89)  
-**Created:** 2018 Dec 13 17:15:12 UTC  **Last updated:** 2019 Nov 01 12:52:00 UTC  
+**Created:** 2018 Dec 13 17:15:12 UTC  **Last updated:** 2020 Feb 19 13:24:41 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/dice-skill)  
 **Categories:** [ Entertainment ]   

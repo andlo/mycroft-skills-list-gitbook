@@ -8,10 +8,7 @@ Brighten your day with a little humor.  This draws on the jokes collected by the
 
 The joke categories are:
 * Neutral -- jokes that are safe for work, kids or your grandmother
-* Adult -- nothing horrible, but be ready to cover some ears
 * Chuck Norris -- jokes only a geek can love
-
-By default it will give you clean and/or geeky jokes, but you can ask a little adult humor if you feel that way.
 
 _WARNING:  Laughter is not guaranteed, but eye rolls are likely._  
   
@@ -23,7 +20,6 @@ _WARNING:  Laughter is not guaranteed, but eye rolls are likely._
 > Make me laugh.  
 > Tell me a joke.  
 > Tell me a Chuck Norris joke.  
-> I want to hear a raunchy joke.  
 > How about a neutral joke.  
   
 ## Installation:  
@@ -43,7 +39,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-joke](https://github.com/MycroftAI/skill-joke)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 04 17:46:27 UTC  **Last updated:** 2020 Jan 13 11:48:41 UTC  
+**Created:** 2017 Apr 04 17:46:27 UTC  **Last updated:** 2020 Oct 06 00:34:50 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-joke)  
 **Categories:** [ Entertainment ]   

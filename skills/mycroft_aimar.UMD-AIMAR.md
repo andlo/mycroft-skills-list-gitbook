@@ -23,7 +23,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/UMD-AIMAR/mycroft_aimar](https://github.com/UMD-AIMAR/mycroft_aimar)  
 **Owner:** [@UMD-AIMAR](https://github.com/UMD-AIMAR)  
-**Created:** 2019 Oct 24 21:39:40 UTC  **Last updated:** 2020 Feb 07 18:57:19 UTC  
+**Created:** 2019 Oct 24 21:39:40 UTC  **Last updated:** 2020 May 27 13:40:58 UTC  
 **License:** MIT License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

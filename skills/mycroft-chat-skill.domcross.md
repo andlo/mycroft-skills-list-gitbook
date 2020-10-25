@@ -13,7 +13,7 @@ When monitoring is active the skill will use that time period for automated chec
 The option "notify on updates" is only applicable when monitoring is active -
 when the option is activated Mycroft willl speak out loud the number of unread messages and mentions.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -42,7 +42,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/domcross/mycroft-chat-skill](https://github.com/domcross/mycroft-chat-skill)  
 **Owner:** [@domcross](https://github.com/domcross)  
-**Created:** 2018 Dec 07 18:43:59 UTC  **Last updated:** 2019 Oct 27 19:29:12 UTC  
+**Created:** 2018 Dec 07 18:43:59 UTC  **Last updated:** 2020 Oct 11 19:34:29 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-chat)  
 **Categories:** [ Productivity ] [ Daily ] [ Information ]   

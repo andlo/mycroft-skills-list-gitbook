@@ -33,7 +33,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-version-checker](https://github.com/MycroftAI/skill-version-checker)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Oct 05 19:02:46 UTC  **Last updated:** 2020 Feb 04 08:37:54 UTC  
+**Created:** 2017 Oct 05 19:02:46 UTC  **Last updated:** 2020 Oct 06 00:21:49 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-version-checker)  
 **Categories:** [ Configuration ]   

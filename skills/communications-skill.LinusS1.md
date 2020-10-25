@@ -32,7 +32,7 @@ The future includes:
 - Not having to allow ports in (this will be done automatically)
 - Calling and video calling!  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -59,8 +59,8 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/LinusS1/communications-skill](https://github.com/LinusS1/communications-skill)  
 **Owner:** [@LinusS1](https://github.com/LinusS1)  
-**Created:** 2018 Dec 25 01:28:55 UTC  **Last updated:** 2020 Feb 09 02:08:17 UTC  
+**Created:** 2018 Dec 25 01:28:55 UTC  **Last updated:** 2020 May 16 21:25:38 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1225 ] [ needs validation ] [ new ]  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Daily ] [ Entertainment ] [ Information ] [ IoT ] [ Media ] [ Productivity ]   
 **Tags:** \#intercom \#intercoms \#communication \#communications \#broadcast \#broadcasting \#connect \#devices \#video \#calling \#call   

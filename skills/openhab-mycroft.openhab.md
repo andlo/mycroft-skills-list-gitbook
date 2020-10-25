@@ -33,7 +33,7 @@ If items are modified in openHAB, a refresh in Mycroft is needed by the command:
 If you've forgotten what items have been identified, you can ask Mycroft:
 - *"Hey Mycroft, list openhab items"*  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -72,8 +72,8 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/openhab/openhab-mycroft](https://github.com/openhab/openhab-mycroft)  
 **Owner:** [@openhab](https://github.com/openhab)  
-**Created:** 2017 Sep 07 19:37:21 UTC  **Last updated:** 2019 Dec 20 15:45:08 UTC  
+**Created:** 2017 Sep 07 19:37:21 UTC  **Last updated:** 2020 Jul 13 10:04:02 UTC  
 **License:** Eclipse Public License 2.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1163 ] [ new ] [ waiting ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1303 ] [ needs validation ] [ new ]  
 **Categories:** [ IoT ]   
 **Tags:** \#openHAB \#smarthome \#IoT \#Automation \#opensource   

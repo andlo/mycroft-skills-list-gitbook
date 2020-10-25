@@ -38,7 +38,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-stop](https://github.com/MycroftAI/skill-stop)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 05 22:57:33 UTC  **Last updated:** 2020 Feb 04 08:38:33 UTC  
+**Created:** 2017 Apr 05 22:57:33 UTC  **Last updated:** 2020 Oct 07 17:47:35 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-stop)  
 **Categories:** [ Configuration ]   

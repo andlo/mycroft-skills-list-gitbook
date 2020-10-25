@@ -112,7 +112,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/richhowley/mbta-bus-tracking-skill](https://github.com/richhowley/mbta-bus-tracking-skill)  
 **Owner:** [@richhowley](https://github.com/richhowley)  
-**Created:** 2019 Jul 16 01:18:28 UTC  **Last updated:** 2020 Feb 09 15:47:00 UTC  
+**Created:** 2019 Jul 16 01:18:28 UTC  **Last updated:** 2020 Feb 15 21:07:13 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1108 ] [ new ] [ waiting ]  
 **Categories:** [ Transport ]   

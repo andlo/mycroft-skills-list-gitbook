@@ -20,7 +20,7 @@ You can use this skill to hide or show modules, update the mirror or individual 
 refresh or restart the mirror, list installed modules, install modules by name (will still require you
 to configure the MagicMirror config.js by SSH or VNC for the particular skill you install), change pages of modules by either swipe commands or telling mycroft to "go to page [number]"(requires that [MMM-pages](https://github.com/edward-shen/MMM-pages) be installed), restart or reboot the Raspberry Pi.  
   
-![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -57,7 +57,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/dmwilsonkc/magic-mirror-voice-control-skill](https://github.com/dmwilsonkc/magic-mirror-voice-control-skill)  
 **Owner:** [@dmwilsonkc](https://github.com/dmwilsonkc)  
-**Created:** 2018 May 30 02:09:43 UTC  **Last updated:** 2019 Dec 28 22:46:02 UTC  
+**Created:** 2018 May 30 02:09:43 UTC  **Last updated:** 2020 Aug 29 00:29:16 UTC  
 **License:** Apache License 2.0  
 **Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-933 ] [ new ] [ override autotester ] [ waiting ]  
 **Categories:** [ IoT ]   

@@ -6,7 +6,7 @@ description: Aids you on your journey as a Pokemon Trainer
 ## Description:  
 With this skill, you can ask Mycroft many different facts about Pokemon. The things you can ask it range from useful statistics such as when a Pokemon evolves or how effective a move is to a Pokemon's weight.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -47,7 +47,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/retrodaredevil/pokemon-skill](https://github.com/retrodaredevil/pokemon-skill)  
 **Owner:** [@retrodaredevil](https://github.com/retrodaredevil)  
-**Created:** 2018 May 28 04:48:39 UTC  **Last updated:** 2020 Feb 04 14:31:18 UTC  
+**Created:** 2018 May 28 04:48:39 UTC  **Last updated:** 2020 Apr 20 22:11:15 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/pokemon)  
 **Categories:** [ Entertainment ] [ Information ]   

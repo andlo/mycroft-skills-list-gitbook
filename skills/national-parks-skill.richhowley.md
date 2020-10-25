@@ -16,7 +16,7 @@ Since definite articles are dropped from speech, searches for descriptions of so
 
 After asking to be quizzed Mycroft will ask what state a particular National Park Service property is in.  The answer may be spoken after the beep without using the wake word but there will only be a few seconds to answer.  If Mycroft does not respond to the answer use the wake word with "Repeat national parks quiz" and answer after the beep.  
   
-![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -43,7 +43,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/richhowley/national-parks-skill](https://github.com/richhowley/national-parks-skill)  
 **Owner:** [@richhowley](https://github.com/richhowley)  
-**Created:** 2018 Nov 11 17:31:25 UTC  **Last updated:** 2019 May 22 01:53:00 UTC  
+**Created:** 2018 Nov 11 17:31:25 UTC  **Last updated:** 2020 Mar 16 09:13:29 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/national-park)  
 **Categories:** [ Information ]   

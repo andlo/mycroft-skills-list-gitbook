@@ -21,15 +21,25 @@ The skill utilizes the excellent Frotz (http://frotz.sourceforge.net/) Z-Machine
 > Quit zork.  
 > Open mailbox.  
   
-{% hint style="danger" %}
-This skill dosnt have any license attatched. It is not adviasable to use this skill nor fork or clone, as you don't know if you are legaly allowed to do so by the auhtor.
+## Installation:  
+{% hint style="info" %}
+This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
 {% endhint %}
-  
+    
+{% tabs %}
+{% tab title="Install by voice" %}
+> Hey Mycroft - install Zork
+{% endtab %}
+  {% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install Zork```
+{% endtab %}
+  {% endtabs %}
+    
 ## Summary:  
 **Github:** [https://github.com/forslund/white-house-adventure](https://github.com/forslund/white-house-adventure)  
 **Owner:** [@forslund](https://github.com/forslund)  
-**Created:** 2017 Oct 23 10:58:49 UTC  **Last updated:** 2019 Nov 22 18:18:45 UTC  
-**License:** No License  
+**Created:** 2017 Oct 23 10:58:49 UTC  **Last updated:** 2020 Mar 01 15:05:01 UTC  
+**License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/game-zork)  
 **Categories:** [ Entertainment ]   
 **Tags:** \#adventure \#game \#port   

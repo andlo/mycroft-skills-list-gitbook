@@ -40,7 +40,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/andlo/web-terminal-skill](https://github.com/andlo/web-terminal-skill)  
 **Owner:** [@andlo](https://github.com/andlo)  
-**Created:** 2020 Jan 02 12:42:23 UTC  **Last updated:** 2020 Jan 17 19:09:28 UTC  
+**Created:** 2020 Jan 02 12:42:23 UTC  **Last updated:** 2020 Feb 17 16:52:38 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1157 ] [ needs validation ] [ new ]  
 **Categories:** [ Productivity ] [ Configuration ]   

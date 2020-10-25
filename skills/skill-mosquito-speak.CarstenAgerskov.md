@@ -18,13 +18,17 @@ trigger the "reminder" skill.
 The skill is configured on your "Mycroft Home" page. Configure the mqtt server, port and topic that the skill will listen for text messages on.
 Currently, password or certificates are not supported. (Maybe I will implement it if you promise to test it :)
 
+Two topics are available in the configuration: "Mqtt topic" and "Mqtt alert topic".
+The "Mqtt alert topic" is a priority topic, that will always be active, even if mycroft is sleeping.
+The "Mqtt topic" will be silent if mycroft is sleeping. You can put mycroft to sleep by using the command "Hey Mycroft, go to sleep".
+
 A restart of the skill is needed when changing the configuration.
 
 Optionally, it is possible to split the text, using a regular expression.
 
 Example CamelCase: If you send the string "KitchenWindow is open",
 you want to split KitchenWindow. After the split Mycroft will say "Kitchen Window is open". To do that set the parameters on "Mycroft Home" like this:
-* Split text at pattern (optional): [a-z][A-Z]
+* Split text at pattern (optional): `[a-z][A-Z]`
 * Retain characters in matched string until index: 1
 * Retain characters in matched string from index: 1
 
@@ -32,7 +36,7 @@ What happens: The regex match "nK" in "KitchenWindow is open". We retain the cha
 We retain the characters after index 1 of "nK", which is K. And we put a space in the middle.
 
 Example hypen: Convert "Outside-temperature is -5 degrees" to "Outside temperature is -5 degrees"
-* Split text at pattern (optional): [a-z|A-Z]-[a-z|A-Z]
+* Split text at pattern (optional): `[a-z|A-Z]-[a-z|A-Z]`
 * Retain characters in matched string until index: 1
 * Retain characters in matched string from index: 2
 
@@ -47,7 +51,7 @@ Example underscore: Convert "Kitchen_window is open" to "Kitchen Window is open"
 What happens: The regex match "_" in "Kitchen_window is open".  We retain the characters until index 0 of "_", which is no characters.
 We retain the characters after index 1 of "_", which is no characters. And we put a space in the middle.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -75,7 +79,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/CarstenAgerskov/skill-mosquito-speak](https://github.com/CarstenAgerskov/skill-mosquito-speak)  
 **Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
-**Created:** 2018 Jan 06 09:08:31 UTC  **Last updated:** 2019 Jul 31 14:47:01 UTC  
+**Created:** 2018 Jan 06 09:08:31 UTC  **Last updated:** 2020 Jun 19 09:19:42 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

@@ -1,5 +1,5 @@
 ---
-description: Orchestrates a automatic orchard with mycroft
+description: Orchestrates an automatic orchard with mycroft
 ---
 
 ### _LaHuertaDeRamiroSkill.jandrovins_  
@@ -50,7 +50,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/jandrovins/LaHuertaDeRamiroSkill](https://github.com/jandrovins/LaHuertaDeRamiroSkill)  
 **Owner:** [@jandrovins](https://github.com/jandrovins)  
-**Created:** 2019 Nov 15 02:26:38 UTC  **Last updated:** 2019 Nov 20 19:31:23 UTC  
+**Created:** 2019 Nov 15 02:26:38 UTC  **Last updated:** 2020 Apr 04 20:31:53 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ IoT ] [ Daily ]   

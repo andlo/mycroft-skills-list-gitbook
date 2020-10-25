@@ -1,0 +1,38 @@
+---
+description: Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together
+---
+
+### _mycroft-skill.klaus.KleinerFlo27_  
+## Description:  
+This is a basic Hello Word Skill that takes an _Utterance_ from the user and provides a voice response - a _Dialog_. This Skill demonstrates the basic directory and file structure of a Mycroft Skill, and is a good first Skill to study if you are interested in developing Skills for the Mycroft ecosystem.
+
+If you want to write **Skills** for Mycroft, Documentation is available:
+
+* [Mycroft Skills Kit](https://mycroft.ai/documentation/skills/msk/)
+* [Developing a new Skill](https://mycroft.ai/documentation/skills/introduction-developing-skills/)
+* [Skill Settings](https://mycroft.ai/documentation/skills/skill-settings/)
+* [Automatic testing of your Mycroft Skill](https://mycroft.ai/documentation/skills/automatic-testing/)
+* [Skill Acceptance Process](https://mycroft.ai/documentation/skills/skills-acceptance-process/)
+* [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
+* [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)  
+  
+  
+### Platform:  
+ ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
+### Examples:  
+> Hallo Klaus.  
+> Klaus.  
+> Na Kleiner.  
+  
+{% hint style="danger" %}
+This skill dosnt have any license attatched. It is not adviasable to use this skill nor fork or clone, as you don't know if you are legaly allowed to do so by the auhtor.
+{% endhint %}
+  
+## Summary:  
+**Github:** [https://github.com/KleinerFlo27/mycroft-skill.klaus](https://github.com/KleinerFlo27/mycroft-skill.klaus)  
+**Owner:** [@KleinerFlo27](https://github.com/KleinerFlo27)  
+**Created:** 2020 Apr 11 16:44:42 UTC  **Last updated:** 2020 Apr 15 17:21:03 UTC  
+**License:** No License  
+**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+**Categories:** [ Configuration ]   
+**Tags:** \#helloworld \#first-skill \#hello \#greeting   

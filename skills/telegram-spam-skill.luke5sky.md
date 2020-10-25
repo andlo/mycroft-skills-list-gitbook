@@ -1,5 +1,5 @@
 ---
-description: A skill to connect a telegram bot to MyCroft. This will send you everything that is happening, if yo
+description: A skill to connect a telegram bot to MyCroft. THIS SKILL IS NOT GETTING ANY UPDATES!  This will se
 ---
 
 ### _telegram-spam-skill.luke5sky_  
@@ -65,7 +65,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/luke5sky/telegram-spam-skill](https://github.com/luke5sky/telegram-spam-skill)  
 **Owner:** [@luke5sky](https://github.com/luke5sky)  
-**Created:** 2019 Jan 04 10:25:15 UTC  **Last updated:** 2019 Jan 04 10:31:55 UTC  
+**Created:** 2019 Jan 04 10:25:15 UTC  **Last updated:** 2020 Oct 15 14:25:55 UTC  
 **License:** Apache License 2.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Productivity ] [ IoT ]   

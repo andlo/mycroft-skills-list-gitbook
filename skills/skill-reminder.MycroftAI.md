@@ -34,7 +34,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-reminder](https://github.com/MycroftAI/skill-reminder)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 04 17:48:05 UTC  **Last updated:** 2020 Feb 04 08:32:36 UTC  
+**Created:** 2017 Apr 04 17:48:05 UTC  **Last updated:** 2020 Oct 07 16:45:30 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-reminder)  
 **Categories:** [ Daily ]   

@@ -6,7 +6,7 @@ description: Get market price updates for popular cryptocurrencies
 ## Description:  
   
   
-![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -23,7 +23,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/jaredcobb/crypto-markets-skill](https://github.com/jaredcobb/crypto-markets-skill)  
 **Owner:** [@jaredcobb](https://github.com/jaredcobb)  
-**Created:** 2019 Oct 24 20:47:53 UTC  **Last updated:** 2019 Oct 25 19:39:48 UTC  
+**Created:** 2019 Oct 24 20:47:53 UTC  **Last updated:** 2020 Feb 13 15:33:54 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Information ]   

@@ -4,14 +4,18 @@ description: Control KODI open source media center with Mycroft.ai
 
 ### _kodi-skill.pcwii_  
 ## Description:  
+###*New - Now Supports Music Playback (20200519)
 Utilize the kodi API and Python library for controlling the KODI open source media center with Mycroft.ai. The control is mostly geared towards videos/movies but is capable of handling cursor navigation as well.
 The Kodi Skill uses conversational dialog to help you to control your KODI instance more naturally.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  
+> Ask kodi to play the artist elvis Presley.  
+> Ask kodi to play all shook up.  
+> Ask kodi to play the album appeal to reason.  
 > Ask kodi to play the movie guardians of the galaxy.  
 > Ask kodi to play the film planet of the apes.  
 > Ask kodi to play a random movie.  
@@ -20,6 +24,7 @@ The Kodi Skill uses conversational dialog to help you to control your KODI insta
 > Skip kodi forward.  
 > Skip kodi backward.  
 > Pause kodi.  
+> Pause the film.  
 > Re-start kodi.  
 > Stop the movie.  
 > Stop kodi.  
@@ -56,7 +61,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/pcwii/kodi-skill](https://github.com/pcwii/kodi-skill)  
 **Owner:** [@pcwii](https://github.com/pcwii)  
-**Created:** 2018 Jul 08 22:08:21 UTC  **Last updated:** 2019 Dec 19 19:13:45 UTC  
+**Created:** 2018 Jul 08 22:08:21 UTC  **Last updated:** 2020 Oct 08 09:14:19 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Media ]   

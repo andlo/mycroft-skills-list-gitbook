@@ -7,6 +7,7 @@ description:
 This skill will download the first match of the inputed song/video name (excluding
 playlists) and play its audio.  
   
+![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -29,7 +30,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/JoaoCostaIFG/mycroft-youtubedl-skill](https://github.com/JoaoCostaIFG/mycroft-youtubedl-skill)  
 **Owner:** [@JoaoCostaIFG](https://github.com/JoaoCostaIFG)  
-**Created:** 2020 Feb 06 04:13:27 UTC  **Last updated:** 2020 Feb 08 20:13:48 UTC  
+**Created:** 2020 Feb 06 04:13:27 UTC  **Last updated:** 2020 May 30 13:44:15 UTC  
 **License:** MIT License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ & ] [ Music ] [ Audio ] [ Entertainment ] [ Media ]   

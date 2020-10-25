@@ -8,7 +8,7 @@ The CIVICUS Monitor web platform uses multiple information streams to track deve
 
 This tool checks the CIVICUS Monitor to provide the civic space status of and a 1-2 sentence description of civic space in each of the 195 countries.  
   
-![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -26,7 +26,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/DerekCaelin/skill-civicus-monitor](https://github.com/DerekCaelin/skill-civicus-monitor)  
 **Owner:** [@DerekCaelin](https://github.com/DerekCaelin)  
-**Created:** 2018 Apr 08 02:00:16 UTC  **Last updated:** 2018 May 09 02:37:14 UTC  
+**Created:** 2018 Apr 08 02:00:16 UTC  **Last updated:** 2020 Apr 17 13:20:57 UTC  
 **License:** Other  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

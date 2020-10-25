@@ -38,7 +38,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/luke5sky/speedtest-skill](https://github.com/luke5sky/speedtest-skill)  
 **Owner:** [@luke5sky](https://github.com/luke5sky)  
-**Created:** 2019 Jan 03 15:37:35 UTC  **Last updated:** 2019 Jan 24 10:07:17 UTC  
+**Created:** 2019 Jan 03 15:37:35 UTC  **Last updated:** 2020 Apr 07 11:34:00 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/speedtest)  
 **Categories:** [ Productivity ] [ Daily ] [ Information ] [ IoT ]   

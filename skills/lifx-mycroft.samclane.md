@@ -38,7 +38,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/samclane/lifx-mycroft](https://github.com/samclane/lifx-mycroft)  
 **Owner:** [@samclane](https://github.com/samclane)  
-**Created:** 2018 Aug 31 19:03:44 UTC  **Last updated:** 2020 Jan 25 16:32:19 UTC  
+**Created:** 2018 Aug 31 19:03:44 UTC  **Last updated:** 2020 Feb 28 14:59:02 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/lifx-mycroft)  
 **Categories:** [ IoT ]   

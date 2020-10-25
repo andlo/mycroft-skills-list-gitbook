@@ -45,7 +45,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-playback-control](https://github.com/MycroftAI/skill-playback-control)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Jun 14 11:25:44 UTC  **Last updated:** 2020 Feb 04 08:32:10 UTC  
+**Created:** 2017 Jun 14 11:25:44 UTC  **Last updated:** 2020 Oct 06 00:27:48 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-playback-control)  
 **Categories:** [ Music ]   

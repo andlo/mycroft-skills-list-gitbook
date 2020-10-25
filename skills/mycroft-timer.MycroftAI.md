@@ -9,7 +9,7 @@ Use Mycroft when your hands are messy or you need more that the one timer in you
 On a Mark 1 you'll see visual feedback as the timer runs, and you can use
 the top button to stop the beeping once a timer expires.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -40,7 +40,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/mycroft-timer](https://github.com/MycroftAI/mycroft-timer)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Nov 03 17:19:10 UTC  **Last updated:** 2020 Feb 07 09:58:30 UTC  
+**Created:** 2017 Nov 03 17:19:10 UTC  **Last updated:** 2020 Oct 21 05:37:59 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-timer)  
 **Categories:** [ Daily ]   

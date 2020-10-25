@@ -6,7 +6,7 @@ description: Make Mycroft repeat whatever you want
 ## Description:  
 Turn Mycroft into a parrot.  Speak a phrase and listen to it repeated in Mycroft's selected voice.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -32,7 +32,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-speak](https://github.com/MycroftAI/skill-speak)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2017 Apr 04 17:48:40 UTC  **Last updated:** 2020 Jan 13 11:44:03 UTC  
+**Created:** 2017 Apr 04 17:48:40 UTC  **Last updated:** 2020 Oct 07 16:46:32 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/mycroft-speak)  
 **Categories:** [ Entertainment ]   

@@ -6,7 +6,7 @@ description: Mycroft GUI Showcase Examples
 ## Description:  
 Example skill to showcase Mycroft GUI supported delegates and skill displays.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -40,7 +40,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/AIIX/Skill-Gui-Examples](https://github.com/AIIX/Skill-Gui-Examples)  
 **Owner:** [@AIIX](https://github.com/AIIX)  
-**Created:** 2019 May 14 09:12:36 UTC  **Last updated:** 2019 Aug 23 10:38:04 UTC  
+**Created:** 2019 May 14 09:12:36 UTC  **Last updated:** 2020 May 13 22:24:08 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/Gui-Examples)  
 **Categories:** [ Information ]   

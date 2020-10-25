@@ -8,7 +8,7 @@ With this skill, Mycroft can check your email. With this skill, Mycroft can say 
 
 To configure this skill go [to the skill wiki](https://github.com/LinusS1/email-skill/wiki/Configuration)  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -36,7 +36,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/LinusS1/email-skill](https://github.com/LinusS1/email-skill)  
 **Owner:** [@LinusS1](https://github.com/LinusS1)  
-**Created:** 2018 Aug 09 16:57:42 UTC  **Last updated:** 2020 Feb 01 00:28:07 UTC  
+**Created:** 2018 Aug 09 16:57:42 UTC  **Last updated:** 2020 Oct 07 16:51:25 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/email-skill)  
 **Categories:** [ Productivity ] [ Daily ] [ Information ]   

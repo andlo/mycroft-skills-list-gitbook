@@ -29,7 +29,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/AIIX/food-wizard](https://github.com/AIIX/food-wizard)  
 **Owner:** [@AIIX](https://github.com/AIIX)  
-**Created:** 2018 Feb 20 11:58:48 UTC  **Last updated:** 2019 Jun 28 10:01:36 UTC  
+**Created:** 2018 Feb 20 11:58:48 UTC  **Last updated:** 2020 Oct 09 11:51:52 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1038 ] [ GUI required ] [ needs validation ] [ new ]  
 **Categories:** [ Information ]   

@@ -1,10 +1,10 @@
 ---
-description: Repeats recent audio transriptions and text to speech outputs
+description: This will save the most recent text to speech and speech to text Utterances to show to the user
 ---
 
 ### _skill-repeat-interactions.MycroftAI_  
 ## Description:  
-This will save the most recent text to speech and speech to text _Utterances_ to show to the user.  
+  
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
@@ -13,8 +13,8 @@ This will save the most recent text to speech and speech to text _Utterances_ to
 ### Examples:  
 > What did you just say?  
 > What did I just say?  
-> Tell me what I just said.  
 > Did you hear me?  
+> Tell me what I just said.  
   
 ## Installation:  
 {% hint style="warning" %}
@@ -30,7 +30,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/skill-repeat-interactions](https://github.com/MycroftAI/skill-repeat-interactions)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2018 Apr 13 17:17:37 UTC  **Last updated:** 2018 Nov 19 08:46:51 UTC  
+**Created:** 2018 Apr 13 17:17:37 UTC  **Last updated:** 2020 Oct 06 00:19:31 UTC  
 **License:** Apache License 2.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Daily ]   

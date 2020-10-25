@@ -6,7 +6,7 @@ description: Play songs and music from soundcloud
 ## Description:  
 SoundCloud is a music and podcast streaming platform that lets you listen to millions of songs from around the world, This skill enables you to stream and search for your favorite soundcloud tracks on your device.  
   
-![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -29,7 +29,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/AIIX/soundcloud-audio-player](https://github.com/AIIX/soundcloud-audio-player)  
 **Owner:** [@AIIX](https://github.com/AIIX)  
-**Created:** 2018 Oct 16 15:03:26 UTC  **Last updated:** 2019 Dec 23 16:29:52 UTC  
+**Created:** 2018 Oct 16 15:03:26 UTC  **Last updated:** 2020 Sep 20 12:16:56 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1009 ] [ GUI required ] [ needs validation ] [ new ]  
 **Categories:** [ Music ]   

@@ -7,6 +7,7 @@ description: Control Sonos speakers from Mycroft
 Allow control of Sonos speakers from Mycroft.
 Assumes all speakers are in one group.  
   
+![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -35,7 +36,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/fortwally/sonos-control-skill](https://github.com/fortwally/sonos-control-skill)  
 **Owner:** [@fortwally](https://github.com/fortwally)  
-**Created:** 2018 Jul 19 21:13:47 UTC  **Last updated:** 2019 Apr 22 15:47:11 UTC  
+**Created:** 2018 Jul 19 21:13:47 UTC  **Last updated:** 2020 Aug 10 03:55:03 UTC  
 **License:** MIT License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Media ]   
