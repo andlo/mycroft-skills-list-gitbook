@@ -31,7 +31,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/andlo/count-skill](https://github.com/andlo/count-skill)  
 **Owner:** [@andlo](https://github.com/andlo)  
-**Created:** 2018 Oct 05 19:13:32 UTC  **Last updated:** 2020 Feb 06 21:06:37 UTC  
+**Created:** 2018 Oct 05 19:13:32 UTC  **Last updated:** 2020 Oct 18 17:14:06 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/count)  
 **Categories:** [ Daily ]   

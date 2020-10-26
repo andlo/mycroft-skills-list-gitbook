@@ -4,23 +4,21 @@ description: Checks your national weather service and notifies you when there ar
 
 ### _severe-weather-information-skill.domcross_  
 ## Description:  
-The severe weather information skills can connect to dozens of weather alerting servic
+The severe weather information skills can connect to many weather alerting services (as long as they are implementing the [Common Alert Protocol](https://en.wikipedia.org/wiki/Common_Alerting_Protocol))
 
-among them many from following lists:
+Among them many from following lists:
 
-[severe weather information center](https://severe.worldweather.wmo.int/v2/sources.html)
+[severe weather information center](https://severeweather.wmo.int/v2/sources.html)
 
 [alerting world weather](https://alerting.worldweather.org/)
 
 [meteoalarm](http://meteoalarm.eu/)
 
-after installation go to home.mycroft.ai and select your preferred weather service from the
+After installation go to home.mycroft.ai and select your preferred weather service from the list on the skills configuration page.
 
-list on the skills configuration page.
+Ask "are there weather alerts?" to check for new alerts.
 
-ask "are there weather alerts?" to check for new alerts.
-
-you can also set a "watchdog" that automatically checks for new alerts and notifies you...  
+You can also set a "watchdog" that automatically checks for new alerts and notifies you...  
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
@@ -43,7 +41,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/domcross/severe-weather-information-skill](https://github.com/domcross/severe-weather-information-skill)  
 **Owner:** [@domcross](https://github.com/domcross)  
-**Created:** 2019 Jul 28 12:05:26 UTC  **Last updated:** 2020 Jan 20 08:26:49 UTC  
+**Created:** 2019 Jul 28 12:05:26 UTC  **Last updated:** 2020 Oct 21 17:59:51 UTC  
 **License:** Apache License 2.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Daily ] [ Essentials ] [ Information ] [ Weather ]   

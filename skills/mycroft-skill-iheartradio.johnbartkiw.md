@@ -30,7 +30,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/johnbartkiw/mycroft-skill-iheartradio](https://github.com/johnbartkiw/mycroft-skill-iheartradio)  
 **Owner:** [@johnbartkiw](https://github.com/johnbartkiw)  
-**Created:** 2019 Mar 08 00:10:33 UTC  **Last updated:** 2019 Sep 22 06:41:08 UTC  
+**Created:** 2019 Mar 08 00:10:33 UTC  **Last updated:** 2020 Jun 12 22:30:46 UTC  
 **License:** MIT License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Entertainment ]   

@@ -21,7 +21,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/jrwarwick/count-down-skill](https://github.com/jrwarwick/count-down-skill)  
 **Owner:** [@jrwarwick](https://github.com/jrwarwick)  
-**Created:** 2019 Dec 07 00:01:18 UTC  **Last updated:** 2019 Dec 09 22:50:26 UTC  
+**Created:** 2019 Dec 07 00:01:18 UTC  **Last updated:** 2020 Feb 21 22:00:40 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Productivity ]   

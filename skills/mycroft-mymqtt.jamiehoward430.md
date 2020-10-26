@@ -8,7 +8,7 @@ Currently it will publish the action to a topic built from the commands said, fo
 - say `hey mycroft, turn the light on` and mycroft will publish `on` to `light/turn`.
 - say `hey mycroft, switch the tv on` and mycroft will publish `on` to `tv/switch`.  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -31,7 +31,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/jamiehoward430/mycroft-mymqtt](https://github.com/jamiehoward430/mycroft-mymqtt)  
 **Owner:** [@jamiehoward430](https://github.com/jamiehoward430)  
-**Created:** 2016 Nov 21 09:24:07 UTC  **Last updated:** 2019 Feb 02 11:41:51 UTC  
+**Created:** 2016 Nov 21 09:24:07 UTC  **Last updated:** 2020 Oct 11 04:56:33 UTC  
 **License:** Apache License 2.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ IoT ]   

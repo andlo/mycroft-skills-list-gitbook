@@ -12,7 +12,7 @@ The skill stops adjusting the volume if another skill is using the speaker or if
 
 The skill can be activated or deactivated using the command "Hey Mycroft, set auto volume off" or "Hey Mycroft, set auto volume on".  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)   
@@ -38,7 +38,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/andlo/auto-volume-skill](https://github.com/andlo/auto-volume-skill)  
 **Owner:** [@andlo](https://github.com/andlo)  
-**Created:** 2018 Oct 16 18:13:54 UTC  **Last updated:** 2020 Feb 06 21:06:14 UTC  
+**Created:** 2018 Oct 16 18:13:54 UTC  **Last updated:** 2020 Jul 24 15:03:38 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/auto-volume)  
 **Categories:** [ Configuration ] [ Daily ]   

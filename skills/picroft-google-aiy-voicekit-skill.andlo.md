@@ -29,7 +29,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/andlo/picroft-google-aiy-voicekit-skill](https://github.com/andlo/picroft-google-aiy-voicekit-skill)  
 **Owner:** [@andlo](https://github.com/andlo)  
-**Created:** 2018 Oct 19 21:03:35 UTC  **Last updated:** 2020 Feb 06 21:05:58 UTC  
+**Created:** 2018 Oct 19 21:03:35 UTC  **Last updated:** 2020 Mar 29 15:05:16 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/picroft-google-aiy-voicekit)  
 **Categories:** [ IoT ]   

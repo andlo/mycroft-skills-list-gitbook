@@ -6,6 +6,7 @@ description: This skill allows audio playback from an Emby server
 ## Description:  
 Stream music from your Emby server using Mycroft! Play all songs by an artist or an instant mix of any artist/album/song in your Emby library.  
   
+![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -21,7 +22,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/PayloadBae/music](https://github.com/PayloadBae/music)  
 **Owner:** [@PayloadBae](https://github.com/PayloadBae)  
-**Created:** 2019 Mar 13 00:58:41 UTC  **Last updated:** 2019 Mar 13 01:00:57 UTC  
+**Created:** 2019 Mar 13 00:58:41 UTC  **Last updated:** 2020 May 30 19:50:53 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Music ]   

@@ -23,7 +23,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/JarbasAl/skill-dictation](https://github.com/JarbasAl/skill-dictation)  
 **Owner:** [@JarbasAl](https://github.com/JarbasAl)  
-**Created:** 2017 Mar 05 18:10:49 UTC  **Last updated:** 2019 Jan 10 17:49:21 UTC  
+**Created:** 2017 Mar 05 18:10:49 UTC  **Last updated:** 2020 Apr 09 10:19:15 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

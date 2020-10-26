@@ -28,7 +28,7 @@ https://www.theia-ide.org/index.html
 
   
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -54,7 +54,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/andlo/theia-ide-skill](https://github.com/andlo/theia-ide-skill)  
 **Owner:** [@andlo](https://github.com/andlo)  
-**Created:** 2018 Nov 05 20:34:10 UTC  **Last updated:** 2020 Feb 06 21:05:06 UTC  
+**Created:** 2018 Nov 05 20:34:10 UTC  **Last updated:** 2020 Oct 26 08:49:09 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/theia-ide)  
 **Categories:** [ Productivity ]   

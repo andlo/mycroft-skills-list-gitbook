@@ -7,7 +7,7 @@ description: Ask MyCroft to remember things for you
 You can ask MyCroft to remember and forget things.
 It will store everything in a list locally on your device.  
   
-![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -34,7 +34,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/luke5sky/remember-skill](https://github.com/luke5sky/remember-skill)  
 **Owner:** [@luke5sky](https://github.com/luke5sky)  
-**Created:** 2018 Dec 13 07:21:01 UTC  **Last updated:** 2020 Jun 05 20:03:35 UTC  
+**Created:** 2018 Dec 13 07:21:01 UTC  **Last updated:** 2020 Oct 26 08:38:26 UTC  
 **License:** Apache License 2.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/remember)  
 **Categories:** [ Productivity ] [ Daily ]   

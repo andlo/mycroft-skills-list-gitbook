@@ -6,7 +6,7 @@ description:
 ## Description:  
 This module plays streaming content from a Subsonic Media Server (https://www.subsonic.org/).  
   
-![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -23,7 +23,7 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 ## Summary:  
 **Github:** [https://github.com/ejstacey/skill-subsonic-media](https://github.com/ejstacey/skill-subsonic-media)  
 **Owner:** [@ejstacey](https://github.com/ejstacey)  
-**Created:** 2018 Mar 18 04:00:51 UTC  **Last updated:** 2018 May 18 17:19:14 UTC  
+**Created:** 2018 Mar 18 04:00:51 UTC  **Last updated:** 2020 Oct 23 17:48:41 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

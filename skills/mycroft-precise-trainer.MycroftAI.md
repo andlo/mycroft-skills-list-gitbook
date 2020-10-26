@@ -27,7 +27,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/MycroftAI/mycroft-precise-trainer](https://github.com/MycroftAI/mycroft-precise-trainer)  
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
-**Created:** 2019 May 20 06:21:22 UTC  **Last updated:** 2019 Aug 14 22:23:21 UTC  
+**Created:** 2019 May 20 06:21:22 UTC  **Last updated:** 2020 Oct 06 00:37:22 UTC  
 **License:** Apache License 2.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

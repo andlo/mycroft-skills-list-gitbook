@@ -60,7 +60,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/andlo/remote-debug-skill](https://github.com/andlo/remote-debug-skill)  
 **Owner:** [@andlo](https://github.com/andlo)  
-**Created:** 2020 Jan 01 14:22:26 UTC  **Last updated:** 2020 Jan 30 19:18:22 UTC  
+**Created:** 2020 Jan 01 14:22:26 UTC  **Last updated:** 2020 Feb 27 21:57:10 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1194 ] [ needs validation ] [ new ]  
 **Categories:** [ Productivity ]   

@@ -6,6 +6,7 @@ description:
 ## Description:  
   
   
+![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -16,7 +17,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/josmithua/mycroft-skill-bible](https://github.com/josmithua/mycroft-skill-bible)  
 **Owner:** [@josmithua](https://github.com/josmithua)  
-**Created:** 2017 May 25 23:12:30 UTC  **Last updated:** 2017 May 26 00:03:02 UTC  
+**Created:** 2017 May 25 23:12:30 UTC  **Last updated:** 2020 Feb 25 17:37:22 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

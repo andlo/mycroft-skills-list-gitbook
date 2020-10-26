@@ -30,7 +30,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/domcross/shairport-skill](https://github.com/domcross/shairport-skill)  
 **Owner:** [@domcross](https://github.com/domcross)  
-**Created:** 2019 Dec 13 13:32:49 UTC  **Last updated:** 2019 Dec 18 23:50:32 UTC  
+**Created:** 2019 Dec 13 13:32:49 UTC  **Last updated:** 2020 Feb 28 23:44:11 UTC  
 **License:** Apache License 2.0  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ & ] [ Music ] [ Audio ]   

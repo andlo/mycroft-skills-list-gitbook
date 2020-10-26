@@ -41,7 +41,7 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 ## Summary:  
 **Github:** [https://github.com/builderjer/moviemaster](https://github.com/builderjer/moviemaster)  
 **Owner:** [@builderjer](https://github.com/builderjer)  
-**Created:** 2019 Jan 28 13:41:45 UTC  **Last updated:** 2019 Jul 15 01:58:41 UTC  
+**Created:** 2019 Jan 28 13:41:45 UTC  **Last updated:** 2020 Aug 24 13:10:52 UTC  
 **License:** GNU General Public License v3.0  
 **Market status:** [In Market](https://market.mycroft.ai/skill/moviemaster)  
 **Categories:** [ Entertainment ]   

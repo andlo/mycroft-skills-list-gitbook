@@ -23,7 +23,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/Karacolmar/next-tram-skill](https://github.com/Karacolmar/next-tram-skill)  
 **Owner:** [@Karacolmar](https://github.com/Karacolmar)  
-**Created:** 2019 Feb 27 21:00:05 UTC  **Last updated:** 2019 Feb 27 21:00:17 UTC  
+**Created:** 2019 Feb 27 21:00:05 UTC  **Last updated:** 2020 Feb 18 18:37:37 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ uncategorized ]   

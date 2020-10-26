@@ -36,7 +36,7 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 ## Summary:  
 **Github:** [https://github.com/pcwii/c25k-skill](https://github.com/pcwii/c25k-skill)  
 **Owner:** [@pcwii](https://github.com/pcwii)  
-**Created:** 2020 Jan 23 20:44:46 UTC  **Last updated:** 2020 Feb 02 21:39:07 UTC  
+**Created:** 2020 Jan 23 20:44:46 UTC  **Last updated:** 2020 May 12 20:14:31 UTC  
 **License:** No License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Fitness ]   

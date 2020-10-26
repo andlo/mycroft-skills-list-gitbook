@@ -11,7 +11,7 @@ Listen to the audio you love on Mycroft device and let the moments move you.
 
 https://tunein.com/  
   
-![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
+![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
@@ -36,7 +36,7 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/johnbartkiw/mycroft-skill-tunein](https://github.com/johnbartkiw/mycroft-skill-tunein)  
 **Owner:** [@johnbartkiw](https://github.com/johnbartkiw)  
-**Created:** 2019 Mar 01 04:07:56 UTC  **Last updated:** 2020 Jan 27 20:36:59 UTC  
+**Created:** 2019 Mar 01 04:07:56 UTC  **Last updated:** 2020 Aug 04 17:10:12 UTC  
 **License:** MIT License  
 **Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
 **Categories:** [ Entertainment ]   
