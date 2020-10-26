@@ -23,7 +23,6 @@ skill info is same info as used my market, and added market status and evt. pend
 skill __init__.py is parsed ad checked by AST to check if it looks OK.
 
 '''
-
 ACCESS_TOKEN = '88eba3587d247eb8d789f1aebdd64ffcad9ce3c2'
 
 request = requests.get(
@@ -290,30 +289,44 @@ def norm(x: str) -> str:
     """ Normalize str"""
     return x.lower().replace('-', ' ')
 
+
 def search_github():
     if not isfile('github.json'):
         print('Searching Github...')
-        ACCESS_TOKEN = 'ef77171c9449656ca7bfb3bfe082ef2238e5b102'
-        g = Github(ACCESS_TOKEN)
-        query = "'Mycroft'in:readme+'Mycroft'in:name+archived:false"
-        result = g.search_repositories(query)
-        print(f'Found {result.totalCount} repo(s)')
+        github_tokenfile = open("demofile.txt", "r")
+        GITHUB_TOKEN = github_tokenfile.read()
+        daterange = ['<2015-01-01',
+                '2015-01-01..2018-01-01', 
+                '2018-01-01..2019-01-01', 
+                '2019-01-01..2020-01-01', 
+                '>2020-01-01']
         skills = []
-        entry = {}
-        proc = 0
         total = 0
         added = 0
-        for line in result:
-            #print(proc)
-            entry = g.get_repo(line.id).raw_data
-            skills.append(entry)
-            proc = proc +1
-            total = total + 1
-        print('Total: ' + str(total))
+        page = 1
+
+        for date in daterange:
+            proc = 1
+            page = 0
+            print('Daterange: ' + date)
+            GITHUB_API_URL = "https://api.github.com/search/repositories?q='Mycroft'in:readme+'Mycroft'in:description+'Mycroft'in:name+archived:false+created:" + date
+            request = requests.get(GITHUB_API_URL + '&per_page=100&page=0', headers={ 'Authorization': 'Bearer ' + GITHUB_TOKEN'})
+            result = request.json()
+            for item in result['items']:
+                skills.append(item)
+                total = total +1
+            while 'next' in request.links.keys():
+                request=requests.get(request.links['next']['url'],headers={"Authorization": 'Bearer ef77171c9449656ca7bfb3bfe082ef2238e5b102'})
+                result = request.json()
+                for item in result['items']:
+                    skills.append(item)
+                    total = total +1
+        print('total ' + str(len(skills)))
         repo_file = open('github.json', 'w')
         repo_file.write(json.dumps(skills, ensure_ascii=False, indent=2))
         repo_file.close()
-    
+        print('Total git repos: ' + str(total))
+
     print('Processing Github repos...')
     result = []
     f = open('github.json')
@@ -323,7 +336,8 @@ def search_github():
     total = 0
     added = 0
     for repo in result:
-        print("Processing " + str(proc) +"/" + str(len(result)) + " " + repo['full_name'])
+        print("Processing " + str(proc) +"/" + str(len(result)) + " ")
+        # + repo['full_name'])
         if check_if_skill(repo['html_url'], repo['default_branch']):
             skills.append(generate_entry(repo))
             print("Added " + repo['name'] + '.' + repo['owner']['login'] + ' Total: ' + str(len(skills)))
