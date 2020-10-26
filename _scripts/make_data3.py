@@ -293,9 +293,9 @@ def norm(x: str) -> str:
 def search_github():
     if not isfile('github.json'):
         print('Searching Github...')
-        ACCESS_TOKEN = '88eba3587d247eb8d789f1aebdd64ffcad9ce3c2'
+        ACCESS_TOKEN = 'ef77171c9449656ca7bfb3bfe082ef2238e5b102'
         g = Github(ACCESS_TOKEN)
-        query = "'Mycroft'in:readme+'Mycroft'in:description+'Mycroft'in:name+archived:false"
+        query = "'Mycroft'in:readme+'Mycroft'in:name+archived:false"
         result = g.search_repositories(query)
         print(f'Found {result.totalCount} repo(s)')
         skills = []
@@ -304,10 +304,12 @@ def search_github():
         total = 0
         added = 0
         for line in result:
-            print(proc)
+            #print(proc)
             entry = g.get_repo(line.id).raw_data
             skills.append(entry)
             proc = proc +1
+            total = total + 1
+        print('Total: ' + str(total))
         repo_file = open('github.json', 'w')
         repo_file.write(json.dumps(skills, ensure_ascii=False, indent=2))
         repo_file.close()
