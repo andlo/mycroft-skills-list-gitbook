@@ -39,6 +39,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@saluber](https://github.com/saluber)  
 **Created:** 2020 Jun 01 12:00:48 UTC  **Last updated:** 2020 Jun 01 12:11:01 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#TMDB \#Movies \#Actors \#Mark \#I   

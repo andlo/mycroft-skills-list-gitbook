@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@gras64](https://github.com/gras64)  
 **Created:** 2020 Jul 10 21:14:03 UTC  **Last updated:** 2020 Aug 04 19:16:48 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#Monitor \#automatic   

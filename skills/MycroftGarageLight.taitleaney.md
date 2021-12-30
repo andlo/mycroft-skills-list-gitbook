@@ -28,5 +28,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@taitleaney](https://github.com/taitleaney)  
 **Created:** 2019 Jul 11 02:58:51 UTC  **Last updated:** 2019 Jul 11 12:16:12 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

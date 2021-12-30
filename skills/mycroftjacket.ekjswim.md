@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@ekjswim](https://github.com/ekjswim)  
 **Created:** 2017 Sep 08 04:44:25 UTC  **Last updated:** 2019 Dec 18 05:14:59 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

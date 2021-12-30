@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@dmp1ce](https://github.com/dmp1ce)  
 **Created:** 2016 Aug 12 15:19:03 UTC  **Last updated:** 2018 Apr 01 01:08:48 UTC  
 **License:** The Unlicense  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

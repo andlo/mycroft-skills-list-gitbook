@@ -35,6 +35,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@TheLastProject](https://github.com/TheLastProject)  
 **Created:** 2019 Dec 25 18:07:04 UTC  **Last updated:** 2020 Jan 26 22:33:30 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Transport ] [ Information ]   
 **Tags:** \#Travel \#Car \#Traffic \#Waze \#OpenStreetMaps   

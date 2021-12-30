@@ -26,5 +26,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@colla69](https://github.com/colla69)  
 **Created:** 2019 May 19 20:32:03 UTC  **Last updated:** 2020 Jul 03 22:04:20 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

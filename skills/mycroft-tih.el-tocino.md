@@ -26,5 +26,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@el-tocino](https://github.com/el-tocino)  
 **Created:** 2018 Jan 22 04:44:08 UTC  **Last updated:** 2019 Dec 19 02:44:45 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

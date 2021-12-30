@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@yogi1510](https://github.com/yogi1510)  
 **Created:** 2019 Dec 02 15:29:21 UTC  **Last updated:** 2019 Dec 03 14:53:21 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#navigate \#navigation   

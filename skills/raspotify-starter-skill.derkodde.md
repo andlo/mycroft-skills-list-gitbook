@@ -28,6 +28,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@derkodde](https://github.com/derkodde)  
 **Created:** 2020 Mar 25 17:44:08 UTC  **Last updated:** 2020 Apr 02 11:00:13 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ] [ Configuration ] [ Productivity ]   
 **Tags:** \#Shell \#Cmd \#Bash \#Scripts   

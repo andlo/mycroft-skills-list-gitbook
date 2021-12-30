@@ -37,6 +37,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@syner1](https://github.com/syner1)  
 **Created:** 2018 Oct 15 18:13:23 UTC  **Last updated:** 2018 Oct 15 18:23:52 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Configuration ]   
 **Tags:** \#nap \#naptime \#sleep \#donotdisturb \#do-not-disturb   

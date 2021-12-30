@@ -42,6 +42,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
 **Created:** 2017 Jul 03 16:24:57 UTC  **Last updated:** 2018 Aug 29 18:29:59 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#mark1 \#mycroft-mark1 \#platform-patch \#update \#patch   

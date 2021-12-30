@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@hughwilliams94](https://github.com/hughwilliams94)  
 **Created:** 2020 Jul 10 08:56:57 UTC  **Last updated:** 2020 Jul 23 09:24:06 UTC  
 **License:** GNU Affero General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Music ] [ Audio ] [ Daily ] [ Entertainment ] [ Information ] [ Media ]   
 **Tags:** \#\radio \#music \#bbc \#news   

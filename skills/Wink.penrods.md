@@ -26,5 +26,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@penrods](https://github.com/penrods)  
 **Created:** 2016 Aug 03 17:45:31 UTC  **Last updated:** 2020 Jun 23 17:46:55 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

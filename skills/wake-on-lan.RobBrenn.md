@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@RobBrenn](https://github.com/RobBrenn)  
 **Created:** 2018 Nov 28 22:11:03 UTC  **Last updated:** 2020 Sep 09 04:20:53 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#wake-on-lan \#wake   

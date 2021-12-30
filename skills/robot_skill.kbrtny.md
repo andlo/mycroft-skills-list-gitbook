@@ -35,6 +35,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@kbrtny](https://github.com/kbrtny)  
 **Created:** 2020 Oct 18 03:40:40 UTC  **Last updated:** 2020 Oct 18 04:24:37 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Transport ]   
 **Tags:** \#Robot \#Control   

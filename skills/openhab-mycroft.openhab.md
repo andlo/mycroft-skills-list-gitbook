@@ -74,6 +74,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@openhab](https://github.com/openhab)  
 **Created:** 2017 Sep 07 19:37:21 UTC  **Last updated:** 2020 Jul 13 10:04:02 UTC  
 **License:** Eclipse Public License 2.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1303 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1303 ] [ new ] [ needs validation ]  
 **Categories:** [ IoT ]   
 **Tags:** \#openHAB \#smarthome \#IoT \#Automation \#opensource   

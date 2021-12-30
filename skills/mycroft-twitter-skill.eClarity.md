@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@eClarity](https://github.com/eClarity)  
 **Created:** 2017 May 31 01:21:52 UTC  **Last updated:** 2018 May 18 10:13:31 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

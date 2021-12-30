@@ -1,5 +1,5 @@
 ---
-description: **Spotify has disabled my API access for the skill, it was violating their Terms of Service by enabl
+description: Listen to music from your Spotify Premium music account.  **Spotify has disabled the API access for 
 ---
 
 ### _spotify-skill.forslund_  
@@ -11,17 +11,58 @@ Spotify music library.
 You can also control your Mycroft device using the Spotify Connect system.
 So play DJ on your phone while listening on Mycroft!
 
+### This skill doesn't do any playback
+This skill works with the Spotify Connect protocol to interact with Spotify devices, but doesn't perform any playback itself. If you want playback on the hosting Mycroft device, you'll need to set up a player yourself.
+
+For Picroft users, [raspotify](https://github.com/dtcooper/raspotify) is a good choice.
+
+Install it and then make changes to `/etc/default/raspotify.conf` as follows
+
+- It is recommended to set the DEVICE_NAME to the name of the Mycroft unit (as registered at home.mycroft.ai) for automatic identification:
+
+`DEVICE_NAME=""
+
+- set your Spotify username and password under `OPTIONS`
+
+`OPTIONS="--username  --password "`
+
+
+You make sound work with raspotify you may need to edit `/lib/systemd/system/raspotify.service` and there change `User` and `Group` from `raspotify`to `pi`.
+
+
+For desktop users the official spotify player works well.
+
+The exception to this is the Mark-1 which is shipped with a spotify player library.
+
 ### Authorization:
 This Skill uses two different methods of authentication. Both need to be filled in correctly for the **Skill** to function correctly.
 
-#### API connection to your Spotify account
-After installing `mycroft-spotify`, in your [Skill
-settings for Spotify](https://home.mycroft.ai/#/skill) in home.mycroft.ai you will see settings for the Spotify Skill. You will see a username and password field and a 'Connect' button. Ignore the username and password field for now, and click the 'Connect' button. You will be prompted to log in to Spotify, and to authorize Mycroft AI to use your Spotify account using OAuth. This allows Mycroft access to your account details such as Playlists.
+#### Personal Access Token
+
+##### Creating access token
+From the [Spotify developer dashboard](https://developer.spotify.com/dashboard/)
+
+1. Click "CREATE AN APP"
+1. Fill out the create application form
+1. Click on the new app and choose EDIT SETTINGS
+1. Under Redirect URIs add `https://localhost:8888`
+
+More info can be found [here](https://developer.spotify.com/documentation/general/guides/app-settings/).
+
+##### Connecting spotify skill
+After installing `mycroft-spotify`, from the mycroft-core folder run the auth.py script in the mycroft-spotify folder
+
+```
+source venv-activate.sh
+python /opt/mycroft/skills/mycroft-spotify.forslund/auth.py
+```
+
+The script will try to guide you through connecting a developer account to the skill and store the credentials locally.
 
 #### Username and password to authenticate a Mycroft device
 In addition to account details, Mycroft needs to be authorized as a **device** for Spotify. To do this, we use your username and password for Spotify. These must be entered as well, or you will receive an error message like:
 
-`I couldn't find any Spot-ify devices.  This skill requires a Spotify Premium account to work properly.`
+`I couldn't find any Spotify devices.  This skill requires a Spotify Premium account to work properly.`
 
 when you try to use the **Skill** on a Mycroft device.
 

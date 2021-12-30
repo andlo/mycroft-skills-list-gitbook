@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2018 Oct 16 15:03:26 UTC  **Last updated:** 2020 Sep 20 12:16:56 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1009 ] [ GUI required ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1009 ] [ new ] [ needs validation ] [ GUI required ]  
 **Categories:** [ Music ]   
 **Tags:** \#Music \#Soundcloud \#Sound \#MusicStreaming \#Streaming \#Songs \#Music \#SongSearch \#MusicSearch \#GUI \#MusicPlayer \#Online   

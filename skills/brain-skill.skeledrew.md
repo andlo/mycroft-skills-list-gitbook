@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@skeledrew](https://github.com/skeledrew)  
 **Created:** 2017 Aug 24 23:10:37 UTC  **Last updated:** 2019 Dec 22 21:23:16 UTC  
 **License:** GNU Affero General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

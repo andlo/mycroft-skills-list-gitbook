@@ -34,6 +34,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@gras64](https://github.com/gras64)  
 **Created:** 2020 Jun 19 19:21:48 UTC  **Last updated:** 2020 Jun 22 21:05:08 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#**Fun,morse**   

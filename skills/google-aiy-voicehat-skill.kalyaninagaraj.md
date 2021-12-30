@@ -1,21 +1,21 @@
 ---
-description: Enables the button and led on the Google AIY voicehat
+description: Enables the button and LED on the Google AIY voicehat
 ---
 
 ### _google-aiy-voicehat-skill.kalyaninagaraj_  
 ## Description:  
-This skill roughly follows @andlo's code outline for the
-excellent picroft-google-aiy-voicekit skill. It provides
+This Mycroft skill roughly follows @andlo's code outline for the
+excellent [picroft-google-aiy-voicekit](https://github.com/andlo/picroft-google-aiy-voicekit-skill) skill. It provides
 the same functionality but uses the gpiozero library
-instead of RPi.GPIO to operate the button-led combo
+instead of RPi.GPIO to operate the button-LED combo
 connected to the voicehat.
 
 Additionally, an extended button press
 (> 7 seconds) forces a Linux shutdown.
 
 The idea is to test gpiozero's ability to handle switch
-bounce when polling for a button press; RPi.GPIO doesn't
-register hold times too well.  
+bounce when polling for a button press; in my experience, RPi.GPIO
+doesn't register hold times too well.  
   
   
 ### Platform:  
@@ -36,6 +36,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
 **Created:** 2020 Jan 02 10:53:30 UTC  **Last updated:** 2020 Jan 03 20:14:10 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#Mycroft \#AI \#Google \#AIY \#voicehat   

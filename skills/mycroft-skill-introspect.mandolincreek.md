@@ -36,5 +36,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@mandolincreek](https://github.com/mandolincreek)  
 **Created:** 2018 Feb 26 06:48:24 UTC  **Last updated:** 2018 Feb 26 13:27:30 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

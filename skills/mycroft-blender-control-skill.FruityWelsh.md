@@ -22,5 +22,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@FruityWelsh](https://github.com/FruityWelsh)  
 **Created:** 2019 Apr 28 16:08:51 UTC  **Last updated:** 2019 Apr 28 16:08:56 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

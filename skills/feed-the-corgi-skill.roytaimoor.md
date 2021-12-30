@@ -23,5 +23,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@roytaimoor](https://github.com/roytaimoor)  
 **Created:** 2020 May 27 22:43:58 UTC  **Last updated:** 2020 May 27 22:44:08 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Media ] [ Tot ]   

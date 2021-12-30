@@ -59,5 +59,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@erabti](https://github.com/erabti)  
 **Created:** 2018 Jan 06 21:55:09 UTC  **Last updated:** 2018 Aug 27 15:35:39 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -31,5 +31,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@magicaltrevor](https://github.com/magicaltrevor)  
 **Created:** 2019 May 22 01:05:17 UTC  **Last updated:** 2019 May 30 15:57:58 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

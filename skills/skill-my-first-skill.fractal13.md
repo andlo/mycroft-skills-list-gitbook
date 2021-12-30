@@ -26,5 +26,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@fractal13](https://github.com/fractal13)  
 **Created:** 2019 Jun 11 16:51:38 UTC  **Last updated:** 2019 Jun 12 17:30:42 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

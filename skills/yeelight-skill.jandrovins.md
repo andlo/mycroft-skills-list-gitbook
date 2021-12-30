@@ -39,6 +39,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@jandrovins](https://github.com/jandrovins)  
 **Created:** 2020 May 14 20:49:18 UTC  **Last updated:** 2020 Jun 04 02:06:53 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ] [ Daily ]   
 **Tags:** \#Yeelight \#Bulb   

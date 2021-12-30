@@ -24,6 +24,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@mofadashi](https://github.com/mofadashi)  
 **Created:** 2019 Oct 28 01:08:21 UTC  **Last updated:** 2019 Nov 12 22:38:09 UTC  
 **License:** No License  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1126 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1126 ] [ new ] [ needs validation ]  
 **Categories:** [ Daily ] [ Information ]   
 **Tags:** \#Allergy   

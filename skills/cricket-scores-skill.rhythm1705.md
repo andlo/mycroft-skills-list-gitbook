@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@rhythm1705](https://github.com/rhythm1705)  
 **Created:** 2019 Oct 15 14:05:11 UTC  **Last updated:** 2020 Mar 03 05:57:10 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#Cricket \#Sports \#Match \#Game   

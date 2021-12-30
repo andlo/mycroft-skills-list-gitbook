@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@ExperimentalCivics](https://github.com/ExperimentalCivics)  
 **Created:** 2018 Jun 17 20:20:10 UTC  **Last updated:** 2018 Jun 29 01:08:45 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

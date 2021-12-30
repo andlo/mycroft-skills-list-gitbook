@@ -22,5 +22,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@bijuthank](https://github.com/bijuthank)  
 **Created:** 2020 Mar 27 13:26:38 UTC  **Last updated:** 2020 Mar 27 14:13:49 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   

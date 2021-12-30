@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@aldeaman](https://github.com/aldeaman)  
 **Created:** 2020 Jul 18 18:31:33 UTC  **Last updated:** 2020 Jul 31 01:25:54 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#Arduino,sensor,communication   

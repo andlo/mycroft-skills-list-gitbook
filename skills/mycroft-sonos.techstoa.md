@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@techstoa](https://github.com/techstoa)  
 **Created:** 2018 Dec 21 17:11:38 UTC  **Last updated:** 2018 Dec 22 00:11:36 UTC  
 **License:** GNU General Public License v2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

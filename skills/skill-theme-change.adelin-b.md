@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@adelin-b](https://github.com/adelin-b)  
 **Created:** 2018 Apr 17 01:17:41 UTC  **Last updated:** 2019 Feb 21 17:26:54 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

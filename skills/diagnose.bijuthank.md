@@ -25,6 +25,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@bijuthank](https://github.com/bijuthank)  
 **Created:** 2019 Sep 27 10:30:15 UTC  **Last updated:** 2019 Sep 28 10:34:45 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   
 **Tags:** \#Mycroft \#skill \#for \#diagnosis   

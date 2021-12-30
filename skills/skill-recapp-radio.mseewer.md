@@ -25,5 +25,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@mseewer](https://github.com/mseewer)  
 **Created:** 2020 Jul 22 09:10:14 UTC  **Last updated:** 2020 Aug 07 17:43:39 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Music ] [ Audio ]   

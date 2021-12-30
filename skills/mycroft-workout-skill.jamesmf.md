@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@jamesmf](https://github.com/jamesmf)  
 **Created:** 2020 Mar 27 03:19:00 UTC  **Last updated:** 2020 Mar 27 04:52:05 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Productivity ]   
 **Tags:** \#Workout \#Fitness   

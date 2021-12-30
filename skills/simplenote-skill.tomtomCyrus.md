@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@tomtomCyrus](https://github.com/tomtomCyrus)  
 **Created:** 2020 May 31 21:28:26 UTC  **Last updated:** 2020 May 31 22:27:52 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ] [ Daily ]   
 **Tags:** \#Note-taking \#Notes \#Simplenote \#Todo \#list \#List \#Cross-platform   

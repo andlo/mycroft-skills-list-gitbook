@@ -18,5 +18,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@KCAstromechs](https://github.com/KCAstromechs)  
 **Created:** 2018 Dec 02 22:35:38 UTC  **Last updated:** 2020 Feb 23 21:30:48 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

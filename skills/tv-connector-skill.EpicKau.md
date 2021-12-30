@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@EpicKau](https://github.com/EpicKau)  
 **Created:** 2020 Jan 01 23:22:40 UTC  **Last updated:** 2020 Jan 02 18:41:51 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

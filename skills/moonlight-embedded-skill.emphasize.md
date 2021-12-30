@@ -34,6 +34,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@emphasize](https://github.com/emphasize)  
 **Created:** 2020 Aug 27 14:43:05 UTC  **Last updated:** 2020 Sep 28 15:26:08 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Media ]   
 **Tags:** \#Gaming \#Streaming \#Stream \#Epic \#Desktop \#Remote   

@@ -43,6 +43,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2019 Jan 16 10:12:43 UTC  **Last updated:** 2019 Jan 16 10:13:33 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#weather \#forecast \#rain \#humidity \#snow \#temperature   

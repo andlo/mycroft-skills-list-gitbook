@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@pranavlal](https://github.com/pranavlal)  
 **Created:** 2018 Feb 17 06:53:50 UTC  **Last updated:** 2018 Feb 17 06:57:50 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

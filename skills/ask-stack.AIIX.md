@@ -24,5 +24,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2018 Mar 27 07:14:52 UTC  **Last updated:** 2018 Aug 22 16:10:52 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

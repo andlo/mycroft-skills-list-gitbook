@@ -15,6 +15,7 @@ Stream music from your Emby server using Mycroft! Play all songs by an artist or
 > Play Artist Thrice From Emby.  
 > Play Album Deadweight From Emby.  
 > Play Playlist Rockin Tunes From Emby.  
+> Play Song Stitch From Emby.  
   
 {% hint style="danger" %}
 This skill dosnt have any license attatched. It is not adviasable to use this skill nor fork or clone, as you don't know if you are legaly allowed to do so by the auhtor.

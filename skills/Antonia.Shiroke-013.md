@@ -33,5 +33,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Shiroke-013](https://github.com/Shiroke-013)  
 **Created:** 2019 Aug 23 01:39:49 UTC  **Last updated:** 2020 Feb 28 01:16:48 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

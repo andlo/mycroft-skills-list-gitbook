@@ -22,6 +22,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@yogi1510](https://github.com/yogi1510)  
 **Created:** 2019 Nov 26 17:33:40 UTC  **Last updated:** 2019 Nov 26 17:44:53 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#yogesh   

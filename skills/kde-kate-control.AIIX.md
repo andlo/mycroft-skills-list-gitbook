@@ -49,5 +49,5 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2017 Nov 28 13:32:40 UTC  **Last updated:** 2017 Dec 08 08:54:08 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

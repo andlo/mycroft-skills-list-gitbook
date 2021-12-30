@@ -29,5 +29,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@tiredoftry](https://github.com/tiredoftry)  
 **Created:** 2018 Aug 16 23:42:13 UTC  **Last updated:** 2018 Aug 17 00:05:46 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

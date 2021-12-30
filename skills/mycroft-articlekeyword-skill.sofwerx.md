@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@sofwerx](https://github.com/sofwerx)  
 **Created:** 2018 May 15 20:58:10 UTC  **Last updated:** 2018 May 16 19:59:31 UTC  
 **License:** The Unlicense  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

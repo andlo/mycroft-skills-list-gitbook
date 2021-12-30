@@ -28,6 +28,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Kervball](https://github.com/Kervball)  
 **Created:** 2020 Jul 28 19:30:59 UTC  **Last updated:** 2020 Jul 29 19:24:08 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#Gpio \#Mycroft \#Startup \#Lights \#Led   

@@ -46,5 +46,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@spammedia](https://github.com/spammedia)  
 **Created:** 2017 Sep 12 12:08:00 UTC  **Last updated:** 2020 Jan 15 22:51:08 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

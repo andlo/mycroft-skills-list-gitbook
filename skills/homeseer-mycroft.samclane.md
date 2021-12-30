@@ -36,6 +36,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@samclane](https://github.com/samclane)  
 **Created:** 2018 Aug 21 16:07:21 UTC  **Last updated:** 2020 Feb 06 06:38:08 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#homeseer \#homeautomation \#automation \#hub \#iot \#lights \#lighting \#smartlight \#smarthome \#smartbulb \#smartlock \#[submodule \#"homeseer-mycroft"] \#path \#= \#homeseer-mycroft-skill \#url \#= \#https://github.com/samclane/homeseer-mycroft.git   

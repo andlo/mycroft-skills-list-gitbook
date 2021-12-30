@@ -23,5 +23,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@loicloic](https://github.com/loicloic)  
 **Created:** 2018 Dec 27 10:26:49 UTC  **Last updated:** 2018 Dec 27 10:26:56 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

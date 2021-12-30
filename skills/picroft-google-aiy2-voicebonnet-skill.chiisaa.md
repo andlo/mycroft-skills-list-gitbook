@@ -28,6 +28,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@chiisaa](https://github.com/chiisaa)  
 **Created:** 2020 Jun 09 20:16:45 UTC  **Last updated:** 2020 Oct 20 17:50:41 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#googlevoicebonnet \#aiy2 \#Googleaiy2 \#voicekitv2 \#voicebonnet   

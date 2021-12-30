@@ -31,5 +31,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@tiradoe](https://github.com/tiradoe)  
 **Created:** 2020 Oct 17 01:19:28 UTC  **Last updated:** 2020 Oct 20 17:34:27 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   

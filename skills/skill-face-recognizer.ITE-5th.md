@@ -31,5 +31,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@ITE-5th](https://github.com/ITE-5th)  
 **Created:** 2018 Jul 01 06:58:18 UTC  **Last updated:** 2018 Jul 29 06:00:12 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

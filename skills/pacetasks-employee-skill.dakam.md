@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@dakam](https://github.com/dakam)  
 **Created:** 2019 Oct 12 19:57:16 UTC  **Last updated:** 2019 Oct 12 19:57:24 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ] [ Productivity ]   
 **Tags:** \#Pacetasks \#Erp \#Human \#resource \#Mysql \#Database   

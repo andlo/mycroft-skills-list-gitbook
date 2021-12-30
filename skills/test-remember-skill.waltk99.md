@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@waltk99](https://github.com/waltk99)  
 **Created:** 2019 Nov 10 22:49:55 UTC  **Last updated:** 2019 Nov 10 22:50:15 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ] [ Daily ]   
 **Tags:** \#brain \#remember \#todo-list   

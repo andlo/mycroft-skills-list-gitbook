@@ -36,6 +36,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@JarbasSkills](https://github.com/JarbasSkills)  
 **Created:** 2020 Aug 06 17:13:02 UTC  **Last updated:** 2020 Aug 07 01:06:42 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#- \#comics \#- \#idle \#screen \#- \#mark2 \#- \#bigscreen   

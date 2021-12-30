@@ -59,5 +59,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@dmwilsonkc](https://github.com/dmwilsonkc)  
 **Created:** 2018 May 30 02:09:43 UTC  **Last updated:** 2020 Aug 29 00:29:16 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-933 ] [ new ] [ override autotester ] [ waiting ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-933 ] [ waiting ] [ new ] [ override autotester ]  
 **Categories:** [ IoT ]   

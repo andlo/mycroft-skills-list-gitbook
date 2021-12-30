@@ -38,5 +38,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@purserj](https://github.com/purserj)  
 **Created:** 2017 Oct 06 23:43:39 UTC  **Last updated:** 2017 Oct 07 00:41:43 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

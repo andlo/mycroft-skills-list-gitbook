@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2019 Feb 12 11:15:14 UTC  **Last updated:** 2019 Feb 12 11:16:44 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

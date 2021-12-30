@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@rekkitcwts](https://github.com/rekkitcwts)  
 **Created:** 2019 Jun 07 19:38:29 UTC  **Last updated:** 2019 Jun 07 19:40:40 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#Suitenguu \#Configuration \#Settings \#System   

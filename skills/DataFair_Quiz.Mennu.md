@@ -31,5 +31,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Mennu](https://github.com/Mennu)  
 **Created:** 2018 Sep 25 10:15:19 UTC  **Last updated:** 2018 Sep 25 23:48:08 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -38,6 +38,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@andlo](https://github.com/andlo)  
 **Created:** 2019 Feb 17 09:27:50 UTC  **Last updated:** 2019 Feb 17 09:28:09 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#stories \#story \#tales \#fairy \#fairytale \#fairytales \#andersen \#hca   

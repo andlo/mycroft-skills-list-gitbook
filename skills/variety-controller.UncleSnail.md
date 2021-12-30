@@ -49,5 +49,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@UncleSnail](https://github.com/UncleSnail)  
 **Created:** 2018 Feb 03 02:24:57 UTC  **Last updated:** 2018 Feb 03 22:33:34 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

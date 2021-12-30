@@ -33,6 +33,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@TurBoss](https://github.com/TurBoss)  
 **Created:** 2020 Feb 19 01:20:38 UTC  **Last updated:** 2020 Feb 20 01:47:03 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#helloworld \#first-skill \#hello \#greeting   

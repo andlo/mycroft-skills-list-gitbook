@@ -74,6 +74,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@MOHIT-sketch](https://github.com/MOHIT-sketch)  
 **Created:** 2019 Aug 05 09:10:55 UTC  **Last updated:** 2019 Aug 05 09:21:02 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#IoT \#GPIO \#RPi   

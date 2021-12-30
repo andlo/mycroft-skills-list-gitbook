@@ -41,6 +41,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@smearumi](https://github.com/smearumi)  
 **Created:** 2018 Nov 11 11:34:36 UTC  **Last updated:** 2019 Nov 19 23:12:12 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ] [ Daily ]   
 **Tags:** \#mycroft \#skill \#remote \#computer \#home \#voice \#assistant   

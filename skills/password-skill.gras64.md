@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@gras64](https://github.com/gras64)  
 **Created:** 2019 Oct 21 20:38:41 UTC  **Last updated:** 2020 May 17 22:12:25 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1313 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1313 ] [ new ] [ needs validation ]  
 **Categories:** [ Configuration ]   
 **Tags:** \#Password, \#login   

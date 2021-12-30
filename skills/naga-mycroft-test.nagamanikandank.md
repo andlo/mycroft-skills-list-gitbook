@@ -28,6 +28,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@nagamanikandank](https://github.com/nagamanikandank)  
 **Created:** 2018 Oct 05 20:41:02 UTC  **Last updated:** 2018 Oct 05 21:33:20 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#IP-address \#IPaddress \#network-address \#network \#system   

@@ -42,6 +42,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@pcwii](https://github.com/pcwii)  
 **Created:** 2019 Dec 21 13:58:30 UTC  **Last updated:** 2020 Apr 28 07:51:42 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#mesh \#remote \#connect \#control \#MQTT \#HA \#Homeassistant   

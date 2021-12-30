@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@vraedac](https://github.com/vraedac)  
 **Created:** 2019 Dec 29 17:44:08 UTC  **Last updated:** 2020 Jan 15 03:31:04 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   
 **Tags:** \#Shopping \#List \#Grocery \#Todoist   

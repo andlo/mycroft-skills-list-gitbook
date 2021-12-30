@@ -1,5 +1,5 @@
 ---
-description: Customize your Mark 2
+description: Please use the new Mark II Skill
 ---
 
 ### _skill-mark-2-pi.MycroftAI_  
@@ -35,6 +35,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
 **Created:** 2019 Jun 27 23:33:41 UTC  **Last updated:** 2019 Oct 10 16:30:53 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#mark2 \#configuration \#settings \#system   

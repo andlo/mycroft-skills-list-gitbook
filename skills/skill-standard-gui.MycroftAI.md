@@ -26,6 +26,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
 **Created:** 2019 May 02 05:23:03 UTC  **Last updated:** 2019 Dec 18 05:23:43 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#gui \#system   

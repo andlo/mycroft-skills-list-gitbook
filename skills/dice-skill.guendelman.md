@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@guendelman](https://github.com/guendelman)  
 **Created:** 2020 Jan 16 14:52:33 UTC  **Last updated:** 2020 Jan 16 14:53:31 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#dice \#random \#dnd   

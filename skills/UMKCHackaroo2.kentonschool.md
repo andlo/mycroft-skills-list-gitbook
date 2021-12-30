@@ -26,5 +26,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@kentonschool](https://github.com/kentonschool)  
 **Created:** 2019 Apr 06 21:03:07 UTC  **Last updated:** 2019 Dec 18 05:33:33 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

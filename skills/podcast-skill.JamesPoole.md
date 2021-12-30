@@ -35,6 +35,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@JamesPoole](https://github.com/JamesPoole)  
 **Created:** 2018 Jan 10 23:03:20 UTC  **Last updated:** 2019 Dec 18 05:17:48 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Information ] [ Media ] [ Music ]   
 **Tags:** \#podcasts \#podcast \#listen \#play   

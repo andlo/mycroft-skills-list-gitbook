@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@OpenVoiceOS](https://github.com/OpenVoiceOS)  
 **Created:** 2020 Jan 02 14:22:32 UTC  **Last updated:** 2020 Oct 06 19:37:50 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

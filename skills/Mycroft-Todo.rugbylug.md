@@ -61,5 +61,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@rugbylug](https://github.com/rugbylug)  
 **Created:** 2018 Aug 01 08:19:40 UTC  **Last updated:** 2020 Mar 09 02:22:27 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

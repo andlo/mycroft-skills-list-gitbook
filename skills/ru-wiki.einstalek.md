@@ -36,6 +36,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@einstalek](https://github.com/einstalek)  
 **Created:** 2018 Nov 09 17:36:50 UTC  **Last updated:** 2018 Nov 13 13:53:03 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   
 **Tags:** \#wikipedia \#encyclopedia \#general-knowledge \#wiki \#question \#query   

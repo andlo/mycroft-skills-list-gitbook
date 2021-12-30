@@ -29,6 +29,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@jrwarwick](https://github.com/jrwarwick)  
 **Created:** 2020 Jul 02 02:15:39 UTC  **Last updated:** 2020 Jul 02 02:15:47 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#Toy,game,fiction   

@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Tyler-The-App-Creator](https://github.com/Tyler-The-App-Creator)  
 **Created:** 2018 Sep 08 08:01:51 UTC  **Last updated:** 2018 Sep 29 15:23:29 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -46,6 +46,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@montali](https://github.com/montali)  
 **Created:** 2020 Apr 08 09:55:26 UTC  **Last updated:** 2020 Jun 24 10:18:34 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   
 **Tags:** \#Hospital \#Triage \#Health \#Er   

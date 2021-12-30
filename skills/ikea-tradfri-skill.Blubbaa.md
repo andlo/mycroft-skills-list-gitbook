@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Blubbaa](https://github.com/Blubbaa)  
 **Created:** 2020 Jan 02 16:51:00 UTC  **Last updated:** 2020 Jan 02 16:51:09 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#Ikea \#Smart \#home \#Light \#Tradfri   

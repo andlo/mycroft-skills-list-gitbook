@@ -21,6 +21,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@sumutcan](https://github.com/sumutcan)  
 **Created:** 2018 Oct 11 14:09:20 UTC  **Last updated:** 2018 Oct 17 08:26:38 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Music ] [ Information ]   
 **Tags:** \#music \#generalknowledge \#questionanswer   

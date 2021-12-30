@@ -24,6 +24,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@INsiteLabDev](https://github.com/INsiteLabDev)  
 **Created:** 2020 Apr 16 19:46:12 UTC  **Last updated:** 2020 May 19 20:55:28 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Configuration ] [ Daily ] [ Music ] [ Productivity ] [ audio ]   
 **Tags:** \#Accessibility \#Rate \#Adjust \#Settings \#Audio \#Sound   

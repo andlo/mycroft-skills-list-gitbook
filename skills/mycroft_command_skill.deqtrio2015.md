@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@deqtrio2015](https://github.com/deqtrio2015)  
 **Created:** 2019 Aug 27 18:51:49 UTC  **Last updated:** 2019 Aug 27 19:05:37 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

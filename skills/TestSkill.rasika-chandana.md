@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@rasika-chandana](https://github.com/rasika-chandana)  
 **Created:** 2018 May 07 16:54:42 UTC  **Last updated:** 2018 May 08 06:47:09 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

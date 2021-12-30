@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
 **Created:** 2019 Dec 23 08:37:20 UTC  **Last updated:** 2019 Dec 27 15:01:19 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Media ]   
 **Tags:** \#All \#India \#Radio \#News \#AIR \#Akashvani \#Mycroft \#AI   

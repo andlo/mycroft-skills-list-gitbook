@@ -32,5 +32,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@gfhuertac](https://github.com/gfhuertac)  
 **Created:** 2019 Jan 31 09:18:26 UTC  **Last updated:** 2019 Jan 31 09:18:32 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

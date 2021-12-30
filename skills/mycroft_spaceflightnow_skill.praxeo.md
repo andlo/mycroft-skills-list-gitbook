@@ -22,5 +22,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@praxeo](https://github.com/praxeo)  
 **Created:** 2016 Sep 05 03:48:15 UTC  **Last updated:** 2018 Mar 25 16:24:56 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

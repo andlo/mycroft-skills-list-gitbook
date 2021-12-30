@@ -26,6 +26,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@JarbasAl](https://github.com/JarbasAl)  
 **Created:** 2018 Oct 09 20:16:33 UTC  **Last updated:** 2019 Feb 02 06:15:44 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#game \#adventure \#cave   

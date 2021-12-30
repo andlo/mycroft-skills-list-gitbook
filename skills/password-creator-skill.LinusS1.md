@@ -38,6 +38,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@LinusS1](https://github.com/LinusS1)  
 **Created:** 2020 Mar 23 22:41:35 UTC  **Last updated:** 2020 May 27 21:08:27 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1279 ] [ needs validation ] [ new ]  
+  
 **Categories:** [ Productivity ] [ Configuration ] [ Daily ] [ Information ]   
 **Tags:** \#Password \#Creation \#Passwords \#Generate-password \#Password-creator \#Key \#Keys \#Website \#Generator \#Creator   

@@ -19,5 +19,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@Flamekebab](https://github.com/Flamekebab)  
 **Created:** 2019 Jun 14 22:33:02 UTC  **Last updated:** 2019 Dec 19 02:37:21 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

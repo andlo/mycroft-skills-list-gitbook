@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2018 Feb 20 11:58:48 UTC  **Last updated:** 2020 Oct 09 11:51:52 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1038 ] [ GUI required ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1038 ] [ new ] [ needs validation ] [ GUI required ]  
 **Categories:** [ Information ]   
 **Tags:** \#Food \#Recipes \#GUI \#Plasmoid \#KDE \#Ingredients \#Cooking   

@@ -67,6 +67,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@luke5sky](https://github.com/luke5sky)  
 **Created:** 2019 Jan 04 10:25:15 UTC  **Last updated:** 2020 Oct 15 14:25:55 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ] [ IoT ]   
 **Tags:** \#messenger \#bot \#telegram-bot   

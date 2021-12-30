@@ -24,6 +24,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@krisgesling](https://github.com/krisgesling)  
 **Created:** 2019 Oct 23 01:21:13 UTC  **Last updated:** 2019 Oct 23 02:40:42 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Development ]   
 **Tags:** \#Dev \#Example \#Code   

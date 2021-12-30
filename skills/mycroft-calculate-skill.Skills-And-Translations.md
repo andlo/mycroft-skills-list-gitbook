@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Skills-And-Translations](https://github.com/Skills-And-Translations)  
 **Created:** 2017 May 20 11:31:22 UTC  **Last updated:** 2017 Jun 10 19:41:28 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

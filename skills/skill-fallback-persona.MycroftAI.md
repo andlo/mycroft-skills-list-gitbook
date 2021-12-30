@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
 **Created:** 2018 Feb 06 23:07:51 UTC  **Last updated:** 2019 Apr 13 21:47:02 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#fallback \#persona \#personality   

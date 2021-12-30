@@ -21,6 +21,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@MaxGolden](https://github.com/MaxGolden)  
 **Created:** 2019 Apr 06 14:46:32 UTC  **Last updated:** 2019 Apr 07 14:59:11 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#sing \#singing \#lyrics \#song \#music \#texttospeech   

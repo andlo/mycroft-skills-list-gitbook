@@ -28,5 +28,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@thekindler](https://github.com/thekindler)  
 **Created:** 2019 Jul 23 08:45:35 UTC  **Last updated:** 2020 Apr 04 17:12:41 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   

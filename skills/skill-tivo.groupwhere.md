@@ -65,5 +65,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@groupwhere](https://github.com/groupwhere)  
 **Created:** 2018 Mar 17 16:20:08 UTC  **Last updated:** 2018 Aug 09 16:55:23 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

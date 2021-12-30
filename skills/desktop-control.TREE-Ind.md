@@ -40,6 +40,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@TREE-Ind](https://github.com/TREE-Ind)  
 **Created:** 2018 Jun 14 20:55:15 UTC  **Last updated:** 2019 Jun 13 16:14:34 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   
 **Tags:** \#desktop \#mouse \#keyboard \#screen   

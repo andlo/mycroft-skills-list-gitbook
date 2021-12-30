@@ -1,5 +1,5 @@
 ---
-description: 
+description: Skill for Adventure game by Crowther and Woods
 ---
 
 ### _cave-adventure-game-skill.JarbasAl_  
@@ -34,6 +34,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@JarbasAl](https://github.com/JarbasAl)  
 **Created:** 2018 Oct 07 21:57:00 UTC  **Last updated:** 2019 Jun 15 02:23:48 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#game \#adventure \#cave   

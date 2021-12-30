@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@umbertix](https://github.com/umbertix)  
 **Created:** 2019 Jan 04 11:40:28 UTC  **Last updated:** 2019 Jan 04 11:52:21 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

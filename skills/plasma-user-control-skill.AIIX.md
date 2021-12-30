@@ -41,6 +41,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2017 Jan 21 15:38:30 UTC  **Last updated:** 2020 May 06 09:02:20 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1039 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1039 ] [ new ] [ needs validation ]  
 **Categories:** [ Productivity ]   
 **Tags:** \#desktop \#kde \#plasma \#brightness \#lockscreen \#panel \#widget \#system \#information \#clipboard   

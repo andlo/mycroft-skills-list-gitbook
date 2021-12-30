@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@rs13885](https://github.com/rs13885)  
 **Created:** 2020 Jul 26 22:23:22 UTC  **Last updated:** 2020 Jul 27 14:13:28 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ IoT ] [ Media ] [ Music ] [ audio ]   
 **Tags:** \#Hdmi \#Cec \#Hdmi-cec \#Television \#Tv   

@@ -36,5 +36,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@PFE1718](https://github.com/PFE1718)  
 **Created:** 2018 Jan 22 20:24:35 UTC  **Last updated:** 2018 Feb 01 21:07:13 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

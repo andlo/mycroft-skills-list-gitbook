@@ -24,16 +24,13 @@ then you do not have to do everything from the beginning.
 > Houmor is probably not your strength.  
   
 ## Installation:  
-{% hint style="info" %}
-This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by voice" %}
-> Hey Mycroft - install Learning
-{% endtab %}
-  {% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install Learning```
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/gras64/learning-skill```
 {% endtab %}
   {% endtabs %}
     
@@ -42,6 +39,6 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 **Owner:** [@gras64](https://github.com/gras64)  
 **Created:** 2018 Nov 08 14:12:22 UTC  **Last updated:** 2020 Aug 10 13:27:52 UTC  
 **License:** Apache License 2.0  
-**Market status:** [In Market](https://market.mycroft.ai/skill/learning)  
+  
 **Categories:** [ Entertainment ] [ Information ] [ Productivity ]   
 **Tags:** \#learning \#science   

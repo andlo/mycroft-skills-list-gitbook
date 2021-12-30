@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@TREE-Ind](https://github.com/TREE-Ind)  
 **Created:** 2018 Dec 24 22:57:14 UTC  **Last updated:** 2019 Oct 17 22:38:32 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#stories \#audio \#kidfriendly   

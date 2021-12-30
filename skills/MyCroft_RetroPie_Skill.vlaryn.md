@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@vlaryn](https://github.com/vlaryn)  
 **Created:** 2016 Dec 29 05:43:13 UTC  **Last updated:** 2016 Dec 29 05:43:20 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

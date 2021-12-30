@@ -4,7 +4,7 @@ description: Mycroft plays the latest episode of your favorite podcast
 
 ### _podcast-player-skill.kalyaninagaraj_  
 ## Description:  
-Unlike a typical podcast player, this skill does not maintain playlist.
+Unlike some of the other podcast players, this skill does not maintain a playlist.
 
 Instead, this skill lets you to play a particular episode by identifying the season and episode number to Mycroft.  
   
@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
 **Created:** 2019 Dec 18 13:05:04 UTC  **Last updated:** 2019 Dec 27 14:11:54 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Music ] [ Audio ] [ Entertainment ] [ Media ]   
 **Tags:** \#Podcast \#Mycroft \#AI   

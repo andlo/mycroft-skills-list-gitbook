@@ -22,6 +22,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@estherdalley](https://github.com/estherdalley)  
 **Created:** 2018 Jul 17 15:54:14 UTC  **Last updated:** 2018 Jul 17 17:22:34 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   
 **Tags:** \#- \#IOTBit_library-auto \#needs \#to \#be \#moved \#to \#where \#Mycroft \#will \#look \#for \#it: \#For \#example, \#if \#you \#cloned \#mycroft-core \#into \#home/pi/: \#/home/pi/mycroft-core/.venv/lib/python3.5/site-packages \#- \#startMycroft.sh \#is \#designed \#to \#be \#run \#from \#home, \#as \#an \#easy \#way \#of \#starting \#the \#venv \#and \#cli-client \#during \#testing \#etc. \#- \#copy \#into \#home \#and \#edit \#paths \#necessary.   

@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@jamiehoward430](https://github.com/jamiehoward430)  
 **Created:** 2016 Nov 21 09:24:07 UTC  **Last updated:** 2020 Oct 11 04:56:33 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#mqtt   

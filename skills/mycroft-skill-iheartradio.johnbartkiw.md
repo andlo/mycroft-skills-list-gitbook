@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@johnbartkiw](https://github.com/johnbartkiw)  
 **Created:** 2019 Mar 08 00:10:33 UTC  **Last updated:** 2020 Jun 12 22:30:46 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#stream \#streaming \#radio \#IHeartRadio   

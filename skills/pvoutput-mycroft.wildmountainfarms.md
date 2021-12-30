@@ -42,6 +42,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@wildmountainfarms](https://github.com/wildmountainfarms)  
 **Created:** 2020 Mar 18 01:58:10 UTC  **Last updated:** 2020 Mar 21 15:29:39 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ] [ Productivity ]   
 **Tags:** \#SolarPower \#PVOutput \#Energy   

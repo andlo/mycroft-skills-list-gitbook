@@ -43,6 +43,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@gras64](https://github.com/gras64)  
 **Created:** 2019 Dec 03 22:15:34 UTC  **Last updated:** 2019 Dec 03 22:17:09 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Music ]   
 **Tags:** \#music \#play \#playback \#pause \#resume \#next \#system   

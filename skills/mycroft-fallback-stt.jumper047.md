@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@jumper047](https://github.com/jumper047)  
 **Created:** 2020 Feb 22 19:59:16 UTC  **Last updated:** 2020 Feb 23 20:35:02 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#system   

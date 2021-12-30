@@ -28,6 +28,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@muhareb](https://github.com/muhareb)  
 **Created:** 2020 Jul 14 10:24:33 UTC  **Last updated:** 2020 Aug 17 05:36:59 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#sing \#singing \#lyrics \#song \#music \#texttospeech   

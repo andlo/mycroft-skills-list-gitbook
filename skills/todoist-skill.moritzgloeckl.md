@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@moritzgloeckl](https://github.com/moritzgloeckl)  
 **Created:** 2019 Sep 26 20:21:36 UTC  **Last updated:** 2020 Mar 09 02:24:59 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ] [ Daily ]   
 **Tags:** \#todoist \#todo \#todolist   

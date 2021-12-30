@@ -74,6 +74,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Shivaabhai](https://github.com/Shivaabhai)  
 **Created:** 2019 Mar 05 09:23:39 UTC  **Last updated:** 2019 Mar 05 09:23:58 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#IoT \#GPIO \#RPi   

@@ -21,5 +21,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@drphysica](https://github.com/drphysica)  
 **Created:** 2017 Oct 10 07:54:38 UTC  **Last updated:** 2017 Oct 14 04:56:13 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

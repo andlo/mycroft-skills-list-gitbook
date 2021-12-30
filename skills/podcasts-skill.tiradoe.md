@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@tiradoe](https://github.com/tiradoe)  
 **Created:** 2020 Oct 12 00:53:14 UTC  **Last updated:** 2020 Oct 14 22:16:58 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Music ] [ Audio ] [ Entertainment ]   
 **Tags:** \#Podcast \#Podcasts \#News   

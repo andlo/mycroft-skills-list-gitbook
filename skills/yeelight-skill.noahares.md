@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@noahares](https://github.com/noahares)  
 **Created:** 2020 Aug 22 11:22:42 UTC  **Last updated:** 2020 Sep 24 09:36:17 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   

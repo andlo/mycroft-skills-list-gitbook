@@ -27,6 +27,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@guhl](https://github.com/guhl)  
 **Created:** 2020 Oct 25 14:32:07 UTC  **Last updated:** 2020 Oct 25 20:48:51 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ] [ Configuration ]   
 **Tags:** \#Wake \#Button \#Mark \#2   

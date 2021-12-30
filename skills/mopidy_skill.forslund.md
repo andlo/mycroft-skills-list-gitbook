@@ -63,6 +63,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@forslund](https://github.com/forslund)  
 **Created:** 2016 Oct 28 05:52:28 UTC  **Last updated:** 2020 Jan 19 08:24:16 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Music ]   
 **Tags:** \#mopidy \#music   

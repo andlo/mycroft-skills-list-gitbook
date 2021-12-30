@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@syner1](https://github.com/syner1)  
 **Created:** 2018 Oct 15 17:52:50 UTC  **Last updated:** 2018 Oct 15 18:07:32 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Music ]   
 **Tags:** \#volume \#volume-control \#sound   

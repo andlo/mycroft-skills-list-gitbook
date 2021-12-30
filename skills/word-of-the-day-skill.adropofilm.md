@@ -24,5 +24,5 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 **Owner:** [@adropofilm](https://github.com/adropofilm)  
 **Created:** 2018 Apr 18 21:49:58 UTC  **Last updated:** 2018 Apr 26 19:31:22 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

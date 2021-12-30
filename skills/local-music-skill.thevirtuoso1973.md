@@ -38,6 +38,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@thevirtuoso1973](https://github.com/thevirtuoso1973)  
 **Created:** 2019 Aug 11 16:09:10 UTC  **Last updated:** 2020 Jan 01 14:53:10 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Music ] [ Entertainment ] [ IoT ] [ Media ]   
 **Tags:** \#music \#linux \#listen \#downloaded   

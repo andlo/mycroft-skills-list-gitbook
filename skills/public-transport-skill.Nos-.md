@@ -28,6 +28,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@Nos-](https://github.com/Nos-)  
 **Created:** 2019 Nov 09 19:46:14 UTC  **Last updated:** 2019 Nov 10 22:50:38 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Transportation ] [ Daily ] [ Information ]   
 **Tags:** \#DVB \#VVO \#Dresden \#ÖPNV \#Sachsen \#Nahverkehr   

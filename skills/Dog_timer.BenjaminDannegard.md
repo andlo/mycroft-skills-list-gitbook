@@ -38,6 +38,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@BenjaminDannegard](https://github.com/BenjaminDannegard)  
 **Created:** 2019 Jan 04 13:46:45 UTC  **Last updated:** 2019 Jan 07 10:09:12 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#timer \#kitchen-timer   

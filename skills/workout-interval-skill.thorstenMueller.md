@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@thorstenMueller](https://github.com/thorstenMueller)  
 **Created:** 2019 Nov 14 20:17:59 UTC  **Last updated:** 2019 Nov 14 20:26:55 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#Workout \#Training \#Interval   

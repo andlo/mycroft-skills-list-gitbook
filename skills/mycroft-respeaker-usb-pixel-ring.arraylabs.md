@@ -29,5 +29,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@arraylabs](https://github.com/arraylabs)  
 **Created:** 2019 Jul 07 17:10:13 UTC  **Last updated:** 2019 Jul 13 15:24:17 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

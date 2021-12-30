@@ -28,6 +28,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2018 Dec 04 12:49:53 UTC  **Last updated:** 2018 Dec 04 12:51:29 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#holidays \#list \#history \#information   

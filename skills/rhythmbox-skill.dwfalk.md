@@ -43,6 +43,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@dwfalk](https://github.com/dwfalk)  
 **Created:** 2019 Feb 18 03:34:21 UTC  **Last updated:** 2020 Jun 17 04:03:24 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#songs \#music \#rhythmbox \#mycroft \#skill \#To \#install: \#~/mycroft-core/bin/mycroft-msm \#install \#https://github.com/dwfalk/rhythmbox-skill   

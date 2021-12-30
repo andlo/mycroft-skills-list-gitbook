@@ -1,16 +1,16 @@
 ---
-description: Mycroft sings lyrics to some popular songs
+description: Recite Quran chapters
 ---
 
 ### _skill-quran.muhareb_  
 ## Description:  
-Mycroft will speak the lyrics to a random pop music song using text to speech.  
+  
   
   
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  
-> Sing.  
+> اقرا سورة النصر بصوت السديس.  
   
 ## Installation:  
 {% hint style="warning" %}
@@ -28,6 +28,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@muhareb](https://github.com/muhareb)  
 **Created:** 2019 Apr 11 06:07:26 UTC  **Last updated:** 2020 Jul 12 13:14:22 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
-**Categories:** [ Entertainment ]   
-**Tags:** \#sing \#singing \#lyrics \#song \#music \#texttospeech   
+  
+**Categories:** [ uncategorized ]   

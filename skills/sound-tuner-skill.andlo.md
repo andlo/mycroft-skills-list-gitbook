@@ -41,6 +41,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@andlo](https://github.com/andlo)  
 **Created:** 2018 Dec 08 20:51:57 UTC  **Last updated:** 2020 Feb 07 22:34:23 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   
 **Tags:** \#sound \#tuner   

@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Drjansson](https://github.com/Drjansson)  
 **Created:** 2020 Jan 08 22:40:08 UTC  **Last updated:** 2020 Jan 24 21:38:28 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

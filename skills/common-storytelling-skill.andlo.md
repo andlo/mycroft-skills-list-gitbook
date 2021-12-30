@@ -36,6 +36,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@andlo](https://github.com/andlo)  
 **Created:** 2019 Feb 17 14:09:54 UTC  **Last updated:** 2019 Feb 18 20:58:47 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#stories \#story \#tales \#fairy \#fairytale \#fairytales \#common-storytelling   

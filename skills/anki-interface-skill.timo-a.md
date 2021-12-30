@@ -42,6 +42,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@timo-a](https://github.com/timo-a)  
 **Created:** 2019 Dec 11 23:34:58 UTC  **Last updated:** 2020 Jul 08 16:10:18 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Productivity ]   
 **Tags:** \#Spaced \#repetition \#Vocab \#Learning   

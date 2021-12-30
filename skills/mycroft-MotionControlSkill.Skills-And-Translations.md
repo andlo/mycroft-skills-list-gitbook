@@ -18,5 +18,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@Skills-And-Translations](https://github.com/Skills-And-Translations)  
 **Created:** 2017 May 30 00:33:16 UTC  **Last updated:** 2017 Jun 10 19:40:57 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

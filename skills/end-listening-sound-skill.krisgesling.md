@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@krisgesling](https://github.com/krisgesling)  
 **Created:** 2020 Jan 07 07:31:44 UTC  **Last updated:** 2020 Jan 07 07:55:59 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1158 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1158 ] [ new ] [ needs validation ]  
 **Categories:** [ Configuration ]   
 **Tags:** \#System \#Microphone   

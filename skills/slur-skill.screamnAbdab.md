@@ -33,5 +33,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@screamnAbdab](https://github.com/screamnAbdab)  
 **Created:** 2020 Mar 14 18:16:17 UTC  **Last updated:** 2020 Mar 14 18:19:25 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   

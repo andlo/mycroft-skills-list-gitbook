@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@solograyhat](https://github.com/solograyhat)  
 **Created:** 2018 Sep 23 21:04:48 UTC  **Last updated:** 2018 Sep 23 21:04:58 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#personality \#persona   

@@ -6,7 +6,9 @@ description:
 ## Description:  
 Stoner Doom for mycroft
 
-![](./gui.png)  
+![](./gui.png)
+![](./gui.gif)
+![](./gui2.gif)  
   
   
 ### Platform:  
@@ -31,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@JarbasSkills](https://github.com/JarbasSkills)  
 **Created:** 2020 Oct 22 03:11:43 UTC  **Last updated:** 2020 Oct 22 03:12:47 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#music \#doom \#video \#entertainment   

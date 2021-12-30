@@ -143,5 +143,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
 **Created:** 2017 Nov 26 15:48:44 UTC  **Last updated:** 2019 May 10 00:51:51 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

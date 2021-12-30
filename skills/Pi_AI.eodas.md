@@ -48,6 +48,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@eodas](https://github.com/eodas)  
 **Created:** 2020 Jul 25 16:51:40 UTC  **Last updated:** 2020 Sep 27 14:51:13 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#IoT \#GPIO \#RPi   

@@ -29,6 +29,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@nsevinc](https://github.com/nsevinc)  
 **Created:** 2020 Jan 29 07:33:12 UTC  **Last updated:** 2020 Jan 29 07:33:19 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   
 **Tags:** \#Telegram \#Telegram \#bot   

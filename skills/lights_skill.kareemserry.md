@@ -33,5 +33,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@kareemserry](https://github.com/kareemserry)  
 **Created:** 2020 Aug 26 14:41:51 UTC  **Last updated:** 2020 Aug 26 14:47:50 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   

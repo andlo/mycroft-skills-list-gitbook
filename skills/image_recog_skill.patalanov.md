@@ -26,5 +26,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@patalanov](https://github.com/patalanov)  
 **Created:** 2018 Feb 27 01:06:09 UTC  **Last updated:** 2020 Jan 15 22:54:15 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

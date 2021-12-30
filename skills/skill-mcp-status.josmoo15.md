@@ -33,6 +33,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@josmoo15](https://github.com/josmoo15)  
 **Created:** 2018 Dec 10 17:00:15 UTC  **Last updated:** 2018 Dec 10 19:53:21 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#helloworld \#first-skill \#hello \#greeting   

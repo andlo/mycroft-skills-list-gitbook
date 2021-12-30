@@ -45,6 +45,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@BrianArch96](https://github.com/BrianArch96)  
 **Created:** 2018 Sep 28 10:05:40 UTC  **Last updated:** 2019 Mar 25 14:34:12 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Configuration ] [ Information ]   
 **Tags:** \#student \#college \#limerick \#university \#timetable   

@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@krisgesling](https://github.com/krisgesling)  
 **Created:** 2020 Oct 08 11:33:36 UTC  **Last updated:** 2020 Oct 08 12:47:32 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   

@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@zanderWK](https://github.com/zanderWK)  
 **Created:** 2020 May 03 03:08:23 UTC  **Last updated:** 2020 May 03 03:12:44 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

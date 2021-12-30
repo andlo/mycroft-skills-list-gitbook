@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@b4ldr](https://github.com/b4ldr)  
 **Created:** 2020 Aug 30 15:41:52 UTC  **Last updated:** 2020 Aug 30 16:54:27 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Music ]   

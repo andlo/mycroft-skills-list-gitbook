@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@camuthig](https://github.com/camuthig)  
 **Created:** 2018 Jan 13 22:18:57 UTC  **Last updated:** 2020 Jan 02 17:40:08 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

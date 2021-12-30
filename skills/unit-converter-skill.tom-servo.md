@@ -21,6 +21,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@tom-servo](https://github.com/tom-servo)  
 **Created:** 2019 Jun 24 03:28:50 UTC  **Last updated:** 2019 Jun 26 20:01:26 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ] [ Productivity ]   
 **Tags:** \#Units \#Conversion   

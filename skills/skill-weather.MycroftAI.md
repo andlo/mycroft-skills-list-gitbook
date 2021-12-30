@@ -1,17 +1,17 @@
 ---
-description: Weather conditions and forecasts
+description: Weather conditions and forecasts  !Code style black
 ---
 
 ### _skill-weather.MycroftAI_  
 ## Description:  
-Get weather conditions, forecasts, expected precipitation and more!  By default it will tell
-you about your default location, or you can ask for other cities around the world.
+Get weather conditions, forecasts, expected precipitation and more!  By default, it will tell
+you about your device's configured location. You can also ask for other cities around the world.
 
 Current conditions and weather forecasts come from [Open Weather Map](https://openweathermap.org).
 
-For **enclosures** with screen support, conditions are briefly shown using visemes.
-
-The temperature is shown in Celsius or Fahrenheit depending on the preferences set in your [https://home.mycroft.ai](https://home.mycroft.ai) account.  
+The temperature is shown in Celsius or Fahrenheit depending on the preferences
+set in your [https://home.mycroft.ai](https://home.mycroft.ai) account.  You can ask
+specifically for a unit that differs from your configuration.  
   
 ![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)![](../.gitbook/assets/star.png)  
   
@@ -19,14 +19,22 @@ The temperature is shown in Celsius or Fahrenheit depending on the preferences s
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  
 > What is the weather?  
-> What is the forecast tomorrow?  
-> What is the weather going to be like Tuesday?  
 > What is the weather in Houston?  
+> What is the forecast tomorrow?  
+> What is the forecast in London tomorrow?  
+> What is the weather going to be like Tuesday?  
+> What is the weather for the next three days?  
+> What is the weather this weekend?  
+> What's the temperature?  
+> What's the temperature in Paris tomorrow in Celsius?  
+> What's the high temperature tomorrow?  
+> Will it be cold on Tuesday.  
 > When will it rain next?  
 > How windy is it?  
 > What's the humidity?  
 > Is it going to snow?  
-> What's the temperature?  
+> Is it going to snow in Baltimore?  
+> When is the sunset?  
   
 ## Installation:  
 {% hint style="info" %}

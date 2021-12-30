@@ -1,5 +1,5 @@
 ---
-description: Returns sunmoon set or rise times for the given coordinates
+description: Returns sunset or sunrise times for the given coordinates
 ---
 
 ### _sunrise-sunset-skill.tobus3000_  
@@ -16,27 +16,17 @@ All times and events are being calculated locally.
 > When does the sun rise?  
 > Sunset today.  
 > Sunrise today.  
-> Moonrise today.  
 > Sunset.  
-> Moonset.  
 > Sunrise.  
-> Moonrise.  
 > When does the sun appear?  
-> When does the moon appear?  
 > What time does the sun set today?  
 > What time does the sun set in a week?  
-> What time does the moon set today?  
 > What time does the sun rise today?  
 > What time does the sun rise in a week?  
-> What time does the moon rise tonight?  
 > Sunset time.  
-> Moonset time.  
 > Sunrise time.  
-> Moonrise time.  
 > When does the sun disappear in the evening?  
-> When does the moon disappear in the morning?  
 > When does the sun appear in the morning?  
-> When does the moon appear in the evening?  
 > ...  
   
 ## Installation:  
@@ -55,6 +45,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@tobus3000](https://github.com/tobus3000)  
 **Created:** 2020 Feb 22 16:39:22 UTC  **Last updated:** 2020 Mar 10 20:32:38 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   
-**Tags:** \#Sunrise \#Sunset \#Moonrise \#Moonset   
+**Tags:** \#Sunrise \#Sunset   

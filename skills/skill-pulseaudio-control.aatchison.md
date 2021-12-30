@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@aatchison](https://github.com/aatchison)  
 **Created:** 2017 Apr 06 00:54:21 UTC  **Last updated:** 2017 Oct 16 19:22:56 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   
 **Tags:** \#* \#`listing \#devices \#should \#work \#just \#fine` \#* \#`setting \#devices \#speaks \#the \#device \#that \#was \#set, \#but \#setting \#hasn't \#been \#implemented \#just \#yet`   

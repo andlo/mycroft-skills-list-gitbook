@@ -29,5 +29,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@KirkPatrick2020](https://github.com/KirkPatrick2020)  
 **Created:** 2020 Mar 25 21:29:55 UTC  **Last updated:** 2020 May 29 19:35:23 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ] [ Robots ]   

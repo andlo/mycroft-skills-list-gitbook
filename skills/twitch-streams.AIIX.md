@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2020 Jun 12 11:13:25 UTC  **Last updated:** 2020 Jul 08 07:26:37 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Media ]   
 **Tags:** \#Twitch \#Music \#Video \#VideoStreaming \#AudioStreaming \#LiveStreams \#Media \#GUI   

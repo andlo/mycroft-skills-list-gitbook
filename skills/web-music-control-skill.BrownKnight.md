@@ -39,6 +39,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@BrownKnight](https://github.com/BrownKnight)  
 **Created:** 2020 Apr 30 20:02:42 UTC  **Last updated:** 2020 May 22 22:35:01 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Entertainment ] [ Iot ] [ Music ] [ audio ]   
 **Tags:** \#Apple \#music \#Music \#Web \#Music \#Control   

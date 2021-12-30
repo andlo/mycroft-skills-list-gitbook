@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@smearumi](https://github.com/smearumi)  
 **Created:** 2019 Sep 15 09:22:11 UTC  **Last updated:** 2019 Oct 13 17:37:11 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ] [ Daily ] [ Productivity ]   
 **Tags:** \#mycroft \#skill \#health \#medical \#home \#voice \#assistant   

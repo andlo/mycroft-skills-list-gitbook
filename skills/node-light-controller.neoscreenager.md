@@ -47,5 +47,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@neoscreenager](https://github.com/neoscreenager)  
 **Created:** 2018 May 27 15:23:17 UTC  **Last updated:** 2019 Aug 07 06:08:59 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

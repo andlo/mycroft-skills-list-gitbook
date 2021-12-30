@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@brezuicabogdan](https://github.com/brezuicabogdan)  
 **Created:** 2020 May 01 17:49:55 UTC  **Last updated:** 2020 May 12 18:52:39 UTC  
 **License:** MIT License  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1333 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1333 ] [ new ] [ needs validation ]  
 **Categories:** [ Configuration ] [ Utility ]   
 **Tags:** \#Quiet \#hours \#Auto \#mute \#Schedule   

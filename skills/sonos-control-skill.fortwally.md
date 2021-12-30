@@ -38,6 +38,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@fortwally](https://github.com/fortwally)  
 **Created:** 2018 Jul 19 21:13:47 UTC  **Last updated:** 2020 Aug 10 03:55:03 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Media ]   
 **Tags:** \#Sonos   

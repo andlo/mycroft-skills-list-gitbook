@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@tcanabrava](https://github.com/tcanabrava)  
 **Created:** 2020 Apr 02 18:35:04 UTC  **Last updated:** 2020 Apr 07 17:32:53 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Media ]   
 **Tags:** \#Youtube \#Music \#Video \#VideoStreaming \#AudioStreaming \#BitchuteVideos \#Media \#GUI   

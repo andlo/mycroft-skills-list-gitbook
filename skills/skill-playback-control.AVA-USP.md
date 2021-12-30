@@ -43,6 +43,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AVA-USP](https://github.com/AVA-USP)  
 **Created:** 2020 Apr 02 22:22:14 UTC  **Last updated:** 2020 Jul 02 23:00:20 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Music ]   
 **Tags:** \#music \#play \#playback \#pause \#resume \#next \#system   

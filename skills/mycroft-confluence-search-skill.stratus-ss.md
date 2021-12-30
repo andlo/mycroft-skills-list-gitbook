@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@stratus-ss](https://github.com/stratus-ss)  
 **Created:** 2020 Apr 23 14:32:52 UTC  **Last updated:** 2020 May 08 19:10:59 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   
 **Tags:** \#Confluence \#Search \#Telegram   

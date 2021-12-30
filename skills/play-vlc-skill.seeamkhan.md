@@ -34,6 +34,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@seeamkhan](https://github.com/seeamkhan)  
 **Created:** 2020 Sep 15 03:10:16 UTC  **Last updated:** 2020 Sep 15 04:42:39 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Music ] [ Audio ]   
 **Tags:** \#Music \#Audio \#Vlc \#Local \#music \#play   

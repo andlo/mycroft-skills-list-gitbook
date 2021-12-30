@@ -33,6 +33,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@jimkou](https://github.com/jimkou)  
 **Created:** 2020 May 04 13:04:02 UTC  **Last updated:** 2020 May 06 21:22:14 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ] [ Iot ]   
 **Tags:** \#Raspberry \#Raspberry \#pi \#Information \#System \#Info   

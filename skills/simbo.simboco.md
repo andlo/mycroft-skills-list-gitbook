@@ -36,6 +36,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@simboco](https://github.com/simboco)  
 **Created:** 2020 Feb 18 21:07:09 UTC  **Last updated:** 2020 Feb 26 16:51:20 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ] [ Daily ]   
 **Tags:** \#volume   

@@ -24,6 +24,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@PayloadBae](https://github.com/PayloadBae)  
 **Created:** 2019 Mar 13 00:58:41 UTC  **Last updated:** 2020 May 30 19:50:53 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Music ]   
 **Tags:** \#Emby,Music   

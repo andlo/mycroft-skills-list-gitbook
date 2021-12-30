@@ -33,5 +33,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@hexeratops](https://github.com/hexeratops)  
 **Created:** 2019 May 24 01:51:39 UTC  **Last updated:** 2020 Jul 29 00:30:26 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -40,6 +40,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@smearumi](https://github.com/smearumi)  
 **Created:** 2019 Sep 15 09:20:48 UTC  **Last updated:** 2019 Oct 10 22:27:59 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Information ] [ Productivity ]   
 **Tags:** \#mycroft \#skill \#Islam \#Muslim \#prayer \#time \#home \#voice \#assistant   

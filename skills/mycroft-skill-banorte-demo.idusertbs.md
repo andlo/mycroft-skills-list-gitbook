@@ -34,5 +34,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@idusertbs](https://github.com/idusertbs)  
 **Created:** 2019 Dec 12 19:25:22 UTC  **Last updated:** 2019 Dec 12 20:11:09 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

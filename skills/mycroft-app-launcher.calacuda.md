@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@calacuda](https://github.com/calacuda)  
 **Created:** 2020 Oct 05 21:21:06 UTC  **Last updated:** 2020 Oct 12 07:28:33 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

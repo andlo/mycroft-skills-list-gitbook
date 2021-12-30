@@ -15,16 +15,13 @@ When Mycroft doesn't know something, this fallback skill will look up skills fro
 > ...  
   
 ## Installation:  
-{% hint style="info" %}
-This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill testers
+{% hint style="warning" %}
+This skill is not aproved by Mycroft skill tester.
 {% endhint %}
     
 {% tabs %}
-{% tab title="Install by voice" %}
-> Hey Mycroft - install Skill Recommendations
-{% endtab %}
-  {% tab title="Install by mycroft-msm" %}
-``` mycroft-msm install Skill Recommendations```
+{% tab title="Install by mycroft-msm" %}
+``` mycroft-msm install https://github.com/LinusS1/fallback-recommendations-skill```
 {% endtab %}
   {% endtabs %}
     
@@ -33,6 +30,6 @@ This skill is in Mycroft Market and is thereby aproved by the Mycroft Skill test
 **Owner:** [@LinusS1](https://github.com/LinusS1)  
 **Created:** 2018 Nov 10 00:27:07 UTC  **Last updated:** 2020 Oct 07 16:43:34 UTC  
 **License:** Apache License 2.0  
-**Market status:** [In Market](https://market.mycroft.ai/skill/fallback-recommendations-skill)  
+  
 **Categories:** [ Configuration ] [ Daily ] [ Information ] [ Media ]   
 **Tags:** \#fallback \#dumb \#skills \#search \#find \#find-skill   

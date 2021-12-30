@@ -28,5 +28,5 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 **Owner:** [@eClarity](https://github.com/eClarity)  
 **Created:** 2017 May 19 19:16:38 UTC  **Last updated:** 2017 Sep 15 11:28:24 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

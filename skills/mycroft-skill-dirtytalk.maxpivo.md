@@ -28,5 +28,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@maxpivo](https://github.com/maxpivo)  
 **Created:** 2019 Jun 07 21:30:22 UTC  **Last updated:** 2019 Jun 07 22:16:37 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

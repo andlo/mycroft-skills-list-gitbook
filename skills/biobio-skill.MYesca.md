@@ -24,6 +24,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@MYesca](https://github.com/MYesca)  
 **Created:** 2020 Mar 15 02:13:47 UTC  **Last updated:** 2020 Mar 15 14:24:50 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Iot ]   
 **Tags:** \#Emilia \#Printer   

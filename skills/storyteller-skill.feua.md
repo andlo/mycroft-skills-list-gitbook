@@ -26,6 +26,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@feua](https://github.com/feua)  
 **Created:** 2020 Mar 08 14:14:04 UTC  **Last updated:** 2020 Mar 08 17:19:49 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Entertainment ] [ Media ] [ audio, ] [ daily ]   
 **Tags:** \#Story \#Storytelling \#Storyteller \#Tale \#Tales \#Fable \#Fables   

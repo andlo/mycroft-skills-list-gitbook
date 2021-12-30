@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@stuin](https://github.com/stuin)  
 **Created:** 2018 Jun 01 00:36:09 UTC  **Last updated:** 2018 Jun 01 01:42:19 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

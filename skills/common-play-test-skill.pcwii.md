@@ -18,5 +18,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@pcwii](https://github.com/pcwii)  
 **Created:** 2020 Apr 23 20:24:58 UTC  **Last updated:** 2020 Apr 25 17:07:09 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

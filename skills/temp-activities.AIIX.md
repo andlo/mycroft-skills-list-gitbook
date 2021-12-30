@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2020 Sep 01 09:12:35 UTC  **Last updated:** 2020 Sep 01 09:14:04 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   
 **Tags:** \#desktop \#kde \#activities \#control \#plasma \#switch   

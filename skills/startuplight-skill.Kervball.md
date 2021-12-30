@@ -21,6 +21,6 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 **Owner:** [@Kervball](https://github.com/Kervball)  
 **Created:** 2020 Jul 16 23:00:40 UTC  **Last updated:** 2020 Jul 23 00:01:36 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#Startup \#Mycroft \#Wakeword   

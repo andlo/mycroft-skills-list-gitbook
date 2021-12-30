@@ -26,5 +26,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@DarmainTheDonkey](https://github.com/DarmainTheDonkey)  
 **Created:** 2018 Aug 04 22:09:35 UTC  **Last updated:** 2020 Jun 25 03:54:19 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

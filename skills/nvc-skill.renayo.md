@@ -36,6 +36,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@renayo](https://github.com/renayo)  
 **Created:** 2020 Aug 10 03:39:07 UTC  **Last updated:** 2020 Sep 22 05:49:58 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   
 **Tags:** \#Communication \#Psychology \#Efficiency   

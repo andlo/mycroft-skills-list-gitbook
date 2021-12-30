@@ -44,6 +44,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@andlo](https://github.com/andlo)  
 **Created:** 2020 Jan 02 23:23:00 UTC  **Last updated:** 2020 Jan 03 02:59:39 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1156 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1156 ] [ new ] [ needs validation ]  
 **Categories:** [ Entertainment ]   
 **Tags:** \#fart \#smell \#fun   

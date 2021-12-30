@@ -36,6 +36,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@brezuicabogdan](https://github.com/brezuicabogdan)  
 **Created:** 2020 May 01 10:14:46 UTC  **Last updated:** 2020 May 01 11:12:15 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ] [ Entertainment ] [ Media ] [ Series ] [ Tv ] [ shows ]   
 **Tags:** \#Tv \#Episodes \#Myepisodes.com \#Myepisodes \#Series   

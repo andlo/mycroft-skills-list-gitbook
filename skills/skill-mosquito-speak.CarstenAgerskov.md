@@ -81,5 +81,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@CarstenAgerskov](https://github.com/CarstenAgerskov)  
 **Created:** 2018 Jan 06 09:08:31 UTC  **Last updated:** 2020 Jun 19 09:19:42 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

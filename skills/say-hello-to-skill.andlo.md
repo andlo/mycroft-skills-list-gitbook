@@ -39,6 +39,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@andlo](https://github.com/andlo)  
 **Created:** 2018 Sep 30 08:45:26 UTC  **Last updated:** 2019 Jan 26 19:45:22 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#example   

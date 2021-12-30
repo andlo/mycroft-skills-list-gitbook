@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@rigved](https://github.com/rigved)  
 **Created:** 2017 Oct 22 12:45:49 UTC  **Last updated:** 2020 Sep 30 06:03:08 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   
 **Tags:** \#Summary \#Web \#page \#News   

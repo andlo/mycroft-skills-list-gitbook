@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@ChanceNCounter](https://github.com/ChanceNCounter)  
 **Created:** 2019 Oct 15 01:34:53 UTC  **Last updated:** 2019 Oct 15 20:45:03 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#basic   

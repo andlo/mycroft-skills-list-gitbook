@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@fandonov](https://github.com/fandonov)  
 **Created:** 2018 Dec 29 11:51:10 UTC  **Last updated:** 2018 Dec 30 16:58:32 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

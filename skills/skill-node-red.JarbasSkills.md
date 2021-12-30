@@ -26,5 +26,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@JarbasSkills](https://github.com/JarbasSkills)  
 **Created:** 2018 Jan 27 10:15:07 UTC  **Last updated:** 2020 Oct 09 23:15:13 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

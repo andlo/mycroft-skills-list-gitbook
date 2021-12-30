@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@krisgesling](https://github.com/krisgesling)  
 **Created:** 2019 Aug 28 06:46:33 UTC  **Last updated:** 2020 Jan 22 07:27:07 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#basic   

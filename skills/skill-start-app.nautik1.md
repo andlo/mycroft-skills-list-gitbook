@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@nautik1](https://github.com/nautik1)  
 **Created:** 2018 May 02 20:19:11 UTC  **Last updated:** 2018 May 02 20:32:28 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

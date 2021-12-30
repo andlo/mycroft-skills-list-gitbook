@@ -38,6 +38,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@krisgesling](https://github.com/krisgesling)  
 **Created:** 2019 Apr 19 03:46:49 UTC  **Last updated:** 2020 Jul 09 05:57:00 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#testing   

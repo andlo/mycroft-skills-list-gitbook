@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Nerdenator](https://github.com/Nerdenator)  
 **Created:** 2018 Mar 09 00:28:50 UTC  **Last updated:** 2018 Mar 09 01:36:10 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

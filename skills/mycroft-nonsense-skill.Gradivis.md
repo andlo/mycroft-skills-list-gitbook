@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Gradivis](https://github.com/Gradivis)  
 **Created:** 2019 Sep 06 07:36:40 UTC  **Last updated:** 2019 Sep 06 07:51:36 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

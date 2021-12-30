@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@avimeens](https://github.com/avimeens)  
 **Created:** 2018 May 25 18:13:36 UTC  **Last updated:** 2018 Jun 04 19:14:36 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

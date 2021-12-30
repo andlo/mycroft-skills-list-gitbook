@@ -23,5 +23,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@solograyhat](https://github.com/solograyhat)  
 **Created:** 2018 Sep 23 20:49:44 UTC  **Last updated:** 2018 Sep 23 21:13:55 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

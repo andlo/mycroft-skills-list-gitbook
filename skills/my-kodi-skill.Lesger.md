@@ -58,6 +58,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Lesger](https://github.com/Lesger)  
 **Created:** 2020 May 14 12:16:41 UTC  **Last updated:** 2020 May 14 14:30:09 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Media ]   
 **Tags:** \#'kodi, \#Krypton \#Leia, \#mycroft.ai, \#python, \#skills \#youtube'   

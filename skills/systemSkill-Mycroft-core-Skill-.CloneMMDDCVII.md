@@ -19,5 +19,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@CloneMMDDCVII](https://github.com/CloneMMDDCVII)  
 **Created:** 2017 Mar 30 18:32:40 UTC  **Last updated:** 2020 Sep 26 11:13:57 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@GotTheNumbers](https://github.com/GotTheNumbers)  
 **Created:** 2018 Mar 07 19:17:36 UTC  **Last updated:** 2018 Mar 07 19:19:19 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

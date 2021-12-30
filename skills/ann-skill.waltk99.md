@@ -22,6 +22,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@waltk99](https://github.com/waltk99)  
 **Created:** 2019 Nov 10 19:37:31 UTC  **Last updated:** 2019 Nov 11 01:19:53 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Silly ]   
 **Tags:** \#Parks \#and \#recreation   

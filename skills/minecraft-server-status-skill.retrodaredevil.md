@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@retrodaredevil](https://github.com/retrodaredevil)  
 **Created:** 2019 May 15 15:14:41 UTC  **Last updated:** 2019 May 15 23:01:17 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Information ]   
 **Tags:** \#Minecraft \#Video \#Games   

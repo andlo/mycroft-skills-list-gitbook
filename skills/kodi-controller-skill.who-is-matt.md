@@ -43,5 +43,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@who-is-matt](https://github.com/who-is-matt)  
 **Created:** 2018 Mar 14 00:31:24 UTC  **Last updated:** 2018 Aug 25 15:51:47 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

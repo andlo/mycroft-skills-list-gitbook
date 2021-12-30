@@ -34,6 +34,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Tasty213](https://github.com/Tasty213)  
 **Created:** 2020 May 29 12:27:16 UTC  **Last updated:** 2020 May 29 18:57:11 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Music ] [ Audio ] [ Radio ]   
 **Tags:** \#Bbc, \#radio, \#bbc \#radio   

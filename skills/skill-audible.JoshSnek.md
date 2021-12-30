@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@JoshSnek](https://github.com/JoshSnek)  
 **Created:** 2019 Jan 13 12:00:49 UTC  **Last updated:** 2019 Jan 15 22:18:19 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

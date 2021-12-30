@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@forslund](https://github.com/forslund)  
 **Created:** 2016 Sep 25 11:51:25 UTC  **Last updated:** 2020 Aug 22 04:12:56 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#calendar   

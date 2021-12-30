@@ -25,6 +25,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@wheezardth](https://github.com/wheezardth)  
 **Created:** 2019 Aug 26 21:05:01 UTC  **Last updated:** 2019 Sep 22 19:38:13 UTC  
 **License:** Eclipse Public License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Utilities ]   
 **Tags:** \#clues \#audio \#franzl   

@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@nanshaki](https://github.com/nanshaki)  
 **Created:** 2020 Sep 18 23:10:55 UTC  **Last updated:** 2020 Sep 18 23:11:03 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Media ]   
 **Tags:** \#Book \#reading \#audio \#books   

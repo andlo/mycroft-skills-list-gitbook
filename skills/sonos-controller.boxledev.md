@@ -46,5 +46,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@boxledev](https://github.com/boxledev)  
 **Created:** 2020 Jul 09 11:58:09 UTC  **Last updated:** 2020 Oct 13 17:03:11 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

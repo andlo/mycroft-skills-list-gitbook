@@ -19,5 +19,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@MedChartAI](https://github.com/MedChartAI)  
 **Created:** 2017 Oct 06 00:49:57 UTC  **Last updated:** 2017 Oct 25 05:07:04 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -29,6 +29,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@renayo](https://github.com/renayo)  
 **Created:** 2020 Aug 05 22:43:35 UTC  **Last updated:** 2020 Aug 06 02:20:07 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#Random \#Answer \#Oracle   

@@ -52,6 +52,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@nogre](https://github.com/nogre)  
 **Created:** 2017 Feb 17 18:45:39 UTC  **Last updated:** 2019 Jun 10 21:07:35 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#network \#ping \#utility   

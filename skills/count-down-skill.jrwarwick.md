@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@jrwarwick](https://github.com/jrwarwick)  
 **Created:** 2019 Dec 07 00:01:18 UTC  **Last updated:** 2020 Feb 21 22:00:40 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   
 **Tags:** \#Time   

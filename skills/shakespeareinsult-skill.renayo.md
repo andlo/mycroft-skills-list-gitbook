@@ -28,6 +28,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@renayo](https://github.com/renayo)  
 **Created:** 2020 Aug 11 00:02:19 UTC  **Last updated:** 2020 Aug 11 00:30:22 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#Insult   

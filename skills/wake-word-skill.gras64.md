@@ -36,6 +36,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@gras64](https://github.com/gras64)  
 **Created:** 2019 Jul 26 21:18:14 UTC  **Last updated:** 2020 Aug 28 04:46:37 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ] [ Productivity ]   
 **Tags:** \#Wake \#word   

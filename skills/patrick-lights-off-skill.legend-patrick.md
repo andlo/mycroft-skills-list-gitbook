@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@legend-patrick](https://github.com/legend-patrick)  
 **Created:** 2020 Jul 13 18:18:28 UTC  **Last updated:** 2020 Jul 13 18:18:35 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   

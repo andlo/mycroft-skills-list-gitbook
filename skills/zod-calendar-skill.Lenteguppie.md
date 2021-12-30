@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Lenteguppie](https://github.com/Lenteguppie)  
 **Created:** 2020 Sep 23 08:32:23 UTC  **Last updated:** 2020 Sep 28 11:23:29 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ] [ Information ]   
 **Tags:** \#Google \#calendar \#Calendar   

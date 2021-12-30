@@ -6,9 +6,9 @@ description: Voice assisted package manager
 ## Description:  
 Allows mycroft to manage packages on your computer.
 
-you can search, install, remove and manage your packages with voice commands only using vapm.
+you can search, install, remove and manage your packages with voice commands using vapm.
 
-vapm is built on top of your existing package manager, be it apt, rpm or even snap, flatpak and appimage.  
+vapm is built on top of your existing package manager (i.e. APT).  
   
   
 ### Platform:  
@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@whtecmp](https://github.com/whtecmp)  
 **Created:** 2020 Sep 02 15:10:02 UTC  **Last updated:** 2020 Sep 02 15:11:25 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   
 **Tags:** \#Packages \#Dwa   

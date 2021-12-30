@@ -20,10 +20,15 @@ will scan the device for playable music and add it to a temporary library that y
 > Play all shook up.  
 > Play the song blue suede shoes.  
 > Play the album appeal to reason.  
+> Play music by Elton John.  
+> Play my music.  
+> Play some music.  
+> Play any music.  
 > Update network library.  
 > Update local library.  
 > Update usb library.  
 > Update music library.  
+> Show music library.  
 > Stop.  
   
 {% hint style="danger" %}
@@ -35,6 +40,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@pcwii](https://github.com/pcwii)  
 **Created:** 2020 May 26 19:57:55 UTC  **Last updated:** 2020 Sep 12 00:37:51 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Media ]   
 **Tags:** \#'music, \#usb, \#mycroft.ai, \#python, \#skills, \#mp3, \#m4a, \#flac, \#wav, \#wma, \#aac, \#CPS, \#SMB, \#Local \#'   

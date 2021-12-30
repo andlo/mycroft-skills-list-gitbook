@@ -21,6 +21,6 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 **Owner:** [@elarion83](https://github.com/elarion83)  
 **Created:** 2020 Jul 16 15:43:57 UTC  **Last updated:** 2020 Jul 16 16:16:12 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#stream \#streaming \#audio \#music \#soundcloud   

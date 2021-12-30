@@ -19,5 +19,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@megastruktur](https://github.com/megastruktur)  
 **Created:** 2018 Mar 16 23:22:11 UTC  **Last updated:** 2018 Nov 05 21:32:11 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@HackYourOffice](https://github.com/HackYourOffice)  
 **Created:** 2018 Nov 23 16:50:47 UTC  **Last updated:** 2018 Nov 24 09:36:58 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

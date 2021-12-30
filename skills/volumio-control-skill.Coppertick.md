@@ -28,6 +28,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Coppertick](https://github.com/Coppertick)  
 **Created:** 2020 May 15 19:42:06 UTC  **Last updated:** 2020 May 15 19:42:15 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Music ] [ Audio ]   
 **Tags:** \#Volumio   

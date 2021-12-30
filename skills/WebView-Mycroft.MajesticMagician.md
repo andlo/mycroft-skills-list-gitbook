@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@MajesticMagician](https://github.com/MajesticMagician)  
 **Created:** 2019 Jul 28 03:30:25 UTC  **Last updated:** 2019 Jul 30 03:30:25 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

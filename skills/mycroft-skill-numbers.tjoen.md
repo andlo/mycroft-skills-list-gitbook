@@ -19,5 +19,5 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 **Owner:** [@tjoen](https://github.com/tjoen)  
 **Created:** 2017 Sep 15 15:05:07 UTC  **Last updated:** 2018 Jul 31 05:29:33 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

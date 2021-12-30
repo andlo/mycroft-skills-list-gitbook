@@ -33,6 +33,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@JarbasSkills](https://github.com/JarbasSkills)  
 **Created:** 2020 Jun 14 19:50:19 UTC  **Last updated:** 2020 Jun 23 08:21:20 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#- \#art \#- \#entertainment \#- \#screensaver   

@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@avellent](https://github.com/avellent)  
 **Created:** 2018 Oct 06 17:43:25 UTC  **Last updated:** 2018 Dec 20 18:22:02 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

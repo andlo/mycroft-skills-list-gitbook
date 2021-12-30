@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@gras64](https://github.com/gras64)  
 **Created:** 2019 Apr 17 21:19:16 UTC  **Last updated:** 2019 Apr 17 22:50:58 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Productivity ]   
 **Tags:** \#Repeat   

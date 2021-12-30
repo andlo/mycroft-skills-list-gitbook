@@ -18,5 +18,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@martymulligan](https://github.com/martymulligan)  
 **Created:** 2018 Jun 09 14:23:51 UTC  **Last updated:** 2019 Jul 12 10:49:14 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

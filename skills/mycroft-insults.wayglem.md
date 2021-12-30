@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@wayglem](https://github.com/wayglem)  
 **Created:** 2017 Dec 11 15:41:33 UTC  **Last updated:** 2017 Dec 11 15:41:54 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

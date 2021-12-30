@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@theCalcaholic](https://github.com/theCalcaholic)  
 **Created:** 2017 Nov 07 19:53:51 UTC  **Last updated:** 2018 Aug 19 19:17:55 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -22,6 +22,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@yogi1510](https://github.com/yogi1510)  
 **Created:** 2019 Dec 13 13:21:50 UTC  **Last updated:** 2019 Dec 22 12:33:03 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#navigate \#navigation \#direction   

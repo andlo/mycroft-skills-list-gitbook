@@ -21,6 +21,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@ndato](https://github.com/ndato)  
 **Created:** 2019 Nov 05 05:43:40 UTC  **Last updated:** 2019 Nov 05 05:49:46 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ] [ Testing ]   
 **Tags:** \#Geolocation \#Sample   

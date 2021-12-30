@@ -39,5 +39,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@BongoEADGC6](https://github.com/BongoEADGC6)  
 **Created:** 2017 Mar 04 14:09:02 UTC  **Last updated:** 2018 Jul 02 12:16:07 UTC  
 **License:** GNU Lesser General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@ofosos](https://github.com/ofosos)  
 **Created:** 2017 Nov 11 22:47:05 UTC  **Last updated:** 2018 May 18 06:49:22 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

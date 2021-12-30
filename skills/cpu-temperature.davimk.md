@@ -35,6 +35,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@davimk](https://github.com/davimk)  
 **Created:** 2020 Mar 23 17:28:47 UTC  **Last updated:** 2020 May 05 23:22:01 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   
 **Tags:** \#Cpu \#temperature \#Processor \#temperature \#Thermal_zone0   

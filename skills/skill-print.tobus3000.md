@@ -38,6 +38,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@tobus3000](https://github.com/tobus3000)  
 **Created:** 2020 Aug 15 13:33:54 UTC  **Last updated:** 2020 Sep 06 05:57:55 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   
 **Tags:** \#Print   

@@ -29,5 +29,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@TREE-Ind](https://github.com/TREE-Ind)  
 **Created:** 2017 Oct 20 19:47:39 UTC  **Last updated:** 2017 Oct 27 14:20:19 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

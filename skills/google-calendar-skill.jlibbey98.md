@@ -33,5 +33,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@jlibbey98](https://github.com/jlibbey98)  
 **Created:** 2020 May 21 19:33:55 UTC  **Last updated:** 2020 May 21 19:34:35 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ] [ Daily ]   

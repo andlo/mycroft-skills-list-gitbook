@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@makeworld-the-better-one](https://github.com/makeworld-the-better-one)  
 **Created:** 2018 Dec 22 17:57:43 UTC  **Last updated:** 2019 Jan 13 20:16:07 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   
 **Tags:** \#news \#reddit \#headlines   

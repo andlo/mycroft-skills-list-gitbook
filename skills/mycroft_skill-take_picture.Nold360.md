@@ -26,5 +26,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Nold360](https://github.com/Nold360)  
 **Created:** 2017 Feb 27 07:53:56 UTC  **Last updated:** 2018 Apr 17 10:00:32 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

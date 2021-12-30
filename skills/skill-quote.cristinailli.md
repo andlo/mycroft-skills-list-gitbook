@@ -21,5 +21,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@cristinailli](https://github.com/cristinailli)  
 **Created:** 2017 Nov 09 20:27:20 UTC  **Last updated:** 2017 Nov 12 11:52:36 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

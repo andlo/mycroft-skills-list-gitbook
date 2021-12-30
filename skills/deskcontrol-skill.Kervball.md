@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@Kervball](https://github.com/Kervball)  
 **Created:** 2020 Jun 27 03:52:43 UTC  **Last updated:** 2020 Jul 22 23:39:23 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#Gpio \#mycoft-skill \#mycroft-gpio \#simple-skill \#Light \#control   

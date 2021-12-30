@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@yo5bdm](https://github.com/yo5bdm)  
 **Created:** 2020 Jan 30 18:59:37 UTC  **Last updated:** 2020 Feb 01 14:12:33 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ] [ Daily ]   
 **Tags:** \#Stop \#Shutdown \#Sleep   

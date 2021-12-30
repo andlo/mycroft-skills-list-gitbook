@@ -56,5 +56,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@merspieler](https://github.com/merspieler)  
 **Created:** 2018 Mar 09 15:56:12 UTC  **Last updated:** 2018 Dec 25 07:15:28 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

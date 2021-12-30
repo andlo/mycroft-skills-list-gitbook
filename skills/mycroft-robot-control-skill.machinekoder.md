@@ -34,6 +34,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@machinekoder](https://github.com/machinekoder)  
 **Created:** 2019 Aug 20 10:10:39 UTC  **Last updated:** 2020 May 16 18:05:22 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#helloworld \#first-skill \#hello \#greeting   

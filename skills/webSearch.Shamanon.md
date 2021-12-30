@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Shamanon](https://github.com/Shamanon)  
 **Created:** 2018 Aug 11 22:11:00 UTC  **Last updated:** 2020 Mar 14 21:31:02 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -29,6 +29,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2020 Jul 03 07:53:58 UTC  **Last updated:** 2020 Jul 03 11:18:33 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Media ]   
 **Tags:** \#SkyNews \#Music \#Video \#VideoStreaming \#AudioStreaming \#LiveStreams \#Media \#GUI   

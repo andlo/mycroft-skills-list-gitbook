@@ -6,7 +6,8 @@ description:
 ## Description:  
 Extensive library of Black Metal music for mycroft
 
-![](gui.png)  
+![](gui.png)
+![](gui.gif)  
   
   
 ### Platform:  
@@ -29,8 +30,8 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/JarbasSkills/skill-trve-kvlt](https://github.com/JarbasSkills/skill-trve-kvlt)  
 **Owner:** [@JarbasSkills](https://github.com/JarbasSkills)  
-**Created:** 2020 Oct 22 02:53:13 UTC  **Last updated:** 2020 Oct 22 03:01:14 UTC  
+**Created:** 2020 Oct 22 02:53:13 UTC  **Last updated:** 2020 Oct 27 02:57:27 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#music \#black-metal \#video \#entertainment   

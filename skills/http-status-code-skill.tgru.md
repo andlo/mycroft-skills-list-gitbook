@@ -29,5 +29,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@tgru](https://github.com/tgru)  
 **Created:** 2020 Apr 06 16:59:59 UTC  **Last updated:** 2020 May 01 18:37:22 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ] [ Productivity ]   

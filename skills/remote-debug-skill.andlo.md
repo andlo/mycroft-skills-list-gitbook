@@ -1,10 +1,10 @@
 ---
-description: Enable PTVSD - Python Tools for Visual Studio debug server
+description: Enable Debugpy - Visual Studio Python debug server
 ---
 
 ### _remote-debug-skill.andlo_  
 ## Description:  
-This skill adds PTVSD - Python Tools for Visual Studio debug server to make it posible to
+This skill adds Debugpy - Visual Studio Python debug server to make it posible to
 debug running skills.
 It is made as a companion to the THEIA IDE skill to enable debugging from there. But if you
 use another IDE like VS Code you can use this skill to inject the debug adaptor in the
@@ -39,12 +39,12 @@ remote attach setting in launch.json
 ### Platform:  
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  
-> Start (remote|ptvsd|) debug adaptor.  
-> Enable (remote|ptvsd|) debug adaptor.  
-> Run (remote|ptvsd|) debug adaptor.  
-> Stop (remote|ptvsd|) debug adaptor.  
-> Exit (remote|ptvsd|) debug adaptor.  
-> End (remote|ptvsd|) debug adaptor.  
+> Start (remote|ptvsd|debugpy|) debug adaptor.  
+> Enable (remote|ptvsd|debugpy|) debug adaptor.  
+> Run (remote|ptvsd|debugpy|) debug adaptor.  
+> Stop (remote|ptvsd|debugpy|) debug adaptor.  
+> Exit (remote|ptvsd|debugpy|) debug adaptor.  
+> End (remote|ptvsd|debugpy|) debug adaptor.  
   
 ## Installation:  
 {% hint style="warning" %}
@@ -62,6 +62,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@andlo](https://github.com/andlo)  
 **Created:** 2020 Jan 01 14:22:26 UTC  **Last updated:** 2020 Feb 27 21:57:10 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1194 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1194 ] [ new ] [ needs validation ]  
 **Categories:** [ Productivity ]   
 **Tags:** \#VSCode \#Code \#debug \#debugging \#THEIA \#ptvsd \#IDE   

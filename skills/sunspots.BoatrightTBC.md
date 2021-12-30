@@ -18,5 +18,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@BoatrightTBC](https://github.com/BoatrightTBC)  
 **Created:** 2017 Mar 18 04:37:17 UTC  **Last updated:** 2017 Mar 18 05:42:31 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

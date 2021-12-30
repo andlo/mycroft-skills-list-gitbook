@@ -35,6 +35,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@domcross](https://github.com/domcross)  
 **Created:** 2020 Jan 06 08:44:50 UTC  **Last updated:** 2020 Jan 07 21:19:32 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#Debug \#Loglevel \#Verbosity \#Cli   

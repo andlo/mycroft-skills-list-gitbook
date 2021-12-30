@@ -25,5 +25,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@akailash](https://github.com/akailash)  
 **Created:** 2017 Jul 18 00:38:39 UTC  **Last updated:** 2017 Jul 20 03:25:25 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -53,5 +53,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@stratus-ss](https://github.com/stratus-ss)  
 **Created:** 2020 May 06 23:15:21 UTC  **Last updated:** 2020 May 12 11:42:30 UTC  
 **License:** GNU Lesser General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

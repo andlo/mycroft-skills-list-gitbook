@@ -45,5 +45,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@reginaneon](https://github.com/reginaneon)  
 **Created:** 2018 Jun 01 22:33:50 UTC  **Last updated:** 2018 Nov 16 19:15:08 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

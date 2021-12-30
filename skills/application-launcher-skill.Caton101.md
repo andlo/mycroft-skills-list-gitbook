@@ -45,6 +45,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Caton101](https://github.com/Caton101)  
 **Created:** 2020 May 21 06:46:23 UTC  **Last updated:** 2020 Jul 15 16:49:58 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1337 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1337 ] [ new ] [ needs validation ]  
 **Categories:** [ Productivity ] [ Daily ]   
 **Tags:** \#Linux \#Launcher \#Terminal \#Program   

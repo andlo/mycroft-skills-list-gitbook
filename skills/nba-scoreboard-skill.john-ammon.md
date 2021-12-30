@@ -24,6 +24,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@john-ammon](https://github.com/john-ammon)  
 **Created:** 2019 Nov 15 21:35:01 UTC  **Last updated:** 2020 May 24 19:22:14 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#Nba \#Basketball   

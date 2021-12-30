@@ -23,5 +23,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@eyecreate](https://github.com/eyecreate)  
 **Created:** 2018 Nov 20 17:03:24 UTC  **Last updated:** 2018 Nov 20 17:04:39 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

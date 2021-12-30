@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@MycroftAI](https://github.com/MycroftAI)  
 **Created:** 2019 Feb 26 01:42:23 UTC  **Last updated:** 2020 Oct 06 00:37:11 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1032 ] [ block or hold ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1032 ] [ new ] [ block or hold ]  
 **Categories:** [ IoT ]   
 **Tags:** \#system \#iot   

@@ -24,6 +24,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@krisgesling](https://github.com/krisgesling)  
 **Created:** 2019 Jun 20 02:25:51 UTC  **Last updated:** 2019 Jun 20 03:03:27 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Examples ]   
 **Tags:** \#example \#regex \#adapt   

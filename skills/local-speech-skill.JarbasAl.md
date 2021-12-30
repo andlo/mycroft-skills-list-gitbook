@@ -27,6 +27,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@JarbasAl](https://github.com/JarbasAl)  
 **Created:** 2019 Jun 06 15:14:27 UTC  **Last updated:** 2020 Jul 21 11:26:56 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#offline \#STT \#mic   

@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@gravesjohnr](https://github.com/gravesjohnr)  
 **Created:** 2020 Jun 15 15:48:44 UTC  **Last updated:** 2020 Jun 15 15:48:51 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ] [ Daily ] [ Productivity ]   
 **Tags:** \#Webpage \#browser \#display   

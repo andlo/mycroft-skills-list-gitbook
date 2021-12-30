@@ -25,5 +25,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@roadriverrail](https://github.com/roadriverrail)  
 **Created:** 2018 Jan 03 15:07:19 UTC  **Last updated:** 2020 Jul 05 01:41:26 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

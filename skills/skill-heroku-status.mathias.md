@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@mathias](https://github.com/mathias)  
 **Created:** 2018 Mar 01 22:50:45 UTC  **Last updated:** 2018 Dec 12 16:33:21 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

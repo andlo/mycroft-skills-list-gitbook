@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@smearumi](https://github.com/smearumi)  
 **Created:** 2019 Jan 11 11:22:37 UTC  **Last updated:** 2019 Oct 10 17:20:52 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ] [ Daily ] [ Productivity ]   
 **Tags:** \#mycroft \#skill \#dictionary \#home \#voice \#assistant   

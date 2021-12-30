@@ -43,6 +43,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@algoruin](https://github.com/algoruin)  
 **Created:** 2020 Jun 05 06:02:17 UTC  **Last updated:** 2020 Jun 05 06:04:40 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Music ]   
 **Tags:** \#music \#play \#playback \#pause \#resume \#next \#system   

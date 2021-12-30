@@ -25,6 +25,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@davimk](https://github.com/davimk)  
 **Created:** 2020 May 11 18:06:49 UTC  **Last updated:** 2020 Sep 06 18:57:52 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#Led \#ring \#Matrix \#voice \#everloop \#Everloop   

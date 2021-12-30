@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@samtherussell](https://github.com/samtherussell)  
 **Created:** 2020 May 03 17:13:20 UTC  **Last updated:** 2020 Jun 01 14:07:38 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#Tesla \#Powerwall \#Battery   

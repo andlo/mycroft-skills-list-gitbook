@@ -29,6 +29,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@SamHarris2020](https://github.com/SamHarris2020)  
 **Created:** 2020 Jul 15 09:24:44 UTC  **Last updated:** 2020 Oct 19 12:58:58 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#ozone \#uv \#index \#aqi \#air \#quality \#index \#Safety   

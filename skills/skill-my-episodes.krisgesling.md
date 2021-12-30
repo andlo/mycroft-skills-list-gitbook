@@ -34,6 +34,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@krisgesling](https://github.com/krisgesling)  
 **Created:** 2019 Apr 13 05:55:37 UTC  **Last updated:** 2020 May 01 11:10:19 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ] [ Entertainment ]   
 **Tags:** \#tv \#episodes \#myepisodes.com \#series   

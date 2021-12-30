@@ -29,6 +29,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Peyos](https://github.com/Peyos)  
 **Created:** 2020 Apr 17 12:35:01 UTC  **Last updated:** 2020 May 18 18:53:46 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   
 **Tags:** \#Computer \#Boot \#Wake \#on \#lan   

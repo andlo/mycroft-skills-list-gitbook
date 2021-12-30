@@ -55,6 +55,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Fantailed](https://github.com/Fantailed)  
 **Created:** 2018 Nov 26 21:57:05 UTC  **Last updated:** 2018 Nov 29 15:35:16 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Daily ]   
 **Tags:** \#\chatbot \#\aiml \#\aiml2.0   

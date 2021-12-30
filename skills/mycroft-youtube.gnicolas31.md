@@ -40,6 +40,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@gnicolas31](https://github.com/gnicolas31)  
 **Created:** 2020 Jun 30 15:54:32 UTC  **Last updated:** 2020 Jul 04 01:56:44 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#stream \#streaming \#audio \#music \#youtube   

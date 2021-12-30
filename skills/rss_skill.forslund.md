@@ -23,5 +23,5 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 **Owner:** [@forslund](https://github.com/forslund)  
 **Created:** 2017 Mar 29 19:16:53 UTC  **Last updated:** 2017 Jul 17 06:58:53 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

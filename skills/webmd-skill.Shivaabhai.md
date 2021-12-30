@@ -38,6 +38,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Shivaabhai](https://github.com/Shivaabhai)  
 **Created:** 2019 Mar 10 09:16:40 UTC  **Last updated:** 2019 Dec 19 02:53:34 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   
 **Tags:** \#wikipedia \#encyclopedia \#general-knowledge \#wiki \#question \#query   

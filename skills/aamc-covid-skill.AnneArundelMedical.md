@@ -28,5 +28,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AnneArundelMedical](https://github.com/AnneArundelMedical)  
 **Created:** 2020 Jul 06 01:19:42 UTC  **Last updated:** 2020 Oct 08 11:59:05 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   

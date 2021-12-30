@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@laurapalmerstolemyheart](https://github.com/laurapalmerstolemyheart)  
 **Created:** 2019 Nov 06 04:05:06 UTC  **Last updated:** 2019 Nov 06 04:05:13 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1119 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1119 ] [ new ] [ needs validation ]  
 **Categories:** [ Entertainment ] [ Daily ] [ Information ]   
 **Tags:** \#powerball \#lottery \#lotto   

@@ -21,5 +21,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@S-STEM-Team-5](https://github.com/S-STEM-Team-5)  
 **Created:** 2020 Feb 04 20:51:23 UTC  **Last updated:** 2020 Mar 09 03:44:36 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

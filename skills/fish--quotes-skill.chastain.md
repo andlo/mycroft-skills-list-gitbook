@@ -31,5 +31,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@chastain](https://github.com/chastain)  
 **Created:** 2020 Apr 19 16:49:55 UTC  **Last updated:** 2020 Apr 19 22:44:17 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Information ]   

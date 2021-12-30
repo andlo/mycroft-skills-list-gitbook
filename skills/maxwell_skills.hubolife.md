@@ -36,6 +36,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@hubolife](https://github.com/hubolife)  
 **Created:** 2019 Feb 11 09:42:47 UTC  **Last updated:** 2019 Feb 11 13:33:20 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   
 **Tags:** \#altsearch \#acronym \#catagory   

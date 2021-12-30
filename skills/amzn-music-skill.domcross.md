@@ -46,6 +46,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@domcross](https://github.com/domcross)  
 **Created:** 2018 Dec 15 15:59:03 UTC  **Last updated:** 2020 Oct 07 06:22:38 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Music ]   
 **Tags:** \#amzn \#music   

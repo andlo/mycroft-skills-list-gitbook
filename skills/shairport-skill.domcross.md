@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@domcross](https://github.com/domcross)  
 **Created:** 2019 Dec 13 13:32:49 UTC  **Last updated:** 2020 Feb 28 23:44:11 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Music ] [ Audio ]   
 **Tags:** \#Airport   

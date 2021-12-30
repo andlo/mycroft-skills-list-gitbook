@@ -29,6 +29,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@paccolamano](https://github.com/paccolamano)  
 **Created:** 2020 Sep 20 10:16:29 UTC  **Last updated:** 2020 Sep 20 10:16:37 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ] [ Productivity ]   
 **Tags:** \#Git \#Developer \#Dev \#Code   

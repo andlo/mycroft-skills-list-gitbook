@@ -28,6 +28,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@krisgesling](https://github.com/krisgesling)  
 **Created:** 2020 Sep 09 00:29:33 UTC  **Last updated:** 2020 Sep 09 00:29:42 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#Example \#Tutorial \#Interaction \#Prompts   

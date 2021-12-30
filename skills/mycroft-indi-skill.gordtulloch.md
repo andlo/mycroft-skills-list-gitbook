@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@gordtulloch](https://github.com/gordtulloch)  
 **Created:** 2019 Dec 11 22:05:28 UTC  **Last updated:** 2019 Dec 11 22:05:35 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#Astronomy \#telescope \#indi   

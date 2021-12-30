@@ -28,5 +28,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@basiliskAI](https://github.com/basiliskAI)  
 **Created:** 2018 Dec 01 05:36:02 UTC  **Last updated:** 2018 Dec 01 05:36:08 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

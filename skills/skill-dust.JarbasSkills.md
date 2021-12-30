@@ -4,9 +4,10 @@ description:
 
 ### _skill-dust.JarbasSkills_  
 ## Description:  
-Dust short science fiction movies for mycroft
+Dust short science fiction movies for Mycroft
 
-![](./gui.png)  
+![](./gui.png)
+![](./gui2.png)  
   
   
 ### Platform:  
@@ -30,8 +31,8 @@ This skill is not aproved by Mycroft skill tester.
 ## Summary:  
 **Github:** [https://github.com/JarbasSkills/skill-dust](https://github.com/JarbasSkills/skill-dust)  
 **Owner:** [@JarbasSkills](https://github.com/JarbasSkills)  
-**Created:** 2020 Oct 22 03:03:17 UTC  **Last updated:** 2020 Oct 22 03:13:02 UTC  
+**Created:** 2020 Oct 22 03:03:17 UTC  **Last updated:** 2020 Oct 27 02:21:32 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#scifi \#shortfilms \#video \#entertainment   

@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Mycroft-Bavarian-Team](https://github.com/Mycroft-Bavarian-Team)  
 **Created:** 2020 Mar 20 13:07:42 UTC  **Last updated:** 2020 Mar 20 13:07:56 UTC  
 **License:** GNU Lesser General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

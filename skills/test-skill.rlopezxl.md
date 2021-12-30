@@ -25,5 +25,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@rlopezxl](https://github.com/rlopezxl)  
 **Created:** 2017 May 02 06:43:47 UTC  **Last updated:** 2017 May 02 07:09:28 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -1,10 +1,13 @@
 ---
-description: Plays an audiobook to help you sleep
+description: Plays a local audio file to help you sleep
 ---
 
 ### _sleepy-time-skill.blimyj_  
 ## Description:  
-When activated it will play an audiobook to help you sleep.  
+When activated it will play a local audio file to help you sleep.
+Automatically pauses when Mycroft is listening or speaking and resumes after Mycroft is done.
+Saves last played position so you can resume without having to remember where you last stopped!
+This is especially useful if you are playing an audiobook.  
   
   
 ### Platform:  
@@ -13,6 +16,8 @@ When activated it will play an audiobook to help you sleep.
 > Help me sleep.  
 > Time to sleep.  
 > I'm going to bed.  
+> Stop reading.  
+> Continue reading.  
   
 ## Installation:  
 {% hint style="warning" %}
@@ -30,5 +35,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@blimyj](https://github.com/blimyj)  
 **Created:** 2020 Jul 09 06:54:50 UTC  **Last updated:** 2020 Jul 14 20:41:33 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ]   

@@ -34,5 +34,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@retrodaredevil](https://github.com/retrodaredevil)  
 **Created:** 2019 Mar 24 21:37:56 UTC  **Last updated:** 2019 Dec 19 02:51:51 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

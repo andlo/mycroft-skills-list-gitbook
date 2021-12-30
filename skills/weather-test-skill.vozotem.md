@@ -18,5 +18,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@vozotem](https://github.com/vozotem)  
 **Created:** 2019 Jun 03 09:19:57 UTC  **Last updated:** 2019 Aug 07 12:18:06 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

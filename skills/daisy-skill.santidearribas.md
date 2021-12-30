@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@santidearribas](https://github.com/santidearribas)  
 **Created:** 2020 Apr 08 16:48:53 UTC  **Last updated:** 2020 May 18 18:27:45 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   

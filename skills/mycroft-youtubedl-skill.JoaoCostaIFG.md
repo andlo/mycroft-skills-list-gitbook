@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@JoaoCostaIFG](https://github.com/JoaoCostaIFG)  
 **Created:** 2020 Feb 06 04:13:27 UTC  **Last updated:** 2020 May 30 13:44:15 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Music ] [ Audio ] [ Entertainment ] [ Media ]   
 **Tags:** \#Youtube \#Music   

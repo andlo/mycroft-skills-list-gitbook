@@ -28,6 +28,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@jkemm](https://github.com/jkemm)  
 **Created:** 2020 May 12 07:06:11 UTC  **Last updated:** 2020 Jul 09 15:40:05 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ] [ 0 ] [ = ] [ Adapt ] [ By ] [ Connector. ] [ In ] [ Input ] [ Intent ] [ Lucene ] [ Lucene ] [ Parser ] [ Process ] [ To ] [ To ] [ a ] [ added ] [ addition ] [ and ] [ be. ] [ can ] [ change ] [ changing ] [ compare ] [ enhance ] [ entities ] [ entity ] [ graphDBConnector.py ] [ have ] [ how ] [ if ] [ in ] [ is ] [ max ] [ means ] [ module ] [ multiple ] [ name ] [ needed. ] [ no ] [ queries ] [ returns ] [ search ] [ similar ] [ similarity ] [ sparql ] [ string ] [ term ] [ the ] [ the ] [ the ] [ the ] [ the ] [ the ] [ the ] [ the ] [ to ] [ tolerance ] [ tolerance ] [ used ] [ used. ] [ value ] [ value. ] [ was ] [ we ] [ we ] [ with ] [ you ]   
 **Tags:** \#Version \#This \#version \#was \#tested \#with \#the \#graphDb \#version \#of \#7.07.2020   

@@ -28,5 +28,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@hayatae](https://github.com/hayatae)  
 **Created:** 2020 Apr 19 19:06:02 UTC  **Last updated:** 2020 Apr 22 03:12:58 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   

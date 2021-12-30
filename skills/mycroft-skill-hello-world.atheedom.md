@@ -32,5 +32,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@atheedom](https://github.com/atheedom)  
 **Created:** 2019 Sep 01 11:02:26 UTC  **Last updated:** 2019 Sep 01 11:24:51 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@jrwarwick](https://github.com/jrwarwick)  
 **Created:** 2020 May 21 01:56:18 UTC  **Last updated:** 2020 May 21 01:56:26 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ]   
 **Tags:** \#Terraria, \#lan, \#games   

@@ -24,5 +24,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@NeonGeckoCom](https://github.com/NeonGeckoCom)  
 **Created:** 2017 Nov 10 21:24:39 UTC  **Last updated:** 2017 Nov 10 21:39:18 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

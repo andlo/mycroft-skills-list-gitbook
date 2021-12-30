@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@gravesjohnr](https://github.com/gravesjohnr)  
 **Created:** 2020 Jun 08 22:15:45 UTC  **Last updated:** 2020 Jun 25 15:51:33 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   
 **Tags:** \#Todoist \#Wunderlist \#List \#manager   

@@ -29,5 +29,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@BugHunterPhilosopher](https://github.com/BugHunterPhilosopher)  
 **Created:** 2018 Jun 23 18:39:01 UTC  **Last updated:** 2019 Nov 29 21:15:23 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -55,6 +55,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Mel1818](https://github.com/Mel1818)  
 **Created:** 2019 Sep 04 12:50:47 UTC  **Last updated:** 2019 Sep 04 18:30:58 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Music ]   
 **Tags:** \#spotify \#music   

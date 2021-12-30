@@ -19,5 +19,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@ElliotTheRobot](https://github.com/ElliotTheRobot)  
 **Created:** 2016 Jul 15 15:09:23 UTC  **Last updated:** 2017 Apr 05 12:04:00 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -32,6 +32,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@KotieSmit](https://github.com/KotieSmit)  
 **Created:** 2020 Sep 03 13:54:27 UTC  **Last updated:** 2020 Sep 04 20:49:41 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#Remote \#Ir \#Tv \#Ir-remote \#Universal \#remote   

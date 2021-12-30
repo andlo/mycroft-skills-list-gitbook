@@ -31,5 +31,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@danielleamya](https://github.com/danielleamya)  
 **Created:** 2020 Oct 20 18:59:43 UTC  **Last updated:** 2020 Oct 20 18:59:51 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ] [ Delivery ] [ Service ]   

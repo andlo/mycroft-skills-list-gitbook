@@ -23,6 +23,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@MYesca](https://github.com/MYesca)  
 **Created:** 2019 Oct 05 20:36:46 UTC  **Last updated:** 2020 Feb 26 22:46:25 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Arts ] [ Restoration ] [ Vintage ]   
 **Tags:** \#Printer \#Ascii   

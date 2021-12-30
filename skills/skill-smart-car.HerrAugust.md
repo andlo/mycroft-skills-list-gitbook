@@ -18,6 +18,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@HerrAugust](https://github.com/HerrAugust)  
 **Created:** 2019 Nov 08 13:20:35 UTC  **Last updated:** 2019 Dec 20 09:10:55 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#iot \#smart-car \#mycroft   

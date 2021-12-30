@@ -30,6 +30,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@TheCis](https://github.com/TheCis)  
 **Created:** 2019 Jul 30 08:04:15 UTC  **Last updated:** 2019 Jul 30 08:04:22 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Productivity ]   
 **Tags:** \#Body \#parts \#Sport \#Workout   

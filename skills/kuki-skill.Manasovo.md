@@ -42,6 +42,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@Manasovo](https://github.com/Manasovo)  
 **Created:** 2020 Mar 30 14:35:20 UTC  **Last updated:** 2020 Apr 29 10:38:51 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Media ]   
 **Tags:** \#TV \#Television \#IPTV \#Streaming \#Kuki \#Mycroft   

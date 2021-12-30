@@ -31,5 +31,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@ITISEnricoFermi](https://github.com/ITISEnricoFermi)  
 **Created:** 2018 Jun 11 09:41:42 UTC  **Last updated:** 2018 Jun 22 15:25:44 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

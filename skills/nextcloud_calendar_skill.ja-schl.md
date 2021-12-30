@@ -28,6 +28,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@ja-schl](https://github.com/ja-schl)  
 **Created:** 2020 Jun 29 12:47:22 UTC  **Last updated:** 2020 Aug 10 09:32:24 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Information ] [ Productivity ]   
 **Tags:** \#Nextcloud \#Calendar \#Caldav   

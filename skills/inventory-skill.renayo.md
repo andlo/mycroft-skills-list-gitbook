@@ -34,5 +34,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@renayo](https://github.com/renayo)  
 **Created:** 2020 Aug 29 21:21:21 UTC  **Last updated:** 2020 Sep 03 11:53:14 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ]   

@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@INsiteLabDev](https://github.com/INsiteLabDev)  
 **Created:** 2020 Apr 28 19:42:22 UTC  **Last updated:** 2020 Apr 28 19:42:29 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Entertainment ] [ Information ]   
 **Tags:** \#Name   

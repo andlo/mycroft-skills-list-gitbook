@@ -24,5 +24,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@HotcakesSanderson](https://github.com/HotcakesSanderson)  
 **Created:** 2019 Mar 23 15:21:27 UTC  **Last updated:** 2020 Apr 15 19:27:10 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

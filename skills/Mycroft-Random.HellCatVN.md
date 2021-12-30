@@ -29,5 +29,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@HellCatVN](https://github.com/HellCatVN)  
 **Created:** 2018 May 15 04:18:31 UTC  **Last updated:** 2018 May 15 04:34:27 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

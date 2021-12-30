@@ -24,5 +24,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@george-ai](https://github.com/george-ai)  
 **Created:** 2017 May 13 08:20:17 UTC  **Last updated:** 2017 May 13 08:28:29 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

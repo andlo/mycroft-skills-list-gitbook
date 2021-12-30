@@ -114,6 +114,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@richhowley](https://github.com/richhowley)  
 **Created:** 2019 Jul 16 01:18:28 UTC  **Last updated:** 2020 Feb 15 21:07:13 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1108 ] [ new ] [ waiting ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1108 ] [ waiting ] [ new ]  
 **Categories:** [ Transport ]   
 **Tags:** \#MBTA,Boston   

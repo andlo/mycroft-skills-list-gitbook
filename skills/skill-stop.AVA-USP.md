@@ -36,6 +36,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AVA-USP](https://github.com/AVA-USP)  
 **Created:** 2020 Apr 02 22:26:36 UTC  **Last updated:** 2020 Jul 02 22:59:50 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#system   

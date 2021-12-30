@@ -36,6 +36,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@backassward](https://github.com/backassward)  
 **Created:** 2018 Jun 28 20:08:49 UTC  **Last updated:** 2018 Jun 28 22:44:45 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   
 **Tags:** \#[JamesPoole](https://github.com/JamesPoole/) \#from \#whose \#[podcast-skill](https://github.com/JamesPoole/podcast-skill) \#brilliant \#skill \#I \#inherited \#many \#ideas.   

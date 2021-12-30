@@ -25,5 +25,5 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 **Owner:** [@MajesticMagician](https://github.com/MajesticMagician)  
 **Created:** 2019 Jul 27 17:36:40 UTC  **Last updated:** 2019 Jul 28 03:26:53 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

@@ -57,6 +57,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@kalyaninagaraj](https://github.com/kalyaninagaraj)  
 **Created:** 2019 Dec 09 16:34:56 UTC  **Last updated:** 2019 Dec 27 14:13:06 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Information ]   
 **Tags:** \#Air \#quality \#Pollutant \#level \#Mycroft \#AI   

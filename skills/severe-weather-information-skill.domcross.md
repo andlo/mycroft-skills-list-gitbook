@@ -43,6 +43,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@domcross](https://github.com/domcross)  
 **Created:** 2019 Jul 28 12:05:26 UTC  **Last updated:** 2020 Oct 21 17:59:51 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Essentials ] [ Information ] [ Weather ]   
 **Tags:** \#Weather \#alert \#Severe \#weather   

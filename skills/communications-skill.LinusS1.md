@@ -61,6 +61,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@LinusS1](https://github.com/LinusS1)  
 **Created:** 2018 Dec 25 01:28:55 UTC  **Last updated:** 2020 May 16 21:25:38 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Entertainment ] [ Information ] [ IoT ] [ Media ] [ Productivity ]   
 **Tags:** \#intercom \#intercoms \#communication \#communications \#broadcast \#broadcasting \#connect \#devices \#video \#calling \#call   

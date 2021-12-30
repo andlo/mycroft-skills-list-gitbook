@@ -25,5 +25,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@TREE-Ind](https://github.com/TREE-Ind)  
 **Created:** 2017 Jul 31 22:53:21 UTC  **Last updated:** 2017 Jul 31 22:53:54 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

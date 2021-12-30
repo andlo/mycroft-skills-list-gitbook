@@ -42,6 +42,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@andlo](https://github.com/andlo)  
 **Created:** 2020 Jan 02 12:42:23 UTC  **Last updated:** 2020 Feb 17 16:52:38 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1157 ] [ needs validation ] [ new ]  
+**Market status:** [Pending Market](https://market.mycroft.ai/skill/) [ PR-1157 ] [ new ] [ needs validation ]  
 **Categories:** [ Productivity ] [ Configuration ]   
 **Tags:** \#Ssh \#Shell \#Terminal \#Cli-client   

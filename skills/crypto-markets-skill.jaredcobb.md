@@ -25,6 +25,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@jaredcobb](https://github.com/jaredcobb)  
 **Created:** 2019 Oct 24 20:47:53 UTC  **Last updated:** 2020 Feb 13 15:33:54 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Information ]   
 **Tags:** \#Crypto \#Cryptocurrency \#Bitcoin \#Btc \#Eth \#Ether   

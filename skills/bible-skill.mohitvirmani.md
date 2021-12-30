@@ -22,6 +22,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@mohitvirmani](https://github.com/mohitvirmani)  
 **Created:** 2020 May 15 07:37:11 UTC  **Last updated:** 2020 May 15 07:37:20 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ & ] [ Music ] [ Audio ] [ Daily ]   
 **Tags:** \#Bible \#Bible \#reading \#Siri \#bible   

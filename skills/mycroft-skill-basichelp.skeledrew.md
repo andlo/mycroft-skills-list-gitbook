@@ -18,5 +18,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@skeledrew](https://github.com/skeledrew)  
 **Created:** 2017 Sep 22 18:22:49 UTC  **Last updated:** 2018 May 18 10:08:20 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

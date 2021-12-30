@@ -24,5 +24,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@umglurf](https://github.com/umglurf)  
 **Created:** 2019 Nov 17 16:36:41 UTC  **Last updated:** 2020 Jan 05 07:34:33 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Transport ]   

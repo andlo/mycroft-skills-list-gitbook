@@ -30,5 +30,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@00tiagopolicarpo00](https://github.com/00tiagopolicarpo00)  
 **Created:** 2017 Sep 03 19:35:38 UTC  **Last updated:** 2018 Jun 07 02:00:02 UTC  
 **License:** GNU Lesser General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

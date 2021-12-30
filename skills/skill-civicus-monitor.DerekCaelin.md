@@ -28,5 +28,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@DerekCaelin](https://github.com/DerekCaelin)  
 **Created:** 2018 Apr 08 02:00:16 UTC  **Last updated:** 2020 Apr 17 13:20:57 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

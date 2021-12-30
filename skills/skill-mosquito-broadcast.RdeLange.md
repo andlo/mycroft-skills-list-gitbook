@@ -74,5 +74,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@RdeLange](https://github.com/RdeLange)  
 **Created:** 2018 May 23 21:32:47 UTC  **Last updated:** 2020 Jan 23 22:50:38 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

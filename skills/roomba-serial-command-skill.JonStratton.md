@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@JonStratton](https://github.com/JonStratton)  
 **Created:** 2019 Jan 13 22:45:51 UTC  **Last updated:** 2019 Jan 22 01:15:10 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ IoT ]   
 **Tags:** \#roomba   

@@ -33,5 +33,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@Extarys](https://github.com/Extarys)  
 **Created:** 2019 Jul 27 20:28:37 UTC  **Last updated:** 2019 Jul 28 17:22:17 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Productivity ] [ Information, ]   

@@ -18,6 +18,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@smilesmiley](https://github.com/smilesmiley)  
 **Created:** 2020 Jul 09 14:02:08 UTC  **Last updated:** 2020 Sep 19 12:14:49 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   
 **Tags:** \#```` \#bash \#stop-mycroft.sh \#all \#msm \#update \#mycroft-skill-addon.justfaked \#msm \#remove \#mycroft-hello-world.mycroft \#cd \#mycroft/skills/mycroft_skill/ \#rm \#mycroft_skill.py \#cd \#../../client/speech/ \#rm \#listener.py \#rm \#mic.py \#cd \#../../../ \#cp \#skills/mycroft-skill-addon.justfaked/mycroft_skill.py \#mycroft/skills/mycroft_skill/ \#cp \#skills/mycroft-skill-addon.justfaked/mic.py \#mycroft/client/speech/ \#cp \#skills/mycroft-skill-addon.justfaked/listener.py \#mycroft/client/speech/ \#bash \#start-mycroft.sh \#all \#bash \#start-mycroft.sh \#cli \#```` \#This \#script \#keeps \#the \#survey \#functionality \#up-to-date \#and \#removes \#conflicting \#files. \#It \#replaces \#initial \#mycroft-files \#with \#custom \#files, \#that \#are \#needed \#for \#the \#survey \#functionality.   

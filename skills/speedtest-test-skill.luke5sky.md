@@ -29,6 +29,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@luke5sky](https://github.com/luke5sky)  
 **Created:** 2019 Jan 04 11:58:29 UTC  **Last updated:** 2019 Jan 04 14:28:10 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ Information ] [ IoT ] [ Productivity ]   
 **Tags:** \#ínternet \#speed \#bandwith   

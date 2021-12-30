@@ -18,6 +18,7 @@ The skill utilizes the excellent Frotz (http://frotz.sourceforge.net/) Z-Machine
  ![Mark I](../.gitbook/assets/mark-1-icon.png)  ![Mark II](../.gitbook/assets/mark-2-icon.png)  ![Picroft](../.gitbook/assets/picroft-icon.png)  ![plasmoid](../.gitbook/assets/kde.png)   
 ### Examples:  
 > Play zork.  
+> Go to the white house.  
 > Quit zork.  
 > Open mailbox.  
   

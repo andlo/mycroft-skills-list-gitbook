@@ -30,6 +30,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@humairan](https://github.com/humairan)  
 **Created:** 2020 Sep 03 22:49:15 UTC  **Last updated:** 2020 Sep 11 02:13:26 UTC  
 **License:** Apache License 2.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ] [ Daily ]   
 **Tags:** \#Audio \#Speech \#rate \#Rate   

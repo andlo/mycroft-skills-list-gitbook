@@ -25,5 +25,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@eClarity](https://github.com/eClarity)  
 **Created:** 2017 Jul 11 20:08:03 UTC  **Last updated:** 2020 Apr 08 15:11:15 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

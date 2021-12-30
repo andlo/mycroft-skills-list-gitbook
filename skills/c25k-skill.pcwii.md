@@ -38,6 +38,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@pcwii](https://github.com/pcwii)  
 **Created:** 2020 Jan 23 20:44:46 UTC  **Last updated:** 2020 May 12 20:14:31 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Fitness ]   
 **Tags:** \#C25K \#fitness \#running \#workout   

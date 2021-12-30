@@ -25,5 +25,5 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 **Owner:** [@clebio](https://github.com/clebio)  
 **Created:** 2018 Jun 11 01:13:24 UTC  **Last updated:** 2018 Jun 11 01:21:02 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

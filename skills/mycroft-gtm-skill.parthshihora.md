@@ -26,5 +26,5 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@parthshihora](https://github.com/parthshihora)  
 **Created:** 2018 Sep 27 17:49:36 UTC  **Last updated:** 2019 Jan 22 00:10:35 UTC  
 **License:** Other  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

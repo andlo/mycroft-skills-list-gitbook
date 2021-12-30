@@ -26,5 +26,5 @@ This skill Did not pass the Abstract Syntax Trees testing. Skill properly do not
 **Owner:** [@Siltstorm](https://github.com/Siltstorm)  
 **Created:** 2018 May 16 05:01:49 UTC  **Last updated:** 2018 May 17 04:52:18 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

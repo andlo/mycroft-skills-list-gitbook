@@ -31,6 +31,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@AIIX](https://github.com/AIIX)  
 **Created:** 2020 Jul 03 09:20:57 UTC  **Last updated:** 2020 Oct 16 12:55:57 UTC  
 **License:** GNU General Public License v3.0  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Media ]   
 **Tags:** \#Pixabay \#Images \#Video \#VideoStreaming \#ImageGallery \#Media \#GUI   

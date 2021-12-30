@@ -38,5 +38,5 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@ethanaward](https://github.com/ethanaward)  
 **Created:** 2017 Jan 08 18:40:39 UTC  **Last updated:** 2018 Oct 17 13:32:47 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ uncategorized ]   

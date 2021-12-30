@@ -25,6 +25,6 @@ This skill is not aproved by Mycroft skill tester.
 **Owner:** [@alexisdiaz008](https://github.com/alexisdiaz008)  
 **Created:** 2020 Apr 09 03:11:35 UTC  **Last updated:** 2020 Apr 10 19:46:34 UTC  
 **License:** MIT License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Configuration ]   
 **Tags:** \#Screen \#wake \#sleep \#word   

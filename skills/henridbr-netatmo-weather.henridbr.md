@@ -31,6 +31,6 @@ This skill dosnt have any license attatched. It is not adviasable to use this sk
 **Owner:** [@henridbr](https://github.com/henridbr)  
 **Created:** 2018 Nov 05 17:48:01 UTC  **Last updated:** 2020 May 26 20:35:19 UTC  
 **License:** No License  
-**Market status:** [Not in Market](https://market.mycroft.ai/skill/)  
+  
 **Categories:** [ Daily ] [ IoT ]   
 **Tags:** \#Netatmo \#Weather \#Picroft   
